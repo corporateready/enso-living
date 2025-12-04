@@ -1,0 +1,15 @@
+/* [project]/app/components/desktop-white-section/styles.module.scss.module.css [app-client] (css) */
+.styles-module-scss-module__4t1Bka__section {
+  background-color: #faf9f8;
+  width: 100%;
+  height: auto;
+  display: none;
+}
+
+@media (min-width: 40rem) {
+  .styles-module-scss-module__4t1Bka__section {
+    display: block;
+  }
+}
+
+/*# sourceMappingURL=app_components_desktop-white-section_styles_module_scss_module_css_bad6b30c._.single.css.map*/

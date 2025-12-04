@@ -1,0 +1,50 @@
+@reference "tailwindcss";
+
+.section {
+    @apply w-full h-auto relative z-0;
+}
+.wrapper {
+    @apply w-full h-full flex justify-end;
+}
+.inner {
+    @apply w-[1340rem] h-full pt-[198rem] mr-0 pr-[104rem] pb-[200rem];
+}
+.rightside__line {
+@apply w-[340rem] h-auto bg-[#fff];
+}
+.inner__image {
+    @apply inline-block w-[1240rem] h-[400rem] mt-[26rem] relative z-0;
+}
+.head__content{
+    @apply flex justify-between; 
+}
+.title__text {
+    @apply text-white text-[60rem] leading-[100%];
+}
+.description__text {
+    @apply text-white text-[26rem] leading-[118%] mt-[28rem] mr-[116rem];
+}
+.content {
+    @apply flex flex-col mt-[10rem];
+}
+.rightside__image {
+    @apply w-[334rem] h-[334rem] relative top-0 left-[16rem] -translate-0 z-1 mt-[172rem] mx-auto;
+}
+// <===== items =====>
+.inner__list_item__up {
+    @apply flex items-center gap-[534rem] w-full h-[130rem] border-b-[1rem] border-[#5A4C45] pt-[45rem] pb-[8rem] overflow-y-hidden;
+
+    .item__text {
+    @apply text-[26rem] text-white leading-[118%] mt-[15rem];
+}
+}
+.inner__list_item__down {
+    @apply flex items-center gap-[366rem] w-full h-[130rem] border-b-[1rem] border-[#5A4C45] pt-[45rem] pb-[8rem] pl-[190rem] overflow-y-hidden;
+
+    .item__text {
+    @apply text-[26rem] text-white leading-[116%] mt-[-20rem];
+}
+}
+.item__number {
+    @apply text-[160rem] text-white leading-[100%];
+}

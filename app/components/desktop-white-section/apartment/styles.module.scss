@@ -1,0 +1,41 @@
+@reference "tailwindcss";
+
+.section {
+    @apply w-full h-auto relative z-0;
+}
+.wrapper {
+    @apply w-full h-full flex justify-end gap-[106rem];
+    flex-direction: row-reverse
+}
+.inner {
+    @apply w-[1278rem] h-full flex gap-[28rem] pt-[208rem] mr-0 pb-[148rem];
+}
+.rightside__line {
+@apply w-[340rem] h-auto bg-[#8A9B84];
+}
+.inner__header {
+    @apply flex justify-start gap-[20rem];
+}
+.inner__image {
+    @apply inline-block w-[878rem] h-[740rem] relative z-0;
+}
+.head__content{
+    @apply flex flex-col; 
+}
+.title__text {
+    @apply text-black text-[60rem] leading-[100%] mt-[-8rem];
+}
+.description__text {
+    @apply text-black text-[26rem] leading-[118%] mt-[15rem] pl-[4rem];
+}
+.rightside__image {
+    @apply w-[284rem] h-[294rem] relative top-0 left-[-6rem] -translate-0 z-1 mt-[174rem] mx-auto;
+}
+.offer__btn {
+    @apply w-[400rem] h-[80rem] text-white text-[26rem] leading-[100%] flex justify-end items-center gap-[50rem] rounded-full pr-[10rem] mt-[410rem];
+    background: linear-gradient(90deg,rgba(78, 78, 100, 0.9) 0%, rgba(177, 119, 98, 0.9) 80%);
+    .span__text {
+        @apply text-end;
+    }
+
+}

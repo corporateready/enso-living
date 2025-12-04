@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/app/components/bistro/styles.module.scss"],"sourcesContent":["@reference \"tailwindcss\";\n\n.premium {\n    @apply block w-full h-auto relative z-0 bg-[#463C37] sm:hidden;\n}\n.premium__header_inner {\n    @apply flex justify-start px-[19rem] gap-[16rem] pt-[118rem];\n}\n.premium__title_image {\n    @apply inline-block w-[95rem] h-[106rem];\n}\n.premium__title_content{\n    @apply flex flex-col gap-[11rem] ml-[-8rem]; \n}\n.premium__title_text {\n    @apply text-white text-[30rem] leading-[100%];\n}\n.premium__title_description {\n    @apply text-white text-[12rem] leading-[125%];\n}\n.premium__content {\n    @apply px-[25rem] flex flex-col;\n}\n.premium__inner_image {\n    @apply w-[380rem] h-[500rem] mt-[14rem] relative z-1;\n\n    .box__dekor {\n        @apply inline-flex justify-center items-center gap-[10rem] absolute bottom-0 left-0 z-2 text-[12rem] text-white w-[285rem] h-[35rem];\n        background: linear-gradient(90deg,rgba(78, 78, 100, 1) 0%, rgba(177, 119, 98, 1) 80%);\n    }\n}"],"names":[],"mappings":"AAAA;;;;;;;;;AAAA;EAAA;;;;;AAAA;;;;;;;;AAAA;;;;;;AAAA;;;;;;;AAAA;;;;;;;AAAA;;;;;;;AAAA;;;;;;AAAA;;;;;;;;AAAA;;;;;;;;;;;;;;;;AAAA"}}]
+}

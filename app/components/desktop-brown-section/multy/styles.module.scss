@@ -1,0 +1,55 @@
+@reference "tailwindcss";
+
+.section {
+    @apply w-full h-auto relative z-0;
+}
+.wrapper {
+    @apply w-full h-full flex justify-end;
+}
+.inner {
+    @apply w-[1340rem] h-full pt-[198rem] mr-0 pr-[104rem];
+}
+.rightside__line {
+@apply w-[340rem] h-auto bg-[#fff];
+}
+.inner__image {
+    @apply inline-block w-full h-[600rem] mt-[30rem] relative z-0;
+}
+.head__content{
+    @apply flex justify-between; 
+}
+.title__text {
+    @apply text-white text-[60rem] leading-[100%];
+}
+.description__text {
+    @apply text-white text-[26rem] leading-[118%] mt-[26rem];
+}
+.content {
+    @apply flex flex-col mt-[30rem];
+}
+.rightside__image {
+    @apply w-[324rem] h-[288rem] relative top-0 left-[16rem] -translate-0 z-1 mt-[172rem] mx-auto;
+}
+// <===== items =====>
+.content__columns {
+    @apply w-full h-auto flex gap-[120rem];
+}
+.column__left {
+    @apply w-full h-auto;
+}
+.column__right {
+    @apply w-full h-auto;
+}
+.inner__list_item {
+    @apply flex gap-[78rem] w-full border-b-[1rem] border-[#5A4C45] pt-[45rem] pb-[8rem];
+}
+.item__text {
+    @apply text-[26rem] text-white leading-[100%];
+}
+.offer__btn {
+    @apply w-[455rem] h-[80rem] text-white text-[26rem] leading-[100%] flex justify-end items-center gap-[20rem] rounded-full pr-[10rem] bg-[#667761] mt-[26rem];
+    .span__text {
+        @apply text-end;
+    }
+
+}

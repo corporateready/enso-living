@@ -1,0 +1,24 @@
+[00:00:02.119] Server  LOG      ✓ Ready in 1695ms
+[00:00:13.759] Server  LOG      ○ Compiling / ...
+[00:01:15.911] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:15.911] Browser WARN    Image with src "/platinum-inner.avif" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:15.911] Browser WARN    Image with src "/platinum-title.avif" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:15.911] Browser WARN    Image with src "/multy-title.avif" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:15.911] Browser WARN    Image with src "/comercial-inner.avif" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:15.911] Browser WARN    Image with src "/comercial-title.avif" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:15.911] Browser WARN    Image with src "/bistro-title.avif" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:15.911] Browser WARN    Image with src "/facility-title.avif" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:15.912] Browser WARN    Image with src "/penthouse-title.avif" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:15.912] Browser WARN    Image with src "/duplex-title.avif" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:15.912] Browser WARN    Image with src "/apartment-title.avif" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:15.912] Browser WARN    Image with src "/multy-inner.avif" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:15.912] Browser WARN    Image with src "/bistro-inner.avif" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:15.912] Browser WARN    Image with src "/facility-inner.avif" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:16.258] Browser WARN    Image with src "/landmark-inner.avif" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:16.258] Browser WARN    Image with src "/penthouse-inner.avif" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:16.258] Browser WARN    Image with src "/duplex-inner.avif" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:16.258] Browser WARN    Image with src "/apartment-inner.avif" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:16.258] Browser WARN    Image with src "/landscape-slide.avif" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:16.258] Browser WARN    Image with src "/slider-navigate.avif" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:16.258] Browser WARN    Image with src "/location-inner.avif" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:16.258] Browser WARN    Image with src "/desktop-location.avif" has "fill" and parent element with invalid "position". Provided "static" should be one of absolute,fixed,relative.

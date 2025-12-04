@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/app/components/landmark/styles.module.scss"],"sourcesContent":["@reference \"tailwindcss\";\n\n.premium {\n    @apply block w-full h-auto relative z-0 bg-[#463C37] pt-[120rem] sm:hidden;\n}\n.premium__inner_image {\n    @apply w-full h-[740rem] relative z-1 overflow-hidden;\n}\n.top__text {\n    @apply absolute top-[-8rem] left-0 z-1 text-[58rem] text-white leading-[100%] uppercase;\n}\n.bottom__text {\n    @apply absolute bottom-0 left-0 z-1 text-[58rem] text-white leading-[90%] uppercase;\n    width: max-content;\n}\n.text__1 {\n    @apply ml-[24rem];\n}\n.text__2 {\n    @apply ml-[90rem];\n    letter-spacing: -1rem\n}\n.text__3 {\n    @apply ml-[-18rem];\n}\n.text__4 {\n    @apply ml-[110rem];\n    letter-spacing: 0.8rem\n}\n.text__5 {\n    @apply inline-block w-full text-center;\n}"],"names":[],"mappings":"AAAA;;;;;;;;;;AAAA;EAAA;;;;;AAAA;;;;;;;;AAAA;;;;;;;;;;;;AAAA;;;;;;;;;;;;;AAAA;;;;AAAA;;;;;AAAA;;;;AAAA;;;;;AAAA;;;;;;AAAA"}}]
+}

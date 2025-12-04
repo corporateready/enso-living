@@ -1,0 +1,96 @@
+/* [project]/app/components/apartment/styles.module.scss.module.css [app-client] (css) */
+.styles-module-scss-module__qyQ8HG__premium {
+  z-index: 0;
+  background-color: var(--color-white, #fff);
+  width: 100%;
+  height: auto;
+  display: block;
+  position: relative;
+}
+
+@media (min-width: 40rem) {
+  .styles-module-scss-module__qyQ8HG__premium {
+    display: none;
+  }
+}
+
+.styles-module-scss-module__qyQ8HG__premium__header_inner {
+  padding-inline: 8rem;
+  justify-content: flex-start;
+  gap: 17rem;
+  padding-top: 102rem;
+  display: flex;
+}
+
+.styles-module-scss-module__qyQ8HG__premium__title_image {
+  z-index: 1;
+  align-self: flex-end;
+  width: 110rem;
+  height: 105rem;
+  margin-bottom: -6rem;
+  display: inline-flex;
+  position: relative;
+}
+
+.styles-module-scss-module__qyQ8HG__premium__title_content {
+  flex-direction: column;
+  gap: 11rem;
+  margin-left: -8rem;
+  display: flex;
+}
+
+.styles-module-scss-module__qyQ8HG__premium__title_text {
+  --tw-leading: 100%;
+  color: var(--color-black, #000);
+  font-size: 30rem;
+  line-height: 100%;
+}
+
+.styles-module-scss-module__qyQ8HG__premium__title_description {
+  --tw-leading: 125%;
+  color: var(--color-black, #000);
+  font-size: 12rem;
+  line-height: 125%;
+}
+
+.styles-module-scss-module__qyQ8HG__premium__content {
+  flex-direction: column;
+  padding-inline: 25rem;
+  display: flex;
+}
+
+.styles-module-scss-module__qyQ8HG__premium__inner_image {
+  z-index: 1;
+  width: 380rem;
+  height: 500rem;
+  margin-top: 19rem;
+  position: relative;
+}
+
+.styles-module-scss-module__qyQ8HG__hero__btn {
+  --tw-leading: 100%;
+  width: 382rem;
+  height: 68rem;
+  color: var(--color-white, #fff);
+  background: linear-gradient(90deg, #4e4e64 0%, #b17762 80%);
+  border-radius: 3.40282e38px;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 37rem;
+  margin-top: 20rem;
+  padding-right: 8rem;
+  font-size: 20rem;
+  line-height: 100%;
+  display: flex;
+}
+
+.styles-module-scss-module__qyQ8HG__hero__btn .styles-module-scss-module__qyQ8HG__span__text {
+  text-align: end;
+}
+
+@property --tw-leading {
+  syntax: "*";
+  inherits: false
+}
+
+/*# sourceMappingURL=app_components_apartment_styles_module_scss_module_css_bad6b30c._.single.css.map*/

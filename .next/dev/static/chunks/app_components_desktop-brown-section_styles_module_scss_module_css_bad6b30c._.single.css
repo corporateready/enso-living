@@ -1,0 +1,15 @@
+/* [project]/app/components/desktop-brown-section/styles.module.scss.module.css [app-client] (css) */
+.styles-module-scss-module__kHc_uW__section {
+  background-color: #463c37;
+  width: 100%;
+  height: auto;
+  display: none;
+}
+
+@media (min-width: 40rem) {
+  .styles-module-scss-module__kHc_uW__section {
+    display: block;
+  }
+}
+
+/*# sourceMappingURL=app_components_desktop-brown-section_styles_module_scss_module_css_bad6b30c._.single.css.map*/

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/app/components/desktop-white-section/styles.module.scss"],"sourcesContent":["@reference \"tailwindcss\";\n.section {\n    @apply hidden sm:block w-full h-auto bg-[#FAF9F8];\n}"],"names":[],"mappings":"AAAA;;;;;;;AAAA;EAAA"}}]
+}

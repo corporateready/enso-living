@@ -1,0 +1,28 @@
+{
+  "name": "enso-living",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "init": "^0.1.2",
+    "motion": "^12.23.25",
+    "next": "16.0.5",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "sass": "^1.94.2",
+    "shadcn": "^3.5.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "baseline-browser-mapping": "^2.8.32",
+    "eslint": "^9",
+    "eslint-config-next": "16.0.5",
+    "react-responsive": "^10.0.1",
+    "tailwindcss": "^4"
+  }
+}

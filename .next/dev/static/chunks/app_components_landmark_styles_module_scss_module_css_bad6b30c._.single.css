@@ -1,0 +1,80 @@
+/* [project]/app/components/landmark/styles.module.scss.module.css [app-client] (css) */
+.styles-module-scss-module__FG0Bna__premium {
+  z-index: 0;
+  background-color: #463c37;
+  width: 100%;
+  height: auto;
+  padding-top: 120rem;
+  display: block;
+  position: relative;
+}
+
+@media (min-width: 40rem) {
+  .styles-module-scss-module__FG0Bna__premium {
+    display: none;
+  }
+}
+
+.styles-module-scss-module__FG0Bna__premium__inner_image {
+  z-index: 1;
+  width: 100%;
+  height: 740rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.styles-module-scss-module__FG0Bna__top__text {
+  top: -8rem;
+  left: calc(var(--spacing, .25rem) * 0);
+  z-index: 1;
+  --tw-leading: 100%;
+  color: var(--color-white, #fff);
+  text-transform: uppercase;
+  font-size: 58rem;
+  line-height: 100%;
+  position: absolute;
+}
+
+.styles-module-scss-module__FG0Bna__bottom__text {
+  bottom: calc(var(--spacing, .25rem) * 0);
+  left: calc(var(--spacing, .25rem) * 0);
+  z-index: 1;
+  --tw-leading: 90%;
+  color: var(--color-white, #fff);
+  text-transform: uppercase;
+  width: max-content;
+  font-size: 58rem;
+  line-height: 90%;
+  position: absolute;
+}
+
+.styles-module-scss-module__FG0Bna__text__1 {
+  margin-left: 24rem;
+}
+
+.styles-module-scss-module__FG0Bna__text__2 {
+  letter-spacing: -1rem;
+  margin-left: 90rem;
+}
+
+.styles-module-scss-module__FG0Bna__text__3 {
+  margin-left: -18rem;
+}
+
+.styles-module-scss-module__FG0Bna__text__4 {
+  letter-spacing: .8rem;
+  margin-left: 110rem;
+}
+
+.styles-module-scss-module__FG0Bna__text__5 {
+  text-align: center;
+  width: 100%;
+  display: inline-block;
+}
+
+@property --tw-leading {
+  syntax: "*";
+  inherits: false
+}
+
+/*# sourceMappingURL=app_components_landmark_styles_module_scss_module_css_bad6b30c._.single.css.map*/

@@ -1,0 +1,87 @@
+/* [project]/app/components/bistro/styles.module.scss.module.css [app-client] (css) */
+.styles-module-scss-module__zH4gHq__premium {
+  z-index: 0;
+  background-color: #463c37;
+  width: 100%;
+  height: auto;
+  display: block;
+  position: relative;
+}
+
+@media (min-width: 40rem) {
+  .styles-module-scss-module__zH4gHq__premium {
+    display: none;
+  }
+}
+
+.styles-module-scss-module__zH4gHq__premium__header_inner {
+  padding-inline: 19rem;
+  justify-content: flex-start;
+  gap: 16rem;
+  padding-top: 118rem;
+  display: flex;
+}
+
+.styles-module-scss-module__zH4gHq__premium__title_image {
+  width: 95rem;
+  height: 106rem;
+  display: inline-block;
+}
+
+.styles-module-scss-module__zH4gHq__premium__title_content {
+  flex-direction: column;
+  gap: 11rem;
+  margin-left: -8rem;
+  display: flex;
+}
+
+.styles-module-scss-module__zH4gHq__premium__title_text {
+  --tw-leading: 100%;
+  color: var(--color-white, #fff);
+  font-size: 30rem;
+  line-height: 100%;
+}
+
+.styles-module-scss-module__zH4gHq__premium__title_description {
+  --tw-leading: 125%;
+  color: var(--color-white, #fff);
+  font-size: 12rem;
+  line-height: 125%;
+}
+
+.styles-module-scss-module__zH4gHq__premium__content {
+  flex-direction: column;
+  padding-inline: 25rem;
+  display: flex;
+}
+
+.styles-module-scss-module__zH4gHq__premium__inner_image {
+  z-index: 1;
+  width: 380rem;
+  height: 500rem;
+  margin-top: 14rem;
+  position: relative;
+}
+
+.styles-module-scss-module__zH4gHq__premium__inner_image .styles-module-scss-module__zH4gHq__box__dekor {
+  bottom: calc(var(--spacing, .25rem) * 0);
+  left: calc(var(--spacing, .25rem) * 0);
+  z-index: 2;
+  width: 285rem;
+  height: 35rem;
+  color: var(--color-white, #fff);
+  background: linear-gradient(90deg, #4e4e64 0%, #b17762 80%);
+  justify-content: center;
+  align-items: center;
+  gap: 10rem;
+  font-size: 12rem;
+  display: inline-flex;
+  position: absolute;
+}
+
+@property --tw-leading {
+  syntax: "*";
+  inherits: false
+}
+
+/*# sourceMappingURL=app_components_bistro_styles_module_scss_module_css_bad6b30c._.single.css.map*/

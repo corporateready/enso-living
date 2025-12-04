@@ -1,0 +1,104 @@
+/* [project]/app/components/landscape/styles.module.scss.module.css [app-client] (css) */
+.styles-module-scss-module__nx2aXW__premium {
+  z-index: 0;
+  background-color: var(--color-white, #fff);
+  width: 100%;
+  height: auto;
+  padding-top: 120rem;
+  display: block;
+  position: relative;
+}
+
+@media (min-width: 40rem) {
+  .styles-module-scss-module__nx2aXW__premium {
+    display: none;
+  }
+}
+
+.styles-module-scss-module__nx2aXW__premium__inner_slider {
+  z-index: 1;
+  width: 100%;
+  height: 700rem;
+  margin-top: 20rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.styles-module-scss-module__nx2aXW__slider__navigate {
+  z-index: 2;
+  --tw-translate-x: calc(calc(1 / 2 * 100%) * -1);
+  width: 68rem;
+  height: 68rem;
+  translate: var(--tw-translate-x) var(--tw-translate-y);
+  position: absolute;
+  bottom: 28rem;
+  left: 50%;
+}
+
+.styles-module-scss-module__nx2aXW__top__text_title {
+  --tw-leading: 100%;
+  color: var(--color-black, #000);
+  letter-spacing: -1.5rem;
+  padding-left: 25rem;
+  font-size: 30rem;
+  line-height: 100%;
+}
+
+.styles-module-scss-module__nx2aXW__top__text_subtitle {
+  text-align: left;
+  --tw-leading: 120%;
+  color: var(--color-black, #000);
+  justify-content: flex-end;
+  margin-top: 10rem;
+  padding-right: 45rem;
+  font-size: 12rem;
+  line-height: 120%;
+  display: flex;
+}
+
+.styles-module-scss-module__nx2aXW__bottom__text_title {
+  --tw-leading: 100%;
+  color: var(--color-black, #000);
+  letter-spacing: -1.5rem;
+  margin-top: 60rem;
+  padding-left: 25rem;
+  font-size: 30rem;
+  line-height: 100%;
+}
+
+.styles-module-scss-module__nx2aXW__bottom__text_subtitle {
+  text-align: left;
+  --tw-leading: 125%;
+  color: var(--color-black, #000);
+  justify-content: flex-end;
+  margin-top: 11rem;
+  padding-right: 28rem;
+  font-size: 12rem;
+  line-height: 125%;
+  display: flex;
+}
+
+@property --tw-translate-x {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-y {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-z {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-leading {
+  syntax: "*";
+  inherits: false
+}
+
+/*# sourceMappingURL=app_components_landscape_styles_module_scss_module_css_bad6b30c._.single.css.map*/

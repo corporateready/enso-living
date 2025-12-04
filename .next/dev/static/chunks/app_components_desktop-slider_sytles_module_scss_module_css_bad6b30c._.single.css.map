@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/app/components/desktop-slider/sytles.module.scss"],"sourcesContent":["@reference \"tailwindcss\";\n.section {\n    @apply w-full h-auto relative top-0 left-1/2 -translate-x-1/2 z-0 bg-white pb-[116rem];\n}\n.wrapper {\n    @apply w-full h-auto  flex justify-center relative z-0 mt-[50rem] bg-white ;\n}\n.slider__wrapper {\n    width: fit-content;\n    @apply h-auto;\n}\n.head__content {\n    @apply w-full mx-[auto];\n}\n.title {\n    @apply text-black text-[80rem] font-normal mt-[148rem] ml-[240rem] leading-[100%];\n    letter-spacing: -4rem;\n}\n.subtitle {\n    @apply text-black text-[80rem] font-normal mt-[20rem] leading-[100%] ml-[820rem];\n    letter-spacing: -4rem;\n\n    &__span {\n        @apply inline-block ml-[242rem];\n    }\n}\n.slider__wrapper {\n    @apply flex gap-[40rem];\n}\n.slide__item {\n    @apply relative z-0 w-[1440rem] h-[810rem];\n}"],"names":[],"mappings":"AAAA;;;;;;;;;;;;;AAAA;;;;;;;;;;;AAAA;;;;;AAAA;;;;;AAAA;;;;;;;;;;;;AAAA;;;;;;;;;;;;AAAA;;;;;AAAA;;;;;AAAA;;;;;;;AAAA;;;;;;AAAA;;;;;;AAAA;;;;;;AAAA;;;;;AAAA"}}]
+}

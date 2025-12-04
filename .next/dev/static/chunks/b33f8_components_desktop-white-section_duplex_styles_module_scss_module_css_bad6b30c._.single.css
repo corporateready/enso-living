@@ -1,0 +1,127 @@
+/* [project]/app/components/desktop-white-section/duplex/styles.module.scss.module.css [app-client] (css) */
+.styles-module-scss-module__Lgot7G__section {
+  z-index: 0;
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+
+.styles-module-scss-module__Lgot7G__wrapper {
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+  gap: 106rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+.styles-module-scss-module__Lgot7G__inner {
+  margin-right: calc(var(--spacing, .25rem) * 0);
+  gap: 24rem;
+  width: 1278rem;
+  height: 100%;
+  padding-top: 218rem;
+  display: flex;
+}
+
+.styles-module-scss-module__Lgot7G__rightside__line {
+  background-color: #fff;
+  width: 340rem;
+  height: auto;
+}
+
+.styles-module-scss-module__Lgot7G__inner__header {
+  justify-content: flex-start;
+  gap: 20rem;
+  display: flex;
+}
+
+.styles-module-scss-module__Lgot7G__inner__image {
+  z-index: 0;
+  width: 856rem;
+  height: 750rem;
+  display: inline-block;
+  position: relative;
+}
+
+.styles-module-scss-module__Lgot7G__head__content {
+  flex-direction: column;
+  display: flex;
+}
+
+.styles-module-scss-module__Lgot7G__title__text {
+  --tw-leading: 100%;
+  color: var(--color-black, #000);
+  margin-top: -8rem;
+  font-size: 60rem;
+  line-height: 100%;
+}
+
+.styles-module-scss-module__Lgot7G__description__text {
+  --tw-leading: 118%;
+  color: var(--color-black, #000);
+  margin-top: 15rem;
+  padding-left: 4rem;
+  font-size: 26rem;
+  line-height: 118%;
+}
+
+.styles-module-scss-module__Lgot7G__rightside__image {
+  top: calc(var(--spacing, .25rem) * 0);
+  z-index: 1;
+  margin-inline: auto;
+  --tw-translate-x: calc(var(--spacing, .25rem) * 0);
+  --tw-translate-y: calc(var(--spacing, .25rem) * 0);
+  width: 284rem;
+  height: 294rem;
+  translate: var(--tw-translate-x) var(--tw-translate-y);
+  margin-top: 185rem;
+  position: relative;
+  left: -6rem;
+}
+
+.styles-module-scss-module__Lgot7G__offer__btn {
+  --tw-leading: 100%;
+  width: 396rem;
+  height: 80rem;
+  color: var(--color-white, #fff);
+  background: linear-gradient(90deg, #4e4e64e6 0%, #b17762e6 80%);
+  border-radius: 3.40282e38px;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 88rem;
+  margin-top: 330rem;
+  padding-right: 10rem;
+  font-size: 26rem;
+  line-height: 100%;
+  display: flex;
+}
+
+.styles-module-scss-module__Lgot7G__offer__btn .styles-module-scss-module__Lgot7G__span__text {
+  text-align: end;
+}
+
+@property --tw-leading {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-translate-x {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-y {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-z {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+/*# sourceMappingURL=b33f8_components_desktop-white-section_duplex_styles_module_scss_module_css_bad6b30c._.single.css.map*/

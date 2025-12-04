@@ -1,0 +1,118 @@
+/* [project]/app/components/desktop-location/sytles.module.scss.module.css [app-client] (css) */
+.sytles-module-scss-module__C3TmUa__section {
+  z-index: 0;
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+
+.sytles-module-scss-module__C3TmUa__head__content {
+  top: calc(var(--spacing, .25rem) * 0);
+  left: calc(var(--spacing, .25rem) * 0);
+  z-index: 1;
+  width: 100%;
+  margin-inline: auto;
+  position: absolute;
+}
+
+.sytles-module-scss-module__C3TmUa__head__subcontent {
+  top: 100rem;
+  left: calc(var(--spacing, .25rem) * 0);
+  z-index: 1;
+  width: 100%;
+  margin-inline: auto;
+  position: absolute;
+}
+
+.sytles-module-scss-module__C3TmUa__head__title {
+  --tw-leading: 100%;
+  --tw-font-weight: var(--font-weight-normal, 400);
+  font-size: 80rem;
+  line-height: 100%;
+  font-weight: var(--font-weight-normal, 400);
+  color: var(--color-black, #000);
+  letter-spacing: -4rem;
+  margin-top: 148rem;
+  margin-left: 240rem;
+}
+
+.sytles-module-scss-module__C3TmUa__head__subtitle {
+  --tw-leading: 100%;
+  --tw-font-weight: var(--font-weight-normal, 400);
+  font-size: 80rem;
+  line-height: 100%;
+  font-weight: var(--font-weight-normal, 400);
+  color: var(--color-black, #000);
+  letter-spacing: -4rem;
+  margin-top: -2rem;
+  margin-left: 1156rem;
+}
+
+.sytles-module-scss-module__C3TmUa__head__subcontent_text {
+  --tw-leading: 120%;
+  --tw-font-weight: var(--font-weight-normal, 400);
+  font-size: 26rem;
+  line-height: 120%;
+  font-weight: var(--font-weight-normal, 400);
+  color: var(--color-black, #000);
+  letter-spacing: 0;
+  margin-top: 22rem;
+  margin-left: 1156rem;
+}
+
+.sytles-module-scss-module__C3TmUa__offer__btn {
+  z-index: 2;
+  --tw-translate-x: calc(var(--spacing, .25rem) * 0);
+  --tw-translate-y: calc(var(--spacing, .25rem) * 0);
+  width: 435rem;
+  height: 80rem;
+  translate: var(--tw-translate-x) var(--tw-translate-y);
+  --tw-leading: 100%;
+  color: var(--color-white, #fff);
+  background: linear-gradient(90deg, #4e4e64e6 0%, #b17762e6 80%);
+  border-radius: 3.40282e38px;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 20rem;
+  padding-right: 10rem;
+  font-size: 26rem;
+  line-height: 100%;
+  display: flex;
+  position: absolute;
+  top: 330rem;
+  left: 242rem;
+}
+
+.sytles-module-scss-module__C3TmUa__offer__btn .sytles-module-scss-module__C3TmUa__span__text {
+  text-align: end;
+}
+
+@property --tw-leading {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-font-weight {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-translate-x {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-y {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-z {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+/*# sourceMappingURL=app_components_desktop-location_sytles_module_scss_module_css_bad6b30c._.single.css.map*/

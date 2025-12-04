@@ -1,0 +1,264 @@
+/* [project]/app/components/hero/hero.module.scss.module.css [app-client] (css) */
+.hero-module-scss-module__wa_LHq__hero {
+  z-index: 0;
+  width: 100%;
+  height: 802rem;
+  position: relative;
+}
+
+@media screen and (min-width: 640px) {
+  .hero-module-scss-module__wa_LHq__hero {
+    height: 1050rem;
+  }
+}
+
+.hero-module-scss-module__wa_LHq__header {
+  top: calc(var(--spacing, .25rem) * 0);
+  left: calc(var(--spacing, .25rem) * 0);
+  z-index: 3;
+  width: 100%;
+  height: auto;
+  position: absolute;
+}
+
+.hero-module-scss-module__wa_LHq__inner {
+  justify-content: space-between;
+  width: 100%;
+  padding: 24rem;
+  display: flex;
+}
+
+@media screen and (min-width: 640px) {
+  .hero-module-scss-module__wa_LHq__inner {
+    width: 1444rem;
+    padding: calc(var(--spacing, .25rem) * 0);
+    margin-inline: auto;
+    padding-top: 50rem;
+  }
+}
+
+.hero-module-scss-module__wa_LHq__logo {
+  object-fit: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 117rem;
+  height: 44rem;
+}
+
+@media screen and (min-width: 640px) {
+  .hero-module-scss-module__wa_LHq__logo {
+    width: 120rem;
+  }
+}
+
+.hero-module-scss-module__wa_LHq__title {
+  z-index: 2;
+  --tw-leading: 90%;
+  --tw-font-weight: var(--font-weight-normal, 400);
+  width: fit-content;
+  font-size: 66rem;
+  line-height: 90%;
+  font-weight: var(--font-weight-normal, 400);
+  color: var(--color-white, #fff);
+  text-transform: uppercase;
+  letter-spacing: -3rem;
+  flex-direction: column;
+  display: flex;
+  position: absolute;
+  top: 112rem;
+  left: 18rem;
+}
+
+@media screen and (min-width: 640px) {
+  .hero-module-scss-module__wa_LHq__title {
+    z-index: 1;
+    --tw-tracking: var(--tracking-tighter, -.05em);
+    letter-spacing: var(--tracking-tighter, -.05em);
+    font-size: 160rem;
+    position: absolute;
+    top: 168rem;
+    left: 100rem;
+  }
+}
+
+.hero-module-scss-module__wa_LHq__hero__text_decor {
+  z-index: 3;
+  --tw-translate-x: calc(var(--spacing, .25rem) * 0);
+  --tw-translate-y: calc(var(--spacing, .25rem) * 0);
+  translate: var(--tw-translate-x) var(--tw-translate-y);
+  --tw-leading: 120%;
+  color: #fff9;
+  font-size: 19rem;
+  line-height: 120%;
+  position: absolute;
+  top: 120rem;
+  right: 22rem;
+}
+
+@supports (color: color-mix(in lab, red, red)) {
+  .hero-module-scss-module__wa_LHq__hero__text_decor {
+    color: color-mix(in oklab, var(--color-white, #fff) 60%, transparent);
+  }
+}
+
+.hero-module-scss-module__wa_LHq__hero__text_decor {
+  letter-spacing: -.5rem;
+}
+
+@media screen and (min-width: 640px) {
+  .hero-module-scss-module__wa_LHq__hero__text_decor {
+    letter-spacing: normal;
+    font-size: 60rem;
+    top: 602rem;
+    right: 968rem;
+  }
+}
+
+.hero-module-scss-module__wa_LHq__text__building_high {
+  z-index: 3;
+  --tw-translate-x: calc(var(--spacing, .25rem) * 0);
+  --tw-translate-y: calc(var(--spacing, .25rem) * 0);
+  translate: var(--tw-translate-x) var(--tw-translate-y);
+  --tw-leading: 120%;
+  --tw-font-weight: var(--font-weight-normal, 400);
+  font-size: 10rem;
+  line-height: 120%;
+  font-weight: var(--font-weight-normal, 400);
+  color: var(--color-white, #fff);
+  position: absolute;
+  top: 336rem;
+  left: 56rem;
+}
+
+@media screen and (min-width: 640px) {
+  .hero-module-scss-module__wa_LHq__text__building_high {
+    font-size: 18rem;
+    top: 180rem;
+    left: 1496rem;
+  }
+}
+
+.hero-module-scss-module__wa_LHq__text__building_low {
+  z-index: 3;
+  --tw-translate-x: calc(var(--spacing, .25rem) * 0);
+  --tw-translate-y: calc(var(--spacing, .25rem) * 0);
+  translate: var(--tw-translate-x) var(--tw-translate-y);
+  --tw-leading: 120%;
+  --tw-font-weight: var(--font-weight-normal, 400);
+  font-size: 10rem;
+  line-height: 120%;
+  font-weight: var(--font-weight-normal, 400);
+  color: var(--color-white, #fff);
+  position: absolute;
+  top: 500rem;
+  left: 16rem;
+}
+
+@media screen and (min-width: 640px) {
+  .hero-module-scss-module__wa_LHq__text__building_low {
+    text-align: justify;
+    font-size: 18rem;
+    top: 600rem;
+    left: 1662rem;
+  }
+}
+
+.hero-module-scss-module__wa_LHq__text__building_middle {
+  z-index: 3;
+  --tw-translate-x: calc(var(--spacing, .25rem) * 0);
+  --tw-translate-y: calc(var(--spacing, .25rem) * 0);
+  translate: var(--tw-translate-x) var(--tw-translate-y);
+  text-align: center;
+  --tw-leading: 120%;
+  --tw-font-weight: var(--font-weight-normal, 400);
+  font-size: 10rem;
+  line-height: 120%;
+  font-weight: var(--font-weight-normal, 400);
+  color: var(--color-white, #fff);
+  position: absolute;
+  top: 400rem;
+  right: 24rem;
+}
+
+@media screen and (min-width: 640px) {
+  .hero-module-scss-module__wa_LHq__text__building_middle {
+    text-align: left;
+    font-size: 18rem;
+    top: 400rem;
+    right: 350rem;
+  }
+}
+
+.hero-module-scss-module__wa_LHq__hero__btn {
+  z-index: 3;
+  --tw-translate-x: calc(calc(1 / 2 * 100%) * -1);
+  --tw-translate-y: calc(calc(1 / 2 * 100%) * -1);
+  width: 362rem;
+  height: 68rem;
+  translate: var(--tw-translate-x) var(--tw-translate-y);
+  --tw-leading: 127%;
+  color: var(--color-white, #fff);
+  background: linear-gradient(90deg, #4e4e64e6 0%, #b17762e6 80%);
+  border-radius: 3.40282e38px;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 14rem;
+  padding-right: 8rem;
+  font-size: 18rem;
+  line-height: 127%;
+  display: flex;
+  position: absolute;
+  top: 672rem;
+  left: 50%;
+}
+
+.hero-module-scss-module__wa_LHq__hero__btn .hero-module-scss-module__wa_LHq__span__text {
+  text-align: end;
+}
+
+@media screen and (min-width: 640px) {
+  .hero-module-scss-module__wa_LHq__hero__btn {
+    gap: 24rem;
+    width: 462rem;
+    height: 86rem;
+    padding-right: 10rem;
+    font-size: 26rem;
+    top: 838rem;
+  }
+}
+
+@property --tw-leading {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-font-weight {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-tracking {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-translate-x {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-y {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-z {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+/*# sourceMappingURL=app_components_hero_hero_module_scss_module_css_bad6b30c._.single.css.map*/
