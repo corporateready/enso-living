@@ -1,0 +1,36 @@
+/* [project]/app/components/apartment/mobile-slider/styles.module.scss.module.css [app-client] (css) */
+.styles-module-scss-module__JlMZ9q__embla {
+  --slide-spacing: 10rem;
+  --slide-size: 100%;
+  max-width: 100%;
+  margin: auto;
+  position: relative;
+}
+
+.styles-module-scss-module__JlMZ9q__embla__viewport {
+  overflow: hidden;
+}
+
+.styles-module-scss-module__JlMZ9q__embla__container {
+  touch-action: pan-y pinch-zoom;
+  margin-left: calc(var(--slide-spacing) * -1);
+  display: flex;
+}
+
+.styles-module-scss-module__JlMZ9q__embla__slide {
+  flex: 0 0 var(--slide-size);
+  min-width: 0;
+  padding-left: var(--slide-spacing);
+  transform: translate3d(0, 0, 0);
+}
+
+.styles-module-scss-module__JlMZ9q__embla__slide__image {
+  justify-content: center;
+  align-items: center;
+  width: 380rem;
+  height: 500rem;
+  display: flex;
+  position: relative;
+}
+
+/*# sourceMappingURL=app_components_apartment_mobile-slider_styles_module_scss_module_css_bad6b30c._.single.css.map*/

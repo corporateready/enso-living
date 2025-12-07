@@ -1,0 +1,17 @@
+/* [project]/app/components/lux/styles.module.scss.module.css [app-client] (css) */
+.styles-module-scss-module__RmQkbq__section {
+  z-index: 0;
+  width: 100%;
+  height: 1048rem;
+  display: none;
+  position: relative;
+  overflow: hidden;
+}
+
+@media (min-width: 40rem) {
+  .styles-module-scss-module__RmQkbq__section {
+    display: block;
+  }
+}
+
+/*# sourceMappingURL=app_components_lux_styles_module_scss_module_css_bad6b30c._.single.css.map*/

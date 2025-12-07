@@ -1,6 +1,6 @@
 @reference "tailwindcss";
 .section {
-    @apply fixed top-0 left-0 z-0 w-full h-screen bg-[#fff]/50;
+    @apply fixed top-0 left-0 z-0 w-full h-dvh bg-[#fff]/50;
     @media screen and (width >= 640px) {
         @apply fixed top-0 left-0 z-0 w-full h-full bg-[#fff]/50;
     }

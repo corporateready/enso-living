@@ -16,7 +16,6 @@ import DesktopBrownSection from "./components/desktop-brown-section/"
 import Lux from "./components/lux"
 import DesktopWhiteSection from "./components/desktop-white-section"
 import Footer from "./components/footer";
-import Image from "next/image"
 import {HeroForm} from "./components/hero-form"
 
 export default function Home() {

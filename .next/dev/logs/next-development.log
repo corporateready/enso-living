@@ -1,0 +1,3550 @@
+[00:00:02.720] Server  LOG      ✓ Ready in 2.6s
+[00:00:25.059] Server  WARN     ⚠ ./public/apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/apartment-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:25.060] Server  WARN     ⚠ ./public/desktop-apartment-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-apartment-inner-2.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/apartment/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:00:25.060] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-3.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:25.060] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-4.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:25.060] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:25.061] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-2.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:00:25.061] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-3.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:00:25.061] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-5.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:00:25.061] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-6.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:00:25.061] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner-7.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:25.061] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:25.061] Server  WARN     ⚠ ./public/desktop-slider-1.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-1.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:25.061] Server  WARN     ⚠ ./public/desktop-slider-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-2.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:25.061] Server  WARN     ⚠ ./public/desktop-slider-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-3.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:25.061] Server  WARN     ⚠ ./public/desktop-slider-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-4.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:25.061] Server  WARN     ⚠ ./public/duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/duplex-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:25.061] Server  WARN     ⚠ ./public/landscape-slide.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:41.439] Server  WARN     ⚠ ./public/apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/apartment-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:41.440] Server  WARN     ⚠ ./public/desktop-apartment-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-apartment-inner-2.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/apartment/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:00:41.440] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-3.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:41.441] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-4.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:41.442] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:41.443] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-2.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:00:41.443] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-3.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:00:41.443] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-5.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:00:41.444] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-6.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:00:41.444] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner-7.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:41.447] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:41.448] Server  WARN     ⚠ ./public/desktop-slider-1.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-1.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:41.448] Server  WARN     ⚠ ./public/desktop-slider-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-2.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:41.448] Server  WARN     ⚠ ./public/desktop-slider-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-3.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:41.449] Server  WARN     ⚠ ./public/desktop-slider-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-4.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:41.449] Server  WARN     ⚠ ./public/duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/duplex-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:00:41.449] Server  WARN     ⚠ ./public/landscape-slide.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.461] Server  WARN     ⚠ ./public/apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/apartment-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.461] Server  WARN     ⚠ ./public/desktop-apartment-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-apartment-inner-2.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/apartment/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.461] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-3.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.461] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-4.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.461] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.461] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-2.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.461] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-3.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.461] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-5.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.461] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-6.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.462] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner-7.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.462] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.462] Server  WARN     ⚠ ./public/desktop-slider-1.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-1.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.462] Server  WARN     ⚠ ./public/desktop-slider-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-2.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.462] Server  WARN     ⚠ ./public/desktop-slider-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-3.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.462] Server  WARN     ⚠ ./public/desktop-slider-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-4.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.463] Server  WARN     ⚠ ./public/duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/duplex-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.463] Server  WARN     ⚠ ./public/landscape-slide.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.684] Server  WARN     ⚠ ./public/apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/apartment-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.684] Server  WARN     ⚠ ./public/desktop-apartment-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-apartment-inner-2.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/apartment/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.684] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-3.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.684] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-4.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.684] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.684] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-2.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.684] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-3.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.684] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-5.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.684] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-6.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.684] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner-7.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.684] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.684] Server  WARN     ⚠ ./public/desktop-slider-1.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-1.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.684] Server  WARN     ⚠ ./public/desktop-slider-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-2.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.684] Server  WARN     ⚠ ./public/desktop-slider-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-3.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.684] Server  WARN     ⚠ ./public/desktop-slider-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-4.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.684] Server  WARN     ⚠ ./public/duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/duplex-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.685] Server  WARN     ⚠ ./public/landscape-slide.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:42.832] Browser ERROR   unhandledRejection: Error: Permission denied to access property "GtmDataLayerName"
+[00:01:42.832] Browser ERROR   unhandledRejection: Error: Permission denied to access property "Track GTM"
+[00:01:42.832] Browser ERROR   unhandledRejection: Error: Permission denied to access property "ExcludedDomains"
+[00:01:42.832] Browser ERROR   unhandledRejection: Error: Permission denied to access property "Sleep"
+[00:01:42.832] Browser ERROR   unhandledRejection: Error: Permission denied to access property "TabBeingRecorded"
+[00:01:52.344] Server  WARN     ⚠ ./public/apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/apartment-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:52.344] Server  WARN     ⚠ ./public/desktop-apartment-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-apartment-inner-2.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/apartment/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:52.345] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-3.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:52.345] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-4.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:52.345] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:52.345] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-2.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:52.345] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-3.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:52.346] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-5.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:52.346] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-6.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:52.346] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner-7.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:52.346] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:52.347] Server  WARN     ⚠ ./public/desktop-slider-1.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-1.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:52.347] Server  WARN     ⚠ ./public/desktop-slider-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-2.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:52.347] Server  WARN     ⚠ ./public/desktop-slider-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-3.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:52.347] Server  WARN     ⚠ ./public/desktop-slider-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-4.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:52.348] Server  WARN     ⚠ ./public/duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/duplex-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:52.348] Server  WARN     ⚠ ./public/landscape-slide.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:53.910] Server  WARN     ⚠ ./public/apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/apartment-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:53.910] Server  WARN     ⚠ ./public/desktop-apartment-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-apartment-inner-2.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/apartment/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:06:53.913] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-3.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:53.914] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-4.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:53.914] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:53.915] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-2.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:06:53.915] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-3.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:06:53.916] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-5.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:06:53.917] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-6.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:06:53.920] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner-7.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:53.920] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:53.920] Server  WARN     ⚠ ./public/desktop-slider-1.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-1.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:53.921] Server  WARN     ⚠ ./public/desktop-slider-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-2.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:53.921] Server  WARN     ⚠ ./public/desktop-slider-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-3.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:53.922] Server  WARN     ⚠ ./public/desktop-slider-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-4.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:53.922] Server  WARN     ⚠ ./public/duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/duplex-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:53.922] Server  WARN     ⚠ ./public/landscape-slide.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:54.129] Server  WARN     ⚠ ./public/apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/apartment-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:54.129] Server  WARN     ⚠ ./public/desktop-apartment-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-apartment-inner-2.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/apartment/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:06:54.130] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-3.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:54.130] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-4.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:54.130] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:54.130] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-2.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:06:54.130] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-3.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:06:54.130] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-5.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:06:54.130] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-6.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:06:54.130] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner-7.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:54.130] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:54.130] Server  WARN     ⚠ ./public/desktop-slider-1.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-1.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:54.130] Server  WARN     ⚠ ./public/desktop-slider-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-2.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:54.130] Server  WARN     ⚠ ./public/desktop-slider-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-3.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:54.130] Server  WARN     ⚠ ./public/desktop-slider-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-4.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:54.130] Server  WARN     ⚠ ./public/duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/duplex-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:06:54.130] Server  WARN     ⚠ ./public/landscape-slide.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:18.878] Server  LOG      ✓ Compiled in 70ms
+[00:07:47.162] Server  WARN     ⚠ ./public/apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/apartment-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.162] Server  WARN     ⚠ ./public/desktop-apartment-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-apartment-inner-2.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/apartment/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.163] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-3.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.163] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-4.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.164] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.164] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-2.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.165] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-3.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.165] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-5.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.166] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-6.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.167] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner-7.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.168] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.169] Server  WARN     ⚠ ./public/desktop-slider-1.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-1.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.169] Server  WARN     ⚠ ./public/desktop-slider-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-2.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.171] Server  WARN     ⚠ ./public/desktop-slider-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-3.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.171] Server  WARN     ⚠ ./public/desktop-slider-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-4.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.171] Server  WARN     ⚠ ./public/duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/duplex-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.171] Server  WARN     ⚠ ./public/landscape-slide.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.364] Server  WARN     ⚠ ./public/apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/apartment-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.364] Server  WARN     ⚠ ./public/desktop-apartment-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-apartment-inner-2.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/apartment/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.364] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-3.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.365] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-4.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.365] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.365] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-2.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.365] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-3.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.365] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-5.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.365] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-6.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.365] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner-7.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.365] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.365] Server  WARN     ⚠ ./public/desktop-slider-1.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-1.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.365] Server  WARN     ⚠ ./public/desktop-slider-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-2.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.365] Server  WARN     ⚠ ./public/desktop-slider-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-3.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.365] Server  WARN     ⚠ ./public/desktop-slider-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-4.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.366] Server  WARN     ⚠ ./public/duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/duplex-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:07:47.366] Server  WARN     ⚠ ./public/landscape-slide.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:09:48.642] Server  LOG      ✓ Compiled in 37ms
+[00:09:50.886] Server  LOG      ✓ Compiled in 56ms
+[00:09:50.991] Browser ERROR   ./app/components/hero-form/styles.module.scss.module.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: /Users/evgheninujnenco/enso-projects/enso-living/app/components/hero-form/styles.module.scss.module.css:1:1: Cannot apply unknown utility class `mi`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (/Users/evgheninujnenco/enso-projects/enso-living/node_modules/@tailwindcss/postcss/dist/index.js:10:6912)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./app/components/hero-form/styles.module.scss.module.css [Client Component Browser]
+    ./app/components/hero-form/styles.module.scss [Client Component Browser]
+    ./app/components/hero-form/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+[00:09:54.934] Browser ERROR   ./app/components/hero-form/styles.module.scss.module.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: /Users/evgheninujnenco/enso-projects/enso-living/app/components/hero-form/styles.module.scss.module.css:1:1: Cannot apply unknown utility class `h-`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (/Users/evgheninujnenco/enso-projects/enso-living/node_modules/@tailwindcss/postcss/dist/index.js:10:6912)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./app/components/hero-form/styles.module.scss.module.css [Client Component Browser]
+    ./app/components/hero-form/styles.module.scss [Client Component Browser]
+    ./app/components/hero-form/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+[00:09:56.728] Browser ERROR   ./app/components/hero-form/styles.module.scss.module.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: /Users/evgheninujnenco/enso-projects/enso-living/app/components/hero-form/styles.module.scss.module.css:1:1: Cannot apply unknown utility class `h-[]`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (/Users/evgheninujnenco/enso-projects/enso-living/node_modules/@tailwindcss/postcss/dist/index.js:10:6912)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./app/components/hero-form/styles.module.scss.module.css [Client Component Browser]
+    ./app/components/hero-form/styles.module.scss [Client Component Browser]
+    ./app/components/hero-form/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+[00:09:58.492] Server  WARN     ⚠ ./public/apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/apartment-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:09:58.492] Server  WARN     ⚠ ./public/desktop-apartment-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-apartment-inner-2.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/apartment/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:09:58.492] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-3.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:09:58.492] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-4.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:09:58.492] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:09:58.492] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-2.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:09:58.492] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-3.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:09:58.492] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-5.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:09:58.493] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-6.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:09:58.493] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner-7.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:09:58.493] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:09:58.493] Server  WARN     ⚠ ./public/desktop-slider-1.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-1.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:09:58.493] Server  WARN     ⚠ ./public/desktop-slider-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-2.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:09:58.493] Server  WARN     ⚠ ./public/desktop-slider-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-3.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:09:58.493] Server  WARN     ⚠ ./public/desktop-slider-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-4.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:09:58.493] Server  WARN     ⚠ ./public/duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/duplex-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:09:58.493] Server  WARN     ⚠ ./public/landscape-slide.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:07.308] Server  LOG      ✓ Compiled in 54ms
+[00:10:09.640] Server  WARN     ⚠ ./public/apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/apartment-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.640] Server  WARN     ⚠ ./public/desktop-apartment-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-apartment-inner-2.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/apartment/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.641] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-3.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.641] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-4.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.641] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.641] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-2.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.641] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-3.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.642] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-5.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.643] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-6.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.643] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner-7.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.643] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.644] Server  WARN     ⚠ ./public/desktop-slider-1.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-1.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.644] Server  WARN     ⚠ ./public/desktop-slider-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-2.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.644] Server  WARN     ⚠ ./public/desktop-slider-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-3.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.647] Server  WARN     ⚠ ./public/desktop-slider-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-4.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.647] Server  WARN     ⚠ ./public/duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/duplex-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.648] Server  WARN     ⚠ ./public/landscape-slide.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.833] Server  WARN     ⚠ ./public/apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/apartment-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.833] Server  WARN     ⚠ ./public/desktop-apartment-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-apartment-inner-2.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/apartment/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.833] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-3.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.833] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-4.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.833] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.833] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-2.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.833] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-3.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.834] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-5.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.834] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-6.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.834] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner-7.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.834] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.834] Server  WARN     ⚠ ./public/desktop-slider-1.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-1.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.834] Server  WARN     ⚠ ./public/desktop-slider-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-2.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.834] Server  WARN     ⚠ ./public/desktop-slider-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-3.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.834] Server  WARN     ⚠ ./public/desktop-slider-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-4.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.834] Server  WARN     ⚠ ./public/duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/duplex-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:09.834] Server  WARN     ⚠ ./public/landscape-slide.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:28.250] Server  LOG      ✓ Compiled in 32ms
+[00:10:29.568] Server  LOG      ✓ Compiled in 40ms
+[00:10:29.675] Browser ERROR   ./app/components/hero-form/styles.module.scss
+Error evaluating Node.js code
+Error: expected ";".
+  ╷
+3 │     @apply fixed top-0 left-0 z-0 w-full h-dvh] bg-[#fff]/50;
+  │                                               ^
+  ╵
+  app/components/hero-form/styles.module.scss 3:47  root stylesheet
+Caused by: Error: expected ";".
+  ╷
+3 │     @apply fixed top-0 left-0 z-0 w-full h-dvh] bg-[#fff]/50;
+  │                                               ^
+  ╵
+  app/components/hero-form/styles.module.scss 3:47  root stylesheet
+    [at Object.wrapException (/Users/evgheninujnenco/enso-projects/enso-living/node_modules/sass/sass.dart.js:2316:47)]
+    [at SpanScanner.error$3$length$position (/Users/evgheninujnenco/enso-projects/enso-living/node_modules/sass/sass.dart.js:85182:15)]
+    [at SpanScanner._fail$1 (/Users/evgheninujnenco/enso-projects/enso-living/node_modules/sass/sass.dart.js:85321:12)]
+    [at SpanScanner.expectChar$2$name (/Users/evgheninujnenco/enso-projects/enso-living/node_modules/sass/sass.dart.js:85263:12)]
+    [at SpanScanner.expectChar$1 (/Users/evgheninujnenco/enso-projects/enso-living/node_modules/sass/sass.dart.js:85266:19)]
+    [at ScssParser0.expectStatementSeparator$1 (/Users/evgheninujnenco/enso-projects/enso-living/node_modules/sass/sass.dart.js:115864:10)]
+    [at ScssParser0.expectStatementSeparator$0 (/Users/evgheninujnenco/enso-projects/enso-living/node_modules/sass/sass.dart.js:115867:19)]
+    [at ScssParser0.unknownAtRule$2 (/Users/evgheninujnenco/enso-projects/enso-living/node_modules/sass/sass.dart.js:121508:17)]
+    [at ScssParser0.atRule$2$root (/Users/evgheninujnenco/enso-projects/enso-living/node_modules/sass/sass.dart.js:120714:24)]
+    [at ScssParser0._stylesheet0$_statement$1$root (/Users/evgheninujnenco/enso-projects/enso-living/node_modules/sass/sass.dart.js:120301:22)]
+
+Import traces:
+  Client Component Browser:
+    ./app/components/hero-form/styles.module.scss [Client Component Browser]
+    ./app/components/hero-form/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+  Client Component SSR:
+    ./app/components/hero-form/styles.module.scss [Client Component SSR]
+    ./app/components/hero-form/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+[00:10:31.010] Server  WARN     ⚠ ./public/apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/apartment-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:31.010] Server  WARN     ⚠ ./public/desktop-apartment-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-apartment-inner-2.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/apartment/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:31.010] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-3.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:31.011] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-4.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:31.011] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:31.011] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-2.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:31.011] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-3.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:31.011] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-5.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:31.011] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-6.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:31.012] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner-7.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:31.012] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:31.012] Server  WARN     ⚠ ./public/desktop-slider-1.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-1.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:31.012] Server  WARN     ⚠ ./public/desktop-slider-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-2.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:31.012] Server  WARN     ⚠ ./public/desktop-slider-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-3.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:31.012] Server  WARN     ⚠ ./public/desktop-slider-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-4.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:31.012] Server  WARN     ⚠ ./public/duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/duplex-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:31.012] Server  WARN     ⚠ ./public/landscape-slide.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.476] Server  WARN     ⚠ ./public/apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/apartment-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.477] Server  WARN     ⚠ ./public/desktop-apartment-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-apartment-inner-2.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/apartment/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.477] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-3.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.477] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-4.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.478] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.478] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-2.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.480] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-3.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.481] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-5.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.482] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-6.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.482] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner-7.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.482] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.485] Server  WARN     ⚠ ./public/desktop-slider-1.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-1.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.485] Server  WARN     ⚠ ./public/desktop-slider-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-2.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.485] Server  WARN     ⚠ ./public/desktop-slider-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-3.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.486] Server  WARN     ⚠ ./public/desktop-slider-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-4.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.486] Server  WARN     ⚠ ./public/duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/duplex-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.487] Server  WARN     ⚠ ./public/landscape-slide.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.681] Server  WARN     ⚠ ./public/apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/apartment-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.681] Server  WARN     ⚠ ./public/desktop-apartment-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-apartment-inner-2.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/apartment/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.681] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-3.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.681] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-4.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.681] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.681] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-2.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.681] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-3.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.681] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-5.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.681] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-6.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.681] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner-7.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.682] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.682] Server  WARN     ⚠ ./public/desktop-slider-1.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-1.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.682] Server  WARN     ⚠ ./public/desktop-slider-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-2.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.682] Server  WARN     ⚠ ./public/desktop-slider-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-3.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.682] Server  WARN     ⚠ ./public/desktop-slider-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-4.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.682] Server  WARN     ⚠ ./public/duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/duplex-inner.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:10:34.682] Server  WARN     ⚠ ./public/landscape-slide.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+

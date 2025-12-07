@@ -1,0 +1,175 @@
+/* [project]/app/components/footer/styles.module.scss.module.css [app-client] (css) */
+.styles-module-scss-module__wNWX9G__footer {
+  margin: calc(var(--spacing, .25rem) * 0);
+  width: 100%;
+  height: auto;
+  padding: calc(var(--spacing, .25rem) * 0);
+  background-color: #667761;
+  margin-top: -1rem;
+}
+
+.styles-module-scss-module__wNWX9G__inner {
+  padding-inline: 25rem;
+  flex-direction: column;
+  gap: 58rem;
+  padding-top: 21rem;
+  padding-bottom: 28rem;
+  display: flex;
+}
+
+@media screen and (min-width: 640px) {
+  .styles-module-scss-module__wNWX9G__inner {
+    width: 1244rem;
+    padding-inline: calc(var(--spacing, .25rem) * 0);
+    gap: 70rem;
+    margin-inline: auto;
+    padding-top: 24rem;
+    padding-bottom: 100rem;
+  }
+}
+
+.styles-module-scss-module__wNWX9G__top__content {
+  justify-content: space-between;
+  display: flex;
+}
+
+.styles-module-scss-module__wNWX9G__google__map_link__mobile {
+  --tw-leading: 100%;
+  color: #fff9;
+  font-size: 10rem;
+  line-height: 100%;
+  display: inline;
+}
+
+@supports (color: color-mix(in lab, red, red)) {
+  .styles-module-scss-module__wNWX9G__google__map_link__mobile {
+    color: color-mix(in oklab, var(--color-white, #fff) 60%, transparent);
+  }
+}
+
+@media (min-width: 40rem) {
+  .styles-module-scss-module__wNWX9G__google__map_link__mobile {
+    display: none;
+  }
+}
+
+.styles-module-scss-module__wNWX9G__google__map_link__desktop {
+  --tw-leading: 100%;
+  color: #fff9;
+  flex-direction: column;
+  gap: 8rem;
+  font-size: 16rem;
+  line-height: 100%;
+  display: none;
+}
+
+@supports (color: color-mix(in lab, red, red)) {
+  .styles-module-scss-module__wNWX9G__google__map_link__desktop {
+    color: color-mix(in oklab, var(--color-white, #fff) 60%, transparent);
+  }
+}
+
+@media (min-width: 40rem) {
+  .styles-module-scss-module__wNWX9G__google__map_link__desktop {
+    display: inline-flex;
+  }
+}
+
+.styles-module-scss-module__wNWX9G__google__map_link {
+  --tw-leading: 100%;
+  color: #fff9;
+  font-size: 10rem;
+  line-height: 100%;
+}
+
+@supports (color: color-mix(in lab, red, red)) {
+  .styles-module-scss-module__wNWX9G__google__map_link {
+    color: color-mix(in oklab, var(--color-white, #fff) 60%, transparent);
+  }
+}
+
+.styles-module-scss-module__wNWX9G__socials__link {
+  align-items: center;
+  gap: 14rem;
+  display: flex;
+}
+
+@media screen and (min-width: 640px) {
+  .styles-module-scss-module__wNWX9G__socials__link {
+    gap: 30rem;
+  }
+}
+
+.styles-module-scss-module__wNWX9G__bottom__content {
+  flex-direction: column;
+  gap: 8rem;
+  width: fit-content;
+  display: flex;
+}
+
+@media screen and (min-width: 640px) {
+  .styles-module-scss-module__wNWX9G__bottom__content {
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    display: flex;
+  }
+}
+
+.styles-module-scss-module__wNWX9G__content__text {
+  --tw-leading: 100%;
+  color: #fff9;
+  font-size: 10rem;
+  line-height: 100%;
+}
+
+@supports (color: color-mix(in lab, red, red)) {
+  .styles-module-scss-module__wNWX9G__content__text {
+    color: color-mix(in oklab, var(--color-white, #fff) 60%, transparent);
+  }
+}
+
+.styles-module-scss-module__wNWX9G__content__text {
+  letter-spacing: .2rem;
+}
+
+@media screen and (min-width: 640px) {
+  .styles-module-scss-module__wNWX9G__content__text {
+    letter-spacing: 0;
+    font-size: 16rem;
+  }
+}
+
+.styles-module-scss-module__wNWX9G__content__links {
+  --tw-leading: 100%;
+  color: #fff9;
+  justify-content: space-between;
+  font-size: 10rem;
+  line-height: 100%;
+  display: flex;
+}
+
+@supports (color: color-mix(in lab, red, red)) {
+  .styles-module-scss-module__wNWX9G__content__links {
+    color: color-mix(in oklab, var(--color-white, #fff) 60%, transparent);
+  }
+}
+
+.styles-module-scss-module__wNWX9G__content__links {
+  letter-spacing: .4rem;
+}
+
+@media screen and (min-width: 640px) {
+  .styles-module-scss-module__wNWX9G__content__links {
+    letter-spacing: 0;
+    margin-top: 14rem;
+    font-size: 16rem;
+  }
+}
+
+@property --tw-leading {
+  syntax: "*";
+  inherits: false
+}
+
+/*# sourceMappingURL=app_components_footer_styles_module_scss_module_css_bad6b30c._.single.css.map*/

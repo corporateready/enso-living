@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/app/components/lux/styles.module.scss"],"sourcesContent":["@reference \"tailwindcss\";\n.section {\n    @apply hidden sm:block w-full h-[1048rem] relative z-0 overflow-hidden;\n}"],"names":[],"mappings":"AAAA;;;;;;;;;AAAA;EAAA"}}]
+}

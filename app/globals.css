@@ -1,6 +1,10 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
+:root {
+  --app-height: 100vh;
+}
+
 @custom-variant dark (&:is(.dark *));
 
 html {
@@ -17,6 +21,12 @@ html {
 body {
   @apply w-full h-full relative mx-auto;
   font-family: "Inter", sans-serif;
+
+  @supports (height: 100dvh) {
+    :root {
+      --app-height: 100dvh;
+    }
+  }
 }
 
 @theme inline {
