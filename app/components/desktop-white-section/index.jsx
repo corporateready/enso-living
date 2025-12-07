@@ -6,6 +6,7 @@ import Delux from "./duplex";
 import Apartment from "./apartment";
 import DesktopSlider from "../desktop-slider"
 import DesktopLocation from "../desktop-location"
+
 const Index = () => {
   return (
     <div className={styles.section}>

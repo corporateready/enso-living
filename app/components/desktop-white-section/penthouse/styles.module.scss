@@ -11,7 +11,13 @@
     @apply w-[1278rem] h-full pt-[152rem] mr-0;
 }
 .rightside__line {
-@apply w-[340rem] h-auto bg-[#fff];
+@apply w-[340rem] h-auto bg-[#667761] relative z-0;
+}
+.rightside__decor {
+    @apply inline-flex absolute top-0 left-0 z-1 w-full h-full;
+}
+.rightside__image {
+    @apply w-[284rem] h-[294rem] relative z-3 top-0 left-[-6rem] -translate-0 z-1 mt-[120rem] mx-auto;
 }
 .inner__header {
     @apply flex justify-start gap-[20rem];
@@ -30,9 +36,6 @@
 }
 .content {
     @apply flex mt-[50rem];
-}
-.rightside__image {
-    @apply w-[284rem] h-[294rem] relative top-0 left-[-6rem] -translate-0 z-1 mt-[120rem] mx-auto;
 }
 // <===== items =====>
 .inner__list_item {

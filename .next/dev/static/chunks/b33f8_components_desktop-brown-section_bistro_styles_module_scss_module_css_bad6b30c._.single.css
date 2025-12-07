@@ -22,7 +22,7 @@
 }
 
 .styles-module-scss-module__jabupa__rightside__line {
-  background-color: #fff;
+  background: linear-gradient(#b17762 0%, #806363 100%);
   width: 340rem;
   height: auto;
 }

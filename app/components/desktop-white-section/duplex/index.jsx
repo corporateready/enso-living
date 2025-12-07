@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import styles from "./styles.module.scss";
+import {DesktopSlider} from "./desktop-slider"
 
 const Index = () => {
   return (
@@ -53,21 +54,20 @@ const Index = () => {
               </button>
             </div>
           </div>
-          <div className={styles.content}>
-            <div className={styles.inner__image}>
-              <Image
-                src={"/desktop-duplex-inner.avif"}
-                alt="enso living penthouse"
-                loading="eager"
-                priority={true}
-                fill
-                sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
-              />
-            </div>
-          </div>
+            <DesktopSlider />
         </div>
 
         <div className={styles.rightside__line}>
+        <div className={styles.rightside__decor}>
+            <Image
+              src={"/right-side-decor-2.avif"}
+              alt="enso living decor"
+              loading="eager"
+              priority={true}
+              fill
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+            />
+          </div>
           <div className={styles.rightside__image}>
             <Image
               src={"/duplex-title.avif"}
@@ -75,6 +75,7 @@ const Index = () => {
               loading="eager"
               priority={true}
               fill
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
             />
           </div>
         </div>

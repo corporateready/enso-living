@@ -1,24 +1,14 @@
 import React from "react";
 import Image from "next/image";
 import styles from "./styles.module.scss";
+import { DesktopSlider } from "./desktop-slider";
 
 const Index = () => {
   return (
     <div className={styles.section}>
       <div className={styles.wrapper}>
         <div className={styles.inner}>
-          <div className={styles.content}>
-            <div className={styles.inner__image}>
-              <Image
-                src={"/desktop-apartment-inner.avif"}
-                alt="enso living penthouse"
-                loading="eager"
-                priority={true}
-                fill
-                sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
-              />
-            </div>
-          </div>
+          <DesktopSlider />
           <div className={styles.inner__header}>
             <div className={styles.head__content}>
               <p className={styles.title__text}>
@@ -65,6 +55,16 @@ const Index = () => {
         </div>
 
         <div className={styles.rightside__line}>
+        <div className={styles.rightside__decor}>
+            <Image
+              src={"/right-side-decor-3.avif"}
+              alt="enso living decor"
+              loading="eager"
+              priority={true}
+              fill
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+            />
+          </div>
           <div className={styles.rightside__image}>
             <Image
               src={"/apartment-title.avif"}
@@ -72,6 +72,7 @@ const Index = () => {
               loading="eager"
               priority={true}
               fill
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
             />
           </div>
         </div>

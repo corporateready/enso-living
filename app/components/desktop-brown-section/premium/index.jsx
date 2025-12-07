@@ -15,6 +15,7 @@ const Index = () => {
                 loading="eager"
                 priority={true}
                 fill
+                sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
               />
             </div>
             <div className={styles.head__content}>
@@ -111,8 +112,7 @@ const Index = () => {
                 </div>
                 <div className={styles.inner__list_item}>
                   <svg
-                    width="24"
-                    height="22"
+                   className="w-[24rem] h-[22rem]"
                     viewBox="0 0 13 13"
                     fill="none"
                     xmlns="http://www.w3.org/2000/svg"
@@ -146,8 +146,7 @@ const Index = () => {
                 </div>
                 <div className={styles.inner__list_item}>
                   <svg
-                    width="24"
-                    height="25"
+                    className="w-[24rem] h-[25rem]"
                     viewBox="0 0 13 14"
                     fill="none"
                     xmlns="http://www.w3.org/2000/svg"
@@ -184,8 +183,7 @@ const Index = () => {
                 </div>
                 <div className={styles.inner__list_item}>
                   <svg
-                    width="24"
-                    height="22"
+                    className="w-[24rem] h-[22rem]"
                     viewBox="0 0 13 12"
                     fill="none"
                     xmlns="http://www.w3.org/2000/svg"
@@ -226,8 +224,7 @@ const Index = () => {
               <div className={styles.column__right}>
                 <div className={styles.inner__list_item}>
                   <svg
-                    width="24"
-                    height="24"
+                    className="w-[24rem] h-[24rem]"
                     viewBox="0 0 13 13"
                     fill="none"
                     xmlns="http://www.w3.org/2000/svg"
@@ -306,8 +303,7 @@ const Index = () => {
                 </div>
                 <div className={styles.inner__list_item}>
                   <svg
-                    width="24"
-                    height="26"
+                    className="w-[24rem] h-[26rem]"
                     viewBox="0 0 13 14"
                     fill="none"
                     xmlns="http://www.w3.org/2000/svg"
@@ -344,8 +340,7 @@ const Index = () => {
                 </div>
                 <div className={styles.inner__list_item}>
                   <svg
-                    width="24"
-                    height="24"
+                    className="w-[24rem] h-[24rem]"
                     viewBox="0 0 13 13"
                     fill="none"
                     xmlns="http://www.w3.org/2000/svg"
@@ -423,8 +418,7 @@ const Index = () => {
                 </div>
                 <div className={styles.inner__list_item}>
                   <svg
-                    width="24"
-                    height="26"
+                    className="w-[24rem] h-[26rem]"
                     viewBox="0 0 13 14"
                     fill="none"
                     xmlns="http://www.w3.org/2000/svg"
@@ -490,6 +484,7 @@ const Index = () => {
             loading="eager"
             priority={true}
             fill
+            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
           />
           </div>
         </div>

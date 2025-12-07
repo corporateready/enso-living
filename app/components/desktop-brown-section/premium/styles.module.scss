@@ -10,7 +10,12 @@
     @apply w-[1340rem] h-full pt-[200rem] mr-0;
 }
 .rightside__line {
-@apply w-[340rem] h-auto bg-[#fff];
+@apply w-[340rem] h-auto bg-[#B17762] relative z-0;
+&::after {
+    content: "";
+    @apply block absolute top-0 left-0 z-1 w-full h-full;
+    background: linear-gradient(180deg,rgba(70, 60, 55, 1) 1%, rgba(70, 60, 55, 0.21) 80%, rgba(70, 60, 55, 0) 100%);
+}
 }
 .inner__header {
     @apply flex justify-start gap-[78rem];
@@ -31,7 +36,7 @@
     @apply flex flex-col mt-[50rem];
 }
 .rightside__image {
-    @apply w-[322rem] h-[288rem] relative top-0 left-[14rem] -translate-0 z-1 mt-[180rem] mx-auto;
+    @apply w-[322rem] h-[288rem] relative top-0 left-[14rem] -translate-0 z-2 mt-[180rem] mx-auto;
 }
 // <===== items =====>
 .content__columns {

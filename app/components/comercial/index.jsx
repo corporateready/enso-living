@@ -7,15 +7,16 @@ const Index = () => {
     <div className={styles.premium}>
       <div className={styles.premium__inner}>
         <div className={styles.premium__header_inner}>
+          <div className={styles.premium__title_image}>
           <Image
             src={"/comercial-title.avif"}
             alt="hero mobile background"
             loading="eager"
             priority={true}
-            width={123}
-            height={101}
-            className={styles.premium__title_image}
+            fill
+            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
           />
+          </div>
           <div className={styles.premium__title_content}>
             <p className={styles.premium__title_text}>
               Showroom
@@ -36,6 +37,7 @@ const Index = () => {
               loading="eager"
               priority={true}
               fill
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
             />
           </div>
           <div className={styles.inner__list}>

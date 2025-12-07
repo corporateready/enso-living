@@ -23,7 +23,7 @@
 }
 
 .styles-module-scss-module__j7NEzq__rightside__line {
-  background-color: #fff;
+  background: linear-gradient(#806363 0%, #4e4e64 100%);
   width: 340rem;
   height: auto;
 }
@@ -33,7 +33,6 @@
   width: 1240rem;
   height: 400rem;
   margin-top: 26rem;
-  display: inline-block;
   position: relative;
 }
 

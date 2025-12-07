@@ -17,6 +17,7 @@ const Index = () => {
               loading="eager"
               priority={true}
               fill
+              sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
             />
             <p className={styles.bottom__text}>
         <span className={styles.text__4}>în liniștea</span><br />

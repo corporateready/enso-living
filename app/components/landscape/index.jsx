@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import styles from "./styles.module.scss";
+import { MobileSlider } from "./mobile-slider";
 
 const Index = () => {
   return (
@@ -14,13 +15,7 @@ const Index = () => {
       <br />pentru un stil de viață select
       </p>
       <div className={styles.premium__inner_slider}>
-        <Image
-          src={"/landscape-slide.avif"}
-          alt="hero mobi"
-          loading="eager"
-          priority={true}
-          fill
-        />
+        <MobileSlider />
         <div className={styles.slider__navigate}>
         <Image
           src={"/slider-navigate.avif"}
@@ -28,6 +23,7 @@ const Index = () => {
           loading="eager"
           priority={true}
           fill
+          sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
         />
         </div>
       </div>

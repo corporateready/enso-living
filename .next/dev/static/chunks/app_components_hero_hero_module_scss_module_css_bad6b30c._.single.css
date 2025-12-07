@@ -199,7 +199,6 @@
   translate: var(--tw-translate-x) var(--tw-translate-y);
   --tw-leading: 127%;
   color: var(--color-white, #fff);
-  background: linear-gradient(90deg, #4e4e64e6 0%, #b17762e6 80%);
   border-radius: 3.40282e38px;
   justify-content: flex-end;
   align-items: center;
@@ -211,6 +210,16 @@
   position: absolute;
   top: 672rem;
   left: 50%;
+}
+
+@media (hover: hover) {
+  .hero-module-scss-module__wa_LHq__hero__btn:hover {
+    cursor: pointer;
+  }
+}
+
+.hero-module-scss-module__wa_LHq__hero__btn {
+  background: linear-gradient(90deg, #4e4e64e6 0%, #b17762e6 80%);
 }
 
 .hero-module-scss-module__wa_LHq__hero__btn .hero-module-scss-module__wa_LHq__span__text {

@@ -16,13 +16,19 @@ import DesktopBrownSection from "./components/desktop-brown-section/"
 import Lux from "./components/lux"
 import DesktopWhiteSection from "./components/desktop-white-section"
 import Footer from "./components/footer";
+import Image from "next/image"
+import {HeroForm} from "./components/hero-form"
 
 export default function Home() {
+const[isOpen, setIsOpen] = React.useState(false)
 
+const handlerFormOpen = () => {
+  setIsOpen(!isOpen)
+}
   return (
-    <div className="flex h-full w-full items-center justify-center">
-      <main className="w-full h-full">
-        <Hero />
+    <div className="flex h-full w-full items-center justify-center overflow-x-hidden">
+      <main className="w-full h-full relative">
+        <Hero handlerFormOpen={handlerFormOpen}/>
         <DesktopBrownSection />
         <Lux />
         <DesktopWhiteSection />
@@ -41,6 +47,9 @@ export default function Home() {
         </div>
 
         <Footer />
+        {
+          isOpen && <HeroForm handlerFormOpen={handlerFormOpen} />
+        }
       </main>
     </div>
   );

@@ -27,7 +27,7 @@
   width: 122rem;
   height: 123rem;
   margin-bottom: 4rem;
-  display: inline-block;
+  position: relative;
 }
 
 .styles-module-scss-module__7FGwOG__premium__title_content {

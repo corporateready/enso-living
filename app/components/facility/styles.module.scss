@@ -7,7 +7,7 @@
     @apply flex justify-start items-end px-[8rem] gap-[0rem] pt-[120rem];
 }
 .premium__title_image {
-    @apply inline-block w-[122rem] h-[123rem] mb-[4rem];
+    @apply w-[122rem] h-[123rem] mb-[4rem] relative;
 }
 .premium__title_content{
     @apply flex flex-col gap-[8rem] ml-[-8rem]; 

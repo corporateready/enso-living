@@ -25,7 +25,7 @@
 .styles-module-scss-module__Hd5hTG__premium__title_image {
   width: 124rem;
   height: 106rem;
-  display: inline-block;
+  position: relative;
 }
 
 .styles-module-scss-module__Hd5hTG__premium__title_content {

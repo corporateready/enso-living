@@ -5,12 +5,13 @@ import Image from "next/image";
 const Index = () => {
   return (
     <div className={styles.section}>
-      <div className="w-full h-[1274rem]">
+      <div className="w-full h-[1274rem] relative">
         <Image
           src="/desktop-location.avif"
           alt="enso living slide"
           priority={true}
           fill
+          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
         />
       </div>
       <div className={styles.head__content}>

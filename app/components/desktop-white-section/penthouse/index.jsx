@@ -15,7 +15,7 @@ const Index = () => {
                 loading="eager"
                 priority={true}
                 fill
-                sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
+                sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
               />
             </div>
             <div className={styles.head__content}>
@@ -269,6 +269,16 @@ const Index = () => {
           </div>
         </div>
         <div className={styles.rightside__line}>
+          <div className={styles.rightside__decor}>
+            <Image
+              src={"/right-side-decor-1.avif"}
+              alt="enso living decor"
+              loading="eager"
+              priority={true}
+              fill
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+            />
+          </div>
           <div className={styles.rightside__image}>
             <Image
               src={"/penthouse-title.avif"}
@@ -276,6 +286,7 @@ const Index = () => {
               loading="eager"
               priority={true}
               fill
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
             />
           </div>
         </div>

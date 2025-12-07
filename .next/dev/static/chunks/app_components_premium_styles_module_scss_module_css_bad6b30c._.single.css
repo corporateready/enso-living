@@ -23,9 +23,10 @@
 }
 
 .styles-module-scss-module__akdqcq__premium__title_image {
+  object-fit: cover;
   width: 124rem;
   height: 106rem;
-  display: inline-block;
+  position: relative;
 }
 
 .styles-module-scss-module__akdqcq__premium__title_content {
@@ -58,6 +59,7 @@
 
 .styles-module-scss-module__akdqcq__premium__inner_image {
   z-index: 1;
+  object-fit: cover;
   width: 380rem;
   height: 200rem;
   margin-top: 14rem;

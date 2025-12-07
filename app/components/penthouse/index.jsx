@@ -14,6 +14,7 @@ const Index = () => {
               loading="eager"
               priority={true}
               fill
+              sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
             />
           </div>
           <div className={styles.premium__title_content}>
@@ -33,6 +34,7 @@ const Index = () => {
               loading="eager"
               priority={true}
               fill
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
             />
             <div className={styles.box__dekor}>
               <svg

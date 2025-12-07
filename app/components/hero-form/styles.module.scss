@@ -1,0 +1,67 @@
+@reference "tailwindcss";
+.section {
+    @apply fixed top-0 left-0 z-0 w-full h-screen bg-[#fff]/50;
+    @media screen and (width >= 640px) {
+        @apply fixed top-0 left-0 z-0 w-full h-full bg-[#fff]/50;
+    }
+}
+.close__btn {
+    @apply absolute top-[20rem] right-[20rem] translate-0 z-6;
+    @media screen and (width >= 640px) {
+        @apply absolute top-[-44rem] right-[38rem] translate-0 z-6 hover:cursor-pointer;
+    }
+}
+.inner {
+    @apply relative top-1/2 left-1/2 -translate-1/2 z-5 bg-white w-[380rem] h-auto p-0 flex flex-col gap-[20rem] pb-[40rem];
+    @media screen and (width >= 640px) {
+        @apply relative top-1/2 left-1/2 -translate-1/2 z-5 bg-white w-[1440rem] h-auto p-[50rem] pr-[50rem] flex-row gap-[55rem];
+    }
+}
+.inner__image {
+    @apply relative w-full h-[324rem] ;
+    @media screen and (width >= 640px) {
+        @apply relative w-[600rem] h-[610rem];
+    }
+}
+.inner__content {
+    @media screen and (width >= 640px) {
+        @apply w-[685rem] h-[600rem];
+    }
+}
+.content__title_mobile {
+        @apply inline-block text-black text-[32rem] uppercase leading-[103%] -tracking-[1.8rem] absolute top-[172rem] left-0 z-2 ml-[30rem] w-full sm:hidden;
+}
+.content__title {
+    @apply hidden;
+    @media screen and (width >= 640px) {
+        @apply inline-block text-black text-[60rem] uppercase leading-[110%] -tracking-[3rem];
+    }
+}
+.content__subtitle {
+    @apply hidden;
+    @media screen and (width >= 640px) {
+        @apply inline-block text-black text-[60rem] uppercase leading-[110%] -tracking-[3rem] ml-[150rem];
+    }
+}
+.form__submit {
+    @apply relative z-3 flex flex-col w-full gap-[14rem] mt-[-20rem] items-center px-[30rem];
+    @media screen and (width >= 640px) {
+        @apply flex flex-col w-full mt-[20rem] items-end px-0;
+    }
+    input {
+        @apply w-full placeholder:text-[16rem] text-[#7D7F80] text-[16rem] bg-[#FAF9F8] py-[20rem] pl-[42rem] border-b-[1rem] border-black;
+        @media screen and (width >= 640px) {
+            @apply w-full placeholder:text-[18rem] text-[#7D7F80] text-[18rem] bg-[#FAF9F8] py-[20rem] pl-[60rem];
+        }
+    }
+}
+.offer__btn {
+    @apply w-full h-[57rem] text-white text-[16rem] leading-[100%] flex justify-end items-center gap-[20rem] rounded-full pr-[8rem] bg-[#667761] mt-[4rem];
+    .span__text {
+        @apply text-end;
+    }
+    @media screen and (width >= 640px) {
+        @apply w-[300rem] h-[80rem] text-white text-[26rem] leading-[100%] flex justify-end items-center gap-[20rem] rounded-full pr-[10rem] bg-[#667761] mt-0;
+    }
+
+}

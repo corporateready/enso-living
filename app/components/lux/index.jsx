@@ -5,7 +5,7 @@ import Image from "next/image";
 const Index = () => {
   return (
     <div className={styles.section}>
-      <Image src="/enso-living lux.avif" alt="enso living lux" priority="true" fill />
+      <Image src="/enso-living lux.avif" alt="enso living lux" priority="true" fill sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"/>
       <svg
         className="w-[1227rem] h-[343rem] absolute top-0 left-[300rem] translate-x-0 z-1"
         viewBox="0 0 1227 343"

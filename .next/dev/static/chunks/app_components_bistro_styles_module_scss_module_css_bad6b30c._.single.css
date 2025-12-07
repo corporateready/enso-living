@@ -25,7 +25,7 @@
 .styles-module-scss-module__zH4gHq__premium__title_image {
   width: 95rem;
   height: 106rem;
-  display: inline-block;
+  position: relative;
 }
 
 .styles-module-scss-module__zH4gHq__premium__title_content {
@@ -77,6 +77,27 @@
   font-size: 12rem;
   display: inline-flex;
   position: absolute;
+}
+
+.styles-module-scss-module__zH4gHq__hero__btn {
+  --tw-leading: 120%;
+  width: 380rem;
+  height: 68rem;
+  color: var(--color-white, #fff);
+  background-color: #667761;
+  border-radius: 3.40282e38px;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 49rem;
+  margin-top: 30rem;
+  padding-right: 8rem;
+  font-size: 20rem;
+  line-height: 120%;
+  display: flex;
+}
+
+.styles-module-scss-module__zH4gHq__hero__btn .styles-module-scss-module__zH4gHq__span__text {
+  text-align: center;
 }
 
 @property --tw-leading {
