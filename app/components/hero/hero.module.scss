@@ -24,7 +24,7 @@
     @apply text-white text-[66rem] uppercase font-normal w-fit leading-[90%] absolute top-[112rem] left-[18rem] z-2 flex flex-col;
     letter-spacing: -3rem;
     @media screen and (width >= 640px) {
-        @apply text-[160rem] absolute top-[168rem] left-[100rem] z-1 tracking-tighter;
+        @apply text-[160rem] absolute top-[168rem] left-[85rem] z-1 tracking-tighter;
         // letter-spacing: -5rem;
     }
 }

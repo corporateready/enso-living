@@ -1,5 +1,6 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
+import GoogleTagManager from "./components/GoogleTagManager";
 
 const inter = Inter({
   variable: "--font-inter-sans",
@@ -22,6 +23,7 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
+  const GTM_ID = "GTM-5ZS2J3NB";
   return (
     <html lang="en" data-scroll-behavior="smooth">
       <head>
@@ -45,6 +47,19 @@ export default function RootLayout({ children }) {
           href="/favicon_io/favicon-16x16.png"
         />
         <link rel="manifest" href="/favicon_io/site.webmanifest" />
+        <GoogleTagManager gtmId={GTM_ID} />
+        <noscript
+          dangerouslySetInnerHTML={{
+            __html:`
+            <iframe src="https://www.googletagmanager.com/ns.html?id=${GTM_ID}"
+                    height="0" 
+                    width="0" 
+                    style="display:none;visibility:hidden">
+            </iframe>
+            `
+          }}
+        />
+
       </head>
       <body
         className={`${inter.variable} antialiased`}

@@ -1,14 +1,65 @@
+"use client"
 import React from "react";
 import styles from "./styles.module.scss";
 import Image from "next/image";
 import { useMediaQuery } from "react-responsive";
+import { PhoneInput } from "react-international-phone";
+import "react-international-phone/style.css";
+import { useRouter } from "next/navigation";
 
 export const HeroForm = ({ handlerFormOpen }) => {
-    const isMobile = useMediaQuery({query: "(max-width : 640px)"})
+
+  const router = useRouter();
+
+  const isMobile = useMediaQuery({
+    query: "(max-width: 640px)",
+  });
+
+  const [name, setName] = React.useState("");
+  const [email, setEmail] = React.useState("");
+  const [phone, setPhone] = React.useState("");
+  const [isFormSubmitted, setIsFormSubmitted] = React.useState(false);
+  const [isDisabled, setIsDisabled] = React.useState(false);
+  
+  const handleChangeName = (e) => {
+    setName(e.target.value);
+  };
+
+  const handleChangeEmail = (e) => {
+    setEmail(e.target.value);
+  };
+
+  const handleChangePhone = (value) => {
+    let cleanedValue = value.replace(/^\+0+/, "+40");
+    cleanedValue = cleanedValue.replace(/^\+3730/, "+40");
+
+    setPhone(cleanedValue);
+  };
+
+  React.useEffect(()=>{
+    if(name.length >= 3 && email.match("@") && phone.length >= 12) {
+      setIsDisabled(true);
+    }
+  }, [name,email, phone, isDisabled])
+
+  const formSubmitTrack = () => {
+    if(typeof window !== "undefined" && window.posthog)
+    window.posthog.capture("form_submitted", {
+      name: name,
+      phone: phone,
+      email: email,
+    });
+
+    if (!isFormSubmitted) {
+      setIsFormSubmitted(true);
+      router.push("/thank-you-ro");
+    }
+  };
+    
   return (
     <div onClick={handlerFormOpen} className={styles.section}>
       <div className="absolute top-0 left-0 z-1 bg-black/20 inset-0 backdrop-blur-[5px]"></div>
-      <div className={styles.inner}>
+      <div className={styles.inner} onClick={e => {e.stopPropagation()}}>
         <button
           type="button"
           onClick={handlerFormOpen}
@@ -74,10 +125,37 @@ export const HeroForm = ({ handlerFormOpen }) => {
             className={styles.form__submit}
           >
             <input type="text" name="name" placeholder="Nume, Prenume" />
-            <input type="email" name="name" placeholder="E-mail" />
-            <input type="tel" name="name" placeholder="+40" />
+            <input type="email" name="email" placeholder="E-mail" />
+            <div className={styles.phone__input}>
+              <PhoneInput
+                name="phone"
+                defaultCountry="ro"
+                style={{
+                  "--react-international-phone-background-color":
+                    "#F4F2F2",
+                  "--react-international-phone-text-color": "#000",
+                  "--react-international-phone-border-color": "transparent",
+                  "--react-international-phone-border-radius": "0%",
+                  "--react-international-phone-width": "100%",
+                  "--react-international-phone-height": `${
+                    isMobile ? "43rem" : "62rem"
+                  }`,
+                  "--react-international-phone-dropdown-item-background-color":
+                    "#FAF9F8",
+                  "--react-international-phone-dropdown-top": isMobile
+                    ? "45rem"
+                    : "62rem",
+                  "--react-international-phone-font-size": `${
+                    isMobile ? "16px" : "18rem"
+                  }`,
+                }}
+                value={phone}
+                onChange={handleChangePhone}
+              />
+            </div>
             <button type="button" className={styles.offer__btn}>
-              <span className={styles.span__text}>Solicită oferta <span className="inline-block sm:hidden">pentru oficii</span></span>
+              {/* <span className={styles.span__text}>Solicită oferta <span className="inline-block sm:hidden">pentru oficii</span></span> */}
+              <span className={styles.span__text}>Descarcă acum prezentarea PDF</span>
               <svg
                 className="sw-[42rem] h-[42rem] m:w-[61rem] sm:h-[61rem]"
                 viewBox="0 0 61 61"

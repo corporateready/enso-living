@@ -10917,6 +10917,7 @@ __turbopack_context__.v({
   "inner__content": "styles-module-scss-module__J3jfTa__inner__content",
   "inner__image": "styles-module-scss-module__J3jfTa__inner__image",
   "offer__btn": "styles-module-scss-module__J3jfTa__offer__btn",
+  "phone__input": "styles-module-scss-module__J3jfTa__phone__input",
   "section": "styles-module-scss-module__J3jfTa__section",
   "span__text": "styles-module-scss-module__J3jfTa__span__text",
 });
@@ -10933,17 +10934,63 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$hero$2d$form$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__ = __turbopack_context__.i("[project]/app/components/hero-form/styles.module.scss [app-client] (css module)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$responsive$2f$dist$2f$esm$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/react-responsive/dist/esm/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$international$2d$phone$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/react-international-phone/dist/index.mjs [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$navigation$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/navigation.js [app-client] (ecmascript)");
 ;
 var _s = __turbopack_context__.k.signature();
+"use client";
+;
+;
+;
 ;
 ;
 ;
 ;
 const HeroForm = ({ handlerFormOpen })=>{
     _s();
+    const router = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$navigation$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRouter"])();
     const isMobile = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$responsive$2f$dist$2f$esm$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useMediaQuery"])({
-        query: "(max-width : 640px)"
+        query: "(max-width: 640px)"
     });
+    const [name, setName] = __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"].useState("");
+    const [email, setEmail] = __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"].useState("");
+    const [phone, setPhone] = __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"].useState("");
+    const [isFormSubmitted, setIsFormSubmitted] = __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"].useState(false);
+    const [isDisabled, setIsDisabled] = __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"].useState(false);
+    const handleChangeName = (e)=>{
+        setName(e.target.value);
+    };
+    const handleChangeEmail = (e)=>{
+        setEmail(e.target.value);
+    };
+    const handleChangePhone = (value)=>{
+        let cleanedValue = value.replace(/^\+0+/, "+40");
+        cleanedValue = cleanedValue.replace(/^\+3730/, "+40");
+        setPhone(cleanedValue);
+    };
+    __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"].useEffect({
+        "HeroForm.useEffect": ()=>{
+            if (name.length >= 3 && email.match("@") && phone.length >= 12) {
+                setIsDisabled(true);
+            }
+        }
+    }["HeroForm.useEffect"], [
+        name,
+        email,
+        phone,
+        isDisabled
+    ]);
+    const formSubmitTrack = ()=>{
+        if (("TURBOPACK compile-time value", "object") !== "undefined" && window.posthog) window.posthog.capture("form_submitted", {
+            name: name,
+            phone: phone,
+            email: email
+        });
+        if (!isFormSubmitted) {
+            setIsFormSubmitted(true);
+            router.push("/thank-you-ro");
+        }
+    };
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         onClick: handlerFormOpen,
         className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$hero$2d$form$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].section,
@@ -10952,11 +10999,14 @@ const HeroForm = ({ handlerFormOpen })=>{
                 className: "absolute top-0 left-0 z-1 bg-black/20 inset-0 backdrop-blur-[5px]"
             }, void 0, false, {
                 fileName: "[project]/app/components/hero-form/index.jsx",
-                lineNumber: 10,
+                lineNumber: 61,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$hero$2d$form$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].inner,
+                onClick: (e)=>{
+                    e.stopPropagation();
+                },
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                         type: "button",
@@ -10976,7 +11026,7 @@ const HeroForm = ({ handlerFormOpen })=>{
                                     suppressHydrationWarning: true
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/hero-form/index.jsx",
-                                    lineNumber: 23,
+                                    lineNumber: 74,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -10987,18 +11037,18 @@ const HeroForm = ({ handlerFormOpen })=>{
                                     suppressHydrationWarning: true
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/hero-form/index.jsx",
-                                    lineNumber: 30,
+                                    lineNumber: 81,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/components/hero-form/index.jsx",
-                            lineNumber: 17,
+                            lineNumber: 68,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     }, void 0, false, {
                         fileName: "[project]/app/components/hero-form/index.jsx",
-                        lineNumber: 12,
+                        lineNumber: 63,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -11013,7 +11063,7 @@ const HeroForm = ({ handlerFormOpen })=>{
                                 sizes: "(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/hero-form/index.jsx",
-                                lineNumber: 40,
+                                lineNumber: 91,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -11025,13 +11075,13 @@ const HeroForm = ({ handlerFormOpen })=>{
                                 sizes: "(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/hero-form/index.jsx",
-                                lineNumber: 48,
+                                lineNumber: 99,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/components/hero-form/index.jsx",
-                        lineNumber: 39,
+                        lineNumber: 90,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -11044,14 +11094,14 @@ const HeroForm = ({ handlerFormOpen })=>{
                                     "",
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                        lineNumber: 61,
+                                        lineNumber: 112,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     "de contact"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/components/hero-form/index.jsx",
-                                lineNumber: 59,
+                                lineNumber: 110,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -11061,14 +11111,14 @@ const HeroForm = ({ handlerFormOpen })=>{
                                     "",
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                        lineNumber: 66,
+                                        lineNumber: 117,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     "exclusive"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/components/hero-form/index.jsx",
-                                lineNumber: 64,
+                                lineNumber: 115,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -11076,7 +11126,7 @@ const HeroForm = ({ handlerFormOpen })=>{
                                 children: "Lasă-ne datele de contact și primești detalii exclusive"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/hero-form/index.jsx",
-                                lineNumber: 69,
+                                lineNumber: 120,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
@@ -11089,25 +11139,44 @@ const HeroForm = ({ handlerFormOpen })=>{
                                         placeholder: "Nume, Prenume"
                                     }, void 0, false, {
                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                        lineNumber: 76,
+                                        lineNumber: 127,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
                                         type: "email",
-                                        name: "name",
+                                        name: "email",
                                         placeholder: "E-mail"
                                     }, void 0, false, {
                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                        lineNumber: 77,
+                                        lineNumber: 128,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
-                                        type: "tel",
-                                        name: "name",
-                                        placeholder: "+40"
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$hero$2d$form$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].phone__input,
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$international$2d$phone$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["PhoneInput"], {
+                                            name: "phone",
+                                            defaultCountry: "ro",
+                                            style: {
+                                                "--react-international-phone-background-color": "#F4F2F2",
+                                                "--react-international-phone-text-color": "#000",
+                                                "--react-international-phone-border-color": "transparent",
+                                                "--react-international-phone-border-radius": "0%",
+                                                "--react-international-phone-width": "100%",
+                                                "--react-international-phone-height": `${isMobile ? "43rem" : "62rem"}`,
+                                                "--react-international-phone-dropdown-item-background-color": "#FAF9F8",
+                                                "--react-international-phone-dropdown-top": isMobile ? "45rem" : "62rem",
+                                                "--react-international-phone-font-size": `${isMobile ? "16px" : "18rem"}`
+                                            },
+                                            value: phone,
+                                            onChange: handleChangePhone
+                                        }, void 0, false, {
+                                            fileName: "[project]/app/components/hero-form/index.jsx",
+                                            lineNumber: 130,
+                                            columnNumber: 15
+                                        }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                        lineNumber: 78,
+                                        lineNumber: 129,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -11116,20 +11185,10 @@ const HeroForm = ({ handlerFormOpen })=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$hero$2d$form$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].span__text,
-                                                children: [
-                                                    "Solicită oferta ",
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        className: "inline-block sm:hidden",
-                                                        children: "pentru oficii"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/app/components/hero-form/index.jsx",
-                                                        lineNumber: 80,
-                                                        columnNumber: 67
-                                                    }, ("TURBOPACK compile-time value", void 0))
-                                                ]
-                                            }, void 0, true, {
+                                                children: "Descarcă acum prezentarea PDF"
+                                            }, void 0, false, {
                                                 fileName: "[project]/app/components/hero-form/index.jsx",
-                                                lineNumber: 80,
+                                                lineNumber: 158,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
@@ -11145,7 +11204,7 @@ const HeroForm = ({ handlerFormOpen })=>{
                                                         stroke: "white"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                                        lineNumber: 87,
+                                                        lineNumber: 165,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -11155,7 +11214,7 @@ const HeroForm = ({ handlerFormOpen })=>{
                                                         strokeLinejoin: "round"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                                        lineNumber: 88,
+                                                        lineNumber: 166,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -11165,7 +11224,7 @@ const HeroForm = ({ handlerFormOpen })=>{
                                                         strokeLinejoin: "round"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                                        lineNumber: 94,
+                                                        lineNumber: 172,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -11175,7 +11234,7 @@ const HeroForm = ({ handlerFormOpen })=>{
                                                         strokeLinejoin: "round"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                                        lineNumber: 100,
+                                                        lineNumber: 178,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -11185,48 +11244,49 @@ const HeroForm = ({ handlerFormOpen })=>{
                                                         strokeLinejoin: "round"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                                        lineNumber: 106,
+                                                        lineNumber: 184,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/app/components/hero-form/index.jsx",
-                                                lineNumber: 81,
+                                                lineNumber: 159,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                        lineNumber: 79,
+                                        lineNumber: 156,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/components/hero-form/index.jsx",
-                                lineNumber: 72,
+                                lineNumber: 123,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/components/hero-form/index.jsx",
-                        lineNumber: 58,
+                        lineNumber: 109,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/hero-form/index.jsx",
-                lineNumber: 11,
+                lineNumber: 62,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
     }, void 0, true, {
         fileName: "[project]/app/components/hero-form/index.jsx",
-        lineNumber: 9,
+        lineNumber: 60,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };
-_s(HeroForm, "7khsyUHgctuHIPa2/KlDS6LcnT0=", false, function() {
+_s(HeroForm, "L1T5jehA2ub2dP4XRKmDLBFxbEs=", false, function() {
     return [
+        __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$navigation$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRouter"],
         __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$responsive$2f$dist$2f$esm$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useMediaQuery"]
     ];
 });

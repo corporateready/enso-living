@@ -55,13 +55,31 @@
         }
     }
 }
+.phone__input {
+    @apply relative z-3 bg-[#faf9f8] p-0;
+  
+    &:before {
+      content: "";
+      position: absolute;
+      z-index: 4;
+      top: 0;
+      left: 48rem;
+      width: 0rem;
+      height: 100%;
+      background: #000;
+    }
+  
+    @media screen and (width >= 640px) {
+      @apply h-[40px] w-full;
+    }
+  }
 .offer__btn {
-    @apply w-full h-[57rem] text-white text-[16rem] leading-[100%] flex justify-end items-center gap-[20rem] rounded-full pr-[8rem] bg-[#667761] mt-[4rem];
+    @apply w-full h-[57rem] text-white text-[16rem] leading-[100%] flex justify-end items-center gap-[10rem] rounded-full pr-[8rem] bg-[#667761] mt-[4rem];
     .span__text {
         @apply text-end;
     }
     @media screen and (width >= 640px) {
-        @apply w-[300rem] h-[80rem] text-white text-[26rem] leading-[100%] flex justify-end items-center gap-[20rem] rounded-full pr-[10rem] bg-[#667761] mt-0;
+        @apply w-[532rem] h-[80rem] text-white text-[26rem] leading-[100%] flex justify-end items-center gap-[20rem] rounded-full pr-[10rem] bg-[#667761] mt-[20rem];
     }
 
 }

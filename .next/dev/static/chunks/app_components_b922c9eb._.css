@@ -78,7 +78,7 @@
     font-size: 160rem;
     position: absolute;
     top: 168rem;
-    left: 100rem;
+    left: 85rem;
   }
 }
 
@@ -3014,7 +3014,6 @@
   font-weight: var(--font-weight-normal, 400);
   color: var(--color-black, #000);
   letter-spacing: -4rem;
-  margin-top: 148rem;
   margin-left: 240rem;
 }
 
