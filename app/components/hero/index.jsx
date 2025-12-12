@@ -51,7 +51,7 @@ const Hero = ({ handlerFormOpen }) => {
       <Image
         src="/hero-bg-mobile.avif"
         alt="hero mobile background"
-        loading="eager"
+        loading="lazy"
         fill
         className="inline-block absolute top-0 left-0 translate-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover sm:hidden"
         sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
@@ -59,7 +59,7 @@ const Hero = ({ handlerFormOpen }) => {
       <Image
         src="/hero-bg-desktop.avif"
         alt="hero desktop background"
-        loading="eager"
+        loading="lazy"
         fill
         className="hidden absolute top-0 left-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover sm:inline-block"
         sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"

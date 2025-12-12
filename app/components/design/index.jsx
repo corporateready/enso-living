@@ -9,7 +9,7 @@ const Index = () => {
         <p className={styles.top__text}>
         <span className={styles.text__1}>Design interior
         <br />premium by ARUTIN</span>
-        <span className={styles.text__2}>  Art Bureau </span><br />
+        <span className={styles.text__2}>  Art Bureau </span>
         <span className={styles.text__3}>pentru locuințe
         <br />cu identitate</span>
         </p>

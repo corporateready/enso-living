@@ -131,7 +131,7 @@ const Hero = ({ handlerFormOpen })=>{
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                 src: "/hero-bg-mobile.avif",
                 alt: "hero mobile background",
-                loading: "eager",
+                loading: "lazy",
                 fill: true,
                 className: "inline-block absolute top-0 left-0 translate-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover sm:hidden",
                 sizes: "(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
@@ -143,7 +143,7 @@ const Hero = ({ handlerFormOpen })=>{
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                 src: "/hero-bg-desktop.avif",
                 alt: "hero desktop background",
-                loading: "eager",
+                loading: "lazy",
                 fill: true,
                 className: "hidden absolute top-0 left-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover sm:inline-block",
                 sizes: "(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
@@ -3681,116 +3681,14 @@ const MobileSlider = (props)=>{
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "w-[68rem] h-[68rem] absolute bottom-[-24rem] left-1/2 -translate-1/2 z-1",
-                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-                    className: "w-full h-full",
-                    viewBox: "0 0 68 68",
-                    fill: "none",
-                    xmlns: "http://www.w3.org/2000/svg",
-                    children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("foreignObject", {
-                            x: "-2.8",
-                            y: "-2.8",
-                            width: "73.6",
-                            height: "73.6",
-                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                xmlns: "http://www.w3.org/1999/xhtml",
-                                style: {
-                                    backdropFilter: "blur(1.4px)",
-                                    clipPath: "url(#bgblur_0_847_139_clip_path)",
-                                    height: "100%",
-                                    width: "100%"
-                                }
-                            }, void 0, false, {
-                                fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                                lineNumber: 35,
-                                columnNumber: 11
-                            }, ("TURBOPACK compile-time value", void 0))
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                            lineNumber: 34,
-                            columnNumber: 9
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("circle", {
-                            "data-figma-bg-blur-radius": "2.8",
-                            cx: "34",
-                            cy: "34",
-                            r: "34",
-                            fill: "white",
-                            fillOpacity: "0.46"
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                            lineNumber: 42,
-                            columnNumber: 9
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                            d: "M51 19.0176H37",
-                            stroke: "black",
-                            strokeMiterlimit: "10",
-                            strokeLinecap: "round",
-                            strokeLinejoin: "round"
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                            lineNumber: 50,
-                            columnNumber: 9
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                            d: "M48 16.0059L51 19.0166L48 22.0274",
-                            stroke: "black",
-                            strokeMiterlimit: "10",
-                            strokeLinecap: "round",
-                            strokeLinejoin: "round"
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                            lineNumber: 57,
-                            columnNumber: 9
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                            d: "M40 16.0059L37 19.0166L40 22.0274",
-                            stroke: "black",
-                            strokeMiterlimit: "10",
-                            strokeLinecap: "round",
-                            strokeLinejoin: "round"
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                            lineNumber: 64,
-                            columnNumber: 9
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                            d: "M24 33.0681C24 31.4052 22.657 30.0573 21 30.0573C19.343 30.0573 18 31.4052 18 33.0681V43.1039C18 51.4176 24.716 58.1577 33 58.1577C41.284 58.1577 48 51.4176 48 43.1039V35.0753C48 33.4123 46.657 32.0645 45 32.0645C43.343 32.0645 42 33.4123 42 35.0753V33.0681C42 31.4052 40.657 30.0573 39 30.0573C37.343 30.0573 36 31.4052 36 33.0681V31.0609C36 29.398 34.657 28.0502 33 28.0502C31.343 28.0502 30 29.398 30 31.0609V17.0108C30 15.3478 28.657 14 27 14C25.343 14 24 15.3478 24 17.0108V40.0932V33.0681Z",
-                            stroke: "#1A1717",
-                            strokeMiterlimit: "10",
-                            strokeLinecap: "round",
-                            strokeLinejoin: "round"
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                            lineNumber: 71,
-                            columnNumber: 9
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("defs", {
-                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("clipPath", {
-                                id: "bgblur_0_847_139_clip_path",
-                                transform: "translate(2.8 2.8)",
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("circle", {
-                                    cx: "34",
-                                    cy: "34",
-                                    r: "34"
-                                }, void 0, false, {
-                                    fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                                    lineNumber: 83,
-                                    columnNumber: 13
-                                }, ("TURBOPACK compile-time value", void 0))
-                            }, void 0, false, {
-                                fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                                lineNumber: 79,
-                                columnNumber: 11
-                            }, ("TURBOPACK compile-time value", void 0))
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                            lineNumber: 78,
-                            columnNumber: 9
-                        }, ("TURBOPACK compile-time value", void 0))
-                    ]
-                }, void 0, true, {
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                    src: "/slider-navigate.avif",
+                    alt: "hero mobi",
+                    loading: "eager",
+                    priority: true,
+                    fill: true,
+                    sizes: "(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
+                }, void 0, false, {
                     fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
                     lineNumber: 28,
                     columnNumber: 7
@@ -3817,27 +3715,27 @@ const MobileSlider = (props)=>{
                                     sizes: "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                                    lineNumber: 94,
+                                    lineNumber: 43,
                                     columnNumber: 17
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                                lineNumber: 93,
+                                lineNumber: 42,
                                 columnNumber: 15
                             }, ("TURBOPACK compile-time value", void 0))
                         }, slide.id, false, {
                             fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                            lineNumber: 92,
+                            lineNumber: 41,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)))
                 }, void 0, false, {
                     fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                    lineNumber: 90,
+                    lineNumber: 39,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                lineNumber: 89,
+                lineNumber: 38,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -4152,119 +4050,17 @@ const MobileSlider = (props)=>{
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "w-[68rem] h-[68rem] absolute bottom-[-24rem] left-1/2 -translate-1/2 z-1",
-                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-                    className: "w-full h-full",
-                    viewBox: "0 0 68 68",
-                    fill: "none",
-                    xmlns: "http://www.w3.org/2000/svg",
-                    children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("foreignObject", {
-                            x: "-2.8",
-                            y: "-2.8",
-                            width: "73.6",
-                            height: "73.6",
-                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                xmlns: "http://www.w3.org/1999/xhtml",
-                                style: {
-                                    backdropFilter: "blur(1.4px)",
-                                    clipPath: "url(#bgblur_0_847_139_clip_path)",
-                                    height: "100%",
-                                    width: "100%"
-                                }
-                            }, void 0, false, {
-                                fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                                lineNumber: 37,
-                                columnNumber: 13
-                            }, ("TURBOPACK compile-time value", void 0))
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                            lineNumber: 36,
-                            columnNumber: 11
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("circle", {
-                            "data-figma-bg-blur-radius": "2.8",
-                            cx: "34",
-                            cy: "34",
-                            r: "34",
-                            fill: "white",
-                            fillOpacity: "0.46"
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                            lineNumber: 47,
-                            columnNumber: 11
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                            d: "M51 19.0176H37",
-                            stroke: "black",
-                            strokeMiterlimit: "10",
-                            strokeLinecap: "round",
-                            strokeLinejoin: "round"
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                            lineNumber: 55,
-                            columnNumber: 11
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                            d: "M48 16.0059L51 19.0166L48 22.0274",
-                            stroke: "black",
-                            strokeMiterlimit: "10",
-                            strokeLinecap: "round",
-                            strokeLinejoin: "round"
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                            lineNumber: 62,
-                            columnNumber: 11
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                            d: "M40 16.0059L37 19.0166L40 22.0274",
-                            stroke: "black",
-                            strokeMiterlimit: "10",
-                            strokeLinecap: "round",
-                            strokeLinejoin: "round"
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                            lineNumber: 69,
-                            columnNumber: 11
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                            d: "M24 33.0681C24 31.4052 22.657 30.0573 21 30.0573C19.343 30.0573 18 31.4052 18 33.0681V43.1039C18 51.4176 24.716 58.1577 33 58.1577C41.284 58.1577 48 51.4176 48 43.1039V35.0753C48 33.4123 46.657 32.0645 45 32.0645C43.343 32.0645 42 33.4123 42 35.0753V33.0681C42 31.4052 40.657 30.0573 39 30.0573C37.343 30.0573 36 31.4052 36 33.0681V31.0609C36 29.398 34.657 28.0502 33 28.0502C31.343 28.0502 30 29.398 30 31.0609V17.0108C30 15.3478 28.657 14 27 14C25.343 14 24 15.3478 24 17.0108V40.0932V33.0681Z",
-                            stroke: "#1A1717",
-                            strokeMiterlimit: "10",
-                            strokeLinecap: "round",
-                            strokeLinejoin: "round"
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                            lineNumber: 76,
-                            columnNumber: 11
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("defs", {
-                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("clipPath", {
-                                id: "bgblur_0_847_139_clip_path",
-                                transform: "translate(2.8 2.8)",
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("circle", {
-                                    cx: "34",
-                                    cy: "34",
-                                    r: "34"
-                                }, void 0, false, {
-                                    fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                                    lineNumber: 88,
-                                    columnNumber: 15
-                                }, ("TURBOPACK compile-time value", void 0))
-                            }, void 0, false, {
-                                fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                                lineNumber: 84,
-                                columnNumber: 13
-                            }, ("TURBOPACK compile-time value", void 0))
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                            lineNumber: 83,
-                            columnNumber: 11
-                        }, ("TURBOPACK compile-time value", void 0))
-                    ]
-                }, void 0, true, {
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                    src: "/slider-navigate.avif",
+                    alt: "hero mobi",
+                    loading: "eager",
+                    priority: true,
+                    fill: true,
+                    sizes: "(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
+                }, void 0, false, {
                     fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
                     lineNumber: 30,
-                    columnNumber: 9
+                    columnNumber: 7
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
@@ -4289,27 +4085,27 @@ const MobileSlider = (props)=>{
                                     sizes: "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                                    lineNumber: 98,
+                                    lineNumber: 44,
                                     columnNumber: 17
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                                lineNumber: 97,
+                                lineNumber: 43,
                                 columnNumber: 15
                             }, ("TURBOPACK compile-time value", void 0))
                         }, slide.id, false, {
                             fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                            lineNumber: 96,
+                            lineNumber: 42,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)))
                 }, void 0, false, {
                     fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                    lineNumber: 94,
+                    lineNumber: 40,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                lineNumber: 93,
+                lineNumber: 39,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -4587,11 +4383,6 @@ const Index = ()=>{
                             fileName: "[project]/app/components/design/index.jsx",
                             lineNumber: 12,
                             columnNumber: 9
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                            fileName: "[project]/app/components/design/index.jsx",
-                            lineNumber: 12,
-                            columnNumber: 62
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                             className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$design$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].text__3,
@@ -8174,7 +7965,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop
 ;
 ;
 ;
-const Index = ()=>{
+const Index = ({ handlerFormOpen })=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$penthouse$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].section,
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -8259,6 +8050,7 @@ const Index = ()=>{
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                             type: "button",
                                             className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$penthouse$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].offer__btn,
+                                            onClick: handlerFormOpen,
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                     className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$penthouse$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].span__text,
@@ -9348,7 +9140,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop
 ;
 ;
 ;
-const Index = ()=>{
+const Index = ({ handlerFormOpen })=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$duplex$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].section,
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -9434,6 +9226,7 @@ const Index = ()=>{
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                         type: "button",
                                         className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$duplex$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].offer__btn,
+                                        onClick: handlerFormOpen,
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$duplex$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].span__text,
@@ -9922,7 +9715,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop
 ;
 ;
 ;
-const Index = ()=>{
+const Index = ({ handlerFormOpen })=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$apartment$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].section,
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -9998,6 +9791,7 @@ const Index = ()=>{
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                         type: "button",
                                         className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$apartment$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].offer__btn,
+                                        onClick: handlerFormOpen,
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$apartment$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].span__text,
@@ -10227,7 +10021,7 @@ const PrevButton = (props)=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-                className: "w-[15rem] h-[67rem] relative z-4",
+                className: "w-[15rem] h-[67rem] relative z-4 ml-[40rem]",
                 viewBox: "0 0 20 76",
                 fill: "none",
                 xmlns: "http://www.w3.org/2000/svg",
@@ -10237,8 +10031,8 @@ const PrevButton = (props)=>{
                     strokeLinecap: "round"
                 }, void 0, false, {
                     fileName: "[project]/app/components/desktop-slider/desktop-slider/EmblaCarouselArrowButtons.jsx",
-                    lineNumber: 48,
-                    columnNumber: 1
+                    lineNumber: 53,
+                    columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/app/components/desktop-slider/desktop-slider/EmblaCarouselArrowButtons.jsx",
@@ -10265,11 +10059,11 @@ const NextButton = (props)=>{
                 className: "absolute top-0 left-0 z-2 bg-white/30 inset-0 backdrop-blur-[4px]"
             }, void 0, false, {
                 fileName: "[project]/app/components/desktop-slider/desktop-slider/EmblaCarouselArrowButtons.jsx",
-                lineNumber: 65,
+                lineNumber: 74,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-                className: "w-[15rem] h-[67rem] relative z-4",
+                className: "w-[15rem] h-[67rem] relative z-4 ml-[-60rem]",
                 viewBox: "0 0 15 67",
                 fill: "none",
                 xmlns: "http://www.w3.org/2000/svg",
@@ -10279,19 +10073,19 @@ const NextButton = (props)=>{
                     strokeLinecap: "round"
                 }, void 0, false, {
                     fileName: "[project]/app/components/desktop-slider/desktop-slider/EmblaCarouselArrowButtons.jsx",
-                    lineNumber: 67,
-                    columnNumber: 1
+                    lineNumber: 81,
+                    columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/app/components/desktop-slider/desktop-slider/EmblaCarouselArrowButtons.jsx",
-                lineNumber: 66,
+                lineNumber: 75,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             children
         ]
     }, void 0, true, {
         fileName: "[project]/app/components/desktop-slider/desktop-slider/EmblaCarouselArrowButtons.jsx",
-        lineNumber: 60,
+        lineNumber: 69,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };
@@ -10351,7 +10145,6 @@ const DesktopSlider = (props)=>{
         align: 'start',
         loop: false
     });
-    console.log("embla API ", emblaRef);
     const { prevBtnDisabled, nextBtnDisabled, onPrevButtonClick, onNextButtonClick } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$slider$2f$desktop$2d$slider$2f$EmblaCarouselArrowButtons$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["usePrevNextButtons"])(emblaApi);
     const slides = [
         {
@@ -10391,27 +10184,27 @@ const DesktopSlider = (props)=>{
                                     sizes: "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/desktop-slider/desktop-slider/index.jsx",
-                                    lineNumber: 45,
+                                    lineNumber: 43,
                                     columnNumber: 17
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/app/components/desktop-slider/desktop-slider/index.jsx",
-                                lineNumber: 43,
+                                lineNumber: 41,
                                 columnNumber: 15
                             }, ("TURBOPACK compile-time value", void 0))
                         }, slide.id, false, {
                             fileName: "[project]/app/components/desktop-slider/desktop-slider/index.jsx",
-                            lineNumber: 42,
+                            lineNumber: 40,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)))
                 }, void 0, false, {
                     fileName: "[project]/app/components/desktop-slider/desktop-slider/index.jsx",
-                    lineNumber: 40,
+                    lineNumber: 38,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/app/components/desktop-slider/desktop-slider/index.jsx",
-                lineNumber: 39,
+                lineNumber: 37,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -10424,7 +10217,7 @@ const DesktopSlider = (props)=>{
                             disabled: prevBtnDisabled
                         }, void 0, false, {
                             fileName: "[project]/app/components/desktop-slider/desktop-slider/index.jsx",
-                            lineNumber: 60,
+                            lineNumber: 58,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$slider$2f$desktop$2d$slider$2f$EmblaCarouselArrowButtons$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["NextButton"], {
@@ -10432,24 +10225,24 @@ const DesktopSlider = (props)=>{
                             disabled: nextBtnDisabled
                         }, void 0, false, {
                             fileName: "[project]/app/components/desktop-slider/desktop-slider/index.jsx",
-                            lineNumber: 61,
+                            lineNumber: 59,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/components/desktop-slider/desktop-slider/index.jsx",
-                    lineNumber: 59,
+                    lineNumber: 57,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/app/components/desktop-slider/desktop-slider/index.jsx",
-                lineNumber: 58,
+                lineNumber: 56,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
     }, void 0, true, {
         fileName: "[project]/app/components/desktop-slider/desktop-slider/index.jsx",
-        lineNumber: 38,
+        lineNumber: 36,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };
@@ -10599,7 +10392,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$imag
 ;
 ;
 ;
-const Index = ()=>{
+const Index = ({ handlerFormOpen })=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$location$2f$sytles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].section,
         children: [
@@ -10683,6 +10476,7 @@ const Index = ()=>{
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                         type: "button",
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$location$2f$sytles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].offer__btn,
+                        onClick: handlerFormOpen,
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                 className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$location$2f$sytles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].span__text,
@@ -11189,11 +10983,95 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
     __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
 }
 }),
-"[project]/app/components/desktop-white-section/index.jsx [app-client] (ecmascript)", ((__turbopack_context__, module, exports) => {
+"[project]/app/components/desktop-white-section/index.jsx [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
 
-const e = new Error("Could not parse module '[project]/app/components/desktop-white-section/index.jsx'\n\nExpression expected");
-e.code = 'MODULE_UNPARSABLE';
-throw e;
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__ = __turbopack_context__.i("[project]/app/components/desktop-white-section/styles.module.scss [app-client] (css module)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$penthouse$2f$index$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/app/components/desktop-white-section/penthouse/index.jsx [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$duplex$2f$index$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/app/components/desktop-white-section/duplex/index.jsx [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$apartment$2f$index$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/app/components/desktop-white-section/apartment/index.jsx [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$slider$2f$index$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/app/components/desktop-slider/index.jsx [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$location$2f$index$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/app/components/desktop-location/index.jsx [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$design$2f$index$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/app/components/desktop-white-section/design/index.jsx [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$developer$2f$index$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/app/components/desktop-white-section/developer/index.jsx [app-client] (ecmascript)");
+"use client";
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+const Index = ({ handlerFormOpen })=>{
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].section,
+        children: [
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$penthouse$2f$index$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                handlerFormOpen: handlerFormOpen
+            }, void 0, false, {
+                fileName: "[project]/app/components/desktop-white-section/index.jsx",
+                lineNumber: 15,
+                columnNumber: 7
+            }, ("TURBOPACK compile-time value", void 0)),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$duplex$2f$index$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                handlerFormOpen: handlerFormOpen
+            }, void 0, false, {
+                fileName: "[project]/app/components/desktop-white-section/index.jsx",
+                lineNumber: 16,
+                columnNumber: 7
+            }, ("TURBOPACK compile-time value", void 0)),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$apartment$2f$index$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                handlerFormOpen: handlerFormOpen
+            }, void 0, false, {
+                fileName: "[project]/app/components/desktop-white-section/index.jsx",
+                lineNumber: 17,
+                columnNumber: 7
+            }, ("TURBOPACK compile-time value", void 0)),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$design$2f$index$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
+                fileName: "[project]/app/components/desktop-white-section/index.jsx",
+                lineNumber: 18,
+                columnNumber: 7
+            }, ("TURBOPACK compile-time value", void 0)),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$developer$2f$index$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
+                fileName: "[project]/app/components/desktop-white-section/index.jsx",
+                lineNumber: 19,
+                columnNumber: 7
+            }, ("TURBOPACK compile-time value", void 0)),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$slider$2f$index$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
+                fileName: "[project]/app/components/desktop-white-section/index.jsx",
+                lineNumber: 20,
+                columnNumber: 7
+            }, ("TURBOPACK compile-time value", void 0)),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$location$2f$index$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                handlerFormOpen: handlerFormOpen
+            }, void 0, false, {
+                fileName: "[project]/app/components/desktop-white-section/index.jsx",
+                lineNumber: 21,
+                columnNumber: 7
+            }, ("TURBOPACK compile-time value", void 0))
+        ]
+    }, void 0, true, {
+        fileName: "[project]/app/components/desktop-white-section/index.jsx",
+        lineNumber: 14,
+        columnNumber: 5
+    }, ("TURBOPACK compile-time value", void 0));
+};
+_c = Index;
+const __TURBOPACK__default__export__ = Index;
+var _c;
+__turbopack_context__.k.register(_c, "Index");
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
 }),
 "[project]/app/components/footer/styles.module.scss [app-client] (css module)", ((__turbopack_context__) => {
 
@@ -12075,7 +11953,9 @@ function Home() {
                     lineNumber: 34,
                     columnNumber: 9
                 }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$index$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$index$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                    handlerFormOpen: handlerFormOpen
+                }, void 0, false, {
                     fileName: "[project]/app/page.js",
                     lineNumber: 35,
                     columnNumber: 9
