@@ -1,5 +1,5 @@
-[00:00:00.615] Server  LOG      ✓ Ready in 389ms
-[00:00:06.150] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
+[00:00:00.718] Server  LOG      ✓ Ready in 483ms
+[00:00:24.442] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -13,7 +13,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.151] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
+[00:00:24.442] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -27,7 +27,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.151] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
+[00:00:24.442] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -41,7 +41,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.151] Server  WARN     ⚠ ./public/desktop-duplex-inner-1.avif
+[00:00:24.442] Server  WARN     ⚠ ./public/desktop-duplex-inner-1.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -54,7 +54,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.152] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
+[00:00:24.442] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -67,7 +67,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.152] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
+[00:00:24.442] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -80,7 +80,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.152] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
+[00:00:24.442] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -93,7 +93,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.152] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
+[00:00:24.443] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -106,7 +106,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.152] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
+[00:00:24.443] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -120,7 +120,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.152] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
+[00:00:24.443] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -134,7 +134,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.152] Server  WARN     ⚠ ./public/desktop-slider-1.avif
+[00:00:24.443] Server  WARN     ⚠ ./public/desktop-slider-1.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -148,7 +148,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.152] Server  WARN     ⚠ ./public/desktop-slider-2.avif
+[00:00:24.443] Server  WARN     ⚠ ./public/desktop-slider-2.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -162,7 +162,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.152] Server  WARN     ⚠ ./public/desktop-slider-3.avif
+[00:00:24.443] Server  WARN     ⚠ ./public/desktop-slider-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -176,7 +176,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.152] Server  WARN     ⚠ ./public/desktop-slider-4.avif
+[00:00:24.443] Server  WARN     ⚠ ./public/desktop-slider-4.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -190,7 +190,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.153] Server  WARN     ⚠ ./public/duplex-inner.avif
+[00:00:24.444] Server  WARN     ⚠ ./public/duplex-inner.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -203,7 +203,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.153] Server  WARN     ⚠ ./public/landscape-slide-2.avif
+[00:00:24.444] Server  WARN     ⚠ ./public/landscape-slide-2.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -216,7 +216,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.153] Server  WARN     ⚠ ./public/landscape-slide-3.avif
+[00:00:24.444] Server  WARN     ⚠ ./public/landscape-slide-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -229,7 +229,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.153] Server  WARN     ⚠ ./public/landscape-slide-4.avif
+[00:00:24.444] Server  WARN     ⚠ ./public/landscape-slide-4.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -242,7 +242,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.153] Server  WARN     ⚠ ./public/landscape-slide.avif
+[00:00:24.444] Server  WARN     ⚠ ./public/landscape-slide.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -255,7 +255,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.153] Server  WARN     ⚠ ./public/mobile-apartment-inner-1.avif
+[00:00:24.444] Server  WARN     ⚠ ./public/mobile-apartment-inner-1.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -268,7 +268,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.153] Server  WARN     ⚠ ./public/mobile-apartment-inner-2.avif
+[00:00:24.444] Server  WARN     ⚠ ./public/mobile-apartment-inner-2.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -281,7 +281,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.153] Server  WARN     ⚠ ./public/mobile-apartment-inner-3.avif
+[00:00:24.444] Server  WARN     ⚠ ./public/mobile-apartment-inner-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -294,7 +294,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.153] Server  WARN     ⚠ ./public/mobile-apartment-inner-4.avif
+[00:00:24.444] Server  WARN     ⚠ ./public/mobile-apartment-inner-4.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -307,7 +307,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.153] Server  WARN     ⚠ ./public/mobile-apartment-inner-5.avif
+[00:00:24.444] Server  WARN     ⚠ ./public/mobile-apartment-inner-5.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -320,7 +320,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.153] Server  WARN     ⚠ ./public/mobile-apartment-inner-6.avif
+[00:00:24.445] Server  WARN     ⚠ ./public/mobile-apartment-inner-6.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -333,7 +333,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.153] Server  WARN     ⚠ ./public/mobile-apartment-inner-7.avif
+[00:00:24.445] Server  WARN     ⚠ ./public/mobile-apartment-inner-7.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -346,7 +346,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.866] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
+[00:00:24.878] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -360,7 +360,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.866] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
+[00:00:24.879] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -374,7 +374,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.867] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
+[00:00:24.879] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -388,7 +388,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.867] Server  WARN     ⚠ ./public/desktop-duplex-inner-1.avif
+[00:00:24.880] Server  WARN     ⚠ ./public/desktop-duplex-inner-1.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -401,7 +401,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.869] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
+[00:00:24.880] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -414,7 +414,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.869] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
+[00:00:24.880] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -427,7 +427,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.869] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
+[00:00:24.881] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -440,7 +440,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.877] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
+[00:00:24.881] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -453,7 +453,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.877] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
+[00:00:24.881] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -467,7 +467,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.878] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
+[00:00:24.881] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -481,7 +481,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.878] Server  WARN     ⚠ ./public/desktop-slider-1.avif
+[00:00:24.882] Server  WARN     ⚠ ./public/desktop-slider-1.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -495,7 +495,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.878] Server  WARN     ⚠ ./public/desktop-slider-2.avif
+[00:00:24.882] Server  WARN     ⚠ ./public/desktop-slider-2.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -509,7 +509,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.879] Server  WARN     ⚠ ./public/desktop-slider-3.avif
+[00:00:24.882] Server  WARN     ⚠ ./public/desktop-slider-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -523,7 +523,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.879] Server  WARN     ⚠ ./public/desktop-slider-4.avif
+[00:00:24.882] Server  WARN     ⚠ ./public/desktop-slider-4.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -537,7 +537,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.879] Server  WARN     ⚠ ./public/duplex-inner.avif
+[00:00:24.882] Server  WARN     ⚠ ./public/duplex-inner.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -550,7 +550,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.879] Server  WARN     ⚠ ./public/landscape-slide-2.avif
+[00:00:24.882] Server  WARN     ⚠ ./public/landscape-slide-2.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -563,7 +563,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.879] Server  WARN     ⚠ ./public/landscape-slide-3.avif
+[00:00:24.882] Server  WARN     ⚠ ./public/landscape-slide-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -576,7 +576,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.879] Server  WARN     ⚠ ./public/landscape-slide-4.avif
+[00:00:24.882] Server  WARN     ⚠ ./public/landscape-slide-4.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -589,7 +589,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.880] Server  WARN     ⚠ ./public/landscape-slide.avif
+[00:00:24.882] Server  WARN     ⚠ ./public/landscape-slide.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -602,7 +602,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.880] Server  WARN     ⚠ ./public/mobile-apartment-inner-1.avif
+[00:00:24.883] Server  WARN     ⚠ ./public/mobile-apartment-inner-1.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -615,7 +615,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.880] Server  WARN     ⚠ ./public/mobile-apartment-inner-2.avif
+[00:00:24.883] Server  WARN     ⚠ ./public/mobile-apartment-inner-2.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -628,7 +628,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.880] Server  WARN     ⚠ ./public/mobile-apartment-inner-3.avif
+[00:00:24.884] Server  WARN     ⚠ ./public/mobile-apartment-inner-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -641,7 +641,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.880] Server  WARN     ⚠ ./public/mobile-apartment-inner-4.avif
+[00:00:24.884] Server  WARN     ⚠ ./public/mobile-apartment-inner-4.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -654,7 +654,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.880] Server  WARN     ⚠ ./public/mobile-apartment-inner-5.avif
+[00:00:24.884] Server  WARN     ⚠ ./public/mobile-apartment-inner-5.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -667,7 +667,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.880] Server  WARN     ⚠ ./public/mobile-apartment-inner-6.avif
+[00:00:24.884] Server  WARN     ⚠ ./public/mobile-apartment-inner-6.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -680,7 +680,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:53.880] Server  WARN     ⚠ ./public/mobile-apartment-inner-7.avif
+[00:00:24.884] Server  WARN     ⚠ ./public/mobile-apartment-inner-7.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -693,7 +693,25 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.061] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
+[00:00:25.502] Browser LOG     [PostHog.js] set_config {"config":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"newConfig":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"oldConfig":{}}
+[00:00:25.502] Browser LOG     [PostHog.js] Persistence loaded localStorage {"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$capture_rate_limit":{"last":1765533905698,"tokens":99},"$client_session_props":{"props":{"r":"$direct","u":"http://localhost:3000/"},"sessionId":"019b11fe-f340-780c-b626-bc502a9f531c"},"$configured_session_timeout_ms":1800000,"$dead_clicks_enabled_server_side":false,"$device_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","$enabled_feature_flags":{},"$error_tracking_suppression_rules":[],"$exception_capture_enabled_server_side":false,"$feature_flag_details":{},"$feature_flag_evaluated_at":1765533890865,"$feature_flag_payloads":{},"$feature_flag_request_id":"f65ba1bd-23b7-4a74-b9e8-c3efa4b92204","$heatmaps_enabled_server_side":true,"$initial_person_info":{"r":"$direct","u":"http://localhost:3000/"},"$initialization_time":"2025-12-12T10:04:50.690Z","$sesid":[1765533905698,"019b11fe-f340-780c-b626-bc502a9f531c",1765533479742],"$user_state":"anonymous","$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"distinct_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","external_id":"null","fbp":"null","pageview_event_id":"null"}
+[00:00:25.502] Browser LOG     [PostHog.js] Persistence loaded sessionStorage {}
+[00:00:25.502] Browser LOG     [PostHog.js] Initializing extensions synchronously
+[00:00:25.502] Browser LOG     [PostHog.js] [Product Tours] Product tours disabled via config
+[00:00:25.502] Browser LOG     [PostHog.js] [Heatmaps] starting...
+[00:00:25.502] Browser LOG     [PostHog.js] [Web Vitals] enabled, starting...
+[00:00:25.502] Browser LOG     [PostHog.js] Starting in debug mode {"config":{"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"capture_pageleave":false,"capture_pageview":false,"debug":true,"disable_session_recording":false,"persistence":"localStorage","person_profiles":"identified_only"},"p":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$capture_rate_limit":{"last":1765533905698,"tokens":99},"$client_session_props":{"props":{"r":"$direct","u":"http://localhost:3000/"},"sessionId":"019b11fe-f340-780c-b626-bc502a9f531c"},"$configured_session_timeout_ms":1800000,"$dead_clicks_enabled_server_side":false,"$device_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","$enabled_feature_flags":{},"$error_tracking_suppression_rules":[],"$exception_capture_enabled_server_side":false,"$feature_flag_details":{},"$feature_flag_evaluated_at":1765533890865,"$feature_flag_payloads":{},"$feature_flag_request_id":"f65ba1bd-23b7-4a74-b9e8-c3efa4b92204","$heatmaps_enabled_server_side":true,"$initial_person_info":{"r":"$direct","u":"http://localhost:3000/"},"$initialization_time":"2025-12-12T10:04:50.690Z","$sesid":[1765533905698,"019b11fe-f340-780c-b626-bc502a9f531c",1765533479742],"$user_state":"anonymous","$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"distinct_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","external_id":"null","fbp":"null","pageview_event_id":"null"},"s":{},"this":{"Ar":{"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"capture_pageleave":false,"capture_pageview":false,"debug":true,"disable_session_recording":false,"persistence":"localStorage","person_profiles":"identified_only"},"Cr":null,"Dr":[],"Fr":"identified_only","Ir":false,"Lr":{"_e":3000,"ge":[],"pe":true},"Mr":null,"Rr":{"Ci":{"eventCaptured":[null]}},"Tr":false,"Ur":{"$e":true,"Ee":false,"Se":3000,"_instance":"[Circular]","ge":[]},"__loaded":true,"__request_queue":[],"analyticsDefaultEndpoint":"/e/","autocapture":{"I":null,"P":false,"R":false,"T":null,"instance":"[Circular]","rageclicks":{"clickCount":3,"clicks":[],"disabled":false,"thresholdPx":30,"timeoutMs":1000}},"compression":"gzip-js","config":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"consent":{"Z":{},"_instance":"[Circular]"},"deadClicksAutocapture":{"instance":"[Circular]"},"exceptionObserver":{"C":{"capture_console_errors":false,"capture_unhandled_errors":false,"capture_unhandled_rejections":false},"_instance":"[Circular]","dt":{"S":10000,"m":1,"o":10,"t":{}},"ut":false},"exceptions":{"Jt":[],"Kt":{"coercers":[{},{},{},{},{},{},{},{}],"modifiers":[]},"_instance":"[Circular]"},"experiments":{"_instance":"[Circular]"},"externalIntegrations":{"_instance":"[Circular]"},"featureFlags":{"_instance":"[Circular]","ai":false,"ei":false,"featureFlagEventHandlers":[null],"ii":false,"ni":false,"oi":false,"ri":false,"si":false},"heatmaps":{"It":48,"P":true,"St":true,"instance":"[Circular]","rageclicks":{"clickCount":3,"clicks":[],"disabled":false,"thresholdPx":30,"timeoutMs":1000},"zt":{"instance":"[Circular]"}},"historyAutocapture":{"_instance":"[Circular]","vt":"/"},"pageViewManager":{"_instance":"[Circular]"},"people":{},"persistence":{"$i":365,"C":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"Ei":true,"Si":false,"Y":{},"mi":false,"props":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$capture_rate_limit":{"last":1765533905698,"tokens":99},"$client_session_props":{"props":"[Object]","sessionId":"019b11fe-f340-780c-b626-bc502a9f531c"},"$configured_session_timeout_ms":1800000,"$dead_clicks_enabled_server_side":false,"$device_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","$enabled_feature_flags":{},"$error_tracking_suppression_rules":[],"$exception_capture_enabled_server_side":false,"$feature_flag_details":{},"$feature_flag_evaluated_at":1765533890865,"$feature_flag_payloads":{},"$feature_flag_request_id":"f65ba1bd-23b7-4a74-b9e8-c3efa4b92204","$heatmaps_enabled_server_side":true,"$initial_person_info":{"r":"$direct","u":"http://localhost:3000/"},"$initialization_time":"2025-12-12T10:40:26.729Z","$sesid":[1765533905698,"019b11fe-f340-780c-b626-bc502a9f531c",1765533479742],"$user_state":"anonymous","$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"distinct_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","external_id":"null","fbp":"null","pageview_event_id":"null"},"wi":false,"xi":365,"yi":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_posthog"},"productTours":{"Pi":null,"Ri":false,"_instance":"[Circular]","ki":null},"rateLimiter":{"captureEventsBurstLimit":100,"captureEventsPerSecond":10,"instance":"[Circular]","lastEventRateLimited":false,"serverLimits":{}},"requestRouter":{"instance":"[Circular]","lr":{"https://eu.i.posthog.com":"eu"}},"scrollManager":{"_instance":"[Circular]"},"sessionManager":{"C":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"De":{"$i":365,"C":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":"[Object]","respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"Ei":true,"Si":false,"Y":{},"mi":false,"props":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$capture_rate_limit":"[Object]","$client_session_props":"[Object]","$configured_session_timeout_ms":1800000,"$dead_clicks_enabled_server_side":false,"$device_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","$enabled_feature_flags":{},"$error_tracking_suppression_rules":[],"$exception_capture_enabled_server_side":false,"$feature_flag_details":{},"$feature_flag_evaluated_at":1765533890865,"$feature_flag_payloads":{},"$feature_flag_request_id":"f65ba1bd-23b7-4a74-b9e8-c3efa4b92204","$heatmaps_enabled_server_side":true,"$initial_person_info":"[Object]","$initialization_time":"2025-12-12T10:40:26.729Z","$sesid":"[Array]","$user_state":"anonymous","$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"distinct_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","external_id":"null","fbp":"null","pageview_event_id":"null"},"wi":false,"xi":365,"yi":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_posthog"},"Je":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_primary_window_exists","Le":{"Ci":{}},"Ne":[null],"Ve":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_window_id","_sessionActivityTimestamp":null,"_sessionStartTimestamp":null,"_sessionTimeoutMs":1800000,"ir":44},"sessionPersistence":{"$i":365,"C":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"sessionStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"Ei":true,"Si":false,"Y":{},"mi":false,"props":{"$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":1},"wi":false,"xi":365,"yi":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_posthog"},"sessionPropsManager":{"De":{"$i":365,"C":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":"[Object]","respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"Ei":true,"Si":false,"Y":{},"mi":false,"props":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$capture_rate_limit":"[Object]","$client_session_props":"[Object]","$configured_session_timeout_ms":1800000,"$dead_clicks_enabled_server_side":false,"$device_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","$enabled_feature_flags":{},"$error_tracking_suppression_rules":[],"$exception_capture_enabled_server_side":false,"$feature_flag_details":{},"$feature_flag_evaluated_at":1765533890865,"$feature_flag_payloads":{},"$feature_flag_request_id":"f65ba1bd-23b7-4a74-b9e8-c3efa4b92204","$heatmaps_enabled_server_side":true,"$initial_person_info":"[Object]","$initialization_time":"2025-12-12T10:40:26.729Z","$sesid":"[Array]","$user_state":"anonymous","$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"distinct_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","external_id":"null","fbp":"null","pageview_event_id":"null"},"wi":false,"xi":365,"yi":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_posthog"},"_instance":"[Circular]","je":{"C":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":"[Object]","respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"De":{"$i":365,"C":"[Object]","Ei":true,"Si":false,"Y":"[Object]","mi":false,"props":"[Object]","wi":false,"xi":365,"yi":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_posthog"},"Je":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_primary_window_exists","Le":{"Ci":{}},"Ne":[null],"Ve":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_window_id","_sessionActivityTimestamp":null,"_sessionStartTimestamp":null,"_sessionTimeoutMs":1800000,"ir":44}},"sessionRecording":{"_forceAllowLocalhostNetworkCapture":false,"_instance":"[Circular]","mr":false},"siteApps":{"_instance":"[Circular]","apps":{},"er":[]},"surveys":{"_instance":"[Circular]","_surveyEventReceiver":null,"_surveyManager":null,"ae":[],"ne":false,"oe":false},"toolbar":{"instance":"[Circular]"},"version":"1.303.1","webPerformance":{"__forceAllowLocalhost":false},"webVitalsAutocapture":{"N":{"metrics":[]},"P":false,"St":true,"_instance":"[Circular]"}},"thisC":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false}}
+[00:00:25.502] Browser LOG     [PostHog.js] [Dead Clicks] starting...
+[00:00:25.711] Browser LOG     [PostHog.js] Persistence loaded sessionStorage {"$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":1}
+[00:00:25.711] Browser LOG     [PostHog.js] set_config {"config":{"person_profiles":"identified_only"},"newConfig":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"oldConfig":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false}}
+[00:00:25.711] Browser LOG     [PostHog.js] [Surveys] flags response received, isSurveysEnabled: false
+[00:00:25.711] Browser LOG     [PostHog.js] [Product Tours] Product tours disabled via config
+[00:00:25.711] Browser LOG     [PostHog.js] [Surveys] Surveys loaded successfully
+[00:00:25.958] Browser LOG     [PostHog.js] [RemoteConfig] __preview_remote_config is disabled. Logging config instead {"analytics":{"endpoint":"/i/v0/e/"},"autocaptureExceptions":false,"autocapture_opt_out":false,"captureDeadClicks":false,"capturePerformance":{"network_timing":true,"web_vitals":true,"web_vitals_allowed_metrics":null},"defaultIdentifiedOnly":true,"elementsChainAsString":true,"errorTracking":{"autocaptureExceptions":false,"suppressionRules":[]},"hasFeatureFlags":false,"heatmaps":true,"productTours":false,"sessionRecording":false,"supportedCompression":["gzip","gzip-js"],"surveys":false,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb"}
+[00:00:30.544] Browser LOG     [PostHog.js] [SessionId] new session ID generated {"changeReason":{"activityTimeout":true,"noSessionId":false,"sessionPastMaximumLength":false},"sessionId":"019b1225-e402-7568-8509-cb8b50fcac05","windowId":"019b1225-e402-7568-8509-cb8c8cde2bf3"}
+[00:00:30.545] Browser LOG     [PostHog.js] send "$$heatmap" {"event":"$$heatmap","properties":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$browser":"Firefox","$browser_language":"en-GB","$browser_language_prefix":"en","$browser_version":146,"$config_defaults":"unset","$configured_session_timeout_ms":1800000,"$current_url":"http://localhost:3000/","$dead_clicks_enabled_server_side":false,"$device_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","$device_type":"Desktop","$exception_capture_enabled_server_side":false,"$feature_flag_evaluated_at":1765536026991,"$feature_flag_payloads":{},"$feature_flag_request_id":"570ceab9-0694-472f-b5fe-98f7c70090ef","$heatmap_data":{"http://localhost:3000/":[{"target_fixed":false,"type":"mousemove","x":1097,"y":155}]},"$host":"localhost:3000","$initialization_time":"2025-12-12T10:40:26.729Z","$insert_id":"j9pe5pcg5uum4f37","$is_identified":false,"$lib":"web","$lib_rate_limit_remaining_tokens":99,"$lib_version":"1.303.1","$os":"Mac OS X","$os_version":"10.15.0","$pathname":"/","$process_person_profile":false,"$raw_user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0","$recording_status":"disabled","$referrer":"$direct","$referring_domain":"$direct","$screen_height":1440,"$screen_width":2560,"$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":1,"$sdk_debug_retry_queue_size":0,"$session_entry_host":"localhost:3000","$session_entry_pathname":"/","$session_entry_referrer":"$direct","$session_entry_referring_domain":"$direct","$session_entry_url":"http://localhost:3000/","$session_id":"019b1225-e402-7568-8509-cb8b50fcac05","$time":1765536031.746,"$timezone":"Europe/Chisinau","$timezone_offset":-120,"$viewport_height":771,"$viewport_width":1496,"$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"$window_id":"019b1225-e402-7568-8509-cb8c8cde2bf3","distinct_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","external_id":"null","fbp":"null","pageview_event_id":"null","token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb"},"timestamp":"2025-12-12T10:40:31.735Z","uuid":"019b1225-e3f7-78e2-9b7b-9b691ee42b59"}
+[00:00:30.545] Browser LOG     [PostHog.js] send "$web_vitals" {"event":"$web_vitals","properties":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$browser":"Firefox","$browser_language":"en-GB","$browser_language_prefix":"en","$browser_version":146,"$config_defaults":"unset","$configured_session_timeout_ms":1800000,"$current_url":"http://localhost:3000/","$dead_clicks_enabled_server_side":false,"$device_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","$device_type":"Desktop","$exception_capture_enabled_server_side":false,"$feature_flag_evaluated_at":1765536026991,"$feature_flag_payloads":{},"$feature_flag_request_id":"570ceab9-0694-472f-b5fe-98f7c70090ef","$host":"localhost:3000","$initialization_time":"2025-12-12T10:40:26.729Z","$insert_id":"d7n9qoyamm4gglgw","$is_identified":false,"$lib":"web","$lib_rate_limit_remaining_tokens":98.51,"$lib_version":"1.303.1","$os":"Mac OS X","$os_version":"10.15.0","$pathname":"/","$process_person_profile":false,"$raw_user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0","$recording_status":"disabled","$referrer":"$direct","$referring_domain":"$direct","$screen_height":1440,"$screen_width":2560,"$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":1,"$sdk_debug_retry_queue_size":0,"$session_entry_host":"localhost:3000","$session_entry_pathname":"/","$session_entry_referrer":"$direct","$session_entry_referring_domain":"$direct","$session_entry_url":"http://localhost:3000/","$session_id":"019b1225-e402-7568-8509-cb8b50fcac05","$time":1765536031.786,"$timezone":"Europe/Chisinau","$timezone_offset":-120,"$viewport_height":771,"$viewport_width":1496,"$web_vitals_FCP_event":{"$current_url":"http://localhost:3000/","$session_id":"019b11fe-f340-780c-b626-bc502a9f531c","$window_id":"019b1225-d0a0-74a3-8336-6fcf948cc9d2","attribution":{"firstByteToFCP":94,"loadState":"dom-interactive","navigationEntry":{},"timeToFirstByte":2404},"delta":2498,"entries":[{}],"id":"v4-1765536026784-7964959196362","name":"FCP","navigationType":"navigate","rating":"needs-improvement","timestamp":1765536026784,"value":2498},"$web_vitals_FCP_value":2498,"$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"$window_id":"019b1225-e402-7568-8509-cb8c8cde2bf3","distinct_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","external_id":"null","fbp":"null","pageview_event_id":"null","token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb"},"timestamp":"2025-12-12T10:40:31.786Z","uuid":"019b1225-e42a-755f-91f0-b433ebfaaa69"}
+[00:00:32.841] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -707,7 +725,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.061] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
+[00:00:32.842] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -721,7 +739,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.061] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
+[00:00:32.842] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -735,7 +753,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.062] Server  WARN     ⚠ ./public/desktop-duplex-inner-1.avif
+[00:00:32.843] Server  WARN     ⚠ ./public/desktop-duplex-inner-1.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -748,7 +766,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.062] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
+[00:00:32.843] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -761,7 +779,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.062] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
+[00:00:32.844] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -774,7 +792,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.062] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
+[00:00:32.844] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -787,7 +805,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.063] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
+[00:00:32.844] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -800,7 +818,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.063] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
+[00:00:32.844] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -814,7 +832,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.063] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
+[00:00:32.845] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -828,7 +846,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.063] Server  WARN     ⚠ ./public/desktop-slider-1.avif
+[00:00:32.846] Server  WARN     ⚠ ./public/desktop-slider-1.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -842,7 +860,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.063] Server  WARN     ⚠ ./public/desktop-slider-2.avif
+[00:00:32.846] Server  WARN     ⚠ ./public/desktop-slider-2.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -856,7 +874,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.064] Server  WARN     ⚠ ./public/desktop-slider-3.avif
+[00:00:32.847] Server  WARN     ⚠ ./public/desktop-slider-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -870,7 +888,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.064] Server  WARN     ⚠ ./public/desktop-slider-4.avif
+[00:00:32.848] Server  WARN     ⚠ ./public/desktop-slider-4.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -884,7 +902,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.064] Server  WARN     ⚠ ./public/duplex-inner.avif
+[00:00:32.848] Server  WARN     ⚠ ./public/duplex-inner.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -897,7 +915,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.066] Server  WARN     ⚠ ./public/landscape-slide-2.avif
+[00:00:32.848] Server  WARN     ⚠ ./public/landscape-slide-2.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -910,7 +928,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.067] Server  WARN     ⚠ ./public/landscape-slide-3.avif
+[00:00:32.849] Server  WARN     ⚠ ./public/landscape-slide-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -923,7 +941,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.068] Server  WARN     ⚠ ./public/landscape-slide-4.avif
+[00:00:32.849] Server  WARN     ⚠ ./public/landscape-slide-4.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -936,7 +954,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.068] Server  WARN     ⚠ ./public/landscape-slide.avif
+[00:00:32.849] Server  WARN     ⚠ ./public/landscape-slide.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -949,7 +967,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.068] Server  WARN     ⚠ ./public/mobile-apartment-inner-1.avif
+[00:00:32.850] Server  WARN     ⚠ ./public/mobile-apartment-inner-1.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -962,7 +980,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.068] Server  WARN     ⚠ ./public/mobile-apartment-inner-2.avif
+[00:00:32.850] Server  WARN     ⚠ ./public/mobile-apartment-inner-2.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -975,7 +993,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.069] Server  WARN     ⚠ ./public/mobile-apartment-inner-3.avif
+[00:00:32.850] Server  WARN     ⚠ ./public/mobile-apartment-inner-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -988,7 +1006,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.069] Server  WARN     ⚠ ./public/mobile-apartment-inner-4.avif
+[00:00:32.850] Server  WARN     ⚠ ./public/mobile-apartment-inner-4.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -1001,7 +1019,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.069] Server  WARN     ⚠ ./public/mobile-apartment-inner-5.avif
+[00:00:32.850] Server  WARN     ⚠ ./public/mobile-apartment-inner-5.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -1014,7 +1032,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.069] Server  WARN     ⚠ ./public/mobile-apartment-inner-6.avif
+[00:00:32.851] Server  WARN     ⚠ ./public/mobile-apartment-inner-6.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -1027,7 +1045,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:02:59.069] Server  WARN     ⚠ ./public/mobile-apartment-inner-7.avif
+[00:00:32.851] Server  WARN     ⚠ ./public/mobile-apartment-inner-7.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -1040,3 +1058,705 @@ Import trace:
     ./app/page.js [Server Component]
 
 
+[00:00:35.493] Browser LOG     [PostHog.js] send "$$heatmap" {"event":"$$heatmap","properties":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$browser":"Firefox","$browser_language":"en-GB","$browser_language_prefix":"en","$browser_version":146,"$config_defaults":"unset","$configured_session_timeout_ms":1800000,"$current_url":"http://localhost:3000/","$dead_clicks_enabled_server_side":false,"$device_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","$device_type":"Desktop","$exception_capture_enabled_server_side":false,"$feature_flag_evaluated_at":1765536026991,"$feature_flag_payloads":{},"$feature_flag_request_id":"570ceab9-0694-472f-b5fe-98f7c70090ef","$heatmap_data":{"http://localhost:3000/":[{"target_fixed":false,"type":"mousemove","x":1403,"y":513}]},"$host":"localhost:3000","$initialization_time":"2025-12-12T10:40:26.729Z","$insert_id":"ml4uv44oblxbx6m1","$is_identified":false,"$lib":"web","$lib_rate_limit_remaining_tokens":99,"$lib_version":"1.303.1","$os":"Mac OS X","$os_version":"10.15.0","$pathname":"/","$process_person_profile":false,"$raw_user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0","$recording_status":"disabled","$referrer":"$direct","$referring_domain":"$direct","$screen_height":1440,"$screen_width":2560,"$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":1,"$sdk_debug_retry_queue_size":0,"$session_entry_host":"localhost:3000","$session_entry_pathname":"/","$session_entry_referrer":"$direct","$session_entry_referring_domain":"$direct","$session_entry_url":"http://localhost:3000/","$session_id":"019b1225-e402-7568-8509-cb8b50fcac05","$time":1765536036.737,"$timezone":"Europe/Chisinau","$timezone_offset":-120,"$viewport_height":771,"$viewport_width":920,"$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"$window_id":"019b1225-e402-7568-8509-cb8c8cde2bf3","distinct_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","external_id":"null","fbp":"null","pageview_event_id":"null","token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb"},"timestamp":"2025-12-12T10:40:36.736Z","uuid":"019b1225-f780-7b59-9fa6-b2a2aa048ad7"}
+[00:00:40.503] Browser LOG     [PostHog.js] send "$$heatmap" {"event":"$$heatmap","properties":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$browser":"Firefox","$browser_language":"en-GB","$browser_language_prefix":"en","$browser_version":146,"$config_defaults":"unset","$configured_session_timeout_ms":1800000,"$current_url":"http://localhost:3000/","$dead_clicks_enabled_server_side":false,"$device_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","$device_type":"Desktop","$exception_capture_enabled_server_side":false,"$feature_flag_evaluated_at":1765536026991,"$feature_flag_payloads":{},"$feature_flag_request_id":"570ceab9-0694-472f-b5fe-98f7c70090ef","$heatmap_data":{"http://localhost:3000/":[{"target_fixed":false,"type":"mousemove","x":808,"y":331},{"target_fixed":false,"type":"mousemove","x":917,"y":122}]},"$host":"localhost:3000","$initialization_time":"2025-12-12T10:40:26.729Z","$insert_id":"4b5zplt1njlskwa5","$is_identified":false,"$lib":"web","$lib_rate_limit_remaining_tokens":99,"$lib_version":"1.303.1","$os":"Mac OS X","$os_version":"10.15.0","$pathname":"/","$process_person_profile":false,"$raw_user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0","$recording_status":"disabled","$referrer":"$direct","$referring_domain":"$direct","$screen_height":1440,"$screen_width":2560,"$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":1,"$sdk_debug_retry_queue_size":0,"$session_entry_host":"localhost:3000","$session_entry_pathname":"/","$session_entry_referrer":"$direct","$session_entry_referring_domain":"$direct","$session_entry_url":"http://localhost:3000/","$session_id":"019b1225-e402-7568-8509-cb8b50fcac05","$time":1765536041.744,"$timezone":"Europe/Chisinau","$timezone_offset":-120,"$viewport_height":771,"$viewport_width":920,"$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"$window_id":"019b1225-e402-7568-8509-cb8c8cde2bf3","distinct_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","external_id":"null","fbp":"null","pageview_event_id":"null","token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb"},"timestamp":"2025-12-12T10:40:41.743Z","uuid":"019b1226-0b0f-7fbf-b78f-b2b3ad518440"}
+[00:00:45.510] Browser LOG     [PostHog.js] send "$$heatmap" {"event":"$$heatmap","properties":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$browser":"Firefox","$browser_language":"en-GB","$browser_language_prefix":"en","$browser_version":146,"$config_defaults":"unset","$configured_session_timeout_ms":1800000,"$current_url":"http://localhost:3000/","$dead_clicks_enabled_server_side":false,"$device_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","$device_type":"Desktop","$exception_capture_enabled_server_side":false,"$feature_flag_evaluated_at":1765536026991,"$feature_flag_payloads":{},"$feature_flag_request_id":"570ceab9-0694-472f-b5fe-98f7c70090ef","$heatmap_data":{"http://localhost:3000/":[{"target_fixed":false,"type":"mousemove","x":828,"y":203},{"target_fixed":false,"type":"mousemove","x":647,"y":9}]},"$host":"localhost:3000","$initialization_time":"2025-12-12T10:40:26.729Z","$insert_id":"19q9vzj1bd2sh8ut","$is_identified":false,"$lib":"web","$lib_rate_limit_remaining_tokens":99,"$lib_version":"1.303.1","$os":"Mac OS X","$os_version":"10.15.0","$pathname":"/","$process_person_profile":false,"$raw_user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0","$recording_status":"disabled","$referrer":"$direct","$referring_domain":"$direct","$screen_height":900,"$screen_width":1920,"$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":1,"$sdk_debug_retry_queue_size":0,"$session_entry_host":"localhost:3000","$session_entry_pathname":"/","$session_entry_referrer":"$direct","$session_entry_referring_domain":"$direct","$session_entry_url":"http://localhost:3000/","$session_id":"019b1225-e402-7568-8509-cb8b50fcac05","$time":1765536046.767,"$timezone":"Europe/Chisinau","$timezone_offset":-120,"$viewport_height":900,"$viewport_width":1920,"$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"$window_id":"019b1225-e402-7568-8509-cb8c8cde2bf3","distinct_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","external_id":"null","fbp":"null","pageview_event_id":"null","token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb"},"timestamp":"2025-12-12T10:40:46.766Z","uuid":"019b1226-1eae-79a9-8337-cb6a91bbdd4f"}
+[00:00:55.520] Browser LOG     [PostHog.js] send "$$heatmap" {"event":"$$heatmap","properties":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$browser":"Firefox","$browser_language":"en-GB","$browser_language_prefix":"en","$browser_version":146,"$config_defaults":"unset","$configured_session_timeout_ms":1800000,"$current_url":"http://localhost:3000/","$dead_clicks_enabled_server_side":false,"$device_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","$device_type":"Desktop","$exception_capture_enabled_server_side":false,"$feature_flag_evaluated_at":1765536026991,"$feature_flag_payloads":{},"$feature_flag_request_id":"570ceab9-0694-472f-b5fe-98f7c70090ef","$heatmap_data":{"http://localhost:3000/":[{"target_fixed":false,"type":"mousemove","x":424,"y":345},{"target_fixed":false,"type":"mousemove","x":426,"y":534},{"target_fixed":false,"type":"mousemove","x":424,"y":530}]},"$host":"localhost:3000","$initialization_time":"2025-12-12T10:40:26.729Z","$insert_id":"271v19pteivgz8ce","$is_identified":false,"$lib":"web","$lib_rate_limit_remaining_tokens":99,"$lib_version":"1.303.1","$os":"Mac OS X","$os_version":"10.15.0","$pathname":"/","$process_person_profile":false,"$raw_user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0","$recording_status":"disabled","$referrer":"$direct","$referring_domain":"$direct","$screen_height":900,"$screen_width":430,"$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":1,"$sdk_debug_retry_queue_size":0,"$session_entry_host":"localhost:3000","$session_entry_pathname":"/","$session_entry_referrer":"$direct","$session_entry_referring_domain":"$direct","$session_entry_url":"http://localhost:3000/","$session_id":"019b1225-e402-7568-8509-cb8b50fcac05","$time":1765536056.793,"$timezone":"Europe/Chisinau","$timezone_offset":-120,"$viewport_height":900,"$viewport_width":430,"$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"$window_id":"019b1225-e402-7568-8509-cb8c8cde2bf3","distinct_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","external_id":"null","fbp":"null","pageview_event_id":"null","token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb"},"timestamp":"2025-12-12T10:40:56.792Z","uuid":"019b1226-45d8-7bf3-93ff-66cada6457c7"}
+[00:01:20.540] Browser LOG     [PostHog.js] send "$$heatmap" {"event":"$$heatmap","properties":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$browser":"Firefox","$browser_language":"en-GB","$browser_language_prefix":"en","$browser_version":146,"$config_defaults":"unset","$configured_session_timeout_ms":1800000,"$current_url":"http://localhost:3000/","$dead_clicks_enabled_server_side":false,"$device_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","$device_type":"Desktop","$exception_capture_enabled_server_side":false,"$feature_flag_evaluated_at":1765536026991,"$feature_flag_payloads":{},"$feature_flag_request_id":"570ceab9-0694-472f-b5fe-98f7c70090ef","$heatmap_data":{"http://localhost:3000/":[{"target_fixed":false,"type":"mousemove","x":363,"y":497},{"target_fixed":false,"type":"mousemove","x":361,"y":473},{"target_fixed":false,"type":"mousemove","x":210,"y":84}]},"$host":"localhost:3000","$initialization_time":"2025-12-12T10:40:26.729Z","$insert_id":"nzo9rtbwnm7td467","$is_identified":false,"$lib":"web","$lib_rate_limit_remaining_tokens":99,"$lib_version":"1.303.1","$os":"Mac OS X","$os_version":"10.15.0","$pathname":"/","$process_person_profile":false,"$raw_user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0","$recording_status":"disabled","$referrer":"$direct","$referring_domain":"$direct","$screen_height":900,"$screen_width":430,"$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":1,"$sdk_debug_retry_queue_size":0,"$session_entry_host":"localhost:3000","$session_entry_pathname":"/","$session_entry_referrer":"$direct","$session_entry_referring_domain":"$direct","$session_entry_url":"http://localhost:3000/","$session_id":"019b1225-e402-7568-8509-cb8b50fcac05","$time":1765536081.824,"$timezone":"Europe/Chisinau","$timezone_offset":-120,"$viewport_height":900,"$viewport_width":430,"$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"$window_id":"019b1225-e402-7568-8509-cb8c8cde2bf3","distinct_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","external_id":"null","fbp":"null","pageview_event_id":"null","token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb"},"timestamp":"2025-12-12T10:41:21.823Z","uuid":"019b1226-a79f-7530-9e19-b099aa3c836d"}
+[00:01:21.639] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-3.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.639] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-4.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.640] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.640] Server  WARN     ⚠ ./public/desktop-duplex-inner-1.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner-1.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/duplex/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.641] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-2.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.641] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-3.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.641] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-5.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.642] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-6.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.642] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner-7.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.643] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.647] Server  WARN     ⚠ ./public/desktop-slider-1.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-1.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.647] Server  WARN     ⚠ ./public/desktop-slider-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-2.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.648] Server  WARN     ⚠ ./public/desktop-slider-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-3.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.648] Server  WARN     ⚠ ./public/desktop-slider-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-4.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.648] Server  WARN     ⚠ ./public/duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/duplex-inner.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/duplex/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.648] Server  WARN     ⚠ ./public/landscape-slide-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide-2.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.649] Server  WARN     ⚠ ./public/landscape-slide-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide-3.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.649] Server  WARN     ⚠ ./public/landscape-slide-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide-4.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.649] Server  WARN     ⚠ ./public/landscape-slide.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.649] Server  WARN     ⚠ ./public/mobile-apartment-inner-1.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/mobile-apartment-inner-1.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/apartment/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.649] Server  WARN     ⚠ ./public/mobile-apartment-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/mobile-apartment-inner-2.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/apartment/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.649] Server  WARN     ⚠ ./public/mobile-apartment-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/mobile-apartment-inner-3.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/apartment/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.650] Server  WARN     ⚠ ./public/mobile-apartment-inner-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/mobile-apartment-inner-4.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/apartment/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.650] Server  WARN     ⚠ ./public/mobile-apartment-inner-5.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/mobile-apartment-inner-5.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/apartment/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.650] Server  WARN     ⚠ ./public/mobile-apartment-inner-6.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/mobile-apartment-inner-6.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/apartment/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:21.650] Server  WARN     ⚠ ./public/mobile-apartment-inner-7.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/mobile-apartment-inner-7.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/apartment/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.876] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-3.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.877] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner-4.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.878] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-apartment-inner.avif
+    ./app/components/desktop-white-section/apartment/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/apartment/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.879] Server  WARN     ⚠ ./public/desktop-duplex-inner-1.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner-1.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/duplex/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.879] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-2.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.879] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-3.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.880] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-5.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.880] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component Browser:
+    ./public/desktop-duplex-inner-6.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component Browser]
+    ./app/components/duplex/index.jsx [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.880] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner-7.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.880] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-duplex-inner.avif
+    ./app/components/desktop-white-section/duplex/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/duplex/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.880] Server  WARN     ⚠ ./public/desktop-slider-1.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-1.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.881] Server  WARN     ⚠ ./public/desktop-slider-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-2.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.881] Server  WARN     ⚠ ./public/desktop-slider-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-3.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.881] Server  WARN     ⚠ ./public/desktop-slider-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/desktop-slider-4.avif
+    ./app/components/desktop-slider/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-slider/index.jsx [Client Component SSR]
+    ./app/components/desktop-white-section/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.882] Server  WARN     ⚠ ./public/duplex-inner.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/duplex-inner.avif
+    ./app/components/duplex/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/duplex/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.882] Server  WARN     ⚠ ./public/landscape-slide-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide-2.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.882] Server  WARN     ⚠ ./public/landscape-slide-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide-3.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.883] Server  WARN     ⚠ ./public/landscape-slide-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide-4.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.884] Server  WARN     ⚠ ./public/landscape-slide.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/landscape-slide.avif
+    ./app/components/landscape/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/landscape/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.884] Server  WARN     ⚠ ./public/mobile-apartment-inner-1.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/mobile-apartment-inner-1.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/apartment/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.884] Server  WARN     ⚠ ./public/mobile-apartment-inner-2.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/mobile-apartment-inner-2.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/apartment/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.885] Server  WARN     ⚠ ./public/mobile-apartment-inner-3.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/mobile-apartment-inner-3.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/apartment/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.886] Server  WARN     ⚠ ./public/mobile-apartment-inner-4.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/mobile-apartment-inner-4.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/apartment/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.886] Server  WARN     ⚠ ./public/mobile-apartment-inner-5.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/mobile-apartment-inner-5.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/apartment/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.887] Server  WARN     ⚠ ./public/mobile-apartment-inner-6.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/mobile-apartment-inner-6.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/apartment/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:01:28.887] Server  WARN     ⚠ ./public/mobile-apartment-inner-7.avif
+AVIF image not supported
+This version of Turbopack does not support AVIF images, will emit without optimization or encoding
+
+Import trace:
+  Client Component SSR:
+    ./public/mobile-apartment-inner-7.avif
+    ./app/components/apartment/mobile-slider/index.jsx [Client Component SSR]
+    ./app/components/apartment/index.jsx [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[00:02:50.598] Browser LOG     [PostHog.js] send "$$heatmap" {"event":"$$heatmap","properties":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$browser":"Firefox","$browser_language":"en-GB","$browser_language_prefix":"en","$browser_version":146,"$config_defaults":"unset","$configured_session_timeout_ms":1800000,"$current_url":"http://localhost:3000/","$dead_clicks_enabled_server_side":false,"$device_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","$device_type":"Desktop","$exception_capture_enabled_server_side":false,"$feature_flag_evaluated_at":1765536026991,"$feature_flag_payloads":{},"$feature_flag_request_id":"570ceab9-0694-472f-b5fe-98f7c70090ef","$heatmap_data":{"http://localhost:3000/":[{"target_fixed":false,"type":"mousemove","x":321,"y":366}]},"$host":"localhost:3000","$initialization_time":"2025-12-12T10:40:26.729Z","$insert_id":"pv3p43jgz4aevkbe","$is_identified":false,"$lib":"web","$lib_rate_limit_remaining_tokens":99,"$lib_version":"1.303.1","$os":"Mac OS X","$os_version":"10.15.0","$pathname":"/","$process_person_profile":false,"$raw_user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0","$recording_status":"disabled","$referrer":"$direct","$referring_domain":"$direct","$screen_height":900,"$screen_width":430,"$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":1,"$sdk_debug_retry_queue_size":0,"$session_entry_host":"localhost:3000","$session_entry_pathname":"/","$session_entry_referrer":"$direct","$session_entry_referring_domain":"$direct","$session_entry_url":"http://localhost:3000/","$session_id":"019b1225-e402-7568-8509-cb8b50fcac05","$time":1765536171.889,"$timezone":"Europe/Chisinau","$timezone_offset":-120,"$viewport_height":900,"$viewport_width":430,"$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"$window_id":"019b1225-e402-7568-8509-cb8c8cde2bf3","distinct_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","external_id":"null","fbp":"null","pageview_event_id":"null","token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb"},"timestamp":"2025-12-12T10:42:51.888Z","uuid":"019b1228-0770-79a4-ab37-e61a9d06764d"}
+[00:02:55.601] Browser LOG     [PostHog.js] send "$$heatmap" {"event":"$$heatmap","properties":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$browser":"Firefox","$browser_language":"en-GB","$browser_language_prefix":"en","$browser_version":146,"$config_defaults":"unset","$configured_session_timeout_ms":1800000,"$current_url":"http://localhost:3000/","$dead_clicks_enabled_server_side":false,"$device_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","$device_type":"Desktop","$exception_capture_enabled_server_side":false,"$feature_flag_evaluated_at":1765536026991,"$feature_flag_payloads":{},"$feature_flag_request_id":"570ceab9-0694-472f-b5fe-98f7c70090ef","$heatmap_data":{"http://localhost:3000/":[{"target_fixed":false,"type":"mousemove","x":1,"y":417}]},"$host":"localhost:3000","$initialization_time":"2025-12-12T10:40:26.729Z","$insert_id":"q6fghl1nvtl5zh5g","$is_identified":false,"$lib":"web","$lib_rate_limit_remaining_tokens":99,"$lib_version":"1.303.1","$os":"Mac OS X","$os_version":"10.15.0","$pathname":"/","$process_person_profile":false,"$raw_user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0","$recording_status":"disabled","$referrer":"$direct","$referring_domain":"$direct","$screen_height":900,"$screen_width":430,"$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":1,"$sdk_debug_retry_queue_size":0,"$session_entry_host":"localhost:3000","$session_entry_pathname":"/","$session_entry_referrer":"$direct","$session_entry_referring_domain":"$direct","$session_entry_url":"http://localhost:3000/","$session_id":"019b1225-e402-7568-8509-cb8b50fcac05","$time":1765536176.893,"$timezone":"Europe/Chisinau","$timezone_offset":-120,"$viewport_height":900,"$viewport_width":430,"$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"$window_id":"019b1225-e402-7568-8509-cb8c8cde2bf3","distinct_id":"019b01ec-0aa2-7781-9854-3adc0773b7e1","external_id":"null","fbp":"null","pageview_event_id":"null","token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb"},"timestamp":"2025-12-12T10:42:56.893Z","uuid":"019b1228-1afd-7e43-9287-0bf6e4d6d667"}
+[00:03:35.332] Server  LOG      ✓ Compiled in 43ms
