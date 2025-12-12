@@ -84,7 +84,7 @@
 .styles-module-scss-module__LqvjKG__header {
   top: calc(var(--spacing, .25rem) * 0);
   left: calc(var(--spacing, .25rem) * 0);
-  z-index: 3;
+  z-index: 2;
   width: 100%;
   height: auto;
   position: absolute;
@@ -107,17 +107,64 @@
   }
 }
 
-.styles-module-scss-module__LqvjKG__header__logo {
+.styles-module-scss-module__LqvjKG__header__logo_mobile {
   z-index: 1;
-  width: 117rem;
-  height: 44rem;
+  background-color: #fff3;
+  border-radius: 3.40282e38px;
+  justify-content: center;
+  align-items: center;
+  width: 118rem;
+  height: 47rem;
+  display: inline-flex;
   position: relative;
 }
 
-@media screen and (min-width: 640px) {
-  .styles-module-scss-module__LqvjKG__header__logo {
-    width: 150rem;
+@supports (color: color-mix(in lab, red, red)) {
+  .styles-module-scss-module__LqvjKG__header__logo_mobile {
+    background-color: color-mix(in oklab, var(--color-white, #fff) 20%, transparent);
+  }
+}
+
+@media (min-width: 40rem) {
+  .styles-module-scss-module__LqvjKG__header__logo_mobile {
+    display: none;
+  }
+}
+
+.styles-module-scss-module__LqvjKG__header__logo_mobile .styles-module-scss-module__LqvjKG__span__blur {
+  inset: calc(var(--spacing, .25rem) * 0);
+  top: calc(var(--spacing, .25rem) * 0);
+  left: calc(var(--spacing, .25rem) * 0);
+  z-index: 2;
+  --tw-backdrop-blur: blur(4px);
+  width: 100%;
+  height: 100%;
+  -webkit-backdrop-filter: var(--tw-backdrop-blur, ) var(--tw-backdrop-brightness, ) var(--tw-backdrop-contrast, ) var(--tw-backdrop-grayscale, ) var(--tw-backdrop-hue-rotate, ) var(--tw-backdrop-invert, ) var(--tw-backdrop-opacity, ) var(--tw-backdrop-saturate, ) var(--tw-backdrop-sepia, );
+  backdrop-filter: var(--tw-backdrop-blur, ) var(--tw-backdrop-brightness, ) var(--tw-backdrop-contrast, ) var(--tw-backdrop-grayscale, ) var(--tw-backdrop-hue-rotate, ) var(--tw-backdrop-invert, ) var(--tw-backdrop-opacity, ) var(--tw-backdrop-saturate, ) var(--tw-backdrop-sepia, );
+  border-radius: 3.40282e38px;
+  position: absolute;
+}
+
+.styles-module-scss-module__LqvjKG__header__logo_desktop {
+  z-index: 1;
+  display: none;
+}
+
+@media (min-width: 40rem) {
+  .styles-module-scss-module__LqvjKG__header__logo_desktop {
+    position: relative;
+  }
+
+  .styles-module-scss-module__LqvjKG__header__logo_desktop {
+    display: inline-block;
+  }
+
+  .styles-module-scss-module__LqvjKG__header__logo_desktop {
     height: 52rem;
+  }
+
+  .styles-module-scss-module__LqvjKG__header__logo_desktop {
+    width: 150rem;
   }
 }
 
@@ -218,6 +265,51 @@
   syntax: "*";
   inherits: false;
   initial-value: "";
+}
+
+@property --tw-backdrop-blur {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-backdrop-brightness {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-backdrop-contrast {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-backdrop-grayscale {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-backdrop-hue-rotate {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-backdrop-invert {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-backdrop-opacity {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-backdrop-saturate {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-backdrop-sepia {
+  syntax: "*";
+  inherits: false
 }
 
 @property --tw-leading {

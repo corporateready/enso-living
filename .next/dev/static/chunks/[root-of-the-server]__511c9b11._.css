@@ -87,11 +87,6 @@
       --tw-translate-x: 0;
       --tw-translate-y: 0;
       --tw-translate-z: 0;
-      --tw-rotate-x: initial;
-      --tw-rotate-y: initial;
-      --tw-rotate-z: initial;
-      --tw-skew-x: initial;
-      --tw-skew-y: initial;
       --tw-border-style: solid;
       --tw-leading: initial;
       --tw-font-weight: initial;
@@ -698,6 +693,10 @@
     height: 27rem;
   }
 
+  .h-\[30rem\] {
+    height: 30rem;
+  }
+
   .h-\[42rem\] {
     height: 42rem;
   }
@@ -716,6 +715,10 @@
 
   .h-\[61rem\] {
     height: 61rem;
+  }
+
+  .h-\[62rem\] {
+    height: 62rem;
   }
 
   .h-\[67rem\] {
@@ -806,12 +809,16 @@
     width: 61rem;
   }
 
+  .w-\[62rem\] {
+    width: 62rem;
+  }
+
   .w-\[68rem\] {
     width: 68rem;
   }
 
-  .w-\[117rem\] {
-    width: 117rem;
+  .w-\[86rem\] {
+    width: 86rem;
   }
 
   .w-\[360rem\] {
@@ -883,10 +890,6 @@
 
   .rotate-90 {
     rotate: 90deg;
-  }
-
-  .transform {
-    transform: var(--tw-rotate-x, ) var(--tw-rotate-y, ) var(--tw-rotate-z, ) var(--tw-skew-x, ) var(--tw-skew-y, );
   }
 
   .auto-rows-min {
@@ -1155,10 +1158,6 @@
   .antialiased {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-  }
-
-  .opacity-50 {
-    opacity: .5;
   }
 
   .opacity-60 {
@@ -1970,31 +1969,6 @@ body {
   syntax: "*";
   inherits: false;
   initial-value: 0;
-}
-
-@property --tw-rotate-x {
-  syntax: "*";
-  inherits: false
-}
-
-@property --tw-rotate-y {
-  syntax: "*";
-  inherits: false
-}
-
-@property --tw-rotate-z {
-  syntax: "*";
-  inherits: false
-}
-
-@property --tw-skew-x {
-  syntax: "*";
-  inherits: false
-}
-
-@property --tw-skew-y {
-  syntax: "*";
-  inherits: false
 }
 
 @property --tw-border-style {

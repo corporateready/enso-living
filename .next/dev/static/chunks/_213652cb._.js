@@ -131,7 +131,7 @@ const Hero = ({ handlerFormOpen })=>{
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                 src: "/hero-bg-mobile.avif",
                 alt: "hero mobile background",
-                loading: "eager",
+                loading: "lazy",
                 fill: true,
                 className: "inline-block absolute top-0 left-0 translate-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover sm:hidden",
                 sizes: "(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
@@ -143,7 +143,7 @@ const Hero = ({ handlerFormOpen })=>{
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                 src: "/hero-bg-desktop.avif",
                 alt: "hero desktop background",
-                loading: "eager",
+                loading: "lazy",
                 fill: true,
                 className: "hidden absolute top-0 left-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover sm:inline-block",
                 sizes: "(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
@@ -3825,116 +3825,14 @@ const MobileSlider = (props)=>{
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "w-[68rem] h-[68rem] absolute bottom-[-24rem] left-1/2 -translate-1/2 z-1",
-                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-                    className: "w-full h-full",
-                    viewBox: "0 0 68 68",
-                    fill: "none",
-                    xmlns: "http://www.w3.org/2000/svg",
-                    children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("foreignObject", {
-                            x: "-2.8",
-                            y: "-2.8",
-                            width: "73.6",
-                            height: "73.6",
-                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                xmlns: "http://www.w3.org/1999/xhtml",
-                                style: {
-                                    backdropFilter: "blur(1.4px)",
-                                    clipPath: "url(#bgblur_0_847_139_clip_path)",
-                                    height: "100%",
-                                    width: "100%"
-                                }
-                            }, void 0, false, {
-                                fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                                lineNumber: 35,
-                                columnNumber: 11
-                            }, ("TURBOPACK compile-time value", void 0))
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                            lineNumber: 34,
-                            columnNumber: 9
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("circle", {
-                            "data-figma-bg-blur-radius": "2.8",
-                            cx: "34",
-                            cy: "34",
-                            r: "34",
-                            fill: "white",
-                            fillOpacity: "0.46"
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                            lineNumber: 42,
-                            columnNumber: 9
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                            d: "M51 19.0176H37",
-                            stroke: "black",
-                            strokeMiterlimit: "10",
-                            strokeLinecap: "round",
-                            strokeLinejoin: "round"
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                            lineNumber: 50,
-                            columnNumber: 9
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                            d: "M48 16.0059L51 19.0166L48 22.0274",
-                            stroke: "black",
-                            strokeMiterlimit: "10",
-                            strokeLinecap: "round",
-                            strokeLinejoin: "round"
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                            lineNumber: 57,
-                            columnNumber: 9
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                            d: "M40 16.0059L37 19.0166L40 22.0274",
-                            stroke: "black",
-                            strokeMiterlimit: "10",
-                            strokeLinecap: "round",
-                            strokeLinejoin: "round"
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                            lineNumber: 64,
-                            columnNumber: 9
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                            d: "M24 33.0681C24 31.4052 22.657 30.0573 21 30.0573C19.343 30.0573 18 31.4052 18 33.0681V43.1039C18 51.4176 24.716 58.1577 33 58.1577C41.284 58.1577 48 51.4176 48 43.1039V35.0753C48 33.4123 46.657 32.0645 45 32.0645C43.343 32.0645 42 33.4123 42 35.0753V33.0681C42 31.4052 40.657 30.0573 39 30.0573C37.343 30.0573 36 31.4052 36 33.0681V31.0609C36 29.398 34.657 28.0502 33 28.0502C31.343 28.0502 30 29.398 30 31.0609V17.0108C30 15.3478 28.657 14 27 14C25.343 14 24 15.3478 24 17.0108V40.0932V33.0681Z",
-                            stroke: "#1A1717",
-                            strokeMiterlimit: "10",
-                            strokeLinecap: "round",
-                            strokeLinejoin: "round"
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                            lineNumber: 71,
-                            columnNumber: 9
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("defs", {
-                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("clipPath", {
-                                id: "bgblur_0_847_139_clip_path",
-                                transform: "translate(2.8 2.8)",
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("circle", {
-                                    cx: "34",
-                                    cy: "34",
-                                    r: "34"
-                                }, void 0, false, {
-                                    fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                                    lineNumber: 83,
-                                    columnNumber: 13
-                                }, ("TURBOPACK compile-time value", void 0))
-                            }, void 0, false, {
-                                fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                                lineNumber: 79,
-                                columnNumber: 11
-                            }, ("TURBOPACK compile-time value", void 0))
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                            lineNumber: 78,
-                            columnNumber: 9
-                        }, ("TURBOPACK compile-time value", void 0))
-                    ]
-                }, void 0, true, {
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                    src: "/slider-navigate.avif",
+                    alt: "hero mobi",
+                    loading: "eager",
+                    priority: true,
+                    fill: true,
+                    sizes: "(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
+                }, void 0, false, {
                     fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
                     lineNumber: 28,
                     columnNumber: 7
@@ -3961,27 +3859,27 @@ const MobileSlider = (props)=>{
                                     sizes: "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                                    lineNumber: 94,
+                                    lineNumber: 43,
                                     columnNumber: 17
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                                lineNumber: 93,
+                                lineNumber: 42,
                                 columnNumber: 15
                             }, ("TURBOPACK compile-time value", void 0))
                         }, slide.id, false, {
                             fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                            lineNumber: 92,
+                            lineNumber: 41,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)))
                 }, void 0, false, {
                     fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                    lineNumber: 90,
+                    lineNumber: 39,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/app/components/duplex/mobile-slider/index.jsx",
-                lineNumber: 89,
+                lineNumber: 38,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -4464,119 +4362,17 @@ const MobileSlider = (props)=>{
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "w-[68rem] h-[68rem] absolute bottom-[-24rem] left-1/2 -translate-1/2 z-1",
-                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-                    className: "w-full h-full",
-                    viewBox: "0 0 68 68",
-                    fill: "none",
-                    xmlns: "http://www.w3.org/2000/svg",
-                    children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("foreignObject", {
-                            x: "-2.8",
-                            y: "-2.8",
-                            width: "73.6",
-                            height: "73.6",
-                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                xmlns: "http://www.w3.org/1999/xhtml",
-                                style: {
-                                    backdropFilter: "blur(1.4px)",
-                                    clipPath: "url(#bgblur_0_847_139_clip_path)",
-                                    height: "100%",
-                                    width: "100%"
-                                }
-                            }, void 0, false, {
-                                fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                                lineNumber: 37,
-                                columnNumber: 13
-                            }, ("TURBOPACK compile-time value", void 0))
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                            lineNumber: 36,
-                            columnNumber: 11
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("circle", {
-                            "data-figma-bg-blur-radius": "2.8",
-                            cx: "34",
-                            cy: "34",
-                            r: "34",
-                            fill: "white",
-                            fillOpacity: "0.46"
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                            lineNumber: 47,
-                            columnNumber: 11
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                            d: "M51 19.0176H37",
-                            stroke: "black",
-                            strokeMiterlimit: "10",
-                            strokeLinecap: "round",
-                            strokeLinejoin: "round"
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                            lineNumber: 55,
-                            columnNumber: 11
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                            d: "M48 16.0059L51 19.0166L48 22.0274",
-                            stroke: "black",
-                            strokeMiterlimit: "10",
-                            strokeLinecap: "round",
-                            strokeLinejoin: "round"
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                            lineNumber: 62,
-                            columnNumber: 11
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                            d: "M40 16.0059L37 19.0166L40 22.0274",
-                            stroke: "black",
-                            strokeMiterlimit: "10",
-                            strokeLinecap: "round",
-                            strokeLinejoin: "round"
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                            lineNumber: 69,
-                            columnNumber: 11
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                            d: "M24 33.0681C24 31.4052 22.657 30.0573 21 30.0573C19.343 30.0573 18 31.4052 18 33.0681V43.1039C18 51.4176 24.716 58.1577 33 58.1577C41.284 58.1577 48 51.4176 48 43.1039V35.0753C48 33.4123 46.657 32.0645 45 32.0645C43.343 32.0645 42 33.4123 42 35.0753V33.0681C42 31.4052 40.657 30.0573 39 30.0573C37.343 30.0573 36 31.4052 36 33.0681V31.0609C36 29.398 34.657 28.0502 33 28.0502C31.343 28.0502 30 29.398 30 31.0609V17.0108C30 15.3478 28.657 14 27 14C25.343 14 24 15.3478 24 17.0108V40.0932V33.0681Z",
-                            stroke: "#1A1717",
-                            strokeMiterlimit: "10",
-                            strokeLinecap: "round",
-                            strokeLinejoin: "round"
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                            lineNumber: 76,
-                            columnNumber: 11
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("defs", {
-                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("clipPath", {
-                                id: "bgblur_0_847_139_clip_path",
-                                transform: "translate(2.8 2.8)",
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("circle", {
-                                    cx: "34",
-                                    cy: "34",
-                                    r: "34"
-                                }, void 0, false, {
-                                    fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                                    lineNumber: 88,
-                                    columnNumber: 15
-                                }, ("TURBOPACK compile-time value", void 0))
-                            }, void 0, false, {
-                                fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                                lineNumber: 84,
-                                columnNumber: 13
-                            }, ("TURBOPACK compile-time value", void 0))
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                            lineNumber: 83,
-                            columnNumber: 11
-                        }, ("TURBOPACK compile-time value", void 0))
-                    ]
-                }, void 0, true, {
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                    src: "/slider-navigate.avif",
+                    alt: "hero mobi",
+                    loading: "eager",
+                    priority: true,
+                    fill: true,
+                    sizes: "(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
+                }, void 0, false, {
                     fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
                     lineNumber: 30,
-                    columnNumber: 9
+                    columnNumber: 7
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
@@ -4601,27 +4397,27 @@ const MobileSlider = (props)=>{
                                     sizes: "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                                    lineNumber: 98,
+                                    lineNumber: 44,
                                     columnNumber: 17
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                                lineNumber: 97,
+                                lineNumber: 43,
                                 columnNumber: 15
                             }, ("TURBOPACK compile-time value", void 0))
                         }, slide.id, false, {
                             fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                            lineNumber: 96,
+                            lineNumber: 42,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)))
                 }, void 0, false, {
                     fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                    lineNumber: 94,
+                    lineNumber: 40,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/app/components/apartment/mobile-slider/index.jsx",
-                lineNumber: 93,
+                lineNumber: 39,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -4899,11 +4695,6 @@ const Index = ()=>{
                             fileName: "[project]/app/components/design/index.jsx",
                             lineNumber: 12,
                             columnNumber: 9
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                            fileName: "[project]/app/components/design/index.jsx",
-                            lineNumber: 12,
-                            columnNumber: 62
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                             className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$design$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].text__3,
@@ -5714,30 +5505,54 @@ const Index = ({ handlerFormOpen })=>{
                                     strokeWidth: "0.82449"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/location/index.jsx",
-                                    lineNumber: 17,
-                                    columnNumber: 13
+                                    lineNumber: 18,
+                                    columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                    d: "M25.5315 18.5C25.3486 18.5003 25.1733 18.5722 25.044 18.7C24.9146 18.8278 24.8418 19.0011 24.8415 19.1818V25.3624L22.6613 23.5673C22.5207 23.4517 22.3394 23.396 22.1573 23.4124C21.9752 23.4288 21.8071 23.5159 21.6898 23.6546C21.5729 23.7935 21.5166 23.9726 21.5331 24.1526C21.5497 24.3326 21.6378 24.4987 21.7782 24.6146L25.0899 27.3418C25.1247 27.3662 25.1617 27.3874 25.2003 27.4051C25.2255 27.4218 25.2519 27.4368 25.2793 27.4498C25.3588 27.4829 25.4443 27.5 25.5307 27.5C25.617 27.5 25.7025 27.4829 25.7821 27.4498C25.8088 27.4367 25.8346 27.422 25.8594 27.4057C25.898 27.3879 25.935 27.3667 25.9698 27.3424L29.2815 24.6151C29.3904 24.5256 29.4688 24.4052 29.506 24.2702C29.5432 24.1352 29.5375 23.9922 29.4897 23.8605C29.4418 23.7288 29.3541 23.6148 29.2385 23.5341C29.1228 23.4533 28.9849 23.4097 28.8433 23.4091C28.6819 23.4094 28.5258 23.4653 28.4017 23.5673L26.2215 25.3624V19.1818C26.2212 19.0011 26.1484 18.8278 26.019 18.7C25.8897 18.5722 25.7144 18.5003 25.5315 18.5Z",
-                                    fill: "white"
+                                    d: "M20.8457 22.6154V18.9231C20.8457 18.6783 20.943 18.4435 21.1161 18.2704C21.2892 18.0973 21.524 18 21.7688 18H26.3842L30.9996 22.6154V29.077C30.9996 29.3218 30.9023 29.5566 30.7292 29.7297C30.5561 29.9028 30.3213 30 30.0765 30H25.4611",
+                                    stroke: "white",
+                                    strokeLinecap: "round",
+                                    strokeLinejoin: "round"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/location/index.jsx",
-                                    lineNumber: 24,
-                                    columnNumber: 13
+                                    lineNumber: 25,
+                                    columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                    d: "M30.8636 27.5C30.6869 27.5003 30.5175 27.5706 30.3925 27.6956C30.2676 27.8205 30.1972 27.9899 30.1969 28.1667V29.7667C30.1967 29.8727 30.1544 29.9742 30.0795 30.0492C30.0045 30.1242 29.9029 30.1664 29.7969 30.1667H21.2636C21.1576 30.1664 21.056 30.1242 20.9811 30.0492C20.9061 29.9742 20.8639 29.8727 20.8636 29.7667V28.1667C20.8636 27.9899 20.7934 27.8203 20.6683 27.6953C20.5433 27.5702 20.3738 27.5 20.1969 27.5C20.0201 27.5 19.8506 27.5702 19.7255 27.6953C19.6005 27.8203 19.5303 27.9899 19.5303 28.1667V29.7667C19.5308 30.2262 19.7136 30.6668 20.0386 30.9917C20.3635 31.3166 20.8041 31.4994 21.2636 31.5H29.7969C30.2565 31.4994 30.697 31.3166 31.022 30.9917C31.3469 30.6668 31.5297 30.2262 31.5303 29.7667V28.1667C31.53 27.9899 31.4597 27.8205 31.3347 27.6956C31.2097 27.5706 31.0403 27.5003 30.8636 27.5Z",
-                                    fill: "white"
+                                    d: "M26.3848 18V22.6154H31.0002",
+                                    stroke: "white",
+                                    strokeLinecap: "round",
+                                    strokeLinejoin: "round"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/location/index.jsx",
-                                    lineNumber: 28,
-                                    columnNumber: 13
+                                    lineNumber: 31,
+                                    columnNumber: 15
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                    d: "M21.7695 24.4619V30.0004",
+                                    stroke: "white",
+                                    strokeLinecap: "round",
+                                    strokeLinejoin: "round"
+                                }, void 0, false, {
+                                    fileName: "[project]/app/components/location/index.jsx",
+                                    lineNumber: 37,
+                                    columnNumber: 15
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                    d: "M19 27.2305H24.5385",
+                                    stroke: "white",
+                                    strokeLinecap: "round",
+                                    strokeLinejoin: "round"
+                                }, void 0, false, {
+                                    fileName: "[project]/app/components/location/index.jsx",
+                                    lineNumber: 43,
+                                    columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/components/location/index.jsx",
-                            lineNumber: 11,
-                            columnNumber: 11
+                            lineNumber: 12,
+                            columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
@@ -5754,7 +5569,7 @@ const Index = ({ handlerFormOpen })=>{
                     sizes: "(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
                 }, void 0, false, {
                     fileName: "[project]/app/components/location/index.jsx",
-                    lineNumber: 34,
+                    lineNumber: 51,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             ]
@@ -8569,7 +8384,7 @@ __turbopack_context__.v({
 }),
 "[project]/app/components/desktop-white-section/penthouse/index.jsx [app-client] (ecmascript)", ((__turbopack_context__, module, exports) => {
 
-const e = new Error("Could not parse module '[project]/app/components/desktop-white-section/penthouse/index.jsx'\n\nExpression expected");
+const e = new Error("Could not parse module '[project]/app/components/desktop-white-section/penthouse/index.jsx'\n\nUnexpected token. Did you mean `{'}'}` or `&rbrace;`?");
 e.code = 'MODULE_UNPARSABLE';
 throw e;
 }),
@@ -8975,7 +8790,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop
 ;
 ;
 ;
-const Index = ()=>{
+const Index = ({ handlerFormOpen })=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$duplex$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].section,
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -9061,6 +8876,7 @@ const Index = ()=>{
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                         type: "button",
                                         className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$duplex$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].offer__btn,
+                                        onClick: handlerFormOpen,
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$duplex$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].span__text,
@@ -9087,23 +8903,19 @@ const Index = ()=>{
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                                        d: "M40.6029 29.7412C40.8585 30.0245 41 30.3924 41 30.774C41 31.1555 40.8585 31.5235 40.6029 31.8067C38.9844 33.5485 35.3005 36.9395 31 36.9395C26.6995 36.9395 23.0156 33.5485 21.3971 31.8067C21.1415 31.5235 21 31.1555 21 30.774C21 30.3924 21.1415 30.0245 21.3971 29.7412C23.0156 27.9995 26.6995 24.6084 31 24.6084C35.3005 24.6084 38.9844 27.9995 40.6029 29.7412Z",
-                                                        stroke: "white",
-                                                        strokeLinecap: "round",
-                                                        strokeLinejoin: "round"
+                                                        d: "M30.6356 23.6094C30.4108 23.6097 30.1952 23.6992 30.0363 23.8582C29.8773 24.0172 29.7878 24.2327 29.7874 24.4576V32.1461L27.1072 29.913C26.9343 29.7693 26.7115 29.7 26.4876 29.7204C26.2637 29.7407 26.0571 29.8491 25.913 30.0216C25.7692 30.1945 25.6999 30.4173 25.7203 30.6412C25.7406 30.8651 25.849 31.0717 26.0215 31.2158L30.0928 34.6085C30.1355 34.6389 30.1809 34.6652 30.2285 34.6873C30.2595 34.708 30.2919 34.7266 30.3255 34.7429C30.4234 34.7841 30.5284 34.8053 30.6346 34.8053C30.7407 34.8053 30.8458 34.7841 30.9437 34.7429C30.9764 34.7266 31.0082 34.7082 31.0387 34.6879C31.0862 34.6659 31.1316 34.6395 31.1744 34.6092L35.2456 31.2165C35.3795 31.1052 35.4758 30.9554 35.5216 30.7875C35.5673 30.6195 35.5603 30.4416 35.5015 30.2778C35.4427 30.1139 35.3349 29.9722 35.1927 29.8717C35.0505 29.7713 34.8809 29.717 34.7069 29.7163C34.5085 29.7166 34.3165 29.7862 34.164 29.913L31.4838 32.1461V24.4576C31.4834 24.2327 31.394 24.0172 31.235 23.8582C31.076 23.6992 30.8605 23.6097 30.6356 23.6094Z",
+                                                        fill: "white"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
                                                         lineNumber: 41,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                                        d: "M30.9988 33.857C32.7014 33.857 34.0816 32.4768 34.0816 30.7742C34.0816 29.0716 32.7014 27.6914 30.9988 27.6914C29.2962 27.6914 27.916 29.0716 27.916 30.7742C27.916 32.4768 29.2962 33.857 30.9988 33.857Z",
-                                                        stroke: "white",
-                                                        strokeLinecap: "round",
-                                                        strokeLinejoin: "round"
+                                                        d: "M37.419 34.8047C37.1942 34.805 36.9787 34.8945 36.8197 35.0535C36.6607 35.2125 36.5712 35.428 36.5709 35.6529V37.6885C36.5705 37.8234 36.5168 37.9526 36.4214 38.0479C36.326 38.1433 36.1968 38.197 36.0619 38.1974H25.2053C25.0704 38.197 24.9412 38.1433 24.8458 38.0479C24.7504 37.9526 24.6967 37.8234 24.6964 37.6885V35.6529C24.6964 35.4279 24.607 35.2122 24.4479 35.0531C24.2889 34.894 24.0731 34.8047 23.8482 34.8047C23.6232 34.8047 23.4075 34.894 23.2484 35.0531C23.0894 35.2122 23 35.4279 23 35.6529V37.6885C23.0007 38.2731 23.2333 38.8336 23.6467 39.2471C24.0601 39.6605 24.6206 39.893 25.2053 39.8938H36.0619C36.6466 39.893 37.2071 39.6605 37.6205 39.2471C38.0339 38.8336 38.2665 38.2731 38.2672 37.6885V35.6529C38.2668 35.428 38.1774 35.2125 38.0184 35.0535C37.8594 34.8945 37.6439 34.805 37.419 34.8047Z",
+                                                        fill: "white"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                                                        lineNumber: 47,
+                                                        lineNumber: 45,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
@@ -9131,7 +8943,7 @@ const Index = ()=>{
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$duplex$2f$desktop$2d$slider$2f$index$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DesktopSlider"], {}, void 0, false, {
                             fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                            lineNumber: 57,
+                            lineNumber: 53,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
@@ -9154,12 +8966,12 @@ const Index = ()=>{
                                 sizes: "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                                lineNumber: 62,
+                                lineNumber: 58,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                            lineNumber: 61,
+                            lineNumber: 57,
                             columnNumber: 9
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -9173,18 +8985,18 @@ const Index = ()=>{
                                 sizes: "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                                lineNumber: 72,
+                                lineNumber: 68,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                            lineNumber: 71,
+                            lineNumber: 67,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                    lineNumber: 60,
+                    lineNumber: 56,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             ]
@@ -9621,7 +9433,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop
 ;
 ;
 ;
-const Index = ()=>{
+const Index = ({ handlerFormOpen })=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$apartment$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].section,
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -9697,6 +9509,7 @@ const Index = ()=>{
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                         type: "button",
                                         className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$apartment$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].offer__btn,
+                                        onClick: handlerFormOpen,
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$apartment$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].span__text,
@@ -9723,23 +9536,19 @@ const Index = ()=>{
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                                        d: "M40.6029 29.7412C40.8585 30.0245 41 30.3924 41 30.774C41 31.1555 40.8585 31.5235 40.6029 31.8067C38.9844 33.5485 35.3005 36.9395 31 36.9395C26.6995 36.9395 23.0156 33.5485 21.3971 31.8067C21.1415 31.5235 21 31.1555 21 30.774C21 30.3924 21.1415 30.0245 21.3971 29.7412C23.0156 27.9995 26.6995 24.6084 31 24.6084C35.3005 24.6084 38.9844 27.9995 40.6029 29.7412Z",
-                                                        stroke: "white",
-                                                        strokeLinecap: "round",
-                                                        strokeLinejoin: "round"
+                                                        d: "M30.6356 23.6094C30.4108 23.6097 30.1952 23.6992 30.0363 23.8582C29.8773 24.0172 29.7878 24.2327 29.7874 24.4576V32.1461L27.1072 29.913C26.9343 29.7693 26.7115 29.7 26.4876 29.7204C26.2637 29.7407 26.0571 29.8491 25.913 30.0216C25.7692 30.1945 25.6999 30.4173 25.7203 30.6412C25.7406 30.8651 25.849 31.0717 26.0215 31.2158L30.0928 34.6085C30.1355 34.6389 30.1809 34.6652 30.2285 34.6873C30.2595 34.708 30.2919 34.7266 30.3255 34.7429C30.4234 34.7841 30.5284 34.8053 30.6346 34.8053C30.7407 34.8053 30.8458 34.7841 30.9437 34.7429C30.9764 34.7266 31.0082 34.7082 31.0387 34.6879C31.0862 34.6659 31.1316 34.6395 31.1744 34.6092L35.2456 31.2165C35.3795 31.1052 35.4758 30.9554 35.5216 30.7875C35.5673 30.6195 35.5603 30.4416 35.5015 30.2778C35.4427 30.1139 35.3349 29.9722 35.1927 29.8717C35.0505 29.7713 34.8809 29.717 34.7069 29.7163C34.5085 29.7166 34.3165 29.7862 34.164 29.913L31.4838 32.1461V24.4576C31.4834 24.2327 31.394 24.0172 31.235 23.8582C31.076 23.6992 30.8605 23.6097 30.6356 23.6094Z",
+                                                        fill: "white"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/desktop-white-section/apartment/index.jsx",
                                                         lineNumber: 39,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                                        d: "M30.9988 33.857C32.7014 33.857 34.0816 32.4768 34.0816 30.7742C34.0816 29.0716 32.7014 27.6914 30.9988 27.6914C29.2962 27.6914 27.916 29.0716 27.916 30.7742C27.916 32.4768 29.2962 33.857 30.9988 33.857Z",
-                                                        stroke: "white",
-                                                        strokeLinecap: "round",
-                                                        strokeLinejoin: "round"
+                                                        d: "M37.419 34.8047C37.1942 34.805 36.9787 34.8945 36.8197 35.0535C36.6607 35.2125 36.5712 35.428 36.5709 35.6529V37.6885C36.5705 37.8234 36.5168 37.9526 36.4214 38.0479C36.326 38.1433 36.1968 38.197 36.0619 38.1974H25.2053C25.0704 38.197 24.9412 38.1433 24.8458 38.0479C24.7504 37.9526 24.6967 37.8234 24.6964 37.6885V35.6529C24.6964 35.4279 24.607 35.2122 24.4479 35.0531C24.2889 34.894 24.0731 34.8047 23.8482 34.8047C23.6232 34.8047 23.4075 34.894 23.2484 35.0531C23.0894 35.2122 23 35.4279 23 35.6529V37.6885C23.0007 38.2731 23.2333 38.8336 23.6467 39.2471C24.0601 39.6605 24.6206 39.893 25.2053 39.8938H36.0619C36.6466 39.893 37.2071 39.6605 37.6205 39.2471C38.0339 38.8336 38.2665 38.2731 38.2672 37.6885V35.6529C38.2668 35.428 38.1774 35.2125 38.0184 35.0535C37.8594 34.8945 37.6439 34.805 37.419 34.8047Z",
+                                                        fill: "white"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/desktop-white-section/apartment/index.jsx",
-                                                        lineNumber: 45,
+                                                        lineNumber: 43,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
@@ -9785,12 +9594,12 @@ const Index = ()=>{
                                 sizes: "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/desktop-white-section/apartment/index.jsx",
-                                lineNumber: 60,
+                                lineNumber: 56,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/app/components/desktop-white-section/apartment/index.jsx",
-                            lineNumber: 59,
+                            lineNumber: 55,
                             columnNumber: 9
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -9804,18 +9613,18 @@ const Index = ()=>{
                                 sizes: "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/desktop-white-section/apartment/index.jsx",
-                                lineNumber: 70,
+                                lineNumber: 66,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/app/components/desktop-white-section/apartment/index.jsx",
-                            lineNumber: 69,
+                            lineNumber: 65,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/components/desktop-white-section/apartment/index.jsx",
-                    lineNumber: 58,
+                    lineNumber: 54,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             ]
@@ -10022,7 +9831,7 @@ const PrevButton = (props)=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-                className: "w-[15rem] h-[67rem] relative z-4",
+                className: "w-[15rem] h-[67rem] relative z-4 ml-[40rem]",
                 viewBox: "0 0 20 76",
                 fill: "none",
                 xmlns: "http://www.w3.org/2000/svg",
@@ -10032,8 +9841,8 @@ const PrevButton = (props)=>{
                     strokeLinecap: "round"
                 }, void 0, false, {
                     fileName: "[project]/app/components/desktop-slider/desktop-slider/EmblaCarouselArrowButtons.jsx",
-                    lineNumber: 48,
-                    columnNumber: 1
+                    lineNumber: 53,
+                    columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/app/components/desktop-slider/desktop-slider/EmblaCarouselArrowButtons.jsx",
@@ -10060,11 +9869,11 @@ const NextButton = (props)=>{
                 className: "absolute top-0 left-0 z-2 bg-white/30 inset-0 backdrop-blur-[4px]"
             }, void 0, false, {
                 fileName: "[project]/app/components/desktop-slider/desktop-slider/EmblaCarouselArrowButtons.jsx",
-                lineNumber: 65,
+                lineNumber: 74,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-                className: "w-[15rem] h-[67rem] relative z-4",
+                className: "w-[15rem] h-[67rem] relative z-4 ml-[-60rem]",
                 viewBox: "0 0 15 67",
                 fill: "none",
                 xmlns: "http://www.w3.org/2000/svg",
@@ -10074,19 +9883,19 @@ const NextButton = (props)=>{
                     strokeLinecap: "round"
                 }, void 0, false, {
                     fileName: "[project]/app/components/desktop-slider/desktop-slider/EmblaCarouselArrowButtons.jsx",
-                    lineNumber: 67,
-                    columnNumber: 1
+                    lineNumber: 81,
+                    columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/app/components/desktop-slider/desktop-slider/EmblaCarouselArrowButtons.jsx",
-                lineNumber: 66,
+                lineNumber: 75,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             children
         ]
     }, void 0, true, {
         fileName: "[project]/app/components/desktop-slider/desktop-slider/EmblaCarouselArrowButtons.jsx",
-        lineNumber: 60,
+        lineNumber: 69,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };
@@ -10146,7 +9955,6 @@ const DesktopSlider = (props)=>{
         align: 'start',
         loop: false
     });
-    console.log("embla API ", emblaRef);
     const { prevBtnDisabled, nextBtnDisabled, onPrevButtonClick, onNextButtonClick } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$slider$2f$desktop$2d$slider$2f$EmblaCarouselArrowButtons$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["usePrevNextButtons"])(emblaApi);
     const slides = [
         {
@@ -10186,27 +9994,27 @@ const DesktopSlider = (props)=>{
                                     sizes: "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/desktop-slider/desktop-slider/index.jsx",
-                                    lineNumber: 45,
+                                    lineNumber: 43,
                                     columnNumber: 17
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/app/components/desktop-slider/desktop-slider/index.jsx",
-                                lineNumber: 43,
+                                lineNumber: 41,
                                 columnNumber: 15
                             }, ("TURBOPACK compile-time value", void 0))
                         }, slide.id, false, {
                             fileName: "[project]/app/components/desktop-slider/desktop-slider/index.jsx",
-                            lineNumber: 42,
+                            lineNumber: 40,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)))
                 }, void 0, false, {
                     fileName: "[project]/app/components/desktop-slider/desktop-slider/index.jsx",
-                    lineNumber: 40,
+                    lineNumber: 38,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/app/components/desktop-slider/desktop-slider/index.jsx",
-                lineNumber: 39,
+                lineNumber: 37,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -10219,7 +10027,7 @@ const DesktopSlider = (props)=>{
                             disabled: prevBtnDisabled
                         }, void 0, false, {
                             fileName: "[project]/app/components/desktop-slider/desktop-slider/index.jsx",
-                            lineNumber: 60,
+                            lineNumber: 58,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$slider$2f$desktop$2d$slider$2f$EmblaCarouselArrowButtons$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["NextButton"], {
@@ -10227,24 +10035,24 @@ const DesktopSlider = (props)=>{
                             disabled: nextBtnDisabled
                         }, void 0, false, {
                             fileName: "[project]/app/components/desktop-slider/desktop-slider/index.jsx",
-                            lineNumber: 61,
+                            lineNumber: 59,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/components/desktop-slider/desktop-slider/index.jsx",
-                    lineNumber: 59,
+                    lineNumber: 57,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/app/components/desktop-slider/desktop-slider/index.jsx",
-                lineNumber: 58,
+                lineNumber: 56,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
     }, void 0, true, {
         fileName: "[project]/app/components/desktop-slider/desktop-slider/index.jsx",
-        lineNumber: 38,
+        lineNumber: 36,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };
@@ -10394,7 +10202,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$imag
 ;
 ;
 ;
-const Index = ()=>{
+const Index = ({ handlerFormOpen })=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$location$2f$sytles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].section,
         children: [
@@ -10478,6 +10286,7 @@ const Index = ()=>{
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                         type: "button",
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$location$2f$sytles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].offer__btn,
+                        onClick: handlerFormOpen,
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                 className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$location$2f$sytles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].span__text,
@@ -10606,11 +10415,6 @@ const Index = ()=>{
                             fileName: "[project]/app/components/desktop-white-section/design/index.jsx",
                             lineNumber: 11,
                             columnNumber: 9
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                            fileName: "[project]/app/components/desktop-white-section/design/index.jsx",
-                            lineNumber: 11,
-                            columnNumber: 71
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                             className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$design$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].text__3,
@@ -11472,6 +11276,7 @@ __turbopack_context__.v({
   "inner": "styles-module-scss-module__J3jfTa__inner",
   "inner__content": "styles-module-scss-module__J3jfTa__inner__content",
   "inner__image": "styles-module-scss-module__J3jfTa__inner__image",
+  "inner__image_mobile": "styles-module-scss-module__J3jfTa__inner__image_mobile",
   "offer__btn": "styles-module-scss-module__J3jfTa__offer__btn",
   "phone__input": "styles-module-scss-module__J3jfTa__phone__input",
   "section": "styles-module-scss-module__J3jfTa__section",
@@ -11608,36 +11413,41 @@ const HeroForm = ({ handlerFormOpen })=>{
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$hero$2d$form$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].inner__image,
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                src: "/desktop-apartment-inner-2.avif",
-                                alt: "hero mobile background",
-                                loading: "eager",
-                                fill: true,
-                                className: "hidden sm:inline-block absolute top-0 left-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover",
-                                sizes: "(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
-                            }, void 0, false, {
-                                fileName: "[project]/app/components/hero-form/index.jsx",
-                                lineNumber: 91,
-                                columnNumber: 11
-                            }, ("TURBOPACK compile-time value", void 0)),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                src: "/form-bg-mobile.avif",
-                                alt: "hero mobile background",
-                                loading: "eager",
-                                fill: true,
-                                className: "inline-block absolute top-0 left-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover sm:hidden",
-                                sizes: "(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
-                            }, void 0, false, {
-                                fileName: "[project]/app/components/hero-form/index.jsx",
-                                lineNumber: 99,
-                                columnNumber: 11
-                            }, ("TURBOPACK compile-time value", void 0))
-                        ]
-                    }, void 0, true, {
+                        className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$hero$2d$form$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].inner__image_mobile,
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                            src: "/form-bg-mobile.avif",
+                            alt: "hero mobile background",
+                            loading: "eager",
+                            fill: true,
+                            // className="inline-block absolute top-0 left-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover sm:hidden"
+                            sizes: "(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
+                        }, void 0, false, {
+                            fileName: "[project]/app/components/hero-form/index.jsx",
+                            lineNumber: 91,
+                            columnNumber: 9
+                        }, ("TURBOPACK compile-time value", void 0))
+                    }, void 0, false, {
                         fileName: "[project]/app/components/hero-form/index.jsx",
                         lineNumber: 90,
+                        columnNumber: 9
+                    }, ("TURBOPACK compile-time value", void 0)),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$hero$2d$form$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].inner__image,
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                            src: "/desktop-apartment-inner-2.avif",
+                            alt: "hero mobile background",
+                            loading: "eager",
+                            fill: true,
+                            // className="hidden sm:inline-block absolute top-0 left-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover"
+                            sizes: "(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
+                        }, void 0, false, {
+                            fileName: "[project]/app/components/hero-form/index.jsx",
+                            lineNumber: 101,
+                            columnNumber: 11
+                        }, ("TURBOPACK compile-time value", void 0))
+                    }, void 0, false, {
+                        fileName: "[project]/app/components/hero-form/index.jsx",
+                        lineNumber: 100,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -11650,14 +11460,14 @@ const HeroForm = ({ handlerFormOpen })=>{
                                     "",
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                        lineNumber: 112,
+                                        lineNumber: 113,
                                         columnNumber: 11
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     "de contact"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/components/hero-form/index.jsx",
-                                lineNumber: 110,
+                                lineNumber: 111,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -11667,14 +11477,14 @@ const HeroForm = ({ handlerFormOpen })=>{
                                     "",
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                        lineNumber: 116,
+                                        lineNumber: 117,
                                         columnNumber: 11
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     "prezentarea PDF"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/components/hero-form/index.jsx",
-                                lineNumber: 114,
+                                lineNumber: 115,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -11683,20 +11493,20 @@ const HeroForm = ({ handlerFormOpen })=>{
                                     "Introdu datele tale de",
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                        lineNumber: 120,
+                                        lineNumber: 121,
                                         columnNumber: 11
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     "contact pentru a primi",
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                        lineNumber: 121,
+                                        lineNumber: 122,
                                         columnNumber: 11
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     "prezentarea PDF"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/components/hero-form/index.jsx",
-                                lineNumber: 118,
+                                lineNumber: 119,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
@@ -11711,7 +11521,7 @@ const HeroForm = ({ handlerFormOpen })=>{
                                         onChange: handleChangeName
                                     }, void 0, false, {
                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                        lineNumber: 127,
+                                        lineNumber: 128,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -11722,7 +11532,7 @@ const HeroForm = ({ handlerFormOpen })=>{
                                         onChange: handleChangeEmail
                                     }, void 0, false, {
                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                        lineNumber: 128,
+                                        lineNumber: 129,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -11745,12 +11555,12 @@ const HeroForm = ({ handlerFormOpen })=>{
                                             onChange: handleChangePhone
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/hero-form/index.jsx",
-                                            lineNumber: 130,
+                                            lineNumber: 131,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                        lineNumber: 129,
+                                        lineNumber: 130,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -11764,7 +11574,7 @@ const HeroForm = ({ handlerFormOpen })=>{
                                                 children: "Descarcă acum prezentarea PDF"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/components/hero-form/index.jsx",
-                                                lineNumber: 157,
+                                                lineNumber: 158,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
@@ -11780,7 +11590,7 @@ const HeroForm = ({ handlerFormOpen })=>{
                                                         stroke: "white"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                                        lineNumber: 164,
+                                                        lineNumber: 165,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -11790,7 +11600,7 @@ const HeroForm = ({ handlerFormOpen })=>{
                                                         strokeLinejoin: "round"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                                        lineNumber: 165,
+                                                        lineNumber: 166,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -11800,7 +11610,7 @@ const HeroForm = ({ handlerFormOpen })=>{
                                                         strokeLinejoin: "round"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                                        lineNumber: 171,
+                                                        lineNumber: 172,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -11810,7 +11620,7 @@ const HeroForm = ({ handlerFormOpen })=>{
                                                         strokeLinejoin: "round"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                                        lineNumber: 177,
+                                                        lineNumber: 178,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -11820,31 +11630,31 @@ const HeroForm = ({ handlerFormOpen })=>{
                                                         strokeLinejoin: "round"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                                        lineNumber: 183,
+                                                        lineNumber: 184,
                                                         columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/app/components/hero-form/index.jsx",
-                                                lineNumber: 158,
+                                                lineNumber: 159,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/components/hero-form/index.jsx",
-                                        lineNumber: 156,
+                                        lineNumber: 157,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/components/hero-form/index.jsx",
-                                lineNumber: 123,
+                                lineNumber: 124,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/components/hero-form/index.jsx",
-                        lineNumber: 109,
+                        lineNumber: 110,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
@@ -11954,7 +11764,9 @@ function Home() {
                     lineNumber: 34,
                     columnNumber: 9
                 }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$index$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$index$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                    handlerFormOpen: handlerFormOpen
+                }, void 0, false, {
                     fileName: "[project]/app/page.js",
                     lineNumber: 35,
                     columnNumber: 9

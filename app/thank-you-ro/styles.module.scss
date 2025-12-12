@@ -13,7 +13,7 @@
 
 }
 .header {
-    @apply w-full h-auto absolute top-0 left-0 z-3;
+    @apply w-full h-auto absolute top-0 left-0 z-2;
 }
 .header__inner {
     @apply w-full flex justify-between pt-[27rem] px-[25rem];
@@ -21,13 +21,15 @@
         @apply w-[1440rem] mx-auto p-0 pt-[50rem];
     }
 }
-.header__logo {
-    @apply w-[117rem] h-[44rem] relative z-1;
-    @media screen and (width >= 640px) {
-        @apply w-[150rem] h-[52rem];
+.header__logo_mobile {
+    @apply w-[118rem] h-[47rem]  bg-white/20 inline-flex justify-center items-center rounded-full relative z-1 sm:hidden;
+    .span__blur {
+        @apply absolute top-0 left-0 z-2 w-full h-full rounded-full inset-0 backdrop-blur-[4px];
     }
 }
-@reference "tailwindcss";
+.header__logo_desktop {
+    @apply hidden sm:relative z-1 sm:inline-block sm:w-[150rem] sm:h-[52rem];
+}
 .footer {
     @apply w-full h-auto bg-[#645762] p-0 m-0;
 }

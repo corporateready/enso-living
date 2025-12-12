@@ -133,49 +133,46 @@ const Index = ({ handlerFormOpen })=>{
                                                     children: "Vezi Penthouse-ul"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 36,
+                                                    lineNumber: 40,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-                                                    className: "w-[61rem] h-[61rem]",
-                                                    viewBox: "0 0 62 62",
+                                                    className: "w-[62rem] h-[62rem] relative z-5",
+                                                    viewBox: "0 0 50 50",
                                                     fill: "none",
                                                     xmlns: "http://www.w3.org/2000/svg",
                                                     children: [
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("circle", {
-                                                            cx: "30.6089",
-                                                            cy: "30.6089",
-                                                            r: "30.1089",
-                                                            stroke: "white"
+                                                            cx: "25",
+                                                            cy: "25",
+                                                            r: "24.5878",
+                                                            stroke: "white",
+                                                            strokeWidth: "0.82449"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                            lineNumber: 43,
+                                                            lineNumber: 47,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                                            d: "M40.6029 29.7412C40.8585 30.0245 41 30.3924 41 30.774C41 31.1555 40.8585 31.5235 40.6029 31.8067C38.9844 33.5485 35.3005 36.9395 31 36.9395C26.6995 36.9395 23.0156 33.5485 21.3971 31.8067C21.1415 31.5235 21 31.1555 21 30.774C21 30.3924 21.1415 30.0245 21.3971 29.7412C23.0156 27.9995 26.6995 24.6084 31 24.6084C35.3005 24.6084 38.9844 27.9995 40.6029 29.7412Z",
-                                                            stroke: "white",
-                                                            strokeLinecap: "round",
-                                                            strokeLinejoin: "round"
+                                                            d: "M25.5315 18.5C25.3486 18.5003 25.1733 18.5722 25.044 18.7C24.9146 18.8278 24.8418 19.0011 24.8415 19.1818V25.3624L22.6613 23.5673C22.5207 23.4517 22.3394 23.396 22.1573 23.4124C21.9752 23.4288 21.8071 23.5159 21.6898 23.6546C21.5729 23.7935 21.5166 23.9726 21.5331 24.1526C21.5497 24.3326 21.6378 24.4987 21.7782 24.6146L25.0899 27.3418C25.1247 27.3662 25.1617 27.3874 25.2003 27.4051C25.2255 27.4218 25.2519 27.4368 25.2793 27.4498C25.3588 27.4829 25.4443 27.5 25.5307 27.5C25.617 27.5 25.7025 27.4829 25.7821 27.4498C25.8088 27.4367 25.8346 27.422 25.8594 27.4057C25.898 27.3879 25.935 27.3667 25.9698 27.3424L29.2815 24.6151C29.3904 24.5256 29.4688 24.4052 29.506 24.2702C29.5432 24.1352 29.5375 23.9922 29.4897 23.8605C29.4418 23.7288 29.3541 23.6148 29.2385 23.5341C29.1228 23.4533 28.9849 23.4097 28.8433 23.4091C28.6819 23.4094 28.5258 23.4653 28.4017 23.5673L26.2215 25.3624V19.1818C26.2212 19.0011 26.1484 18.8278 26.019 18.7C25.8897 18.5722 25.7144 18.5003 25.5315 18.5Z",
+                                                            fill: "white"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                            lineNumber: 49,
+                                                            lineNumber: 54,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                                            d: "M30.9988 33.857C32.7014 33.857 34.0816 32.4768 34.0816 30.7742C34.0816 29.0716 32.7014 27.6914 30.9988 27.6914C29.2962 27.6914 27.916 29.0716 27.916 30.7742C27.916 32.4768 29.2962 33.857 30.9988 33.857Z",
-                                                            stroke: "white",
-                                                            strokeLinecap: "round",
-                                                            strokeLinejoin: "round"
+                                                            d: "M30.8636 27.5C30.6869 27.5003 30.5175 27.5706 30.3925 27.6956C30.2676 27.8205 30.1972 27.9899 30.1969 28.1667V29.7667C30.1967 29.8727 30.1544 29.9742 30.0795 30.0492C30.0045 30.1242 29.9029 30.1664 29.7969 30.1667H21.2636C21.1576 30.1664 21.056 30.1242 20.9811 30.0492C20.9061 29.9742 20.8639 29.8727 20.8636 29.7667V28.1667C20.8636 27.9899 20.7934 27.8203 20.6683 27.6953C20.5433 27.5702 20.3738 27.5 20.1969 27.5C20.0201 27.5 19.8506 27.5702 19.7255 27.6953C19.6005 27.8203 19.5303 27.9899 19.5303 28.1667V29.7667C19.5308 30.2262 19.7136 30.6668 20.0386 30.9917C20.3635 31.3166 20.8041 31.4994 21.2636 31.5H29.7969C30.2565 31.4994 30.697 31.3166 31.022 30.9917C31.3469 30.6668 31.5297 30.2262 31.5303 29.7667V28.1667C31.53 27.9899 31.4597 27.8205 31.3347 27.6956C31.2097 27.5706 31.0403 27.5003 30.8636 27.5Z",
+                                                            fill: "white"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                            lineNumber: 55,
+                                                            lineNumber: 58,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 37,
+                                                    lineNumber: 41,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
@@ -215,7 +212,7 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 73,
+                                                    lineNumber: 74,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -225,7 +222,7 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 79,
+                                                    lineNumber: 80,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -235,13 +232,13 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 85,
+                                                    lineNumber: 86,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                            lineNumber: 67,
+                                            lineNumber: 68,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -253,50 +250,50 @@ const Index = ({ handlerFormOpen })=>{
                                                         "Grădină privată",
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                             fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                            lineNumber: 96,
+                                                            lineNumber: 97,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         "interioară"
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 94,
+                                                    lineNumber: 95,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                                    fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 98,
-                                                    columnNumber: 17
-                                                }, ("TURBOPACK compile-time value", void 0)),
-                                                "un sanctuar verde",
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                                    fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 99,
-                                                    columnNumber: 17
-                                                }, ("TURBOPACK compile-time value", void 0)),
-                                                "unde toate cele",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
                                                     lineNumber: 100,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
+                                                "un sanctuar verde",
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                                    fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
+                                                    lineNumber: 102,
+                                                    columnNumber: 17
+                                                }, ("TURBOPACK compile-time value", void 0)),
+                                                "unde toate cele",
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                                    fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
+                                                    lineNumber: 104,
+                                                    columnNumber: 17
+                                                }, ("TURBOPACK compile-time value", void 0)),
                                                 "4 anotimpuri prind",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 101,
+                                                    lineNumber: 105,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "viață"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                            lineNumber: 93,
+                                            lineNumber: 94,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                    lineNumber: 66,
+                                    lineNumber: 67,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -315,7 +312,7 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 111,
+                                                    lineNumber: 116,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -325,7 +322,7 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 117,
+                                                    lineNumber: 122,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -335,7 +332,7 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 123,
+                                                    lineNumber: 128,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -345,13 +342,13 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 129,
+                                                    lineNumber: 134,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                            lineNumber: 105,
+                                            lineNumber: 110,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -362,49 +359,49 @@ const Index = ({ handlerFormOpen })=>{
                                                     children: "Zonă jacuzzi:"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 138,
+                                                    lineNumber: 143,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 140,
-                                                    columnNumber: 19
+                                                    lineNumber: 144,
+                                                    columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "momente de",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 141,
-                                                    columnNumber: 19
+                                                    lineNumber: 146,
+                                                    columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "răsfăț la înălțime,",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 142,
-                                                    columnNumber: 19
+                                                    lineNumber: 148,
+                                                    columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "cu priveliști line",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 143,
-                                                    columnNumber: 19
+                                                    lineNumber: 150,
+                                                    columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "spre orizontul",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 144,
-                                                    columnNumber: 19
+                                                    lineNumber: 152,
+                                                    columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "montan"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                            lineNumber: 137,
+                                            lineNumber: 142,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                    lineNumber: 104,
+                                    lineNumber: 109,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -423,7 +420,7 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 154,
+                                                    lineNumber: 163,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -433,13 +430,13 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 160,
+                                                    lineNumber: 169,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                            lineNumber: 148,
+                                            lineNumber: 157,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -451,51 +448,52 @@ const Index = ({ handlerFormOpen })=>{
                                                         "Design ",
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                             fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                            lineNumber: 170,
+                                                            lineNumber: 179,
                                                             columnNumber: 26
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         "personalizabil:"
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 169,
+                                                    lineNumber: 178,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
-                                                " un",
+                                                " ",
+                                                "un",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 172,
+                                                    lineNumber: 183,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "interior conceput",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 173,
+                                                    lineNumber: 185,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "individual, ca o",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 174,
+                                                    lineNumber: 187,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "expresie a stilului",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 175,
+                                                    lineNumber: 189,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "tău autentic"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                            lineNumber: 168,
+                                            lineNumber: 177,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                    lineNumber: 147,
+                                    lineNumber: 156,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -514,7 +512,7 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 185,
+                                                    lineNumber: 200,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -524,7 +522,7 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 191,
+                                                    lineNumber: 206,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -534,7 +532,7 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 197,
+                                                    lineNumber: 212,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -544,7 +542,7 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 203,
+                                                    lineNumber: 218,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -554,7 +552,7 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 209,
+                                                    lineNumber: 224,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -564,7 +562,7 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 215,
+                                                    lineNumber: 230,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -574,7 +572,7 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 221,
+                                                    lineNumber: 236,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -584,7 +582,7 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 227,
+                                                    lineNumber: 242,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -594,7 +592,7 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 233,
+                                                    lineNumber: 248,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -604,13 +602,13 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 239,
+                                                    lineNumber: 254,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                            lineNumber: 179,
+                                            lineNumber: 194,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -621,49 +619,49 @@ const Index = ({ handlerFormOpen })=>{
                                                     children: "Vederi uimitoare:"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 248,
+                                                    lineNumber: 263,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 249,
+                                                    lineNumber: 264,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 " o perspectivă",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 250,
+                                                    lineNumber: 265,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "panoramică",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 251,
+                                                    lineNumber: 267,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "de 360° asupra",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 252,
+                                                    lineNumber: 269,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "orașului",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 253,
+                                                    lineNumber: 271,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "și munților"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                            lineNumber: 247,
+                                            lineNumber: 262,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                    lineNumber: 178,
+                                    lineNumber: 193,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -682,7 +680,7 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 263,
+                                                    lineNumber: 282,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -692,7 +690,7 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 269,
+                                                    lineNumber: 288,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -702,7 +700,7 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 275,
+                                                    lineNumber: 294,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -712,13 +710,13 @@ const Index = ({ handlerFormOpen })=>{
                                                     strokeLinejoin: "round"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 281,
+                                                    lineNumber: 300,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                            lineNumber: 257,
+                                            lineNumber: 276,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -730,63 +728,64 @@ const Index = ({ handlerFormOpen })=>{
                                                         "Suprafața totală de",
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                             fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                            lineNumber: 292,
+                                                            lineNumber: 311,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         "532,62 m²"
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 290,
+                                                    lineNumber: 309,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
-                                                " spațiu",
+                                                " ",
+                                                "spațiu",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 294,
+                                                    lineNumber: 315,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "amplu distribuit",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 295,
+                                                    lineNumber: 317,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "în 3 niveluri, proiectat",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 296,
+                                                    lineNumber: 319,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "pentru funcționalitate",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 297,
+                                                    lineNumber: 321,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "impecabilă și confort",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                                    lineNumber: 298,
+                                                    lineNumber: 323,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "în fiecare zonă."
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                            lineNumber: 289,
+                                            lineNumber: 308,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                    lineNumber: 256,
+                                    lineNumber: 275,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                            lineNumber: 65,
+                            lineNumber: 66,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
@@ -809,12 +808,12 @@ const Index = ({ handlerFormOpen })=>{
                                 sizes: "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                lineNumber: 305,
+                                lineNumber: 331,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                            lineNumber: 304,
+                            lineNumber: 330,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -828,18 +827,18 @@ const Index = ({ handlerFormOpen })=>{
                                 sizes: "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                                lineNumber: 315,
+                                lineNumber: 341,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                            lineNumber: 314,
+                            lineNumber: 340,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/components/desktop-white-section/penthouse/index.jsx",
-                    lineNumber: 303,
+                    lineNumber: 329,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             ]
@@ -1222,35 +1221,35 @@ const Index = ({ handlerFormOpen })=>{
                                             "",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                                                lineNumber: 21,
+                                                lineNumber: 22,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             "datorită vitrajelor panoramice ",
                                             "",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                                                lineNumber: 22,
+                                                lineNumber: 24,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             "ce oferă senzația ",
                                             "",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                                                lineNumber: 23,
+                                                lineNumber: 26,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             "de townhouse urban — ",
                                             "",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                                                lineNumber: 24,
+                                                lineNumber: 28,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             "comuniune, libertate ",
                                             "",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                                                lineNumber: 25,
+                                                lineNumber: 30,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             "și priveliști uimitoare."
@@ -1270,55 +1269,52 @@ const Index = ({ handlerFormOpen })=>{
                                                 children: "Vezi Duplexurile"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                                                lineNumber: 28,
+                                                lineNumber: 38,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-                                                className: "w-[61rem] h-[61rem]",
-                                                viewBox: "0 0 62 62",
+                                                className: "w-[62rem] h-[62rem] relative z-5",
+                                                viewBox: "0 0 50 50",
                                                 fill: "none",
                                                 xmlns: "http://www.w3.org/2000/svg",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("circle", {
-                                                        cx: "30.6089",
-                                                        cy: "30.6089",
-                                                        r: "30.1089",
-                                                        stroke: "white"
+                                                        cx: "25",
+                                                        cy: "25",
+                                                        r: "24.5878",
+                                                        stroke: "white",
+                                                        strokeWidth: "0.82449"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                                                        lineNumber: 35,
+                                                        lineNumber: 45,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                                        d: "M40.6029 29.7412C40.8585 30.0245 41 30.3924 41 30.774C41 31.1555 40.8585 31.5235 40.6029 31.8067C38.9844 33.5485 35.3005 36.9395 31 36.9395C26.6995 36.9395 23.0156 33.5485 21.3971 31.8067C21.1415 31.5235 21 31.1555 21 30.774C21 30.3924 21.1415 30.0245 21.3971 29.7412C23.0156 27.9995 26.6995 24.6084 31 24.6084C35.3005 24.6084 38.9844 27.9995 40.6029 29.7412Z",
-                                                        stroke: "white",
-                                                        strokeLinecap: "round",
-                                                        strokeLinejoin: "round"
+                                                        d: "M25.5315 18.5C25.3486 18.5003 25.1733 18.5722 25.044 18.7C24.9146 18.8278 24.8418 19.0011 24.8415 19.1818V25.3624L22.6613 23.5673C22.5207 23.4517 22.3394 23.396 22.1573 23.4124C21.9752 23.4288 21.8071 23.5159 21.6898 23.6546C21.5729 23.7935 21.5166 23.9726 21.5331 24.1526C21.5497 24.3326 21.6378 24.4987 21.7782 24.6146L25.0899 27.3418C25.1247 27.3662 25.1617 27.3874 25.2003 27.4051C25.2255 27.4218 25.2519 27.4368 25.2793 27.4498C25.3588 27.4829 25.4443 27.5 25.5307 27.5C25.617 27.5 25.7025 27.4829 25.7821 27.4498C25.8088 27.4367 25.8346 27.422 25.8594 27.4057C25.898 27.3879 25.935 27.3667 25.9698 27.3424L29.2815 24.6151C29.3904 24.5256 29.4688 24.4052 29.506 24.2702C29.5432 24.1352 29.5375 23.9922 29.4897 23.8605C29.4418 23.7288 29.3541 23.6148 29.2385 23.5341C29.1228 23.4533 28.9849 23.4097 28.8433 23.4091C28.6819 23.4094 28.5258 23.4653 28.4017 23.5673L26.2215 25.3624V19.1818C26.2212 19.0011 26.1484 18.8278 26.019 18.7C25.8897 18.5722 25.7144 18.5003 25.5315 18.5Z",
+                                                        fill: "white"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                                                        lineNumber: 41,
+                                                        lineNumber: 52,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                                        d: "M30.9988 33.857C32.7014 33.857 34.0816 32.4768 34.0816 30.7742C34.0816 29.0716 32.7014 27.6914 30.9988 27.6914C29.2962 27.6914 27.916 29.0716 27.916 30.7742C27.916 32.4768 29.2962 33.857 30.9988 33.857Z",
-                                                        stroke: "white",
-                                                        strokeLinecap: "round",
-                                                        strokeLinejoin: "round"
+                                                        d: "M30.8636 27.5C30.6869 27.5003 30.5175 27.5706 30.3925 27.6956C30.2676 27.8205 30.1972 27.9899 30.1969 28.1667V29.7667C30.1967 29.8727 30.1544 29.9742 30.0795 30.0492C30.0045 30.1242 29.9029 30.1664 29.7969 30.1667H21.2636C21.1576 30.1664 21.056 30.1242 20.9811 30.0492C20.9061 29.9742 20.8639 29.8727 20.8636 29.7667V28.1667C20.8636 27.9899 20.7934 27.8203 20.6683 27.6953C20.5433 27.5702 20.3738 27.5 20.1969 27.5C20.0201 27.5 19.8506 27.5702 19.7255 27.6953C19.6005 27.8203 19.5303 27.9899 19.5303 28.1667V29.7667C19.5308 30.2262 19.7136 30.6668 20.0386 30.9917C20.3635 31.3166 20.8041 31.4994 21.2636 31.5H29.7969C30.2565 31.4994 30.697 31.3166 31.022 30.9917C31.3469 30.6668 31.5297 30.2262 31.5303 29.7667V28.1667C31.53 27.9899 31.4597 27.8205 31.3347 27.6956C31.2097 27.5706 31.0403 27.5003 30.8636 27.5Z",
+                                                        fill: "white"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                                                        lineNumber: 47,
+                                                        lineNumber: 56,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                                                lineNumber: 29,
+                                                lineNumber: 39,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                                        lineNumber: 27,
+                                        lineNumber: 33,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
@@ -1334,8 +1330,8 @@ const Index = ({ handlerFormOpen })=>{
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$duplex$2f$desktop$2d$slider$2f$index$2e$jsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["DesktopSlider"], {}, void 0, false, {
                             fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                            lineNumber: 57,
-                            columnNumber: 13
+                            lineNumber: 64,
+                            columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
@@ -1357,13 +1353,13 @@ const Index = ({ handlerFormOpen })=>{
                                 sizes: "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                                lineNumber: 62,
+                                lineNumber: 69,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                            lineNumber: 61,
-                            columnNumber: 9
+                            lineNumber: 68,
+                            columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$duplex$2f$styles$2e$module$2e$scss__$5b$app$2d$ssr$5d$__$28$css__module$29$__["default"].rightside__image,
@@ -1376,18 +1372,18 @@ const Index = ({ handlerFormOpen })=>{
                                 sizes: "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                                lineNumber: 72,
+                                lineNumber: 79,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                            lineNumber: 71,
+                            lineNumber: 78,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/components/desktop-white-section/duplex/index.jsx",
-                    lineNumber: 60,
+                    lineNumber: 67,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             ]
@@ -1800,40 +1796,37 @@ const Index = ({ handlerFormOpen })=>{
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-                                                className: "w-[61rem] h-[61rem]",
-                                                viewBox: "0 0 62 62",
+                                                className: "w-[62rem] h-[62rem] relative z-5",
+                                                viewBox: "0 0 50 50",
                                                 fill: "none",
                                                 xmlns: "http://www.w3.org/2000/svg",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("circle", {
-                                                        cx: "30.6089",
-                                                        cy: "30.6089",
-                                                        r: "30.1089",
-                                                        stroke: "white"
+                                                        cx: "25",
+                                                        cy: "25",
+                                                        r: "24.5878",
+                                                        stroke: "white",
+                                                        strokeWidth: "0.82449"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/desktop-white-section/apartment/index.jsx",
                                                         lineNumber: 33,
-                                                        columnNumber: 19
+                                                        columnNumber: 11
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                                        d: "M40.6029 29.7412C40.8585 30.0245 41 30.3924 41 30.774C41 31.1555 40.8585 31.5235 40.6029 31.8067C38.9844 33.5485 35.3005 36.9395 31 36.9395C26.6995 36.9395 23.0156 33.5485 21.3971 31.8067C21.1415 31.5235 21 31.1555 21 30.774C21 30.3924 21.1415 30.0245 21.3971 29.7412C23.0156 27.9995 26.6995 24.6084 31 24.6084C35.3005 24.6084 38.9844 27.9995 40.6029 29.7412Z",
-                                                        stroke: "white",
-                                                        strokeLinecap: "round",
-                                                        strokeLinejoin: "round"
+                                                        d: "M25.5315 18.5C25.3486 18.5003 25.1733 18.5722 25.044 18.7C24.9146 18.8278 24.8418 19.0011 24.8415 19.1818V25.3624L22.6613 23.5673C22.5207 23.4517 22.3394 23.396 22.1573 23.4124C21.9752 23.4288 21.8071 23.5159 21.6898 23.6546C21.5729 23.7935 21.5166 23.9726 21.5331 24.1526C21.5497 24.3326 21.6378 24.4987 21.7782 24.6146L25.0899 27.3418C25.1247 27.3662 25.1617 27.3874 25.2003 27.4051C25.2255 27.4218 25.2519 27.4368 25.2793 27.4498C25.3588 27.4829 25.4443 27.5 25.5307 27.5C25.617 27.5 25.7025 27.4829 25.7821 27.4498C25.8088 27.4367 25.8346 27.422 25.8594 27.4057C25.898 27.3879 25.935 27.3667 25.9698 27.3424L29.2815 24.6151C29.3904 24.5256 29.4688 24.4052 29.506 24.2702C29.5432 24.1352 29.5375 23.9922 29.4897 23.8605C29.4418 23.7288 29.3541 23.6148 29.2385 23.5341C29.1228 23.4533 28.9849 23.4097 28.8433 23.4091C28.6819 23.4094 28.5258 23.4653 28.4017 23.5673L26.2215 25.3624V19.1818C26.2212 19.0011 26.1484 18.8278 26.019 18.7C25.8897 18.5722 25.7144 18.5003 25.5315 18.5Z",
+                                                        fill: "white"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/desktop-white-section/apartment/index.jsx",
-                                                        lineNumber: 39,
-                                                        columnNumber: 19
+                                                        lineNumber: 40,
+                                                        columnNumber: 11
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                                        d: "M30.9988 33.857C32.7014 33.857 34.0816 32.4768 34.0816 30.7742C34.0816 29.0716 32.7014 27.6914 30.9988 27.6914C29.2962 27.6914 27.916 29.0716 27.916 30.7742C27.916 32.4768 29.2962 33.857 30.9988 33.857Z",
-                                                        stroke: "white",
-                                                        strokeLinecap: "round",
-                                                        strokeLinejoin: "round"
+                                                        d: "M30.8636 27.5C30.6869 27.5003 30.5175 27.5706 30.3925 27.6956C30.2676 27.8205 30.1972 27.9899 30.1969 28.1667V29.7667C30.1967 29.8727 30.1544 29.9742 30.0795 30.0492C30.0045 30.1242 29.9029 30.1664 29.7969 30.1667H21.2636C21.1576 30.1664 21.056 30.1242 20.9811 30.0492C20.9061 29.9742 20.8639 29.8727 20.8636 29.7667V28.1667C20.8636 27.9899 20.7934 27.8203 20.6683 27.6953C20.5433 27.5702 20.3738 27.5 20.1969 27.5C20.0201 27.5 19.8506 27.5702 19.7255 27.6953C19.6005 27.8203 19.5303 27.9899 19.5303 28.1667V29.7667C19.5308 30.2262 19.7136 30.6668 20.0386 30.9917C20.3635 31.3166 20.8041 31.4994 21.2636 31.5H29.7969C30.2565 31.4994 30.697 31.3166 31.022 30.9917C31.3469 30.6668 31.5297 30.2262 31.5303 29.7667V28.1667C31.53 27.9899 31.4597 27.8205 31.3347 27.6956C31.2097 27.5706 31.0403 27.5003 30.8636 27.5Z",
+                                                        fill: "white"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/desktop-white-section/apartment/index.jsx",
-                                                        lineNumber: 45,
-                                                        columnNumber: 19
+                                                        lineNumber: 44,
+                                                        columnNumber: 11
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
@@ -1878,12 +1871,12 @@ const Index = ({ handlerFormOpen })=>{
                                 sizes: "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/desktop-white-section/apartment/index.jsx",
-                                lineNumber: 60,
+                                lineNumber: 57,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/app/components/desktop-white-section/apartment/index.jsx",
-                            lineNumber: 59,
+                            lineNumber: 56,
                             columnNumber: 9
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1897,18 +1890,18 @@ const Index = ({ handlerFormOpen })=>{
                                 sizes: "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/desktop-white-section/apartment/index.jsx",
-                                lineNumber: 70,
+                                lineNumber: 67,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/app/components/desktop-white-section/apartment/index.jsx",
-                            lineNumber: 69,
+                            lineNumber: 66,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/components/desktop-white-section/apartment/index.jsx",
-                    lineNumber: 58,
+                    lineNumber: 55,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             ]
@@ -1975,11 +1968,6 @@ const Index = ()=>{
                             fileName: "[project]/app/components/desktop-white-section/design/index.jsx",
                             lineNumber: 11,
                             columnNumber: 9
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                            fileName: "[project]/app/components/desktop-white-section/design/index.jsx",
-                            lineNumber: 11,
-                            columnNumber: 71
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                             className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$desktop$2d$white$2d$section$2f$design$2f$styles$2e$module$2e$scss__$5b$app$2d$ssr$5d$__$28$css__module$29$__["default"].text__3,

@@ -8,7 +8,7 @@ const Index = () => {
       <div className={styles.premium__inner_image}>
         <p className={styles.top__text}>
         <span className={styles.text__1}>Design interior premium </span>
-        <span className={styles.text__2}> by ARUTIN Art Bureau </span><br />
+        <span className={styles.text__2}> by ARUTIN Art Bureau </span>
         <span className={styles.text__3}>pentru locuințe cu identitate</span>
         </p>
             <Image

@@ -85,9 +85,10 @@
   }
 }
 
-.styles-module-scss-module__J3jfTa__inner__image {
+.styles-module-scss-module__J3jfTa__inner__image_mobile {
   width: 100%;
   height: 324rem;
+  display: block;
   position: relative;
 }
 
