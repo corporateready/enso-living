@@ -99,7 +99,7 @@ export const HeroForm = ({ handlerFormOpen }) => {
         </div>
         <div className={styles.inner__image}>
           <Image
-            src="/desktop-apartment-inner-2.avif"
+            src="/desktop-apartment-inner-5.avif"
             alt="hero mobile background"
             priority={true}
             loading="eager"
