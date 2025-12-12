@@ -1,6 +1,6 @@
 import React from "react";
 import img_1 from "../../../../../public/desktop-apartment-inner.avif";
-import img_2 from "../../../../../public/desktop-apartment-inner-2.avif";
+import img_2 from "../../../../../public/desktop-apartment-inner-3.avif";
 import img_3 from "../../../../../public/desktop-apartment-inner-3.avif";
 import img_4 from "../../../../../public/desktop-apartment-inner-4.avif";
 

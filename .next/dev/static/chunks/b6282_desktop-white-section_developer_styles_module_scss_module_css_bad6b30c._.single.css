@@ -1,0 +1,69 @@
+/* [project]/app/components/desktop-white-section/developer/styles.module.scss.module.css [app-client] (css) */
+.styles-module-scss-module__AVuffq__premium {
+  z-index: 0;
+  width: 100%;
+  height: 1010rem;
+  display: none;
+  position: relative;
+}
+
+@media (min-width: 40rem) {
+  .styles-module-scss-module__AVuffq__premium {
+    display: block;
+  }
+}
+
+.styles-module-scss-module__AVuffq__premium__inner {
+  z-index: 1;
+  justify-content: space-between;
+  width: 1450rem;
+  height: 100%;
+  margin-inline: auto;
+  padding-top: 278rem;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+.styles-module-scss-module__AVuffq__title {
+  z-index: 1;
+  --tw-leading: 110%;
+  width: 685rem;
+  height: auto;
+  color: var(--color-white, #fff);
+  letter-spacing: -1rem;
+  flex-direction: column;
+  padding-bottom: 38rem;
+  font-size: 30rem;
+  line-height: 110%;
+  display: flex;
+  position: relative;
+}
+
+.styles-module-scss-module__AVuffq__description {
+  z-index: 1;
+  --tw-leading: 124%;
+  width: 100%;
+  color: var(--color-white, #fff);
+  flex-direction: column;
+  margin-top: 50rem;
+  font-size: 26rem;
+  line-height: 124%;
+  display: flex;
+  position: relative;
+}
+
+.styles-module-scss-module__AVuffq__inner__logo {
+  z-index: 1;
+  width: 340rem;
+  height: 440rem;
+  margin-top: 26rem;
+  position: relative;
+}
+
+@property --tw-leading {
+  syntax: "*";
+  inherits: false
+}
+
+/*# sourceMappingURL=b6282_desktop-white-section_developer_styles_module_scss_module_css_bad6b30c._.single.css.map*/

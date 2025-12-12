@@ -2,8 +2,7 @@
 .styles-module-scss-module__iWIFRG__embla {
   --slide-spacing: 10rem;
   --slide-size: 100%;
-  max-width: 800rem;
-  margin: auto;
+  max-width: 900rem;
   position: relative;
 }
 
@@ -20,15 +19,14 @@
 .styles-module-scss-module__iWIFRG__embla__slide {
   flex: 0 0 var(--slide-size);
   min-width: 0;
-  padding-left: var(--slide-spacing);
   transform: translate3d(0, 0, 0);
 }
 
 .styles-module-scss-module__iWIFRG__embla__slide__image {
   justify-content: center;
   align-items: center;
-  width: 860rem;
-  height: 700rem;
+  width: 900rem;
+  height: 758rem;
   display: flex;
   position: relative;
 }

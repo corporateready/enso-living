@@ -4,7 +4,7 @@
     @apply block w-full h-full relative z-0 bg-[#463C37] sm:hidden;
 }
 .premium__header_inner {
-    @apply flex justify-start px-[8rem] gap-[0rem] pt-[36rem];
+    @apply flex justify-start px-[8rem] gap-[0rem] pt-[39rem];
 }
 .premium__title_image {
     @apply w-[124rem] h-[106rem] object-cover relative;
@@ -38,10 +38,10 @@
 }
 .item__icon {}
 .item__text {
-    @apply text-[12rem] text-white leading-[110%];
+    @apply text-[12rem] text-white leading-[116%];
 }
 .hero__btn {
-    @apply w-[380rem] h-[68rem] text-white text-[20rem] leading-[100%] flex justify-end items-center gap-[24rem] rounded-full pr-[8rem] bg-[#667761] mt-[20rem];
+    @apply w-[380rem] h-[68rem] text-white text-[20rem] leading-[100%] flex justify-end items-center gap-[24rem] rounded-full pr-[8rem] bg-[#667761] mt-[18rem];
     .span__text {
         @apply text-end;
     }

@@ -15,7 +15,10 @@ import styles from "./styles.module.scss";
 
 export const DesktopSlider = (props) => {
   const { options } = props;
-  const [emblaRef, emblaApi] = useEmblaCarousel(options);
+  const [emblaRef, emblaApi] = useEmblaCarousel({
+    align: 'start',
+    loop: false,
+  });
 
   const {
     prevBtnDisabled,
@@ -35,7 +38,8 @@ export const DesktopSlider = (props) => {
         <div className={styles.embla__container}>
           {slides.map((slide) => (
             <div className={styles.embla__slide} key={slide.id}>
-              <div className={styles.embla__slide__image}>
+              <div className={styles.embla__slide__image}
+              >
                 <Image
                   src={slide.image}
                   alt=""

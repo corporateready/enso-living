@@ -18,7 +18,7 @@
   padding-inline: 8rem;
   justify-content: flex-start;
   gap: 17rem;
-  padding-top: 102rem;
+  padding-top: 114rem;
   display: flex;
 }
 
@@ -41,7 +41,7 @@
 .styles-module-scss-module__qyQ8HG__premium__title_text {
   --tw-leading: 100%;
   color: var(--color-black, #000);
-  font-size: 30rem;
+  font-size: 27rem;
   line-height: 100%;
 }
 
@@ -62,7 +62,6 @@
   z-index: 1;
   width: 380rem;
   height: 500rem;
-  margin-top: 19rem;
   position: relative;
 }
 

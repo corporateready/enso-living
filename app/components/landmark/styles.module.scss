@@ -1,16 +1,16 @@
 @reference "tailwindcss";
 
 .premium {
-    @apply block w-full h-auto relative z-0 bg-[#463C37] pt-[120rem] sm:hidden;
+    @apply block w-full h-auto relative z-0 bg-[#463C37] pt-[124rem] sm:hidden;
 }
 .premium__inner_image {
-    @apply w-full h-[740rem] relative z-1 overflow-hidden;
+    @apply w-full h-[752rem] relative z-1 overflow-hidden;
 }
 .top__text {
-    @apply absolute top-[-8rem] left-0 z-1 text-[58rem] text-white leading-[100%] uppercase;
+    @apply absolute top-[-8rem] left-0 translate-0 z-1 text-[58rem] text-white leading-[97%] uppercase;
 }
 .bottom__text {
-    @apply absolute bottom-0 left-0 z-1 text-[58rem] text-white leading-[90%] uppercase;
+    @apply absolute bottom-[3rem] left-0 translate-0 z-1 text-[58rem] text-white leading-[90%] uppercase;
     width: max-content;
 }
 .text__1 {

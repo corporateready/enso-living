@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import styles from "./styles.module.scss";
 
-const Index = () => {
+const Index = ({handlerFormOpen}) => {
   return (
     <div className={styles.section}>
       <div className={styles.wrapper}>
@@ -30,7 +30,7 @@ const Index = () => {
                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
               />
             </div>
-            <button type="button" className={styles.offer__btn}>
+            <button type="button" className={styles.offer__btn} onClick={handlerFormOpen}>
               <span className={styles.span__text}>
               Solicită oferta pentru Bistro/ Restaurant
               </span>

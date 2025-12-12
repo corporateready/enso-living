@@ -1,0 +1,18 @@
+@reference "tailwindcss";
+
+.premium {
+    @apply hidden sm:block w-full h-[1010rem] relative z-0;
+}
+.premium__inner{
+    @apply w-[1450rem] h-full flex justify-between relative z-1 mx-auto pt-[278rem] overflow-hidden;
+}
+.title {
+    @apply w-[685rem] h-auto flex flex-col relative z-1 text-[30rem] text-white leading-[110%] pb-[38rem];
+    letter-spacing: -1rem;
+}
+.description {
+    @apply w-full flex flex-col relative z-1 text-[26rem] text-white leading-[124%] mt-[50rem];
+}
+.inner__logo {
+    @apply w-[340rem] h-[440rem] mt-[26rem] relative z-1;
+}

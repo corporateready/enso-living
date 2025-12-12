@@ -7,13 +7,13 @@ import Comercial from "./comercial"
 import Bistro from "./bistro"
 import Facility from "./facility"
 
-const Index = () => {
+const Index = ({handlerFormOpen}) => {
   return (
     <div className={styles.section}>
-      <Premium />
+      <Premium handlerFormOpen={handlerFormOpen}/>
       <Multy />
-      <Comercial />
-      <Bistro />
+      <Comercial handlerFormOpen={handlerFormOpen}/>
+      <Bistro handlerFormOpen={handlerFormOpen}/>
       <Facility />
     </div>
   )

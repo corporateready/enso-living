@@ -69,7 +69,6 @@
   translate: var(--tw-translate-x) var(--tw-translate-y);
   --tw-leading: 100%;
   color: var(--color-white, #fff);
-  background: linear-gradient(90deg, #4e4e64e6 0%, #b17762e6 80%);
   border-radius: 3.40282e38px;
   justify-content: flex-end;
   align-items: center;
@@ -81,6 +80,16 @@
   position: absolute;
   top: 330rem;
   left: 242rem;
+}
+
+@media (hover: hover) {
+  .sytles-module-scss-module__C3TmUa__offer__btn:hover {
+    cursor: pointer;
+  }
+}
+
+.sytles-module-scss-module__C3TmUa__offer__btn {
+  background: linear-gradient(90deg, #4e4e64e6 0%, #b17762e6 80%);
 }
 
 .sytles-module-scss-module__C3TmUa__offer__btn .sytles-module-scss-module__C3TmUa__span__text {

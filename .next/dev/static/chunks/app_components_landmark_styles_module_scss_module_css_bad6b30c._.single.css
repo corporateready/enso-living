@@ -4,7 +4,7 @@
   background-color: #463c37;
   width: 100%;
   height: auto;
-  padding-top: 120rem;
+  padding-top: 124rem;
   display: block;
   position: relative;
 }
@@ -18,7 +18,7 @@
 .styles-module-scss-module__FG0Bna__premium__inner_image {
   z-index: 1;
   width: 100%;
-  height: 740rem;
+  height: 752rem;
   position: relative;
   overflow: hidden;
 }
@@ -27,18 +27,24 @@
   top: -8rem;
   left: calc(var(--spacing, .25rem) * 0);
   z-index: 1;
-  --tw-leading: 100%;
+  --tw-translate-x: calc(var(--spacing, .25rem) * 0);
+  --tw-translate-y: calc(var(--spacing, .25rem) * 0);
+  translate: var(--tw-translate-x) var(--tw-translate-y);
+  --tw-leading: 97%;
   color: var(--color-white, #fff);
   text-transform: uppercase;
   font-size: 58rem;
-  line-height: 100%;
+  line-height: 97%;
   position: absolute;
 }
 
 .styles-module-scss-module__FG0Bna__bottom__text {
-  bottom: calc(var(--spacing, .25rem) * 0);
+  bottom: 3rem;
   left: calc(var(--spacing, .25rem) * 0);
   z-index: 1;
+  --tw-translate-x: calc(var(--spacing, .25rem) * 0);
+  --tw-translate-y: calc(var(--spacing, .25rem) * 0);
+  translate: var(--tw-translate-x) var(--tw-translate-y);
   --tw-leading: 90%;
   color: var(--color-white, #fff);
   text-transform: uppercase;
@@ -70,6 +76,24 @@
   text-align: center;
   width: 100%;
   display: inline-block;
+}
+
+@property --tw-translate-x {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-y {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-z {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
 }
 
 @property --tw-leading {

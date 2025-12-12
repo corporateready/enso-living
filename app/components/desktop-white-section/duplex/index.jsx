@@ -3,7 +3,7 @@ import Image from "next/image";
 import styles from "./styles.module.scss";
 import {DesktopSlider} from "./desktop-slider"
 
-const Index = () => {
+const Index = ({handlerFormOpen}) => {
   return (
     <div className={styles.section}>
       <div className={styles.wrapper}>
@@ -24,7 +24,7 @@ const Index = () => {
                 <br />comuniune, libertate {""}
                 <br />și priveliști uimitoare.
               </p>
-              <button type="button" className={styles.offer__btn}>
+              <button type="button" className={styles.offer__btn} onClick={handlerFormOpen}>
                 <span className={styles.span__text}>Vezi Duplexurile</span>
                 <svg
                   className="w-[61rem] h-[61rem]"

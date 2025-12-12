@@ -31,7 +31,7 @@ export const HeroForm = ({ handlerFormOpen }) => {
 
   const handleChangePhone = (value) => {
     let cleanedValue = value.replace(/^\+0+/, "+40");
-    cleanedValue = cleanedValue.replace(/^\+3730/, "+40");
+    cleanedValue = cleanedValue.replace(/^\+400/, "+40");
 
     setPhone(cleanedValue);
   };
@@ -58,7 +58,7 @@ export const HeroForm = ({ handlerFormOpen }) => {
     
   return (
     <div onClick={handlerFormOpen} className={styles.section}>
-      <div className="absolute top-0 left-0 z-1 bg-black/20 inset-0 backdrop-blur-[5px]"></div>
+      <div className="absolute top-0 left-0 z-1 bg-black/40 inset-0 backdrop-blur-[14px]"></div>
       <div className={styles.inner} onClick={e => {e.stopPropagation()}}>
         <button
           type="button"
@@ -66,7 +66,7 @@ export const HeroForm = ({ handlerFormOpen }) => {
           className={styles.close__btn}
         >
           <svg
-            className="w-[23rem] h-[23rem] sm:w-[30rem] sm:h-[30rem]"
+            className="w-[24rem] h-[24rem] sm:w-[30rem] sm:h-[30rem]"
             viewBox="0 0 30 30"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
@@ -108,24 +108,24 @@ export const HeroForm = ({ handlerFormOpen }) => {
         </div>
         <div className={styles.inner__content}>
           <p className={styles.content__title}>
-            Lasă-ne datele {""}
-            <br />
-            de contact
+          Introdu datele tale {""}
+          <br />de contact
           </p>
           <p className={styles.content__subtitle}>
-            și primești detalii{""}
-            <br />
-            exclusive
+          pentru a primi {""}
+          <br />prezentarea PDF
           </p>
           <p className={styles.content__title_mobile}>
-            Lasă-ne datele de contact și primești detalii exclusive
+          Introdu datele tale de 
+          <br />contact pentru a primi 
+          <br />prezentarea PDF
           </p>
           <form
             onSubmit={(e) => e.preventDefault()}
             className={styles.form__submit}
           >
-            <input type="text" name="name" placeholder="Nume, Prenume" />
-            <input type="email" name="email" placeholder="E-mail" />
+            <input type="text" name="name" value={name} placeholder="Nume, Prenume" onChange={handleChangeName} />
+            <input type="email" name="email" value={email} placeholder="E-mail" onChange={handleChangeEmail}/>
             <div className={styles.phone__input}>
               <PhoneInput
                 name="phone"
@@ -133,12 +133,12 @@ export const HeroForm = ({ handlerFormOpen }) => {
                 style={{
                   "--react-international-phone-background-color":
                     "#F4F2F2",
-                  "--react-international-phone-text-color": "#000",
+                  "--react-international-phone-text-color": "#7D7F80",
                   "--react-international-phone-border-color": "transparent",
                   "--react-international-phone-border-radius": "0%",
                   "--react-international-phone-width": "100%",
                   "--react-international-phone-height": `${
-                    isMobile ? "43rem" : "62rem"
+                    isMobile ? "60rem" : "62rem"
                   }`,
                   "--react-international-phone-dropdown-item-background-color":
                     "#FAF9F8",
@@ -153,8 +153,7 @@ export const HeroForm = ({ handlerFormOpen }) => {
                 onChange={handleChangePhone}
               />
             </div>
-            <button type="button" className={styles.offer__btn}>
-              {/* <span className={styles.span__text}>Solicită oferta <span className="inline-block sm:hidden">pentru oficii</span></span> */}
+            <button type="button" className={styles.offer__btn} onClick={formSubmitTrack} disabled={!isDisabled}>
               <span className={styles.span__text}>Descarcă acum prezentarea PDF</span>
               <svg
                 className="sw-[42rem] h-[42rem] m:w-[61rem] sm:h-[61rem]"

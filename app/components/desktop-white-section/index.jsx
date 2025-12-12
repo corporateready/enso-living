@@ -6,15 +6,19 @@ import Delux from "./duplex";
 import Apartment from "./apartment";
 import DesktopSlider from "../desktop-slider"
 import DesktopLocation from "../desktop-location"
+import Design from "./design"
+import Developer from "./developer"
 
-const Index = () => {
+const Index = ({handlerFormOpen}) => {
   return (
     <div className={styles.section}>
-      <Penthouse />
-      <Delux />
-      <Apartment />
+      <Penthouse handlerFormOpen={handlerFormOpen}/>
+      <Delux handlerFormOpen={handlerFormOpen}/>
+      <Apartment handlerFormOpen={handlerFormOpen}/>
+      <Design />
+      <Developer />
       <DesktopSlider />
-      <DesktopLocation />
+      <DesktopLocation handlerFormOpen={handlerFormOpen}/>
     </div>
   );
 };

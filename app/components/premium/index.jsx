@@ -2,22 +2,22 @@ import React from "react";
 import Image from "next/image";
 import styles from "./styles.module.scss";
 
-const Index = () => {
+const Index = ({handlerFormOpen}) => {
   return (
     <div className={styles.premium}>
       <div className={styles.premium__inner}>
         <div className={styles.premium__header_inner}>
           <div className={styles.premium__title_image}>
-          <Image
-            src={"/platinum-title.avif"}
-            alt="hero mobile background"
-            loading="eager"
-            priority={true}
-            fill
-            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-          />
+            <Image
+              src={"/platinum-title.avif"}
+              alt="hero mobile background"
+              loading="eager"
+              priority={true}
+              fill
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+            />
           </div>
-          
+
           <div className={styles.premium__title_content}>
             <p className={styles.premium__title_text}>
               Birouri premium{""}
@@ -75,7 +75,9 @@ const Index = () => {
                   strokeLinejoin="round"
                 />
               </svg>
-              <span className={styles.item__text}>2500 m<sup>2</sup> configurabile</span>
+              <span className={styles.item__text}>
+                Suprafețe: 298 m² – 2 200 m²
+              </span>
             </div>
             <div className={styles.inner__list_item}>
               <svg
@@ -110,7 +112,9 @@ const Index = () => {
                   strokeLinejoin="round"
                 />
               </svg>
-              <span className={styles.item__text}>20 birouri premium</span>
+              <span className={styles.item__text}>
+                4 niveluri de oficii premium
+              </span>
             </div>
             <div className={styles.inner__list_item}>
               <svg
@@ -437,17 +441,56 @@ const Index = () => {
               </svg>
 
               <span className={styles.item__text}>
-                Balcoane private pentru momente {""}
+                Balcoane pe fiecare etaj pentru momente
                 <br />
                 de relaxare și networking eficient
               </span>
             </div>
           </div>
-          <button type="button" className={styles.hero__btn}>
+          <button type="button" className={styles.hero__btn} onClick={handlerFormOpen}>
             <span className={styles.span__text}>
               Solicită oferta pentru oficii
             </span>
             <svg
+              className="w-[50rem] h-[50rem] sm:w-[62rem] sm:h-[62rem]"
+              viewBox="0 0 50 50"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <circle
+                cx="25"
+                cy="25"
+                r="24.5878"
+                stroke="white"
+                strokeWidth="0.82449"
+              />
+              <path
+                d="M20.8457 22.6154V18.9231C20.8457 18.6783 20.943 18.4435 21.1161 18.2704C21.2892 18.0973 21.524 18 21.7688 18H26.3842L30.9996 22.6154V29.077C30.9996 29.3218 30.9023 29.5566 30.7292 29.7297C30.5561 29.9028 30.3213 30 30.0765 30H25.4611"
+                stroke="white"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+              <path
+                d="M26.3848 18V22.6154H31.0002"
+                stroke="white"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+              <path
+                d="M21.7695 24.4619V30.0004"
+                stroke="white"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+              <path
+                d="M19 27.2305H24.5385"
+                stroke="white"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+            </svg>
+
+            {/* <svg
               className="w-[50rem] h-[50rem] sm:w-[62rem] sm:h-[62rem]"
               viewBox="0 0 50 50"
               fill="none"
@@ -468,7 +511,7 @@ const Index = () => {
                 d="M30.8636 27.5C30.6869 27.5003 30.5175 27.5706 30.3925 27.6956C30.2676 27.8205 30.1972 27.9899 30.1969 28.1667V29.7667C30.1967 29.8727 30.1544 29.9742 30.0795 30.0492C30.0045 30.1242 29.9029 30.1664 29.7969 30.1667H21.2636C21.1576 30.1664 21.056 30.1242 20.9811 30.0492C20.9061 29.9742 20.8639 29.8727 20.8636 29.7667V28.1667C20.8636 27.9899 20.7934 27.8203 20.6683 27.6953C20.5433 27.5702 20.3738 27.5 20.1969 27.5C20.0201 27.5 19.8506 27.5702 19.7255 27.6953C19.6005 27.8203 19.5303 27.9899 19.5303 28.1667V29.7667C19.5308 30.2262 19.7136 30.6668 20.0386 30.9917C20.3635 31.3166 20.8041 31.4994 21.2636 31.5H29.7969C30.2565 31.4994 30.697 31.3166 31.022 30.9917C31.3469 30.6668 31.5297 30.2262 31.5303 29.7667V28.1667C31.53 27.9899 31.4597 27.8205 31.3347 27.6956C31.2097 27.5706 31.0403 27.5003 30.8636 27.5Z"
                 fill="white"
               />
-            </svg>
+            </svg> */}
           </button>
         </div>
       </div>

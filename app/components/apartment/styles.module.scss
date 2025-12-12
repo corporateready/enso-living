@@ -4,7 +4,7 @@
     @apply block w-full h-auto relative z-0 bg-white sm:hidden;
 }
 .premium__header_inner {
-    @apply flex justify-start px-[8rem] gap-[17rem] pt-[102rem];
+    @apply flex justify-start px-[8rem] gap-[17rem] pt-[114rem];
 }
 .premium__title_image {
     @apply self-end w-[110rem] h-[105rem] relative z-1 mb-[-8rem];
@@ -13,7 +13,7 @@
     @apply flex flex-col gap-[11rem] ml-[-8rem]; 
 }
 .premium__title_text {
-    @apply text-black text-[30rem] leading-[100%];
+    @apply text-black text-[27rem] leading-[100%];
 }
 .premium__title_description {
     @apply text-black text-[12rem] leading-[125%];
@@ -22,7 +22,7 @@
     @apply px-[25rem] flex flex-col;
 }
 .premium__inner_image {
-    @apply w-[380rem] h-[500rem] mt-[19rem] relative z-1;
+    @apply w-[380rem] h-[500rem] relative z-1;
 }
 
 .hero__btn {

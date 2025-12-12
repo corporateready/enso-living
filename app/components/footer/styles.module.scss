@@ -1,21 +1,21 @@
 @reference "tailwindcss";
 .footer {
-    @apply w-full h-auto bg-[#667761] p-0 m-0 mt-[-1rem];
+    @apply w-full h-auto bg-[#667761] p-0 m-0;
 }
 .inner {
-    @apply flex flex-col gap-[58rem] px-[25rem] pt-[21rem] pb-[28rem];
+    @apply flex flex-col gap-[58rem] px-[25rem] pt-[22rem] pb-[28rem];
     @media screen and (width >= 640px) {
-        @apply w-[1244rem] px-0 mx-auto pt-[24rem] pb-[100rem] gap-[70rem];
+        @apply w-[1244rem] px-0 mx-auto pt-[38rem] pb-[100rem] gap-[70rem];
     }
 }
 .top__content {
     @apply flex justify-between;
 }
 .google__map_link__mobile {
-    @apply inline text-[10rem] text-white/60 leading-[100%] sm:hidden;
+    @apply inline text-[10rem] text-white/60 leading-[100%] sm:hidden underline;
 }
 .google__map_link__desktop {
-    @apply hidden sm:inline-flex flex-col gap-[8rem] text-[16rem] text-white/60 leading-[100%];
+    @apply hidden sm:inline-flex flex-col gap-[8rem] text-[16rem] text-white/60 leading-[100%] underline;
 }
 .google__map_link {
     @apply text-[10rem] text-white/60 leading-[100%];

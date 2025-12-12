@@ -10,6 +10,8 @@ import Landmark from "./components/landmark";
 import Penthouse from "./components/penthouse";
 import Duplex from "./components/duplex";
 import Apartment from "./components/apartment";
+import Design from "./components/design"
+import Develolper from "./components/developer"
 import Landscape from "./components/landscape";
 import Location from "./components/location";
 import DesktopBrownSection from "./components/desktop-brown-section/"
@@ -28,21 +30,23 @@ const handlerFormOpen = () => {
     <div className="flex h-full w-full items-center justify-center overflow-x-hidden">
       <main className="w-full h-full relative">
         <Hero handlerFormOpen={handlerFormOpen}/>
-        <DesktopBrownSection />
+        <DesktopBrownSection handlerFormOpen={handlerFormOpen}/>
         <Lux />
-        <DesktopWhiteSection />
+        <DesktopWhiteSection handlerFormOpen={handlerFormOpen}/>
         <div>
-          <Premium />
+          <Premium handlerFormOpen={handlerFormOpen}/>
           <Multy />
-          <Comercial />
-          <Bistro />
+          <Comercial handlerFormOpen={handlerFormOpen}/>
+          <Bistro handlerFormOpen={handlerFormOpen}/>
           <Facility />
           <Landmark />
-          <Penthouse />
-          <Duplex />    
-          <Apartment />
+          <Penthouse handlerFormOpen={handlerFormOpen}/>
+          <Duplex handlerFormOpen={handlerFormOpen}/>    
+          <Apartment handlerFormOpen={handlerFormOpen}/>
+          <Design />
+          <Develolper />
           <Landscape />
-          <Location />
+          <Location handlerFormOpen={handlerFormOpen}/>
         </div>
 
         <Footer />

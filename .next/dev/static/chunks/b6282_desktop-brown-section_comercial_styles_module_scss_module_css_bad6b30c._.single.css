@@ -17,7 +17,7 @@
   gap: 74rem;
   width: 1340rem;
   height: 100%;
-  padding-top: 198rem;
+  padding-top: 202rem;
   display: flex;
 }
 
@@ -35,7 +35,7 @@
 .styles-module-scss-module__2u-pya__inner__image {
   z-index: 0;
   width: 650rem;
-  height: 592rem;
+  height: 590rem;
   display: inline-block;
   position: relative;
 }
@@ -63,7 +63,7 @@
 
 .styles-module-scss-module__2u-pya__content {
   flex-direction: column;
-  margin-top: 103rem;
+  margin-top: 114rem;
   margin-left: 4rem;
   display: flex;
 }
@@ -85,7 +85,7 @@
 .styles-module-scss-module__2u-pya__inner__list_item {
   border-bottom-style: var(--tw-border-style);
   border-color: #5a4c45;
-  border-bottom-width: 2rem;
+  border-bottom-width: 2px;
   gap: 78rem;
   width: 100%;
   padding-block: 25rem;
@@ -114,6 +114,12 @@
   font-size: 26rem;
   line-height: 100%;
   display: flex;
+}
+
+@media (hover: hover) {
+  .styles-module-scss-module__2u-pya__offer__btn:hover {
+    cursor: pointer;
+  }
 }
 
 .styles-module-scss-module__2u-pya__offer__btn .styles-module-scss-module__2u-pya__span__text {

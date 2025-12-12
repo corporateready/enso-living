@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/app/terms-and-conditions/styles.module.scss"],"sourcesContent":["@reference \"tailwindcss\";\n\n.terms {\n  @apply bg-[#ffffff] w-full h-auto relative z-0 flex flex-col pb-[30rem];\n  font-family: \"Montserrat\", sans-serif;\n}\n\n.terms__content {\n  @apply text-black w-full h-full;\n}\n.headLine__title {\n  @apply text-[14rem] font-bold mb-[10rem];\n  @media screen and (width >= 640px) {\n    @apply text-[18rem] ;\n  }\n  @media screen and (width >= 1920px) {\n    @apply text-[18px] mb-[10px];\n  }\n}\n.title {\n  @apply text-[14rem] font-bold mb-[10rem];\n  @media screen and (width >= 640px) {\n    @apply text-[16rem];\n  }\n  @media screen and (width >= 1920px) {\n    @apply text-[16px];\n  }\n}\n.description {\n  @apply text-[12rem] font-medium leading-[120%] mb-[10rem];\n  @media screen and (width >= 640px) {\n    @apply text-[14rem];\n  }\n  @media screen and (width >= 1920px) {\n    @apply text-[14px];\n  }\n}"],"names":[],"mappings":"AAAA;;;;;;;;;;;;AAAA;;;;;;AAAA;;;;;;;AAAA;EAAA;;;;;AAAA;EAAA;;;;;;AAAA;;;;;;;AAAA;EAAA;;;;;AAAA;EAAA;;;;;AAAA;;;;;;;;;AAAA;EAAA;;;;;AAAA;EAAA;;;;;AAAA;;;;;AAAA"}}]
+}

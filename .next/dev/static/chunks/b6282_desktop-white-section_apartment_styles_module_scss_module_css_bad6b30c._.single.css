@@ -9,7 +9,7 @@
 .styles-module-scss-module__jdB11q__wrapper {
   flex-direction: row-reverse;
   justify-content: flex-end;
-  gap: 106rem;
+  gap: 66rem;
   width: 100%;
   height: 100%;
   display: flex;
@@ -17,10 +17,9 @@
 
 .styles-module-scss-module__jdB11q__inner {
   margin-right: calc(var(--spacing, .25rem) * 0);
-  gap: 28rem;
-  width: 1278rem;
+  width: 1420rem;
   height: 100%;
-  padding-top: 208rem;
+  padding-top: 212rem;
   padding-bottom: 148rem;
   display: flex;
 }
@@ -97,16 +96,25 @@
   width: 400rem;
   height: 80rem;
   color: var(--color-white, #fff);
-  background: linear-gradient(90deg, #4e4e64e6 0%, #b17762e6 80%);
   border-radius: 3.40282e38px;
   justify-content: flex-end;
   align-items: center;
   gap: 50rem;
-  margin-top: 372rem;
+  margin-top: 360rem;
   padding-right: 10rem;
   font-size: 26rem;
   line-height: 100%;
   display: flex;
+}
+
+@media (hover: hover) {
+  .styles-module-scss-module__jdB11q__offer__btn:hover {
+    cursor: pointer;
+  }
+}
+
+.styles-module-scss-module__jdB11q__offer__btn {
+  background: linear-gradient(90deg, #4e4e64e6 0%, #b17762e6 80%);
 }
 
 .styles-module-scss-module__jdB11q__offer__btn .styles-module-scss-module__jdB11q__span__text {

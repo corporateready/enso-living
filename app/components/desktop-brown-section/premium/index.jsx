@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import styles from "./styles.module.scss";
 
-const Index = () => {
+const Index = ({handlerFormOpen}) => {
   return (
     <div className={styles.section}>
       <div className={styles.wrapper}>
@@ -32,7 +32,7 @@ const Index = () => {
                 Oportunitatea de a lucra în {""}
                 <br />confortul propriei locuințe
               </p>
-              <button type="button" className={styles.offer__btn}>
+              <button type="button" className={styles.offer__btn} onClick={handlerFormOpen}>
                 <span className={styles.span__text}>
                   Solicită oferta pentru oficii
                 </span>
@@ -107,12 +107,12 @@ const Index = () => {
                     />
                   </svg>
                   <span className={styles.item__text}>
-                    2500 m<sup>2</sup> configurabile
+                  Suprafețe: 298 m² – 2 200 m²
                   </span>
                 </div>
                 <div className={styles.inner__list_item}>
                   <svg
-                   className="w-[24rem] h-[22rem]"
+                   className="w-[26rem] h-[24rem]"
                     viewBox="0 0 13 13"
                     fill="none"
                     xmlns="http://www.w3.org/2000/svg"
@@ -142,7 +142,7 @@ const Index = () => {
                       strokeLinejoin="round"
                     />
                   </svg>
-                  <span className={styles.item__text}>20 birouri premium</span>
+                  <span className={styles.item__text}>4 niveluri de oficii premium</span>
                 </div>
                 <div className={styles.inner__list_item}>
                   <svg
@@ -467,8 +467,8 @@ const Index = () => {
                   </svg>
 
                   <span className={styles.item__text}>
-                    Balcoane private pentru {""}
-                    <br />momente de relaxare {""}
+                    Balcoane pe fiecare etaj 
+                    <br />pentru momente de relaxare 
                     <br />și networking eficient
                   </span>
                 </div>

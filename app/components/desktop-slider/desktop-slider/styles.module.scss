@@ -1,32 +1,33 @@
 @reference "tailwindcss";
 .embla {
-    max-width: 1440rem;
-    margin: auto;
+    width: 100%;
     --slide-spacing: 10rem;
-    --slide-size: 100%;
+    --slide-size: 90%;
     position: relative;
   }
   .embla__viewport {
     overflow: hidden;
+
   }
   .embla__container {
     display: flex;
     touch-action: pan-y pinch-zoom;
-    margin-left: calc(var(--slide-spacing) * -1);
+    margin-left: 250rem;
+    // margin-left: calc(var(--slide-spacing) * -1);
   }
   .embla__slide {
     transform: translate3d(0, 0, 0);
     flex: 0 0 var(--slide-size);
     min-width: 0;
-    padding-left: var(--slide-spacing);
   }
   .embla__slide__image {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 810rem;
+    height: 820rem;
     width: 1440rem;
     position: relative;
+
   }
   .embla__controls {
     display: grid;

@@ -9,7 +9,7 @@
 .styles-module-scss-module__Lgot7G__wrapper {
   flex-direction: row-reverse;
   justify-content: flex-end;
-  gap: 106rem;
+  gap: 86rem;
   width: 100%;
   height: 100%;
   display: flex;
@@ -18,9 +18,9 @@
 .styles-module-scss-module__Lgot7G__inner {
   margin-right: calc(var(--spacing, .25rem) * 0);
   gap: 24rem;
-  width: 1278rem;
+  width: 1320rem;
   height: 100%;
-  padding-top: 218rem;
+  padding-top: 200rem;
   display: flex;
 }
 
@@ -70,7 +70,6 @@
 .styles-module-scss-module__Lgot7G__title__text {
   --tw-leading: 100%;
   color: var(--color-black, #000);
-  margin-top: -8rem;
   font-size: 60rem;
   line-height: 100%;
 }
@@ -89,7 +88,6 @@
   width: 396rem;
   height: 80rem;
   color: var(--color-white, #fff);
-  background: linear-gradient(90deg, #4e4e64e6 0%, #b17762e6 80%);
   border-radius: 3.40282e38px;
   justify-content: flex-end;
   align-items: center;
@@ -99,6 +97,16 @@
   font-size: 26rem;
   line-height: 100%;
   display: flex;
+}
+
+@media (hover: hover) {
+  .styles-module-scss-module__Lgot7G__offer__btn:hover {
+    cursor: pointer;
+  }
+}
+
+.styles-module-scss-module__Lgot7G__offer__btn {
+  background: linear-gradient(90deg, #4e4e64e6 0%, #b17762e6 80%);
 }
 
 .styles-module-scss-module__Lgot7G__offer__btn .styles-module-scss-module__Lgot7G__span__text {

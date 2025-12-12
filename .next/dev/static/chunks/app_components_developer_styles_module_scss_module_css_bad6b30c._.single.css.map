@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/app/components/developer/styles.module.scss"],"sourcesContent":["@reference \"tailwindcss\";\n\n.premium {\n    @apply block w-full h-auto relative z-0 sm:hidden;\n}\n.premium__inner_image {\n    @apply w-full h-[894rem] relative z-1 overflow-hidden;\n}\n.premium__inner_content {\n    @apply px-[25rem];\n}\n.title {\n    @apply w-full flex flex-col relative z-1 text-[30rem] text-white leading-[110%] mt-[84rem] pb-[18rem];\n    letter-spacing: -1rem;\n}\n.description {\n    @apply w-full flex flex-col relative z-1 text-[12rem] text-white leading-[124%] mt-[32rem];\n}\n.inner__logo {\n    @apply w-[170rem] h-[220rem] relative top-[82rem] left-1/2 -translate-x-1/2 z-1;\n}\n.bottom__text_title {\n    @apply relative z-1 text-[30rem] text-black leading-[100%] mt-[236rem];\n    letter-spacing: -1.4rem;\n}\n.bottom__text_subtitle {\n    @apply relative z-1  text-[12rem] text-black leading-[120%] mt-[10rem] pr-[25rem] text-left flex justify-end;\n}\n"],"names":[],"mappings":"AAAA;;;;;;;;AAAA;EAAA;;;;;AAAA;;;;;;;;AAAA;;;;AAAA;;;;;;;;;;;;;;;AAAA;;;;;;;;;;;;;AAAA;;;;;;;;;;;AAAA;;;;;;;;;;;AAAA;;;;;;;;;;;;;;AAAA;;;;;AAAA;;;;;;AAAA;;;;;;AAAA"}}]
+}

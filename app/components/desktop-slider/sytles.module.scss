@@ -1,9 +1,9 @@
 @reference "tailwindcss";
 .section {
-    @apply w-full h-auto relative top-0 left-1/2 -translate-x-1/2 z-0 bg-white pb-[116rem];
+    @apply w-full h-auto relative top-0 left-0 translate-x-0 z-0 bg-white pt-[150rem] pb-[116rem];
 }
 .wrapper {
-    @apply w-full h-auto  flex justify-center relative z-0 mt-[50rem] bg-white ;
+    @apply w-full h-auto  flex justify-center relative z-0 mt-[60rem] bg-white;
 }
 .slider__wrapper {
     width: fit-content;

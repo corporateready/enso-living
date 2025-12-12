@@ -1,9 +1,8 @@
 /* [project]/app/components/desktop-slider/desktop-slider/styles.module.scss.module.css [app-client] (css) */
 .styles-module-scss-module__F2liqG__embla {
   --slide-spacing: 10rem;
-  --slide-size: 100%;
-  max-width: 1440rem;
-  margin: auto;
+  --slide-size: 90%;
+  width: 100%;
   position: relative;
 }
 
@@ -13,14 +12,13 @@
 
 .styles-module-scss-module__F2liqG__embla__container {
   touch-action: pan-y pinch-zoom;
-  margin-left: calc(var(--slide-spacing) * -1);
+  margin-left: 250rem;
   display: flex;
 }
 
 .styles-module-scss-module__F2liqG__embla__slide {
   flex: 0 0 var(--slide-size);
   min-width: 0;
-  padding-left: var(--slide-spacing);
   transform: translate3d(0, 0, 0);
 }
 
@@ -28,7 +26,7 @@
   justify-content: center;
   align-items: center;
   width: 1440rem;
-  height: 810rem;
+  height: 820rem;
   display: flex;
   position: relative;
 }

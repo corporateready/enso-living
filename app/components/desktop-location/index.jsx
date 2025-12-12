@@ -2,7 +2,7 @@ import React from "react";
 import styles from "./sytles.module.scss";
 import Image from "next/image";
 
-const Index = () => {
+const Index = ({handlerFormOpen}) => {
   return (
     <div className={styles.section}>
       <div className="w-full h-[1274rem] relative">
@@ -30,7 +30,7 @@ const Index = () => {
           <br />
           un public select
         </p>
-        <button type="button" className={styles.offer__btn}>
+        <button type="button" className={styles.offer__btn} onClick={handlerFormOpen}>
           <span className={styles.span__text}>Solicită oferta de lansare</span>
           <svg
             className="w-[61rem] h-[61rem]"

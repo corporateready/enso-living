@@ -1,6 +1,5 @@
 import React from "react";
 import styles from "./sytles.module.scss";
-import Image from "next/image";
 import { DesktopSlider } from "./desktop-slider";
 
 const Index = () => {

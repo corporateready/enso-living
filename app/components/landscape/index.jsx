@@ -6,14 +6,7 @@ import { MobileSlider } from "./mobile-slider";
 const Index = () => {
   return (
     <div className={styles.premium}>
-      <p className={styles.top__text_title}>
-      Landscape design{""}
-      <br />by ACLA Architecture Studio
-      </p>
-      <p className={styles.top__text_subtitle}>
-      Un cadru natural deosebit {""}
-      <br />pentru un stil de viață select
-      </p>
+      
       <div className={styles.premium__inner_slider}>
         <MobileSlider />
         <div className={styles.slider__navigate}>

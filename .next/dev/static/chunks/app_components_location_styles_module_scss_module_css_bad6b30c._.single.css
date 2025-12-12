@@ -1,9 +1,11 @@
 /* [project]/app/components/location/styles.module.scss.module.css [app-client] (css) */
 .styles-module-scss-module__EUP3NW__premium {
   z-index: 0;
-  background-color: var(--color-white, #fff);
+  margin: calc(var(--spacing, .25rem) * 0);
   width: 100%;
   height: auto;
+  padding: calc(var(--spacing, .25rem) * 0);
+  background-color: #667761;
   display: block;
   position: relative;
 }
@@ -18,7 +20,7 @@
   z-index: 1;
   width: 100%;
   height: 400rem;
-  margin-top: 19rem;
+  margin-top: 29rem;
   position: relative;
 }
 
@@ -41,7 +43,7 @@
   line-height: 100%;
   display: flex;
   position: absolute;
-  top: 34rem;
+  top: 28rem;
   left: 50%;
 }
 

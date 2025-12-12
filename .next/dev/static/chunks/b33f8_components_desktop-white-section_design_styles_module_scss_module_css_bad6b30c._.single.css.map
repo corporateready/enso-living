@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/app/components/desktop-white-section/design/styles.module.scss"],"sourcesContent":["@reference \"tailwindcss\";\n\n.premium {\n    @apply hidden sm:block w-full h-auto relative z-0;\n}\n.premium__inner_image {\n    @apply w-full h-[1018rem] relative z-1 overflow-hidden;\n}\n.top__text {\n    @apply w-[1298rem] flex flex-col mx-auto relative z-1 text-[80rem] text-white leading-[102%] mt-[224rem];\n}\n\n.text__1 {\n    @apply inline-flex;\n}\n.text__2 {\n    @apply inline-flex justify-end;\n}\n.text__3 {\n    @apply inline-flex ml-[110rem];\n}"],"names":[],"mappings":"AAAA;;;;;;;;AAAA;EAAA;;;;;AAAA;;;;;;;;AAAA;;;;;;;;;;;;;;AAAA;;;;AAAA;;;;;AAAA;;;;;AAAA"}}]
+}

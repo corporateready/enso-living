@@ -7,7 +7,7 @@
     @apply w-full h-full flex justify-end ;
 }
 .inner {
-    @apply w-[1340rem] h-full pt-[200rem] mr-0;
+    @apply w-[1340rem] h-full pt-[210rem] mr-0;
 }
 .rightside__line {
 @apply w-[340rem] h-auto bg-[#B17762] relative z-0;
@@ -49,13 +49,13 @@
     @apply w-full h-auto;
 }
 .inner__list_item {
-    @apply flex gap-[78rem] w-full border-b-[2rem] border-[#5A4C45] py-[25rem];
+    @apply flex gap-[78rem] w-full border-b-[2px] border-[#5A4C45] py-[25rem];
 }
 .item__text {
     @apply text-[26rem] text-white leading-[115%];
 }
 .offer__btn {
-    @apply w-[455rem] h-[80rem] text-white text-[26rem] leading-[100%] flex justify-end items-center gap-[20rem] rounded-full pr-[10rem] bg-[#667761] mt-[26rem];
+    @apply w-[455rem] h-[80rem] text-white text-[26rem] leading-[100%] flex justify-end items-center gap-[20rem] rounded-full pr-[10rem] bg-[#667761] mt-[26rem] hover:cursor-pointer;
     .span__text {
         @apply text-end;
     }

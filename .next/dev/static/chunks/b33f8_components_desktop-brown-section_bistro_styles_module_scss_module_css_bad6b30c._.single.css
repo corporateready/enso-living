@@ -17,7 +17,7 @@
   margin-right: calc(var(--spacing, .25rem) * 0);
   width: 1340rem;
   height: 100%;
-  padding-top: 198rem;
+  padding-top: 204rem;
   padding-right: 104rem;
 }
 
@@ -30,7 +30,7 @@
 .styles-module-scss-module__jabupa__inner__image {
   z-index: 0;
   width: 1235rem;
-  height: 600rem;
+  height: 610rem;
   margin-top: 30rem;
   display: inline-block;
   position: relative;
@@ -69,7 +69,7 @@
   margin-inline: auto;
   --tw-translate-x: calc(var(--spacing, .25rem) * 0);
   --tw-translate-y: calc(var(--spacing, .25rem) * 0);
-  width: 266rem;
+  width: 326rem;
   height: 292rem;
   translate: var(--tw-translate-x) var(--tw-translate-y);
   margin-top: 172rem;
@@ -111,18 +111,24 @@
   float: inline-end;
   --tw-leading: 100%;
   width: 618rem;
-  height: 80rem;
+  height: 83rem;
   color: var(--color-white, #fff);
   background-color: #667761;
   border-radius: 3.40282e38px;
   justify-content: flex-end;
   align-items: center;
   gap: 22rem;
-  margin-top: 43rem;
+  margin-top: 42rem;
   padding-right: 10rem;
   font-size: 26rem;
   line-height: 100%;
   display: flex;
+}
+
+@media (hover: hover) {
+  .styles-module-scss-module__jabupa__offer__btn:hover {
+    cursor: pointer;
+  }
 }
 
 .styles-module-scss-module__jabupa__offer__btn .styles-module-scss-module__jabupa__span__text {

@@ -17,7 +17,7 @@
   margin-right: calc(var(--spacing, .25rem) * 0);
   width: 1340rem;
   height: 100%;
-  padding-top: 200rem;
+  padding-top: 210rem;
 }
 
 .styles-module-scss-module__9bTGZq__rightside__line {
@@ -109,7 +109,7 @@
 .styles-module-scss-module__9bTGZq__inner__list_item {
   border-bottom-style: var(--tw-border-style);
   border-color: #5a4c45;
-  border-bottom-width: 2rem;
+  border-bottom-width: 2px;
   gap: 78rem;
   width: 100%;
   padding-block: 25rem;
@@ -138,6 +138,12 @@
   font-size: 26rem;
   line-height: 100%;
   display: flex;
+}
+
+@media (hover: hover) {
+  .styles-module-scss-module__9bTGZq__offer__btn:hover {
+    cursor: pointer;
+  }
 }
 
 .styles-module-scss-module__9bTGZq__offer__btn .styles-module-scss-module__9bTGZq__span__text {

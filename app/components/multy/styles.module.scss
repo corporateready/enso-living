@@ -4,7 +4,7 @@
     @apply block w-full h-auto relative z-0 bg-[#463C37] sm:hidden;
 }
 .premium__header_inner {
-    @apply flex justify-start px-[8rem] gap-[0rem] pt-[58rem];
+    @apply flex justify-start px-[8rem] gap-[0rem] pt-[62rem];
 }
 .premium__title_image {
     @apply w-[124rem] h-[106rem] relative;
@@ -22,7 +22,7 @@
     @apply px-[25rem] flex flex-col;
 }
 .premium__inner_image {
-    @apply w-[380rem] h-[500rem] mt-[14rem] relative z-1;
+    @apply w-[380rem] h-[506rem] mt-[14rem] relative z-1;
 
     .box__dekor {
         @apply inline-flex justify-center items-center gap-[10rem] absolute bottom-0 left-0 z-2 text-[12rem] text-white w-[200rem] h-[35rem];

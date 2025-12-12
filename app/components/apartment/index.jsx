@@ -3,7 +3,7 @@ import Image from "next/image";
 import styles from "./styles.module.scss";
 import {MobileSlider} from "./mobile-slider"
 
-const Index = () => {
+const Index = ({handlerFormOpen}) => {
   return (
     <div className={styles.premium}>
       <div className={styles.premium__inner}>
@@ -20,7 +20,7 @@ const Index = () => {
           </div>
           <div className={styles.premium__title_content}>
             <p className={styles.premium__title_text}>
-            Apartamente {""} 
+            Doar 24 apartamente {""} 
             <br />la etajele 4-7
             </p>
             <p className={styles.premium__title_description}>
@@ -33,7 +33,7 @@ const Index = () => {
         <div className={styles.premium__content}>
           <MobileSlider />
 
-          <button type="button" className={styles.hero__btn}>
+          <button type="button" className={styles.hero__btn} onClick={handlerFormOpen}>
             <span className={styles.span__text}>Vezi Apartamentele</span>
             <svg
               width="50"

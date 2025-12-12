@@ -1,4 +1,5 @@
 import { Inter } from "next/font/google";
+import Script from "next/script";
 import "./globals.css";
 import GoogleTagManager from "./components/GoogleTagManager";
 
@@ -65,6 +66,12 @@ export default function RootLayout({ children }) {
         className={`${inter.variable} antialiased`}
       >
         {children}
+        <Script
+          id="to-top"
+          dangerouslySetInnerHTML={{
+            __html: `history.scrollRestoration = "manual"`,
+          }}
+        />
       </body>
     </html>
   );

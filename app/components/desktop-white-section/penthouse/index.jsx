@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import styles from "./styles.module.scss";
 
-const Index = () => {
+const Index = ({handlerFormOpen}) => {
   return (
     <div className={styles.section}>
       <div className={styles.wrapper}>
@@ -32,7 +32,7 @@ const Index = () => {
                 <br />
                 oferă liniște de la altitudine
               </p>
-              <button type="button" className={styles.offer__btn}>
+              <button type="button" className={styles.offer__btn} onClick={handlerFormOpen}>
                 <span className={styles.span__text}>Vezi Penthouse-ul</span>
                 <svg
                   className="w-[61rem] h-[61rem]"
@@ -91,9 +91,14 @@ const Index = () => {
               </svg>
 
               <span className={styles.item__text}>
-                <span className={styles.span__text}>Grădină privată interioară</span> {""}
-                <br />un sanctuar verde unde toate cele 4
-                anotimpuri prind viață
+                <span className={styles.span__text}>
+                  Grădină privată 
+                  <br />interioară
+                </span>
+                <br />un sanctuar verde 
+                <br />unde toate cele
+                <br />4 anotimpuri prind 
+                <br />viață
               </span>
             </div>
             <div className={styles.inner__list_item}>
@@ -130,8 +135,13 @@ const Index = () => {
               </svg>
 
               <span className={styles.item__text}>
-              <span className={styles.span__text}>Zonă jacuzzi:</span> momente de răsfăț la înălțime, cu priveliști line
-                spre orizontul montan
+                <span className={styles.span__text}>
+                  Zonă jacuzzi:</span> 
+                  <br />momente de 
+                  <br/>răsfăț la înălțime, 
+                  <br />cu priveliști line 
+                  <br />spre orizontul 
+                  <br />montan
               </span>
             </div>
             <div className={styles.inner__list_item}>
@@ -156,8 +166,13 @@ const Index = () => {
               </svg>
 
               <span className={styles.item__text}>
-              <span className={styles.span__text}>Design personalizabil:</span> un interior conceput individual, ca o
-                expresie a stilului tău autentic
+                <span className={styles.span__text}>
+                  Design <br />personalizabil:
+                </span> un 
+                <br />interior conceput 
+                <br />individual, ca o 
+                <br />expresie a stilului 
+                <br />tău autentic
               </span>
             </div>
             <div className={styles.inner__list_item}>
@@ -230,40 +245,57 @@ const Index = () => {
               </svg>
 
               <span className={styles.item__text}>
-              <span className={styles.span__text}>Vederi uimitoare:</span> o perspectivă panoramică de 360° asupra
-                orașului și munților
+                <span className={styles.span__text}>Vederi uimitoare:</span>
+                <br /> o perspectivă 
+                <br />panoramică
+                <br />de 360° asupra 
+                <br />orașului 
+                <br />și munților
               </span>
             </div>
             <div className={styles.inner__list_item}>
               <svg
-                className="w-[25rem] h-[27rem]"
-                viewBox="0 0 25 27"
+                className="w-[25rem] h-[25rem]"
+                viewBox="0 0 25 25"
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <path
-                  d="M24.5 17.8304L17.5031 7.9387C17.3315 7.75328 17.1273 7.6061 16.9023 7.50566C16.6773 7.40523 16.436 7.35352 16.1923 7.35352C15.9486 7.35352 15.7073 7.40523 15.4823 7.50566C15.2573 7.6061 15.0532 7.75328 14.8815 7.9387L0.5 26.2185H24.5"
-                  stroke="#000001"
+                  d="M8.808 0.5H1.42311C1.17829 0.5 0.94349 0.597256 0.770373 0.770373C0.597256 0.94349 0.5 1.17829 0.5 1.42311V8.808"
+                  stroke="black"
                   strokeLinecap="round"
                   strokeLinejoin="round"
                 />
                 <path
-                  d="M8.23535 16.3271L10.9492 18.3055C11.2619 18.544 11.6361 18.6722 12.02 18.6722C12.4038 18.6722 12.7781 18.544 13.0907 18.3055L14.7338 16.98C15.0534 16.7232 15.4421 16.5843 15.8415 16.5843C16.241 16.5843 16.6296 16.7232 16.9492 16.98L18.5923 18.3055C18.9031 18.5396 19.2739 18.6652 19.6538 18.6652C20.0338 18.6652 20.4045 18.5396 20.7154 18.3055L23.4477 16.3271"
-                  stroke="#000001"
+                  d="M24.5004 8.808V1.42311C24.5004 1.17829 24.4031 0.94349 24.23 0.770373C24.0569 0.597256 23.8221 0.5 23.5773 0.5H16.1924"
+                  stroke="black"
                   strokeLinecap="round"
                   strokeLinejoin="round"
                 />
                 <path
-                  d="M5.11538 10.3917C7.66439 10.3917 9.73077 8.17734 9.73077 5.44583C9.73077 2.71433 7.66439 0.5 5.11538 0.5C2.56638 0.5 0.5 2.71433 0.5 5.44583C0.5 8.17734 2.56638 10.3917 5.11538 10.3917Z"
-                  stroke="#000001"
+                  d="M16.1924 24.5004H23.5773C23.8221 24.5004 24.0569 24.4031 24.23 24.23C24.4031 24.0569 24.5004 23.8221 24.5004 23.5773V16.1924"
+                  stroke="black"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                />
+                <path
+                  d="M0.5 16.1924V23.5773C0.5 23.8221 0.597256 24.0569 0.770373 24.23C0.94349 24.4031 1.17829 24.5004 1.42311 24.5004H8.808"
+                  stroke="black"
                   strokeLinecap="round"
                   strokeLinejoin="round"
                 />
               </svg>
 
               <span className={styles.item__text}>
-              <span className={styles.span__text}>Terasă de 252 m<sup>2</sup></span> un spațiu amplu în aer liber, creat
-                pentru dimineți calme și seri memorabile
+                <span className={styles.span__text}>
+                  Suprafața totală de 
+                  <br />532,62 m²
+                </span> spațiu 
+                <br />amplu distribuit 
+                <br />în 3 niveluri, proiectat 
+                <br />pentru funcționalitate 
+                <br />impecabilă și confort 
+                <br />în fiecare zonă.
               </span>
             </div>
           </div>

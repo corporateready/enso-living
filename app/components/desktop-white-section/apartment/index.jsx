@@ -3,7 +3,7 @@ import Image from "next/image";
 import styles from "./styles.module.scss";
 import { DesktopSlider } from "./desktop-slider";
 
-const Index = () => {
+const Index = ({handlerFormOpen}) => {
   return (
     <div className={styles.section}>
       <div className={styles.wrapper}>
@@ -12,7 +12,8 @@ const Index = () => {
           <div className={styles.inner__header}>
             <div className={styles.head__content}>
               <p className={styles.title__text}>
-              Apartamente {""}
+              Doar
+              <br />24 Apartamente {""}
               <br />la etajele 4-7
               </p>
               <p className={styles.description__text}>
@@ -21,7 +22,7 @@ const Index = () => {
               <br />prin rafinament și te fac {""}
               <br />instantaneu să te simți acasă.
               </p>
-              <button type="button" className={styles.offer__btn}>
+              <button type="button" className={styles.offer__btn} onClick={handlerFormOpen}>
                 <span className={styles.span__text}>Vezi Apartamentele</span>
                 <svg
                   className="w-[61rem] h-[61rem]"

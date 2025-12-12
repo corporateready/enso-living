@@ -1,0 +1,115 @@
+/* [project]/app/components/developer/styles.module.scss.module.css [app-client] (css) */
+.styles-module-scss-module__GN_IHq__premium {
+  z-index: 0;
+  width: 100%;
+  height: auto;
+  display: block;
+  position: relative;
+}
+
+@media (min-width: 40rem) {
+  .styles-module-scss-module__GN_IHq__premium {
+    display: none;
+  }
+}
+
+.styles-module-scss-module__GN_IHq__premium__inner_image {
+  z-index: 1;
+  width: 100%;
+  height: 894rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.styles-module-scss-module__GN_IHq__premium__inner_content {
+  padding-inline: 25rem;
+}
+
+.styles-module-scss-module__GN_IHq__title {
+  z-index: 1;
+  --tw-leading: 110%;
+  width: 100%;
+  color: var(--color-white, #fff);
+  letter-spacing: -1rem;
+  flex-direction: column;
+  margin-top: 84rem;
+  padding-bottom: 18rem;
+  font-size: 30rem;
+  line-height: 110%;
+  display: flex;
+  position: relative;
+}
+
+.styles-module-scss-module__GN_IHq__description {
+  z-index: 1;
+  --tw-leading: 124%;
+  width: 100%;
+  color: var(--color-white, #fff);
+  flex-direction: column;
+  margin-top: 32rem;
+  font-size: 12rem;
+  line-height: 124%;
+  display: flex;
+  position: relative;
+}
+
+.styles-module-scss-module__GN_IHq__inner__logo {
+  z-index: 1;
+  --tw-translate-x: calc(calc(1 / 2 * 100%) * -1);
+  width: 170rem;
+  height: 220rem;
+  translate: var(--tw-translate-x) var(--tw-translate-y);
+  position: relative;
+  top: 82rem;
+  left: 50%;
+}
+
+.styles-module-scss-module__GN_IHq__bottom__text_title {
+  z-index: 1;
+  --tw-leading: 100%;
+  color: var(--color-black, #000);
+  letter-spacing: -1.4rem;
+  margin-top: 236rem;
+  font-size: 30rem;
+  line-height: 100%;
+  position: relative;
+}
+
+.styles-module-scss-module__GN_IHq__bottom__text_subtitle {
+  z-index: 1;
+  text-align: left;
+  --tw-leading: 120%;
+  color: var(--color-black, #000);
+  justify-content: flex-end;
+  margin-top: 10rem;
+  padding-right: 25rem;
+  font-size: 12rem;
+  line-height: 120%;
+  display: flex;
+  position: relative;
+}
+
+@property --tw-leading {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-translate-x {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-y {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-z {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+/*# sourceMappingURL=app_components_developer_styles_module_scss_module_css_bad6b30c._.single.css.map*/

@@ -22,7 +22,7 @@
     letter-spacing: 0rem;
 }
 .offer__btn {
-    @apply w-[435rem] h-[80rem] absolute top-[330rem] left-[242rem] translate-0 z-2 text-white text-[26rem] leading-[100%] flex justify-end items-center gap-[20rem] rounded-full pr-[10rem];
+    @apply w-[435rem] h-[80rem] absolute top-[330rem] left-[242rem] translate-0 z-2 text-white text-[26rem] leading-[100%] flex justify-end items-center gap-[20rem] rounded-full pr-[10rem] hover:cursor-pointer;
     background: linear-gradient(90deg,rgba(78, 78, 100, 0.9) 0%, rgba(177, 119, 98, 0.9) 80%);
     .span__text {
         @apply text-end;

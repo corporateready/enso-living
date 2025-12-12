@@ -2,8 +2,9 @@
 .styles-module-scss-module__UUUzga__embla {
   --slide-spacing: 10rem;
   --slide-size: 100%;
+  z-index: 0;
   max-width: 100%;
-  margin: auto;
+  margin: 16rem auto auto;
   position: relative;
 }
 
@@ -28,7 +29,7 @@
   justify-content: center;
   align-items: center;
   width: 380rem;
-  height: 500rem;
+  height: 508rem;
   display: flex;
   position: relative;
 }

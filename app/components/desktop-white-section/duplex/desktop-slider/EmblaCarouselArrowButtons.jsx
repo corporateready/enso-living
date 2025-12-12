@@ -39,11 +39,11 @@ export const PrevButton = (props) => {
 
   return (
     <button
-      className="w-[60rem] h-[60rem] rounded-full flex justify-center items-center absolute top-1/2 left-[25rem] translate-0 z-2 hover:cursor-pointer disabled:hover:cursor-default disabled:opacity-50"
+      className="w-[60rem] h-[60rem] rounded-full flex justify-center items-center absolute top-1/2 left-[20rem] translate-0 z-2 hover:cursor-pointer disabled:hover:cursor-default disabled:opacity-50"
       type="button"
       {...restProps}
     >
-      <span className="absolute z-3 inset-0 bg-[#717171]/20 blur-[2px] rounded-full"></span>
+      <span className="absolute z-3 inset-0 bg-[#717171]/20 backdrop-blur-[2px] rounded-full"></span>
       <svg
         className="w-[10rem] h-[17rem] relative z-4 "
         viewBox="0 0 10 17"
@@ -69,7 +69,7 @@ export const NextButton = (props) => {
       type="button"
       {...restProps}
     >
-      <span className="absolute z-3 inset-0 bg-[#717171]/20 blur-[2px] rounded-full"></span>
+      <span className="absolute z-3 inset-0 bg-[#717171]/20 backdrop-blur-[2px] rounded-full"></span>
       <svg
         className="w-[10rem] h-[17rem] relative z-4"
         viewBox="0 0 10 17"

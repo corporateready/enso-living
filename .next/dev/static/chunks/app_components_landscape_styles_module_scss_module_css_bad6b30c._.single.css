@@ -4,7 +4,6 @@
   background-color: var(--color-white, #fff);
   width: 100%;
   height: auto;
-  padding-top: 120rem;
   display: block;
   position: relative;
 }
@@ -18,8 +17,7 @@
 .styles-module-scss-module__nx2aXW__premium__inner_slider {
   z-index: 1;
   width: 100%;
-  height: 700rem;
-  margin-top: 20rem;
+  height: 710rem;
   position: relative;
   overflow: hidden;
 }
@@ -35,32 +33,11 @@
   left: 50%;
 }
 
-.styles-module-scss-module__nx2aXW__top__text_title {
-  --tw-leading: 100%;
-  color: var(--color-black, #000);
-  letter-spacing: -1.5rem;
-  padding-left: 25rem;
-  font-size: 30rem;
-  line-height: 100%;
-}
-
-.styles-module-scss-module__nx2aXW__top__text_subtitle {
-  text-align: left;
-  --tw-leading: 120%;
-  color: var(--color-black, #000);
-  justify-content: flex-end;
-  margin-top: 10rem;
-  padding-right: 45rem;
-  font-size: 12rem;
-  line-height: 120%;
-  display: flex;
-}
-
 .styles-module-scss-module__nx2aXW__bottom__text_title {
   --tw-leading: 100%;
   color: var(--color-black, #000);
-  letter-spacing: -1.5rem;
-  margin-top: 60rem;
+  letter-spacing: -1.2rem;
+  margin-top: 63rem;
   padding-left: 25rem;
   font-size: 30rem;
   line-height: 100%;
