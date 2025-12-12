@@ -18,11 +18,12 @@
     }
 }
 .inner__image_mobile {
-    @apply block relative w-full h-[324rem];
+    @apply relative z-0 inline-block w-full h-[324rem] sm:hidden;
 }
 .inner__image {
+    @apply hidden;
     @media screen and (width >= 640px) {
-        @apply relative w-[600rem] h-[610rem];
+        @apply inline-block relative w-[600rem] h-[610rem];
     }
 }
 .inner__content {

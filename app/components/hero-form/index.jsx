@@ -88,12 +88,12 @@ export const HeroForm = ({ handlerFormOpen }) => {
           </svg>
         </button>
         <div className={styles.inner__image_mobile}>
-        <Image
+           <Image
             src="/form-bg-mobile.avif"
             alt="hero mobile background"
             loading="eager"
+            priority={true}
             fill
-            // className="inline-block absolute top-0 left-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover sm:hidden"
             sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
           />
         </div>
@@ -101,11 +101,11 @@ export const HeroForm = ({ handlerFormOpen }) => {
           <Image
             src="/desktop-apartment-inner-2.avif"
             alt="hero mobile background"
+            priority={true}
             loading="eager"
             fill
-            // className="hidden sm:inline-block absolute top-0 left-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover"
             sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
-          />          
+          /> 
         </div>
         <div className={styles.inner__content}>
           <p className={styles.content__title}>
