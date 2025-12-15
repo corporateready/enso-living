@@ -22,7 +22,7 @@ const page = () => {
       <div className={styles.thanks}>
         <header className={styles.header}>
           <div className={styles.header__inner}>
-            <div className={styles.header__logo_mobile}>
+            <Link href={'/'} className={styles.header__logo_mobile}>
               <span className={styles.span__blur}></span>
             <Image
                 src="/transparent-logo.avif"
@@ -34,8 +34,8 @@ const page = () => {
                 sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
                 className="relative z-3 w-[86rem] h-[30rem]"
               />
-            </div>
-            <div className={styles.header__logo_desktop}>
+            </Link>
+            <Link href={'/'} className={styles.header__logo_desktop}>
             <Image
                 src="/transparent-logo.avif"
                 alt="enso logo"
@@ -44,7 +44,7 @@ const page = () => {
                 fill
                 sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
               />
-            </div>
+            </Link>
             <div className="flex gap-[17rem]">
               <button
                 type="button"

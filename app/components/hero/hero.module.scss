@@ -5,21 +5,7 @@
         @apply h-[1067rem];
     }
 }
-.header {
-    @apply w-full h-auto absolute top-0 left-0 z-3;
-}
-.inner {
-    @apply w-full flex justify-between pt-[27rem] px-[25rem];
-    @media screen and (width >= 640px) {
-        @apply w-[1444rem] mx-auto p-0 pt-[50rem];
-    }
-}
-.logo {
-    @apply w-[117rem] h-[44rem] bg-no-repeat bg-cover bg-center object-cover;
-    @media screen and (width >= 640px) {
-        @apply w-[120rem];
-    }
-}
+
 .title {
     @apply text-white text-[66rem] uppercase font-normal w-auto leading-[91%] absolute top-[114rem] left-[18rem] z-2 translate-x-0 flex flex-col;
     letter-spacing: -2.4rem;
