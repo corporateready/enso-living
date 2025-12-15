@@ -2,7 +2,6 @@
 import React from "react";
 import styles from "./hero.module.scss";
 import Image from "next/image";
-// import Link from "next/link";
 import Header from "../../components/shared-ui/header";
 
 const Hero = ({ handlerFormOpen }) => {
