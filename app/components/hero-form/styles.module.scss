@@ -16,6 +16,12 @@
     @media screen and (width >= 640px) {
         @apply relative top-1/2 left-1/2 -translate-1/2 z-5 bg-white w-[1440rem] h-auto p-[50rem] pr-[50rem] flex-row gap-[55rem];
     }
+    @media screen and (width >= 640px) and (height <= 700px) {
+        @apply scale-85;
+    }
+    @media screen and (width >= 1640px) and (height <= 810px) {
+        @apply scale-85;
+    }
 }
 .inner__image_mobile {
     @apply relative z-0 inline-block w-full h-[324rem] sm:hidden;
@@ -54,7 +60,7 @@
     input {
         @apply w-full placeholder:text-[16rem] placeholder:text-[#7D7F80] text-[#7D7F80] text-[16rem] bg-[#FAF9F8] py-[20rem] pl-[40rem] border-b-[1px] border-black;
         @media screen and (width >= 640px) {
-            @apply w-full placeholder:text-[18rem] text-[#7D7F80] text-[18rem] bg-[#FAF9F8] py-[20rem] pl-[60rem];
+            @apply w-full placeholder:text-[18rem] text-[#7D7F80] text-[18rem] bg-[#FAF9F8] py-[20rem] pl-[50rem];
         }
     }
 }
@@ -73,7 +79,7 @@
     }
   
     @media screen and (width >= 640px) {
-      @apply h-[40px] w-full;
+      @apply h-[40rem] w-full;
     }
   }
 .offer__btn {
