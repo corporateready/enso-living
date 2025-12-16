@@ -28,6 +28,7 @@ const Hero = ({ handlerFormOpen }) => {
             placeholder="blur"
             loading="eager"
             priority
+            fetchPriority="high"
             quality={85}
             fill
             sizes="(max-width: 640px) 100vw, 50vw"
@@ -45,6 +46,7 @@ const Hero = ({ handlerFormOpen }) => {
             alt="hero background"
             loading="eager"
             priority
+            fetchPriority="high"
             quality={85}
             fill
             sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
@@ -63,6 +65,7 @@ const Hero = ({ handlerFormOpen }) => {
             alt="hero mobile background"
             loading="eager"
             priority
+            fetchPriority="high"
             quality={85}
             fill
             sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
@@ -81,6 +84,7 @@ const Hero = ({ handlerFormOpen }) => {
             alt="hero building background"
             loading="eager"
             priority
+            fetchPriority="high"
             quality={85}
             fill
             sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
