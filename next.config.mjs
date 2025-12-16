@@ -13,6 +13,7 @@ const nextConfig = {
   experimental: {
     optimizePackageImports: ["posthog-js", "react-icons"],
     optimizeCss: true,
+    nextScriptWorkers: true,
   },
   productionBrowserSourceMaps: false,
   async rewrites() {

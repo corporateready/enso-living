@@ -165,7 +165,7 @@
       "isrFlushToDisk": true,
       "workerThreads": false,
       "optimizeCss": true,
-      "nextScriptWorkers": false,
+      "nextScriptWorkers": true,
       "scrollRestoration": false,
       "externalDir": false,
       "disableOptimizedLoading": false,
@@ -288,6 +288,7 @@
     "htmlLimitedBots": "[\\w-]+-Google|Google-[\\w-]+|Chrome-Lighthouse|Slurp|DuckDuckBot|baiduspider|yandex|sogou|bitlybot|tumblr|vkShare|quora link preview|redditbot|ia_archiver|Bingbot|BingPreview|applebot|facebookexternalhit|facebookcatalog|Twitterbot|LinkedInBot|Slackbot|Discordbot|WhatsApp|SkypeUriPreview|Yeti|googleweblight",
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.mjs",
+    "export": "out",
     "skipTrailingSlashRedirect": true,
     "turbopack": {
       "root": "/Users/evgheninujnenco/enso-projects/enso-living"
@@ -323,7 +324,7 @@
     ".next/server/next-font-manifest.json",
     ".next/required-server-files.json",
     ".next/static/chunks/30927ac7eb726f7e.css",
-    ".next/static/chunks/573510282a7965be.css",
+    ".next/static/chunks/6160a9687a485e63.css",
     ".next/static/chunks/7a9d889c1d64e93a.css",
     ".next/static/chunks/8790f03db934eb6b.css",
     ".next/static/chunks/d300472989fb7b92.css"
