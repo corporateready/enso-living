@@ -164,7 +164,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 }),
 "[project]/app/components/hero/index.jsx [app-client] (ecmascript)", ((__turbopack_context__, module, exports) => {
 
-const e = new Error("Could not parse module '[project]/app/components/hero/index.jsx'\n\nExpected '</', got ':'");
+const e = new Error("Could not parse module '[project]/app/components/hero/index.jsx'\n\nUnexpected token. Did you mean `{'}'}` or `&rbrace;`?");
 e.code = 'MODULE_UNPARSABLE';
 throw e;
 }),

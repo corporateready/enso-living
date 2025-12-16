@@ -3,65 +3,90 @@ import React from "react";
 import styles from "./hero.module.scss";
 import Image from "next/image";
 import Header from "../../components/shared-ui/header";
+import heroBG from "../../../public/hero-bg-desktop.avif";
+import heromobileBG from "../../../public/hero-bg-mobile.avif";
+import buildingMobile from "../../../public/building-mask-mobile.avif";
+import buildingDesktop from "../../../public/hero-desktop-building.avif";
 
 const Hero = ({ handlerFormOpen }) => {
-  const [isVisible, setIsVisible] = React.useState(false)
+  const [isVisible, setIsVisible] = React.useState(false);
 
   React.useEffect(() => {
-    if(typeof window !== "undefined") {
-      setIsVisible(true)
+    if (typeof window !== "undefined") {
+      setIsVisible(true);
     }
-  },[])
+  }, []);
   return (
     <div className={styles.hero}>
       <Header />
-      <div className="inline-block absolute top-0 left-0 translate-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover sm:hidden">
-        <Image
-          src="/hero-bg-mobile.avif"
-          alt="hero mobile background"
-          loading="lazy"
-          fill
-          sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
-        />
-      </div>
-      <div className="hidden absolute top-0 left-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover sm:inline-block">
-       {
-         isVisible ? (
+
+      {isVisible ? (
+        <div className="inline-block absolute top-0 left-0 translate-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover sm:hidden">
           <Image
-          src="/hero-bg-desktop.avif"
-          alt="hero desktop background"
-          loading="eager"
-          fetchPriority="high"
-          fill
-          sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
-        /> 
-        ) : ""
-       }
-      </div>
-      <div className="inline-block absolute bottom-[27rem] right-0 translate-0 z-3 w-[374rem] h-[510rem] object-fit bg-cover bg-norepet sm:h-0 sm:w-0">
-        {
-          isVisible ? (
-            <Image
-          src={"/building-mask-mobile.avif"}
-          alt="hero mobile background"
-          loading="eager"
-          fetchPriority="high"
-          fill
-          sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
-        />
-          ) : ""
-        }
-      </div>
-      <div className="hidden absolute bottom-0 right-0 translate-x-0 z-2 w-[1250rem] h-full bg-cover bg-norepet sm:inline-block">
-        <Image
-          src={"/hero-desktop-building.avif"}
-          alt="hero desktop background"
-          loading="eager"
-          priority={true}
-          fill
-          sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
-        />
-      </div>
+            src={heromobileBG}
+            alt="hero mobile background"
+            loading="eager"
+            priority
+            quality={85}
+            fill
+            sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
+            className="object-fit"
+          />
+        </div>
+      ) : (
+        ""
+      )}
+
+      {isVisible ? (
+        <div className="hidden absolute top-0 left-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover sm:inline-block">
+          <Image
+            src={heroBG}
+            alt="hero background"
+            loading="eager"
+            priority
+            quality={85}
+            fill
+            sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
+            className="object-fit"
+          />
+        </div>
+      ) : (
+        ""
+      )}
+
+      {isVisible ? (
+        <div className="inline-block absolute bottom-[27rem] right-0 translate-0 z-3 w-[374rem] h-[510rem] object-fit bg-cover bg-norepet sm:h-0 sm:w-0">
+          <Image
+            src={buildingMobile}
+            alt="hero mobile background"
+            loading="eager"
+            priority
+            quality={85}
+            fill
+            sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
+            className="object-fit"
+          />
+        </div>
+      ) : (
+        ""
+      )}
+
+      {isVisible ? (
+        <div className="hidden absolute bottom-0 right-0 translate-x-0 z-2 w-[1250rem] h-full bg-cover bg-norepet sm:inline-block">
+          <Image
+            src={buildingDesktop}
+            alt="hero building background"
+            loading="eager"
+            priority
+            quality={85}
+            fill
+            sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
+            className="object-fit"
+          />
+        </div>
+      ) : (
+        ""
+      )}
       <h1 className={styles.title}>
         <span className="sm:inline-flex ">proiect</span>
         <span className="inline-flex ml-[90rem] tracking-tighter">
