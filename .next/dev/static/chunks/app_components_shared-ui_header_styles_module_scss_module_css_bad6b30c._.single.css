@@ -26,17 +26,20 @@
 }
 
 .styles-module-scss-module__MGhlXW__logo {
-  object-fit: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: #d9d9d933;
+  background-color: lab(86.6954% .0000298023 -.0000119209 / .2);
+  border-radius: 3.40282e38px;
+  justify-content: center;
+  align-items: center;
   width: 117rem;
   height: 44rem;
+  display: flex;
 }
 
 @media screen and (min-width: 640px) {
   .styles-module-scss-module__MGhlXW__logo {
     width: 120rem;
+    height: 45rem;
   }
 }
 

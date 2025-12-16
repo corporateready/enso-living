@@ -82,14 +82,12 @@ const Hero = ({ handlerFormOpen }) => {
           <Image
             src={buildingDesktop}
             alt="hero building background"
-            loading="eager"
-            priority
-            fetchPriority="high"
-            quality={85}
             fill
-            sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
-            className="object-fit"
+            priority
             placeholder="blur"
+            sizes="(max-width: 640px) 100vw, 880px"
+            quality={65}
+            className="object-cover"
           />
         </div>
       ) : (

@@ -58,14 +58,135 @@ const Index = ()=>{
                     className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$shared$2d$ui$2f$header$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].logo,
                     "aria-label": "logo",
                     onClick: handleBack,
-                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                        src: "/enso-header-logo.png",
-                        alt: "enso logo",
-                        width: 117,
-                        height: 44
+                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                        className: "w-[90rem] h-[30rem] sm:w-[100rem] sm:h-[33rem]",
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
+                            className: "w-full h-full",
+                            viewBox: "0 0 100 33",
+                            fill: "none",
+                            xmlns: "http://www.w3.org/2000/svg",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                    d: "M19.5435 0.529785V0.746973C20.9616 1.00036 22.4916 1.39853 23.7977 1.90531C24.0963 2.0139 24.4321 2.30348 24.6934 2.23109C24.059 1.79671 23.3499 1.50713 22.6036 1.28994C22.6036 1.10895 22.9768 1.28994 23.0514 1.28994C23.947 1.54333 25.2904 2.26729 26.1487 2.73786C28.0146 3.8238 29.8058 5.4527 31 7.2264C31.112 7.40739 31.3359 7.73317 31.2985 7.91416C30.9627 7.51598 30.7015 7.00921 30.3283 6.61103C30.291 6.57483 29.9924 6.35765 30.0671 6.61103C31.1866 8.05895 32.2688 9.61546 32.7539 11.3892C32.9032 11.3892 32.8286 11.2082 32.8286 11.0996C32.8286 10.9186 32.6047 10.5204 32.8286 10.3756C32.8286 10.81 33.0151 11.2444 33.0525 11.6425C33.1271 12.4389 33.3137 13.38 33.5376 14.2126C33.6122 14.466 33.9108 14.5746 33.6122 14.828L33.7988 14.9004C33.9108 15.1899 33.6495 15.1899 33.6495 15.2261C33.5749 15.6243 33.7242 16.3121 33.7242 16.6741C33.7242 16.9274 33.6122 17.1808 33.6869 17.4704L33.8361 17.1446V17.9048C33.8735 17.9048 33.6122 18.0134 33.6122 18.0134V18.303L33.7988 18.0496C33.8734 18.2668 33.6495 18.4477 33.6495 18.5925C33.5749 19.9681 33.2017 20.9816 32.7539 22.2847C32.6793 22.5019 32.7539 22.9001 32.642 23.0449C32.2315 23.7688 31.0373 26.0131 30.5522 26.5199C30.4776 26.5923 30.3283 26.5923 30.291 26.6285C30.2537 26.7009 30.291 26.9181 30.2163 27.0628C30.1044 27.2438 29.0595 28.0402 28.7983 28.2574C27.3802 29.5243 26.5965 30.2483 24.8426 31.1532C24.2455 31.479 23.3872 31.9496 22.7528 32.1306C22.6782 32.1306 22.417 32.2753 22.417 32.1306C23.1633 31.8772 23.9843 31.5514 24.656 31.1532C24.768 31.0808 24.8799 31.1532 24.8053 30.936C23.947 31.2618 22.8648 31.841 21.9692 32.0944C21.8945 32.0944 21.5587 32.2391 21.5214 32.0944C22.9021 31.66 24.0963 30.8274 25.3278 30.1397C25.589 29.7777 24.8426 30.3931 24.9546 30.1397L27.9773 27.7868V27.7144H27.8653V27.4972C27.5668 27.823 27.2309 28.1126 26.8578 28.4022C24.5814 30.1759 22.9768 30.8274 20.2153 31.479C19.6928 31.5876 19.1704 31.7686 18.6479 31.8772C18.6106 31.6238 18.6852 31.7324 18.8345 31.6962C19.1331 31.5876 19.954 31.5152 20.1033 31.4066C20.2153 31.3342 20.1033 31.2256 20.1406 31.1532C20.1406 31.1532 20.5511 31.298 20.7377 31.1532L20.5511 31.0084L20.9616 31.0808C20.9616 31.0808 20.887 30.9722 20.9243 30.8998C21.0362 30.7188 22.1185 30.3569 22.3797 30.2483L22.1185 30.1759L25.7382 28.004C25.5517 27.9678 25.2531 28.185 25.0665 28.2936C24.2829 28.728 23.4619 29.3433 22.6782 29.7053C22.1558 29.9587 20.8497 30.5016 20.2899 30.574C20.2153 30.574 19.9914 30.6464 19.9914 30.5016C20.2899 30.5016 20.4392 30.1397 20.6631 30.1035C21.1109 29.9587 21.2975 29.9949 21.8572 29.7415C23.0141 29.1985 24.7307 28.2212 25.6263 27.3162C25.7009 27.2438 25.8875 27.099 25.7382 27.0266C24.5814 28.366 22.9768 28.8365 21.3721 29.4881C20.775 29.7415 20.2153 30.0673 19.5435 30.2483C19.3943 30.2483 19.357 30.3207 19.3196 30.1397L22.9021 28.7279L22.8275 28.5832L23.6858 27.9678C22.9394 28.1126 22.1931 28.9813 21.5587 29.2347C21.5214 29.2347 21.4094 29.2347 21.4467 29.2347C21.596 29.1623 21.6333 28.9089 21.7453 28.8365C22.1185 28.547 23.0887 28.185 23.5738 27.8954C23.9097 27.7144 24.2455 27.4972 24.5068 27.2438L24.6934 27.4972C25.1038 27.0628 25.8502 26.6647 26.1487 26.1941C26.2234 26.0855 26.2607 25.9407 26.0741 26.1217C25.9621 26.2303 25.8129 26.5199 25.6263 26.4475C25.8129 26.2665 25.9248 26.0131 26.1114 25.8321C27.0817 24.9272 27.6414 24.3842 28.3131 23.0449C28.3878 22.8639 28.4251 22.6105 28.4997 22.5019C28.6117 22.3209 28.7983 22.3571 28.8356 22.3571C28.8356 22.3571 28.7236 22.2123 28.761 22.1037C28.8729 21.416 29.5819 20.1129 29.8058 19.2441C30.1044 17.9772 30.0298 17.2894 30.0671 16.0949C30.0671 15.8415 30.3656 15.2623 30.0671 15.2985V15.1899C30.291 15.1537 30.2537 14.7556 30.2163 14.5022C30.2163 14.3574 30.0671 14.3936 30.0298 14.3212C29.9924 14.1402 30.0671 13.8868 29.8432 13.7782H30.1044C30.1044 13.742 29.8805 12.9819 29.8805 12.9819L29.7312 13.4162C29.7312 12.9819 29.4327 12.6199 29.2834 12.2941C28.1266 9.25348 27.3429 8.45713 24.6934 6.53864C24.5068 6.43004 24.1336 6.28525 24.059 6.21286C23.9843 6.14046 23.9843 5.99567 24.1336 6.03187C24.2829 6.06806 24.6187 6.50244 24.8053 6.35765L22.7528 5.19931L22.6036 5.3803C22.0438 5.09072 21.4094 4.87354 20.8123 4.69255C17.7523 3.89619 13.834 4.18577 11.0352 5.63369C10.8113 5.74228 10.5874 5.99567 10.4754 6.06806C10.3261 6.14046 10.2142 6.06807 10.0276 6.14046C9.69174 6.32145 9.84101 6.53864 9.80369 6.53864C9.72906 6.61103 9.31856 6.61103 9.13198 6.79202C9.05734 6.90062 9.05734 7.04541 8.94539 7.1902C7.56464 8.78291 6.78098 9.36207 5.81072 11.353C4.6912 13.6696 4.0568 16.0225 4.39266 18.5925L4.54193 18.2668C4.84047 20.8368 6.07194 23.2621 8.08709 24.9634H7.78855L7.71391 25.1082L6.96756 24.7462C6.81829 24.9272 8.16172 25.9045 8.31099 26.0493C9.57979 26.9543 10.4008 27.1352 11.8562 27.5334C12.0427 27.5696 12.4532 27.8592 12.6398 27.9316C12.7518 27.9316 12.7891 27.823 12.901 27.823C12.9384 27.823 13.6101 27.9678 13.722 28.004C14.0579 28.1126 15.1028 28.7641 15.1401 29.0899C15.1401 29.1985 15.0281 29.2709 15.0281 29.3433C15.0281 29.4157 15.252 29.5243 15.2894 29.6329C15.5133 30.0311 15.4759 31.0446 15.2147 31.4066C15.0281 31.7324 14.3564 32.1306 14.1325 32.4563C13.834 32.6373 11.9308 32.7459 11.483 32.6373C10.9605 32.4925 9.91564 31.9496 9.3932 31.66C6.33317 29.9949 3.79558 27.6058 2.04166 24.6738C1.81775 24.2756 1.66849 23.8412 1.44458 23.4793L1.29531 23.6602C1.25799 22.9725 0.884818 22.3571 0.698231 21.6694C-0.0854354 18.8459 -0.309341 15.7329 0.548961 12.9095C0.772865 12.1493 1.03409 11.4254 1.25799 10.6652L1.36995 11.1358C2.04166 9.57926 2.82533 7.98655 3.90753 6.64723C4.16875 6.32145 4.6912 5.70609 4.98974 5.4165C5.17633 5.19932 5.7734 4.87353 5.7734 4.83734C5.84804 4.72874 5.77341 4.54775 5.92268 4.40296C6.07195 4.25817 6.29585 4.29437 6.51975 4.22197C6.59439 4.22197 7.45269 3.53421 7.49001 3.46182C7.49001 3.42562 7.41537 3.31702 7.45269 3.28083C7.49001 3.09984 10.0276 1.9415 10.3635 1.68812C10.6247 1.68812 10.4381 1.79671 10.3635 1.83291C10.1395 1.9777 9.87833 2.0501 9.69174 2.15869C9.3932 2.33968 9.13198 2.55687 8.83344 2.73786C8.64685 2.84645 8.01245 2.95504 8.08709 3.31702C8.60953 2.99124 9.16929 2.62926 9.72906 2.33968C10.7739 1.83291 12.901 1.03656 14.0579 0.891764C15.8118 0.674577 17.5657 0.891764 19.3196 0.891764C19.4689 0.891764 19.5809 0.783171 19.6928 0.783171L19.5435 0.529785ZM14.1325 1.10895C13.0876 1.14515 12.1174 1.57952 11.1471 1.9777C10.9978 2.0139 10.9232 1.9777 10.9605 2.15869L14.1325 1.10895ZM18.0882 3.64281L15.8118 3.7514V3.8238L18.0882 3.7152V3.64281ZM32.1942 11.2806L32.1195 10.8824L31.6344 9.97744C31.6344 10.2308 31.7464 10.4842 31.8583 10.7376C31.9329 10.8824 32.0449 11.2082 32.1942 11.2806ZM30.8134 15.9501C30.8507 14.3212 30.6642 12.6199 29.9551 11.1358C29.8432 10.8824 29.6939 10.5204 29.4327 10.3756C29.4327 10.5204 29.5819 10.629 29.6193 10.7376C29.6939 11.0996 29.6566 10.9548 29.7312 11.1358C30.1417 12.2941 30.4776 13.6696 30.5895 14.8642L30.8134 15.9501ZM32.6793 19.1355L32.7539 17.398L32.5673 18.7735L32.6793 19.1355Z",
+                                    fill: "white"
+                                }, void 0, false, {
+                                    fileName: "[project]/app/components/shared-ui/header/index.jsx",
+                                    lineNumber: 30,
+                                    columnNumber: 13
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                    d: "M17.9018 0.0230436L17.6033 0.131637L14.8418 0.204033C15.8494 0.0592415 16.8569 -0.0493522 17.9018 0.0230436Z",
+                                    fill: "white"
+                                }, void 0, false, {
+                                    fileName: "[project]/app/components/shared-ui/header/index.jsx",
+                                    lineNumber: 34,
+                                    columnNumber: 13
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                    d: "M9.39324 25.9768C9.46788 26.0492 9.65446 26.0492 9.61715 26.2302C9.54251 26.3026 8.42299 25.5425 8.31104 25.3977C8.64689 25.2529 9.13202 25.7597 9.39324 25.9768Z",
+                                    fill: "white"
+                                }, void 0, false, {
+                                    fileName: "[project]/app/components/shared-ui/header/index.jsx",
+                                    lineNumber: 38,
+                                    columnNumber: 13
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                    d: "M52.4574 17.0721C52.2335 18.3753 51.9723 19.4974 51.7111 20.4023H41.2622V19.8232C42.2325 19.7508 42.8295 19.606 43.0534 19.3888C43.2774 19.1716 43.3893 18.6286 43.3893 17.7961V9.54297C43.3893 8.63802 43.2774 8.05885 43.0908 7.84167C42.9042 7.66068 42.419 7.51589 41.5607 7.44349V6.82812H51.226L51.3006 8.09505C51.3752 8.89141 51.3752 9.47057 51.4126 9.83255L50.7782 9.94115C50.6289 9.21719 50.3677 8.60182 50.0318 8.16745C49.7706 7.76927 48.9869 7.58828 47.6808 7.58828H46.1508C45.8149 7.58828 45.591 7.58828 45.5164 7.69688C45.4418 7.80547 45.4044 7.95026 45.4044 8.27604V12.9818H47.345C48.2779 12.9818 48.875 12.9094 49.1362 12.7284C49.3601 12.5474 49.5467 12.113 49.6586 11.4253H50.293V15.4432H49.6586C49.5094 14.7193 49.3228 14.2487 49.0989 14.1039C48.875 13.9229 48.2779 13.8505 47.345 13.8505H45.4044V17.7237C45.4044 18.6286 45.591 19.2078 45.9269 19.425C46.1881 19.606 46.9345 19.6784 48.0913 19.6784C49.2481 19.6784 50.3304 19.4612 50.7408 18.9906C51.1513 18.5201 51.5245 17.8323 51.823 16.9997L52.4574 17.1083V17.0721Z",
+                                    fill: "white"
+                                }, void 0, false, {
+                                    fileName: "[project]/app/components/shared-ui/header/index.jsx",
+                                    lineNumber: 42,
+                                    columnNumber: 13
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                    d: "M70.2209 7.40736C69.6238 7.40736 69.176 7.55215 68.9147 7.73314C68.6535 7.91413 68.4669 8.23991 68.4296 8.67428C68.355 9.54303 68.3177 10.7014 68.3177 12.1855V20.5834H67.6086L58.5032 9.76022H58.4659V14.9003C58.4659 16.4206 58.5032 17.579 58.6151 18.4115C58.6524 18.9183 58.839 19.2803 59.1376 19.4613C59.4361 19.6422 59.9586 19.7508 60.7049 19.787V20.4024H55.5551V19.787C56.1895 19.7508 56.6373 19.6422 56.8985 19.4613C57.1971 19.2803 57.3463 18.9183 57.421 18.4477C57.5329 17.4342 57.5702 16.2758 57.5702 14.9003V10.3394C57.5702 9.28965 57.421 8.56569 57.1224 8.20371C56.7493 7.76934 56.1522 7.51595 55.2192 7.44356V6.82819H58.5405L67.3847 17.036H67.4594V12.1855C67.4594 10.81 67.422 9.68783 67.3101 8.71048C67.2355 8.23991 67.0862 7.91413 66.7877 7.73314C66.4891 7.55215 65.9667 7.44356 65.2203 7.40736V6.79199H70.2955V7.40736H70.2209Z",
+                                    fill: "white"
+                                }, void 0, false, {
+                                    fileName: "[project]/app/components/shared-ui/header/index.jsx",
+                                    lineNumber: 46,
+                                    columnNumber: 13
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                    d: "M80.8561 9.97757C80.3337 8.13148 79.4008 7.19033 78.02 7.19033C77.2737 7.19033 76.6766 7.40752 76.2661 7.87809C75.8929 8.31247 75.669 8.81924 75.669 9.4346C75.669 10.05 75.8929 10.7015 76.378 11.1721C76.7512 11.5703 77.4229 12.0047 78.3932 12.4752C79.5873 13.0544 80.4456 13.5612 80.9308 14.0317C81.7144 14.7557 82.1249 15.6244 82.1249 16.638C82.1249 17.6515 81.6771 18.7375 80.7815 19.4614C79.8486 20.2578 78.6917 20.6198 77.2737 20.6198C75.8556 20.6198 75.8556 20.5112 75.1839 20.294C74.9227 20.2216 74.5495 20.0768 74.0644 19.8596C73.8778 19.389 73.6912 18.3031 73.4673 16.5656L74.1017 16.3846C74.7361 18.6651 75.9302 19.8234 77.6842 19.8234C78.4678 19.8234 79.0649 19.6062 79.5127 19.1718C79.9605 18.7375 80.1844 18.1583 80.1844 17.3981C80.1844 16.3122 79.2888 15.2987 77.4603 14.3213C76.3407 13.7422 75.5571 13.2716 75.1093 12.8372C74.2883 12.1132 73.8778 11.2445 73.8778 10.231C73.8778 9.21741 74.2883 8.27627 75.0719 7.55231C75.9302 6.82835 77.0124 6.43018 78.3932 6.43018C79.7739 6.43018 80.0352 6.57497 81.1547 6.90075C81.1547 7.15413 81.2293 7.58851 81.3413 8.13148C81.4532 8.85544 81.5279 9.4346 81.5652 9.83278L80.8935 9.94137L80.8561 9.97757Z",
+                                    fill: "white"
+                                }, void 0, false, {
+                                    fileName: "[project]/app/components/shared-ui/header/index.jsx",
+                                    lineNumber: 50,
+                                    columnNumber: 13
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                    d: "M97.8728 8.38473C99.2909 9.68786 99.9626 11.3892 99.9999 13.4162C99.9999 15.6243 99.2909 17.398 97.8728 18.7373C96.5294 20.0405 94.8128 20.692 92.7976 20.692C90.8198 20.692 89.1405 20.0405 87.7971 18.7011C86.4537 17.3618 85.7446 15.6967 85.7446 13.7058C85.7446 11.7149 86.379 10.086 87.6851 8.71051C89.0659 7.2264 90.8571 6.50244 93.0589 6.50244C94.962 6.50244 96.604 7.1178 97.9101 8.38473H97.8728ZM89.4764 8.74671C88.5808 9.83265 88.1329 11.3168 88.1329 13.1629C88.1329 15.0089 88.6181 16.7102 89.551 17.941C90.5213 19.2441 91.7527 19.8595 93.2454 19.8595C94.7381 19.8595 95.4845 19.3889 96.3055 18.4115C97.1638 17.3256 97.6116 15.8415 97.6116 13.9592C97.6116 11.8597 97.1265 10.1946 96.1562 8.9639C95.2233 7.80556 94.0664 7.2264 92.5737 7.2264C91.081 7.2264 90.3347 7.73317 89.5137 8.74671H89.4764Z",
+                                    fill: "white"
+                                }, void 0, false, {
+                                    fileName: "[project]/app/components/shared-ui/header/index.jsx",
+                                    lineNumber: 54,
+                                    columnNumber: 13
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                    d: "M95.634 2.84668H89.999V4.1136H95.634V2.84668Z",
+                                    fill: "white"
+                                }, void 0, false, {
+                                    fileName: "[project]/app/components/shared-ui/header/index.jsx",
+                                    lineNumber: 58,
+                                    columnNumber: 13
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                    d: "M46.3748 29.0177C46.3002 29.4883 46.1882 29.8865 46.1136 30.2123H42.6431V29.9951C42.9789 29.9951 43.1655 29.9227 43.2401 29.8503C43.3148 29.7779 43.3521 29.5607 43.3521 29.2711V26.3391C43.3521 26.0133 43.3521 25.8323 43.2401 25.7599C43.1655 25.6875 42.9789 25.6513 42.6804 25.6151V25.3979H44.7328V25.6151C44.4343 25.6151 44.2477 25.6875 44.1731 25.7599C44.0984 25.8323 44.0611 26.0495 44.0611 26.3391V29.2349C44.0611 29.5607 44.0984 29.7779 44.2477 29.8503C44.3597 29.9227 44.5836 29.9227 44.9568 29.9227C45.3672 29.9227 45.6658 29.8503 45.7777 29.7055C45.927 29.5245 46.0763 29.3073 46.1882 28.9815H46.4121C46.4121 29.0177 46.4121 29.0177 46.4121 29.0177H46.3748Z",
+                                    fill: "white"
+                                }, void 0, false, {
+                                    fileName: "[project]/app/components/shared-ui/header/index.jsx",
+                                    lineNumber: 62,
+                                    columnNumber: 13
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                    d: "M48.6509 30.2123V29.9951C48.9494 29.9951 49.136 29.9227 49.2106 29.8503C49.2853 29.7779 49.3226 29.5969 49.3226 29.2711V26.3391C49.3226 26.0133 49.3226 25.8323 49.2106 25.7599C49.136 25.6875 48.9494 25.6513 48.6509 25.6151V25.3979H50.7033V25.6151C50.4048 25.6151 50.2182 25.6875 50.1436 25.7599C50.0689 25.8323 50.0316 26.0133 50.0316 26.3391V29.2711C50.0316 29.5969 50.0316 29.7779 50.1436 29.8503C50.2182 29.9227 50.4048 29.9589 50.7033 29.9951V30.2123H48.6509Z",
+                                    fill: "white"
+                                }, void 0, false, {
+                                    fileName: "[project]/app/components/shared-ui/header/index.jsx",
+                                    lineNumber: 66,
+                                    columnNumber: 13
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                    d: "M58.1299 25.6151C57.8686 25.6151 57.6821 25.6875 57.6074 25.7961C57.4955 25.8685 57.3835 26.0856 57.2342 26.4114C56.5625 28.0041 56.0401 29.3073 55.6669 30.2846H55.4057C54.8459 28.7643 54.3235 27.425 53.8384 26.3028C53.7264 26.0132 53.6145 25.8685 53.5398 25.7961C53.4652 25.7237 53.2786 25.6875 53.0547 25.6513V25.4341H54.9952V25.6513C54.734 25.6513 54.5847 25.7237 54.5101 25.7961C54.4727 25.8323 54.5101 25.9409 54.5101 26.1218C54.7713 26.8096 55.1818 27.8593 55.7415 29.2711C56.264 27.9679 56.6745 26.9906 56.8984 26.2666C56.973 26.0494 56.973 25.9047 56.9357 25.8323C56.8984 25.7599 56.7118 25.7237 56.4133 25.6875V25.4703H58.1299V25.6875V25.6151Z",
+                                    fill: "white"
+                                }, void 0, false, {
+                                    fileName: "[project]/app/components/shared-ui/header/index.jsx",
+                                    lineNumber: 70,
+                                    columnNumber: 13
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                    d: "M60.4438 30.2123V29.9951C60.7424 29.9951 60.929 29.9227 61.0036 29.8503C61.0782 29.7779 61.1156 29.5969 61.1156 29.2711V26.3391C61.1156 26.0133 61.1156 25.8323 61.0036 25.7599C60.929 25.6875 60.7424 25.6513 60.4438 25.6151V25.3979H62.4963V25.6151C62.1978 25.6151 62.0112 25.6875 61.9365 25.7599C61.8619 25.8323 61.8246 26.0133 61.8246 26.3391V29.2711C61.8246 29.5969 61.8246 29.7779 61.9365 29.8503C62.0112 29.9227 62.1978 29.9589 62.4963 29.9951V30.2123H60.4438Z",
+                                    fill: "white"
+                                }, void 0, false, {
+                                    fileName: "[project]/app/components/shared-ui/header/index.jsx",
+                                    lineNumber: 74,
+                                    columnNumber: 13
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                    d: "M70.1458 25.6509C69.9219 25.6509 69.7726 25.6871 69.6979 25.7595C69.586 25.8319 69.5487 25.9405 69.5114 26.0853C69.5114 26.3749 69.474 26.8092 69.474 27.316V30.2842H69.2128L66.0035 26.4473V28.2572C66.0035 28.8001 66.0035 29.1983 66.0408 29.4879C66.0408 29.6689 66.1155 29.8137 66.2274 29.8499C66.3394 29.9223 66.526 29.9585 66.7872 29.9585V30.1756H64.9586V29.9585C65.1825 29.9585 65.3318 29.9223 65.4438 29.8499C65.5557 29.7775 65.593 29.6689 65.6303 29.4879C65.6677 29.1259 65.6677 28.7277 65.6677 28.221V26.6283C65.6677 26.2663 65.6303 26.0129 65.5184 25.8681C65.4064 25.7233 65.1825 25.6147 64.8467 25.5785V25.3613H66.0035L69.1382 28.9811V27.2798C69.1382 26.8092 69.1382 26.3749 69.1009 26.0491C69.1009 25.9043 69.0262 25.7595 68.9143 25.7233C68.8023 25.6509 68.6157 25.6147 68.3545 25.6147V25.3975H70.1458V25.6147V25.6509Z",
+                                    fill: "white"
+                                }, void 0, false, {
+                                    fileName: "[project]/app/components/shared-ui/header/index.jsx",
+                                    lineNumber: 78,
+                                    columnNumber: 13
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                    d: "M77.4227 28.185C77.1988 28.2212 77.0495 28.2574 77.0122 28.3298C76.9749 28.366 76.9376 28.5107 76.9376 28.7279V29.3433C76.9376 29.6691 76.9376 29.8863 76.9749 30.0311C76.1539 30.212 75.5941 30.2844 75.2583 30.2844C74.4373 30.2844 73.7283 30.0673 73.2431 29.5967C72.7207 29.1623 72.4595 28.5469 72.4595 27.823C72.4595 27.099 72.758 26.3751 73.3551 25.9045C73.8775 25.4701 74.5493 25.2529 75.3702 25.2529C76.1912 25.2529 76.2285 25.3253 76.8256 25.4701C76.8256 25.8683 76.9002 26.2665 76.9376 26.6284H76.7137C76.5644 25.9045 76.0793 25.5063 75.221 25.5063C74.3627 25.5063 74.1761 25.6873 73.8029 26.0855C73.4297 26.4837 73.2431 27.0266 73.2431 27.6782C73.2431 28.3298 73.3924 28.8003 73.7283 29.2347C74.1014 29.7415 74.6239 29.9949 75.2956 29.9949C75.9673 29.9949 75.7434 29.9587 75.93 29.8863C76.0793 29.8139 76.1539 29.6691 76.1539 29.4157V28.7641C76.1539 28.5107 76.1166 28.3298 76.0419 28.2574C75.9673 28.185 75.7434 28.1488 75.3702 28.1126V27.8954H77.3481V28.1126L77.4227 28.185Z",
+                                    fill: "white"
+                                }, void 0, false, {
+                                    fileName: "[project]/app/components/shared-ui/header/index.jsx",
+                                    lineNumber: 82,
+                                    columnNumber: 13
+                                }, ("TURBOPACK compile-time value", void 0))
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/app/components/shared-ui/header/index.jsx",
+                            lineNumber: 24,
+                            columnNumber: 11
+                        }, ("TURBOPACK compile-time value", void 0))
                     }, void 0, false, {
                         fileName: "[project]/app/components/shared-ui/header/index.jsx",
-                        lineNumber: 18,
+                        lineNumber: 23,
                         columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0))
                 }, void 0, false, {
@@ -83,7 +204,7 @@ const Index = ()=>{
                             children: "ro"
                         }, void 0, false, {
                             fileName: "[project]/app/components/shared-ui/header/index.jsx",
-                            lineNumber: 26,
+                            lineNumber: 90,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -94,7 +215,7 @@ const Index = ()=>{
                                     className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$shared$2d$ui$2f$header$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].span__blur
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/shared-ui/header/index.jsx",
-                                    lineNumber: 37,
+                                    lineNumber: 101,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
@@ -109,12 +230,12 @@ const Index = ()=>{
                                         strokeLinejoin: "round"
                                     }, void 0, false, {
                                         fileName: "[project]/app/components/shared-ui/header/index.jsx",
-                                        lineNumber: 44,
+                                        lineNumber: 108,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/shared-ui/header/index.jsx",
-                                    lineNumber: 38,
+                                    lineNumber: 102,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -122,19 +243,19 @@ const Index = ()=>{
                                     children: "+40 00 000 000"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/shared-ui/header/index.jsx",
-                                    lineNumber: 51,
+                                    lineNumber: 115,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/components/shared-ui/header/index.jsx",
-                            lineNumber: 33,
+                            lineNumber: 97,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/components/shared-ui/header/index.jsx",
-                    lineNumber: 25,
+                    lineNumber: 89,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             ]
@@ -281,14 +402,12 @@ const Hero = ({ handlerFormOpen })=>{
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                     src: __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$hero$2d$desktop$2d$building$2e$avif$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$hero$2d$desktop$2d$building$2e$avif__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
                     alt: "hero building background",
-                    loading: "eager",
-                    priority: true,
-                    fetchPriority: "high",
-                    quality: 85,
                     fill: true,
-                    sizes: "(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw",
-                    className: "object-fit",
-                    placeholder: "blur"
+                    priority: true,
+                    placeholder: "blur",
+                    sizes: "(max-width: 640px) 100vw, 880px",
+                    quality: 65,
+                    className: "object-cover"
                 }, void 0, false, {
                     fileName: "[project]/app/components/hero/index.jsx",
                     lineNumber: 82,
@@ -307,7 +426,7 @@ const Hero = ({ handlerFormOpen })=>{
                         children: "proiect"
                     }, void 0, false, {
                         fileName: "[project]/app/components/hero/index.jsx",
-                        lineNumber: 99,
+                        lineNumber: 97,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -315,7 +434,7 @@ const Hero = ({ handlerFormOpen })=>{
                         children: "imobiliar"
                     }, void 0, false, {
                         fileName: "[project]/app/components/hero/index.jsx",
-                        lineNumber: 100,
+                        lineNumber: 98,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -323,13 +442,13 @@ const Hero = ({ handlerFormOpen })=>{
                         children: "exclusivist"
                     }, void 0, false, {
                         fileName: "[project]/app/components/hero/index.jsx",
-                        lineNumber: 103,
+                        lineNumber: 101,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/hero/index.jsx",
-                lineNumber: 98,
+                lineNumber: 96,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -341,14 +460,14 @@ const Hero = ({ handlerFormOpen })=>{
                         className: "inline-block sm:hidden"
                     }, void 0, false, {
                         fileName: "[project]/app/components/hero/index.jsx",
-                        lineNumber: 107,
+                        lineNumber: 105,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     "ENSŌ LIVING"
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/hero/index.jsx",
-                lineNumber: 105,
+                lineNumber: 103,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -358,14 +477,14 @@ const Hero = ({ handlerFormOpen })=>{
                     "",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                         fileName: "[project]/app/components/hero/index.jsx",
-                        lineNumber: 112,
+                        lineNumber: 110,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     "high-end"
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/hero/index.jsx",
-                lineNumber: 110,
+                lineNumber: 108,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -375,7 +494,7 @@ const Hero = ({ handlerFormOpen })=>{
                     "",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                         fileName: "[project]/app/components/hero/index.jsx",
-                        lineNumber: 117,
+                        lineNumber: 115,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     "comercial ",
@@ -384,14 +503,14 @@ const Hero = ({ handlerFormOpen })=>{
                         className: "inline-block sm:hidden"
                     }, void 0, false, {
                         fileName: "[project]/app/components/hero/index.jsx",
-                        lineNumber: 119,
+                        lineNumber: 117,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     "și spații",
                     "",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                         fileName: "[project]/app/components/hero/index.jsx",
-                        lineNumber: 121,
+                        lineNumber: 119,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     "business",
@@ -400,14 +519,14 @@ const Hero = ({ handlerFormOpen })=>{
                         className: "inline-block sm:hidden"
                     }, void 0, false, {
                         fileName: "[project]/app/components/hero/index.jsx",
-                        lineNumber: 123,
+                        lineNumber: 121,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     "premium"
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/hero/index.jsx",
-                lineNumber: 115,
+                lineNumber: 113,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -417,14 +536,14 @@ const Hero = ({ handlerFormOpen })=>{
                     "",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                         fileName: "[project]/app/components/hero/index.jsx",
-                        lineNumber: 128,
+                        lineNumber: 126,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     "de lux  "
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/hero/index.jsx",
-                lineNumber: 126,
+                lineNumber: 124,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -436,7 +555,7 @@ const Hero = ({ handlerFormOpen })=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$hero$2f$hero$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].span__blur
                     }, void 0, false, {
                         fileName: "[project]/app/components/hero/index.jsx",
-                        lineNumber: 136,
+                        lineNumber: 134,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -446,14 +565,14 @@ const Hero = ({ handlerFormOpen })=>{
                             "",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                 fileName: "[project]/app/components/hero/index.jsx",
-                                lineNumber: 139,
+                                lineNumber: 137,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             "și solicită oferta de lansare"
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/components/hero/index.jsx",
-                        lineNumber: 137,
+                        lineNumber: 135,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
@@ -470,7 +589,7 @@ const Hero = ({ handlerFormOpen })=>{
                                 strokeWidth: "0.82449"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/hero/index.jsx",
-                                lineNumber: 148,
+                                lineNumber: 146,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -478,7 +597,7 @@ const Hero = ({ handlerFormOpen })=>{
                                 fill: "white"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/hero/index.jsx",
-                                lineNumber: 155,
+                                lineNumber: 153,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -486,19 +605,19 @@ const Hero = ({ handlerFormOpen })=>{
                                 fill: "white"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/hero/index.jsx",
-                                lineNumber: 159,
+                                lineNumber: 157,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/components/hero/index.jsx",
-                        lineNumber: 142,
+                        lineNumber: 140,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/hero/index.jsx",
-                lineNumber: 131,
+                lineNumber: 129,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -11258,152 +11377,62 @@ const Index = ()=>{
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$footer$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].top__content,
                     children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-                            className: "hidden sm:inline-block sm:w-[145rem] sm:h-[50rem]",
-                            viewBox: "0 0 145 50",
-                            fill: "none",
-                            xmlns: "http://www.w3.org/2000/svg",
-                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("g", {
-                                opacity: "0.6",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                        d: "M28.2934 3.19892L28.2972 3.50326C30.3195 3.86395 32.5167 4.46511 34.4401 5.19402C34.8507 5.35183 35.3524 5.77264 35.744 5.67871C34.8507 5.06628 33.7901 4.63419 32.7486 4.31107C32.7524 4.0443 33.2731 4.27349 33.391 4.30731C34.6986 4.69806 36.6297 5.74258 37.8271 6.4527C40.5336 8.05329 43.0729 10.4504 44.8063 13.058C44.9735 13.3059 45.2928 13.7793 45.2624 14.0874C44.7949 13.49 44.4185 12.7499 43.8901 12.19C43.8293 12.1299 43.4264 11.8368 43.5214 12.1788C45.1142 14.3016 46.7107 16.601 47.4063 19.1748C47.6268 19.1898 47.5128 18.8967 47.4938 18.7652C47.4558 18.5173 47.1517 17.8935 47.4558 17.7282C47.4292 18.3557 47.7485 18.9794 47.8017 19.5806C47.9081 20.7754 48.1742 22.143 48.5201 23.3566C48.6304 23.7361 49.0827 23.9127 48.6342 24.2508L48.885 24.371C49.0371 24.7843 48.6798 24.7919 48.6646 24.8745C48.5619 25.4344 48.7596 26.4638 48.7672 27.0199C48.771 27.3769 48.5885 27.7751 48.7026 28.1659L48.9193 27.6737L48.9839 28.8121L48.6114 28.9549L48.638 29.3795L48.8622 29.0075C48.9953 29.3269 48.6722 29.5786 48.6608 29.8078C48.5619 31.8517 48.026 33.3058 47.3607 35.2032C47.2505 35.5226 47.3227 36.0824 47.1935 36.3304C46.6233 37.3975 44.8975 40.6738 44.1676 41.4252C44.046 41.5455 43.8217 41.5342 43.7761 41.5868C43.7039 41.6732 43.7685 42.0151 43.6659 42.2067C43.5252 42.481 41.9743 43.6307 41.6094 43.9614C39.5567 45.8325 38.4277 46.8883 35.9378 48.1996C35.075 48.6542 33.8243 49.3793 32.9158 49.6311C32.7904 49.6649 32.414 49.8265 32.4179 49.5897C33.4936 49.2103 34.6682 48.7481 35.6527 48.1657C35.82 48.0681 35.9531 48.162 35.8732 47.8501C34.6112 48.3536 33.0945 49.1915 31.8096 49.5597C31.6804 49.5973 31.2052 49.7738 31.19 49.5259C33.1781 48.8759 34.8735 47.6886 36.6639 46.6628C37.0288 46.1218 35.9911 47.0123 36.1127 46.629L40.4652 43.1611L40.5184 43.0409L40.2865 42.9995L40.3207 42.6877C39.857 43.1536 39.3666 43.6082 38.8496 44.014C35.5577 46.5915 33.2617 47.5608 29.2704 48.5452C28.5215 48.7293 27.7803 48.9585 27.0238 49.1201C26.944 48.7707 27.1036 48.921 27.2937 48.8533C27.7461 48.6918 28.8826 48.5678 29.1069 48.4212C29.259 48.3236 29.1335 48.1319 29.1677 48.053C29.183 48.0155 29.776 48.2785 30.0154 48.0117L29.7607 47.7825L30.3766 47.8727C30.3766 47.8727 30.2777 47.6998 30.3081 47.6322C30.4526 47.3617 32.0111 46.8582 32.3912 46.6854L32.0225 46.5839L37.2379 43.3752C36.9452 43.3189 36.527 43.6345 36.28 43.781C35.1776 44.4348 33.9878 45.3177 32.8436 45.8776C32.0719 46.2571 30.2093 47.0386 29.4148 47.1776C29.2856 47.2001 28.9777 47.3016 29.0005 47.0912C29.411 47.0912 29.6505 46.5839 29.9432 46.49C30.5894 46.2871 30.8669 46.336 31.6576 45.9602C33.3188 45.175 35.8086 43.7209 37.0744 42.4171C37.1695 42.3232 37.4356 42.1128 37.2379 41.9851C35.5463 43.9501 33.2769 44.6227 30.9696 45.5732C30.1067 45.9302 29.3198 46.4374 28.3391 46.6779C28.149 46.723 28.0958 46.7981 28.0008 46.5388L33.1477 44.4724L33.0223 44.2507L34.2539 43.3339C33.1591 43.5594 32.0871 44.8368 31.171 45.1712C31.1102 45.1938 30.9734 45.2163 30.9886 45.1186C31.1862 44.9984 31.2661 44.6565 31.4143 44.5475C31.9769 44.1342 33.3492 43.5894 34.0714 43.1611C34.5314 42.8868 35.0597 42.575 35.4285 42.188L35.687 42.5336C36.2572 41.9099 37.3329 41.32 37.7929 40.6249C37.9107 40.4483 37.9335 40.268 37.6598 40.5085C37.4964 40.655 37.2797 41.1096 37.0098 40.9631C37.2911 40.7076 37.4203 40.3394 37.6902 40.0801C39.0739 38.7275 39.8836 37.9347 40.8605 36.0148C40.9822 35.7743 41.0164 35.3873 41.1304 35.222C41.2977 34.974 41.5828 35.0304 41.598 35.0078C41.6132 34.9928 41.4535 34.7899 41.4763 34.6246C41.6208 33.6402 42.6737 31.6827 42.9702 30.4353C43.4074 28.5904 43.2819 27.5797 43.3314 25.8176C43.3428 25.4306 43.7685 24.604 43.2819 24.6641L43.2667 24.4913C43.6165 24.4161 43.5328 23.83 43.472 23.5069C43.4302 23.2852 43.2401 23.3679 43.2097 23.2627C43.1299 22.9959 43.2743 22.6502 42.9246 22.4548L43.2857 22.3759L42.9854 21.3051L42.7764 21.9176C42.784 21.2939 42.3202 20.7378 42.1377 20.2644C40.4614 15.812 39.3552 14.6059 35.5501 11.8368C35.2992 11.6565 34.767 11.4837 34.615 11.3334C34.4743 11.1944 34.5276 11.014 34.729 11.0854C34.9419 11.1605 35.4057 11.7918 35.6718 11.5814L32.7067 9.86053L32.4863 10.1085C31.6728 9.68018 30.7909 9.34955 29.9052 9.11284C25.4881 7.92555 19.8736 8.37266 15.8366 10.4917C15.5135 10.6608 15.2018 11.0366 15.0041 11.1342C14.7913 11.2394 14.6202 11.0929 14.3693 11.2357C13.879 11.51 14.088 11.8068 14.0576 11.8293C13.936 11.9345 13.3392 11.9533 13.1149 12.19C12.9895 12.329 12.9856 12.5808 12.8374 12.7499C10.8341 15.0831 9.69753 15.9435 8.31386 18.8441C6.70211 22.2332 5.80121 25.7011 6.27257 29.4734L6.48924 28.9812C6.92639 32.7723 8.713 36.2966 11.6172 38.8139L11.1952 38.7651L11.0812 39.0206L10.013 38.4683C9.79637 38.72 11.7122 40.1928 11.9479 40.3582C13.7991 41.6619 14.9509 41.9738 17.0568 42.5299C17.3495 42.6088 17.8969 43.007 18.1782 43.0897C18.3189 43.131 18.4063 42.9169 18.5697 42.9131C18.6496 42.9093 19.5961 43.1235 19.7329 43.1686C20.2119 43.3264 21.7058 44.277 21.7856 44.7466C21.8122 44.9007 21.607 45.0209 21.6032 45.0998C21.5994 45.1787 21.9111 45.3741 21.9909 45.5357C22.2874 46.1443 22.2532 47.5834 21.9035 48.162C21.6108 48.6467 20.6909 49.2028 20.3602 49.6874C19.904 49.958 17.1785 50.0895 16.5589 49.9354C15.7834 49.74 14.3123 48.9172 13.571 48.5001C9.18816 46.0391 5.4857 42.575 2.97305 38.2203C2.64234 37.6454 2.43706 37.0142 2.09495 36.4506L1.86687 36.6986C1.79465 35.6654 1.26627 34.7599 1.00398 33.7717C-0.105998 29.6312 -0.455712 25.0323 0.783509 20.9369C1.11802 19.8323 1.50575 18.7502 1.78324 17.6343L1.9353 18.3482C2.88942 16.0375 4.0184 13.7493 5.57313 11.7692C5.94946 11.292 6.71352 10.3941 7.13166 9.94319C7.40916 9.64637 8.24924 9.13914 8.28725 9.07902C8.37849 8.93625 8.24544 8.677 8.51533 8.41775C8.78522 8.1585 9.06652 8.27122 9.36302 8.14347C9.46945 8.09838 10.7163 7.11398 10.7429 7.03508C10.7657 6.96745 10.6517 6.8397 10.6707 6.77583C10.7391 6.52033 14.3617 4.81078 14.8673 4.44633C15.2208 4.405 14.9775 4.58535 14.8559 4.66801C14.5556 4.87465 14.1755 4.98737 13.8752 5.17148C13.4494 5.43448 13.0617 5.75761 12.6473 6.02437C12.385 6.19345 11.4537 6.36253 11.5678 6.89606C12.3166 6.39634 13.1529 5.87033 13.9588 5.47206C15.4869 4.71309 18.5355 3.56337 20.2043 3.35672C22.755 3.03736 25.2372 3.34921 27.7613 3.3417C27.9513 3.3417 28.1148 3.19516 28.3011 3.19141L28.2934 3.19892ZM20.5198 4.05933C18.9993 4.13448 17.6004 4.7657 16.2091 5.32177C16.0153 5.40067 15.8822 5.27668 15.9583 5.60732L20.5198 4.05933ZM26.1989 7.76398L22.907 7.92179L22.9146 8.04202L26.2065 7.88422L26.1989 7.76398ZM46.5358 18.9756L46.4142 18.412L45.711 17.0857C45.7148 17.4802 45.8858 17.8372 46.0379 18.1904C46.1367 18.4158 46.323 18.8554 46.532 18.9794L46.5358 18.9756ZM44.5554 25.8326C44.6276 23.4543 44.3615 20.9219 43.32 18.7427C43.1337 18.3482 42.9588 17.8297 42.5635 17.6042C42.5217 17.8409 42.7802 17.9612 42.8144 18.1603C42.9094 18.6675 42.8828 18.4759 42.9778 18.7577C43.5556 20.4635 44.0726 22.4548 44.2323 24.2208L44.5516 25.8364L44.5554 25.8326ZM47.2315 30.5292L47.3531 27.9893L47.087 29.9957L47.2315 30.5292Z",
-                                        fill: "white"
-                                    }, void 0, false, {
-                                        fileName: "[project]/app/components/footer/index.jsx",
-                                        lineNumber: 17,
-                                        columnNumber: 15
-                                    }, ("TURBOPACK compile-time value", void 0)),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                        d: "M26.7534 2.24559L26.3291 2.36747L22.2258 2.24975C23.7274 2.14781 25.2169 2.04123 26.7576 2.24975L26.7534 2.24559Z",
-                                        fill: "white"
-                                    }, void 0, false, {
-                                        fileName: "[project]/app/components/footer/index.jsx",
-                                        lineNumber: 21,
-                                        columnNumber: 15
-                                    }, ("TURBOPACK compile-time value", void 0)),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                        d: "M13.8362 40.6092C13.9642 40.7364 14.3334 40.5951 14.1343 41.0181C13.9709 41.1803 12.1558 40.3374 12.0262 40.11C12.8117 39.6062 13.489 40.2927 13.8398 40.6129L13.8362 40.6092Z",
-                                        fill: "white"
-                                    }, void 0, false, {
-                                        fileName: "[project]/app/components/footer/index.jsx",
-                                        lineNumber: 25,
-                                        columnNumber: 15
-                                    }, ("TURBOPACK compile-time value", void 0)),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                        d: "M75.6053 26.9575C75.2811 28.9054 74.9249 30.5512 74.5369 31.9002L59.6323 31.9163V31.0152C61.0197 30.9073 61.8648 30.7023 62.1731 30.3893C62.4814 30.0763 62.6303 29.2831 62.6303 27.9935L62.6196 15.7177C62.6196 14.3525 62.4761 13.5108 62.1891 13.2032C61.9446 12.9118 61.2217 12.7176 60.015 12.615V11.7139L73.7874 11.7031L73.9097 13.5971C73.9947 14.8004 74.0426 15.6691 74.0638 16.2087L73.1443 16.3652C72.921 15.286 72.5702 14.3957 72.1024 13.6942C71.7144 13.1169 70.5928 12.8255 68.7324 12.8255H66.5265C66.0375 12.8255 65.7398 12.8794 65.6388 12.982C65.5378 13.0845 65.4847 13.3759 65.4847 13.8507V20.8439H68.2434C69.5882 20.8439 70.4387 20.7198 70.7842 20.4661C71.0925 20.2179 71.3423 19.565 71.5496 18.5074H72.4692L72.4745 24.5023H71.5549C71.3476 23.4069 71.0819 22.7324 70.7576 22.4842C70.4121 22.236 69.5723 22.1119 68.2487 22.1119H65.4953L65.5006 27.864C65.5006 29.2292 65.7451 30.0817 66.2395 30.4109C66.6275 30.6591 67.6587 30.7832 69.3331 30.7832C71.2732 30.7832 72.5383 30.4379 73.1283 29.7526C73.7183 29.0295 74.2393 28.0421 74.6858 26.801L75.6053 26.9575Z",
-                                        fill: "white"
-                                    }, void 0, false, {
-                                        fileName: "[project]/app/components/footer/index.jsx",
-                                        lineNumber: 29,
-                                        columnNumber: 15
-                                    }, ("TURBOPACK compile-time value", void 0)),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                        d: "M101.163 12.5861C100.291 12.6287 99.673 12.7829 99.3086 13.0489C98.923 13.3149 98.6906 13.7723 98.6113 14.4266C98.4898 15.6926 98.4317 17.4054 98.4317 19.5703L98.4423 31.9163H97.407L84.4976 16.0011H84.4342V23.5385C84.4448 25.7832 84.5082 27.5014 84.6297 28.6822C84.7089 29.4376 84.9572 29.9589 85.3586 30.2461C85.7653 30.5121 86.5048 30.677 87.5771 30.7355V31.6238L80.3089 31.6291V30.7408C81.2227 30.677 81.8619 30.5121 82.2263 30.2461C82.633 29.9589 82.876 29.4588 82.9552 28.7461C83.0979 27.2779 83.1665 25.5385 83.1612 23.5385V16.8628C83.1507 15.3096 82.95 14.267 82.5432 13.7404C82.0362 13.0861 81.1435 12.7085 79.8652 12.6074V11.7191H84.5504L97.0637 26.7194H97.1535V19.581C97.1429 17.5809 97.0742 15.8841 96.9263 14.4957C96.8418 13.8202 96.5883 13.3521 96.1657 13.0861C95.759 12.8202 95.0195 12.6606 93.9473 12.5968V11.7084L101.157 11.7031V12.5914L101.163 12.5861Z",
-                                        fill: "white"
-                                    }, void 0, false, {
-                                        fileName: "[project]/app/components/footer/index.jsx",
-                                        lineNumber: 33,
-                                        columnNumber: 15
-                                    }, ("TURBOPACK compile-time value", void 0)),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                        d: "M117.348 16.9613C116.583 14.191 115.189 12.8004 113.157 12.8058C112.055 12.8058 111.202 13.1535 110.59 13.8379C110.017 14.4626 109.736 15.2448 109.736 16.1845C109.736 17.2057 110.089 18.0694 110.789 18.781C111.339 19.3622 112.32 20.0086 113.741 20.7202C115.52 21.5948 116.765 22.3661 117.486 23.0342C118.67 24.1369 119.265 25.4515 119.265 26.9724C119.265 28.6835 118.615 30.1012 117.304 31.2257C115.949 32.3935 114.22 32.9802 112.105 32.9802C111.025 32.9802 109.99 32.8281 108.998 32.513C108.618 32.3881 108.068 32.1708 107.346 31.8558C107.093 31.1496 106.806 29.4983 106.487 26.9127L107.44 26.6628C108.393 30.1012 110.15 31.8232 112.711 31.8178C113.851 31.8178 114.749 31.481 115.404 30.8128C116.06 30.1664 116.385 29.281 116.385 28.1512C116.385 26.527 115.041 24.9952 112.353 23.5557C110.7 22.7029 109.538 21.9533 108.861 21.3069C107.654 20.2042 107.049 18.8896 107.049 17.3687C107.049 15.7608 107.638 14.43 108.822 13.3653C110.067 12.2572 111.697 11.7031 113.708 11.7031C114.765 11.7031 116.12 11.9421 117.767 12.4201C117.811 12.8167 117.894 13.4305 118.02 14.267C118.169 15.3751 118.274 16.2171 118.34 16.7983L117.359 16.9559L117.348 16.9613Z",
-                                        fill: "white"
-                                    }, void 0, false, {
-                                        fileName: "[project]/app/components/footer/index.jsx",
-                                        lineNumber: 37,
-                                        columnNumber: 15
-                                    }, ("TURBOPACK compile-time value", void 0)),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                        d: "M141.826 14.5495C143.822 16.5267 144.817 19.0417 144.822 22.0836C144.822 25.3809 143.822 28.0371 141.811 30.0632C139.884 32.0024 137.476 32.9748 134.592 32.9802C131.766 32.9802 129.4 31.997 127.49 30.0143C125.558 28.0154 124.589 25.5221 124.589 22.5399C124.589 19.6012 125.5 17.0971 127.325 15.0275C129.273 12.8167 131.813 11.7086 134.941 11.7031C137.645 11.7031 139.942 12.6483 141.832 14.544L141.826 14.5495ZM129.913 15.1253C128.633 16.7549 127.998 18.9548 127.998 21.7251C127.998 24.6258 128.675 27.0213 130.014 28.9171C131.374 30.8563 133.115 31.8232 135.227 31.8232C136.973 31.8232 138.418 31.0899 139.551 29.6287C140.789 27.9991 141.408 25.7665 141.403 22.931C141.403 19.7642 140.704 17.2709 139.323 15.4566C138.021 13.7293 136.333 12.8656 134.264 12.8656C132.517 12.8656 131.062 13.6206 129.908 15.1198L129.913 15.1253Z",
-                                        fill: "white"
-                                    }, void 0, false, {
-                                        fileName: "[project]/app/components/footer/index.jsx",
-                                        lineNumber: 41,
-                                        columnNumber: 15
-                                    }, ("TURBOPACK compile-time value", void 0)),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                        d: "M138.433 6.38281H129.914V8.51052H138.433V6.38281Z",
-                                        fill: "white"
-                                    }, void 0, false, {
-                                        fileName: "[project]/app/components/footer/index.jsx",
-                                        lineNumber: 45,
-                                        columnNumber: 15
-                                    }, ("TURBOPACK compile-time value", void 0)),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                        d: "M64.9567 44.978C64.8352 45.7199 64.7031 46.3269 64.5658 46.8103H59.6323V46.473C60.0919 46.4337 60.3718 46.3606 60.4722 46.2538C60.5778 46.1302 60.6359 45.8323 60.6359 45.349V40.8077C60.6359 40.33 60.5937 40.0321 60.4986 39.9141C60.3982 39.8073 60.1341 39.7342 59.701 39.6949V39.3633H62.5956V39.6949C62.1677 39.7342 61.8983 39.8017 61.798 39.9028C61.6976 40.0265 61.6448 40.3244 61.6448 40.8077V45.3152C61.6448 45.8436 61.724 46.1527 61.8878 46.2538C62.0462 46.3438 62.3737 46.3887 62.8755 46.3943C63.4724 46.3943 63.8633 46.2763 64.0587 46.0403C64.2806 45.7817 64.4707 45.4052 64.6292 44.9106L64.9514 44.978H64.9567Z",
-                                        fill: "white"
-                                    }, void 0, false, {
-                                        fileName: "[project]/app/components/footer/index.jsx",
-                                        lineNumber: 49,
-                                        columnNumber: 15
-                                    }, ("TURBOPACK compile-time value", void 0)),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                        d: "M68.1514 46.8046V46.4728C68.6291 46.4334 68.9227 46.3603 69.032 46.259C69.1414 46.1466 69.199 45.8485 69.199 45.3647V40.8088C69.199 40.3307 69.1472 40.0326 69.0378 39.9145C68.9284 39.8076 68.6349 39.7345 68.1571 39.6951V39.3633H71.346V39.6951C70.8682 39.7345 70.5747 39.8076 70.4653 39.9145C70.3559 40.027 70.2984 40.3251 70.2984 40.8088V45.3647C70.2984 45.8428 70.3502 46.1409 70.4595 46.259C70.5689 46.3659 70.8625 46.439 71.3402 46.4784V46.8103H68.1514V46.8046Z",
-                                        fill: "white"
-                                    }, void 0, false, {
-                                        fileName: "[project]/app/components/footer/index.jsx",
-                                        lineNumber: 53,
-                                        columnNumber: 15
-                                    }, ("TURBOPACK compile-time value", void 0)),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                        d: "M81.9892 39.6952C81.6029 39.7395 81.3417 39.828 81.2057 39.9553C81.0479 40.0881 80.8683 40.409 80.6616 40.9124C79.6659 43.3745 78.8987 45.3386 78.3655 46.8103H77.9792C77.1467 44.4921 76.385 42.456 75.6994 40.7077C75.5471 40.2928 75.3948 40.0272 75.2478 39.9055C75.1173 39.8004 74.8779 39.7284 74.5405 39.6897V39.3633H77.3535V39.6897C76.9672 39.734 76.7387 39.8004 76.6679 39.8834C76.6081 39.9608 76.6244 40.1213 76.7115 40.3702C77.0869 41.4436 77.6854 43.0425 78.5015 45.1671H78.5233C79.3068 43.1919 79.8672 41.6649 80.21 40.586C80.3188 40.2485 80.3406 40.0327 80.2644 39.9331C80.1828 39.828 79.9216 39.7506 79.4809 39.6952V39.3688H81.9946V39.6952H81.9892Z",
-                                        fill: "white"
-                                    }, void 0, false, {
-                                        fileName: "[project]/app/components/footer/index.jsx",
-                                        lineNumber: 57,
-                                        columnNumber: 15
-                                    }, ("TURBOPACK compile-time value", void 0)),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                        d: "M85.1895 46.8103V46.4784C85.6672 46.439 85.9608 46.3659 86.0701 46.259C86.1795 46.1466 86.2371 45.8485 86.2371 45.3647V40.8088C86.2371 40.3307 86.1853 40.0326 86.0759 39.9145C85.9665 39.8076 85.673 39.7345 85.1952 39.6951V39.3633H88.3841V39.6951C87.9063 39.7345 87.6127 39.8076 87.5034 39.9145C87.394 40.027 87.3365 40.3251 87.3365 40.8088V45.3647C87.3365 45.8428 87.3883 46.1409 87.4976 46.259C87.607 46.3659 87.9005 46.439 88.3783 46.4784V46.8103H85.1895Z",
-                                        fill: "white"
-                                    }, void 0, false, {
-                                        fileName: "[project]/app/components/footer/index.jsx",
-                                        lineNumber: 61,
-                                        columnNumber: 15
-                                    }, ("TURBOPACK compile-time value", void 0)),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                        d: "M99.0327 39.6849C98.7291 39.7015 98.5092 39.757 98.3836 39.8568C98.2475 39.9566 98.169 40.1229 98.1376 40.3669C98.0957 40.8327 98.0747 41.4649 98.0747 42.2633V46.8103H97.7083L93.1961 40.9381H93.1752V43.7161C93.1752 44.5423 93.1961 45.1745 93.238 45.6125C93.2642 45.8898 93.3531 46.0839 93.4945 46.1892C93.6358 46.289 93.8975 46.3445 94.2744 46.3722V46.6994H91.7252V46.3722C92.0445 46.35 92.2696 46.289 92.3952 46.1948C92.5365 46.0894 92.6203 45.9064 92.6517 45.6403C92.7041 45.0968 92.725 44.4592 92.725 43.7217V41.2597C92.725 40.6885 92.6569 40.3059 92.5156 40.1063C92.3376 39.8679 92.0236 39.7237 91.5786 39.6904V39.3633H93.2223L97.5984 44.8972H97.6298V42.2689C97.6298 41.5314 97.6089 40.9048 97.5565 40.3947C97.5303 40.1451 97.4414 39.9732 97.2896 39.8734C97.1482 39.7736 96.8865 39.7126 96.5096 39.6904V39.3633H99.0327V39.6904V39.6849Z",
-                                        fill: "white"
-                                    }, void 0, false, {
-                                        fileName: "[project]/app/components/footer/index.jsx",
-                                        lineNumber: 65,
-                                        columnNumber: 15
-                                    }, ("TURBOPACK compile-time value", void 0)),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                        d: "M110.746 43.6487C110.408 43.7024 110.205 43.7669 110.137 43.8476C110.058 43.9283 110.024 44.1326 110.024 44.4606V45.38C110.024 45.837 110.053 46.1865 110.103 46.4177C108.885 46.6812 108.028 46.8103 107.521 46.8103C106.252 46.8103 105.226 46.4715 104.448 45.7887C103.675 45.1165 103.292 44.2347 103.292 43.1378C103.292 41.9442 103.743 40.9979 104.645 40.3042C105.457 39.6751 106.472 39.3633 107.696 39.3633C108.254 39.3633 108.992 39.4708 109.912 39.6805C109.962 40.2773 110.024 40.8527 110.092 41.4011L109.748 41.4764C109.511 40.3311 108.767 39.7558 107.51 39.7558C106.647 39.7558 105.942 40.0408 105.395 40.6161C104.837 41.2129 104.555 42.0033 104.555 42.9927C104.555 43.8906 104.803 44.6595 105.299 45.3047C105.874 46.0414 106.658 46.4124 107.651 46.4124C108.04 46.4124 108.355 46.3532 108.592 46.2296C108.823 46.1113 108.936 45.8854 108.936 45.5413V44.5896C108.936 44.1971 108.88 43.9498 108.767 43.8584C108.643 43.7616 108.299 43.6917 107.735 43.6487V43.3314H110.74V43.6487H110.746Z",
-                                        fill: "white"
-                                    }, void 0, false, {
-                                        fileName: "[project]/app/components/footer/index.jsx",
-                                        lineNumber: 69,
-                                        columnNumber: 15
-                                    }, ("TURBOPACK compile-time value", void 0))
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/app/components/footer/index.jsx",
-                                lineNumber: 16,
-                                columnNumber: 13
-                            }, ("TURBOPACK compile-time value", void 0))
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/footer/index.jsx",
-                            lineNumber: 10,
-                            columnNumber: 11
-                        }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                             href: "https://www.google.com/maps/place/45%C2%B038'06.3%22N+25%C2%B038'16.7%22E/@45.635093,25.637957,17z/data=!3m1!4b1!4m4!3m3!8m2!3d45.635093!4d25.637957?entry=ttu&g_ep=EgoyMDI1MTIwMi4wIKXMDSoASAFQAw%3D%3D",
                             className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$footer$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].google__map_link__mobile,
                             children: [
-                                "Str. Ionescu Crum nr. 6,",
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                    className: "w-[13rem] h-[18rem] inline-block",
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
+                                        className: "w-full h-full",
+                                        viewBox: "0 0 13 18",
+                                        fill: "none",
+                                        xmlns: "http://www.w3.org/2000/svg",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("g", {
+                                            opacity: "0.6",
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                                d: "M6.23047 0C7.88297 0 9.46822 0.656699 10.6367 1.8252C11.805 2.9936 12.4618 4.57816 12.4619 6.23047C12.4619 9.67816 6.23047 18 6.23047 18C6.20061 17.9601 0 9.66986 0 6.23047C7.96402e-05 4.57807 0.65677 2.99362 1.8252 1.8252C2.99362 0.65677 4.57807 7.96156e-05 6.23047 0ZM6.23047 3C4.29747 3 2.73047 4.567 2.73047 6.5C2.73047 8.433 4.29747 10 6.23047 10C8.16347 10 9.73047 8.433 9.73047 6.5C9.73047 4.567 8.16347 3 6.23047 3Z",
+                                                fill: "#D9D9D9"
+                                            }, void 0, false, {
+                                                fileName: "[project]/app/components/footer/index.jsx",
+                                                lineNumber: 91,
+                                                columnNumber: 19
+                                            }, ("TURBOPACK compile-time value", void 0))
+                                        }, void 0, false, {
+                                            fileName: "[project]/app/components/footer/index.jsx",
+                                            lineNumber: 90,
+                                            columnNumber: 17
+                                        }, ("TURBOPACK compile-time value", void 0))
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/components/footer/index.jsx",
+                                        lineNumber: 84,
+                                        columnNumber: 15
+                                    }, ("TURBOPACK compile-time value", void 0))
+                                }, void 0, false, {
                                     fileName: "[project]/app/components/footer/index.jsx",
-                                    lineNumber: 82,
+                                    lineNumber: 83,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
-                                "zona Astra — Brașov"
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                    className: "inline-block  leading-[120%]",
+                                    children: [
+                                        "Str. Ionescu Crum nr. 6,",
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                            fileName: "[project]/app/components/footer/index.jsx",
+                                            lineNumber: 100,
+                                            columnNumber: 15
+                                        }, ("TURBOPACK compile-time value", void 0)),
+                                        "zona Astra — Brașov"
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/app/components/footer/index.jsx",
+                                    lineNumber: 98,
+                                    columnNumber: 13
+                                }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/components/footer/index.jsx",
-                            lineNumber: 75,
+                            lineNumber: 77,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -11422,17 +11451,17 @@ const Index = ()=>{
                                             fill: "white"
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/footer/index.jsx",
-                                            lineNumber: 93,
+                                            lineNumber: 112,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/app/components/footer/index.jsx",
-                                        lineNumber: 87,
+                                        lineNumber: 106,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/footer/index.jsx",
-                                    lineNumber: 86,
+                                    lineNumber: 105,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -11448,17 +11477,17 @@ const Index = ()=>{
                                             fill: "white"
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/footer/index.jsx",
-                                            lineNumber: 109,
+                                            lineNumber: 128,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/app/components/footer/index.jsx",
-                                        lineNumber: 103,
+                                        lineNumber: 122,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/footer/index.jsx",
-                                    lineNumber: 99,
+                                    lineNumber: 118,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -11474,17 +11503,17 @@ const Index = ()=>{
                                             fill: "white"
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/footer/index.jsx",
-                                            lineNumber: 122,
+                                            lineNumber: 144,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/app/components/footer/index.jsx",
-                                        lineNumber: 116,
+                                        lineNumber: 138,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/footer/index.jsx",
-                                    lineNumber: 115,
+                                    lineNumber: 134,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -11500,23 +11529,23 @@ const Index = ()=>{
                                             fill: "white"
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/footer/index.jsx",
-                                            lineNumber: 135,
+                                            lineNumber: 160,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/app/components/footer/index.jsx",
-                                        lineNumber: 129,
+                                        lineNumber: 154,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/footer/index.jsx",
-                                    lineNumber: 128,
+                                    lineNumber: 150,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/components/footer/index.jsx",
-                            lineNumber: 85,
+                            lineNumber: 104,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
@@ -11535,12 +11564,12 @@ const Index = ()=>{
                                 children: "Str. Ionescu Crum nr. 6, zona Astra — Brașov"
                             }, void 0, false, {
                                 fileName: "[project]/app/components/footer/index.jsx",
-                                lineNumber: 150,
+                                lineNumber: 175,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/app/components/footer/index.jsx",
-                            lineNumber: 144,
+                            lineNumber: 169,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -11551,7 +11580,7 @@ const Index = ()=>{
                                     children: "© 2025 Toate drepturile sunt rezervate."
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/footer/index.jsx",
-                                    lineNumber: 153,
+                                    lineNumber: 178,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -11562,7 +11591,7 @@ const Index = ()=>{
                                             children: "Terms & conditions"
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/footer/index.jsx",
-                                            lineNumber: 157,
+                                            lineNumber: 182,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -11570,25 +11599,25 @@ const Index = ()=>{
                                             children: "Privacy Policy "
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/footer/index.jsx",
-                                            lineNumber: 158,
+                                            lineNumber: 183,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/components/footer/index.jsx",
-                                    lineNumber: 156,
+                                    lineNumber: 181,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/components/footer/index.jsx",
-                            lineNumber: 152,
+                            lineNumber: 177,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/components/footer/index.jsx",
-                    lineNumber: 143,
+                    lineNumber: 168,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             ]

@@ -35,19 +35,18 @@
 .styles-module-scss-module__wNWX9G__google__map_link__mobile {
   --tw-leading: 100%;
   color: #fff9;
+  justify-content: center;
+  align-items: center;
+  gap: 6rem;
   font-size: 10rem;
   line-height: 100%;
-  display: inline;
+  display: inline-flex;
 }
 
 @supports (color: color-mix(in lab, red, red)) {
   .styles-module-scss-module__wNWX9G__google__map_link__mobile {
     color: color-mix(in oklab, var(--color-white, #fff) 60%, transparent);
   }
-}
-
-.styles-module-scss-module__wNWX9G__google__map_link__mobile {
-  text-decoration-line: underline;
 }
 
 @media (min-width: 40rem) {
@@ -59,7 +58,7 @@
 .styles-module-scss-module__wNWX9G__google__map_link__desktop {
   --tw-leading: 100%;
   color: #fff9;
-  flex-direction: column;
+  align-items: flex-end;
   gap: 8rem;
   font-size: 16rem;
   line-height: 100%;
@@ -70,10 +69,6 @@
   .styles-module-scss-module__wNWX9G__google__map_link__desktop {
     color: color-mix(in oklab, var(--color-white, #fff) 60%, transparent);
   }
-}
-
-.styles-module-scss-module__wNWX9G__google__map_link__desktop {
-  text-decoration-line: underline;
 }
 
 @media (min-width: 40rem) {
@@ -164,6 +159,7 @@
 
 .styles-module-scss-module__wNWX9G__content__links {
   letter-spacing: .4rem;
+  text-decoration-line: underline;
 }
 
 @media screen and (min-width: 640px) {
@@ -171,6 +167,7 @@
     letter-spacing: 0;
     margin-top: 14rem;
     font-size: 16rem;
+    text-decoration: none;
   }
 }
 

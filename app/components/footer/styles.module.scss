@@ -12,10 +12,10 @@
     @apply flex justify-between;
 }
 .google__map_link__mobile {
-    @apply inline text-[10rem] text-white/60 leading-[100%] sm:hidden underline;
+    @apply inline-flex justify-center items-center gap-[6rem] text-[10rem] text-white/60 leading-[100%] sm:hidden;
 }
 .google__map_link__desktop {
-    @apply hidden sm:inline-flex flex-col gap-[8rem] text-[16rem] text-white/60 leading-[100%] underline;
+    @apply hidden sm:inline-flex items-end gap-[8rem] text-[16rem] text-white/60 leading-[100%];
 }
 .google__map_link {
     @apply text-[10rem] text-white/60 leading-[100%];
@@ -42,10 +42,11 @@
     }
 }
 .content__links {
-    @apply flex justify-between text-[10rem] text-white/60 leading-[100%];
+    @apply flex justify-between text-[10rem] text-white/60 leading-[100%] underline;
     letter-spacing: 0.4rem;
     @media screen and (width >= 640px) {
         @apply text-[16rem] mt-[14rem];
+        text-decoration: none;
         letter-spacing: 0rem;
     }
 }
