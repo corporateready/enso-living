@@ -83,7 +83,7 @@ const Index = () => {
             zona Astra — Brașov
           </Link>
           <div className={styles.socials__link}>
-            <Link href={"tel:+40000000000"}>
+            <Link href={"tel:+40000000000"} aria-label="phone">
               <svg
                 className="w-[23rem] h-[22rem] sm:w-[46rem] sm:h-[44rem] opacity-60"
                 viewBox="0 0 23 22"
@@ -98,6 +98,7 @@ const Index = () => {
             </Link>
             <Link
               href={"https://www.facebook.com/profile.php?id=61580179168995"}
+              aria-label="facebook"
             >
               <svg
                 className="w-[13rem] h-[24rem] sm:w-[26rem] sm:h-[48rem] opacity-60"
@@ -111,7 +112,7 @@ const Index = () => {
                 />
               </svg>
             </Link>
-            <Link href={"https://www.instagram.com/ensodevelopment.ro"}>
+            <Link href={"https://www.instagram.com/ensodevelopment.ro"} aria-label="instagram">
               <svg
                 className="w-[24rem] h-[24rem] sm:w-[48rem] sm:h-[48rem] opacity-60"
                 viewBox="0 0 24 24"
@@ -124,7 +125,7 @@ const Index = () => {
                 />
               </svg>
             </Link>
-            <Link href={"https://www.youtube.com/@ensodevelopmentro"}>
+            <Link href={"https://www.youtube.com/@ensodevelopmentro"} aria-label="you tube">
               <svg
                 className="w-[27rem] h-[19rem] sm:w-[54rem] sm:h-[38rem] opacity-60"
                 viewBox="0 0 27 19"

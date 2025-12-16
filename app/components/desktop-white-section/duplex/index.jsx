@@ -33,6 +33,7 @@ const Index = ({ handlerFormOpen }) => {
               <button
                 type="button"
                 className={styles.offer__btn}
+                aria-label="open duplex form"
                 onClick={handlerFormOpen}
               >
                 <span className={styles.span__text}>Vezi Duplexurile</span>

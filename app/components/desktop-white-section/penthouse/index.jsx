@@ -35,6 +35,7 @@ const Index = ({ handlerFormOpen }) => {
               <button
                 type="button"
                 className={styles.offer__btn}
+                aria-label="open penthouse form"
                 onClick={handlerFormOpen}
               >
                 <span className={styles.span__text}>Vezi Penthouse-ul</span>

@@ -30,7 +30,7 @@ const Index = ({handlerFormOpen}) => {
                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
               />
             </div>
-            <button type="button" className={styles.offer__btn} onClick={handlerFormOpen}>
+            <button type="button" className={styles.offer__btn} aria-label="open bistro form" onClick={handlerFormOpen}>
               <span className={styles.span__text}>
               Solicită oferta pentru Bistro/ Restaurant
               </span>

@@ -154,7 +154,7 @@ export const HeroForm = ({ handlerFormOpen }) => {
                 onChange={handleChangePhone}
               />
             </div>
-            <button type="button" className={styles.offer__btn} onClick={formSubmitTrack} disabled={!isDisabled}>
+            <button type="button" className={styles.offer__btn} aria-label="form submitted" onClick={formSubmitTrack} disabled={!isDisabled}>
               <span className={styles.span__text}>Descarcă acum prezentarea PDF</span>
               <svg
                 className="sw-[42rem] h-[42rem] m:w-[61rem] sm:h-[61rem]"

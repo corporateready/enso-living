@@ -41,6 +41,7 @@ export const PrevButton = (props) => {
     <button
       className="w-[60rem] h-[60rem] rounded-full flex justify-center items-center absolute top-1/2 left-[25rem] translate-0 z-2 hover:cursor-pointer disabled:hover:cursor-default disabled:opacity-50"
       type="button"
+      aria-label="prev slide"
       {...restProps}
     >
       <span className="absolute z-3 inset-0 bg-[#717171]/20 blur-[2px] rounded-full"></span>
@@ -67,6 +68,7 @@ export const NextButton = (props) => {
     <button
       className="w-[60rem] h-[60rem] rounded-full flex justify-center items-center  absolute top-1/2 right-[25rem] translate-0 z-2 hover:cursor-pointer disabled:hover:cursor-default disabled:opacity-50"
       type="button"
+      aria-label="next slide"
       {...restProps}
     >
       <span className="absolute z-3 inset-0 bg-[#717171]/20 blur-[2px] rounded-full"></span>

@@ -22,7 +22,7 @@ const Index = ({handlerFormOpen}) => {
               <br />prin rafinament și te fac {""}
               <br />instantaneu să te simți acasă.
               </p>
-              <button type="button" className={styles.offer__btn} onClick={handlerFormOpen}>
+              <button type="button" aria-label="open form" className={styles.offer__btn} onClick={handlerFormOpen}>
                 <span className={styles.span__text}>Vezi Apartamentele</span>
                 <svg
           className="w-[62rem] h-[62rem] relative z-5"

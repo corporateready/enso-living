@@ -5,6 +5,13 @@ import Image from "next/image";
 import Header from "../../components/shared-ui/header";
 
 const Hero = ({ handlerFormOpen }) => {
+  const [isVisible, setIsVisible] = React.useState(false)
+  
+  React.useEffect(() => {
+    if(typeof window !== "undefined") {
+      setIsVisible(true)
+    }
+  },[])
   return (
     <div className={styles.hero}>
       <Header />
@@ -18,23 +25,32 @@ const Hero = ({ handlerFormOpen }) => {
         />
       </div>
       <div className="hidden absolute top-0 left-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover sm:inline-block">
-        <Image
+       {
+         isVisible ? (
+          <Image
           src="/hero-bg-desktop.avif"
           alt="hero desktop background"
           loading="lazy"
+          fetchPriority="high"
           fill
           sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
-        />
+        /> 
+        ) : ""
+       }
       </div>
       <div className="inline-block absolute bottom-[27rem] right-0 translate-0 z-3 w-[374rem] h-[510rem] object-fit bg-cover bg-norepet sm:h-0 sm:w-0">
-        <Image
+        {
+          isVisible ? (
+            <Image
           src={"/building-mask-mobile.avif"}
           alt="hero mobile background"
-          loading="eager"
-          priority={true}
+          loading="lazy"
+          fetchPriority="high"
           fill
           sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
         />
+          ) : ""
+        }
       </div>
       <div className="hidden absolute bottom-0 right-0 translate-x-0 z-2 w-[1250rem] h-full bg-cover bg-norepet sm:inline-block">
         <Image

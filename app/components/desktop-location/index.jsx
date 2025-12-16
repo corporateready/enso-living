@@ -30,7 +30,7 @@ const Index = ({handlerFormOpen}) => {
           <br />
           un public select
         </p>
-        <button type="button" className={styles.offer__btn} onClick={handlerFormOpen}>
+        <button type="button" className={styles.offer__btn} onClick={handlerFormOpen} aria-label="open location form">
           <span className={styles.span__text}>Solicită oferta de lansare</span>
           <svg
             className="w-[61rem] h-[61rem]"

@@ -32,7 +32,7 @@ const Index = ({handlerFormOpen}) => {
                 Oportunitatea de a lucra în {""}
                 <br />confortul propriei locuințe
               </p>
-              <button type="button" className={styles.offer__btn} onClick={handlerFormOpen}>
+              <button type="button" className={styles.offer__btn} aria-label="open premium form" onClick={handlerFormOpen}>
                 <span className={styles.span__text}>
                   Solicită oferta pentru oficii
                 </span>

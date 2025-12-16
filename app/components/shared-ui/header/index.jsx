@@ -14,7 +14,7 @@ const Index = () => {
   return (
     <header className={styles.header}>
       <div className={styles.inner}>
-        <button type="button" className={styles.logo} onClick={handleBack}>
+        <button type="button" className={styles.logo} aria-label="logo" onClick={handleBack}>
           <Image
             src="/enso-header-logo.png"
             alt="enso logo"
@@ -25,6 +25,7 @@ const Index = () => {
         <div className="flex gap-[17rem]">
           <button
             type="button"
+            aria-label="select language"
             className="w-[45rem] h-[45rem] bg-[#d9d9d9]/20 rounded-full flex justify-center items-center text-white text-[18rem] uppercase"
           >
             ro
