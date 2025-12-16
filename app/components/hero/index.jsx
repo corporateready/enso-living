@@ -4,7 +4,7 @@ import styles from "./hero.module.scss";
 import Image from "next/image";
 import Header from "../../components/shared-ui/header";
 import heroBG from "../../../public/hero-bg-desktop.avif";
-import heromobileBG from "../../../public/hero-bg-mobile.avif";
+import heroMobileBG from "../../../public/hero-bg-mobile.avif";
 import buildingMobile from "../../../public/building-mask-mobile.avif";
 import buildingDesktop from "../../../public/hero-desktop-building.avif";
 
@@ -23,13 +23,14 @@ const Hero = ({ handlerFormOpen }) => {
       {isVisible ? (
         <div className="inline-block absolute top-0 left-0 translate-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover sm:hidden">
           <Image
-            src={heromobileBG}
+            src={heroMobileBG}
             alt="hero mobile background"
+            placeholder="blur"
             loading="eager"
             priority
             quality={85}
             fill
-            sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
+            sizes="(max-width: 640px) 100vw, 50vw"
             className="object-fit"
           />
         </div>
@@ -48,6 +49,7 @@ const Hero = ({ handlerFormOpen }) => {
             fill
             sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
             className="object-fit"
+            placeholder="blur"
           />
         </div>
       ) : (
@@ -65,6 +67,7 @@ const Hero = ({ handlerFormOpen }) => {
             fill
             sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
             className="object-fit"
+            placeholder="blur"
           />
         </div>
       ) : (
@@ -82,6 +85,7 @@ const Hero = ({ handlerFormOpen }) => {
             fill
             sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
             className="object-fit"
+            placeholder="blur"
           />
         </div>
       ) : (
