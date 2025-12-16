@@ -6,7 +6,7 @@ import Header from "../../components/shared-ui/header";
 
 const Hero = ({ handlerFormOpen }) => {
   const [isVisible, setIsVisible] = React.useState(false)
-  
+
   React.useEffect(() => {
     if(typeof window !== "undefined") {
       setIsVisible(true)
@@ -30,7 +30,7 @@ const Hero = ({ handlerFormOpen }) => {
           <Image
           src="/hero-bg-desktop.avif"
           alt="hero desktop background"
-          loading="lazy"
+          loading="eager"
           fetchPriority="high"
           fill
           sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
@@ -44,7 +44,7 @@ const Hero = ({ handlerFormOpen }) => {
             <Image
           src={"/building-mask-mobile.avif"}
           alt="hero mobile background"
-          loading="lazy"
+          loading="eager"
           fetchPriority="high"
           fill
           sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
