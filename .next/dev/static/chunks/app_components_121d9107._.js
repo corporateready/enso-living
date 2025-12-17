@@ -16,6 +16,7 @@ __turbopack_context__.v({
 "[project]/app/components/hero/index.jsx [app-client] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
+// "use client";
 __turbopack_context__.s([
     "default",
     ()=>__TURBOPACK__default__export__
@@ -29,7 +30,6 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$hero$2d$bg$2d$desk
 var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$hero$2d$bg$2d$mobile$2e$avif$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$hero$2d$bg$2d$mobile$2e$avif__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/public/hero-bg-mobile.avif.mjs { IMAGE => "[project]/public/hero-bg-mobile.avif (static in ecmascript, tag client)" } [app-client] (structured image object with data url, ecmascript)');
 var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$building$2d$mask$2d$mobile$2e$avif$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$building$2d$mask$2d$mobile$2e$avif__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/public/building-mask-mobile.avif.mjs { IMAGE => "[project]/public/building-mask-mobile.avif (static in ecmascript, tag client)" } [app-client] (structured image object with data url, ecmascript)');
 var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$hero$2d$desktop$2d$building$2e$avif$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$hero$2d$desktop$2d$building$2e$avif__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/public/hero-desktop-building.avif.mjs { IMAGE => "[project]/public/hero-desktop-building.avif (static in ecmascript, tag client)" } [app-client] (structured image object with data url, ecmascript)');
-"use client";
 ;
 ;
 ;
@@ -59,8 +59,7 @@ const Hero = ({ handlerFormOpen })=>{
                     fetchPriority: "high",
                     quality: 85,
                     fill: true,
-                    sizes: "(max-width: 640px) 100vw, 50vw",
-                    className: "object-fit"
+                    sizes: "(max-width: 640px) 100vw, 50vw"
                 }, void 0, false, {
                     fileName: "[project]/app/components/hero/index.jsx",
                     lineNumber: 18,
@@ -82,7 +81,7 @@ const Hero = ({ handlerFormOpen })=>{
                     quality: 85,
                     fill: true,
                     sizes: "(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw",
-                    className: "object-fit",
+                    // className="object-cover"
                     placeholder: "blur"
                 }, void 0, false, {
                     fileName: "[project]/app/components/hero/index.jsx",
@@ -105,7 +104,7 @@ const Hero = ({ handlerFormOpen })=>{
                     quality: 85,
                     fill: true,
                     sizes: "(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw",
-                    className: "object-fit",
+                    // className="object-cover"
                     placeholder: "blur"
                 }, void 0, false, {
                     fileName: "[project]/app/components/hero/index.jsx",
@@ -126,8 +125,7 @@ const Hero = ({ handlerFormOpen })=>{
                     priority: true,
                     placeholder: "blur",
                     sizes: "(max-width: 640px) 100vw, 880px",
-                    quality: 65,
-                    className: "object-cover"
+                    quality: 65
                 }, void 0, false, {
                     fileName: "[project]/app/components/hero/index.jsx",
                     lineNumber: 63,

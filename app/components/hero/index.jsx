@@ -1,4 +1,4 @@
-"use client";
+// "use client";
 import React from "react";
 import styles from "./hero.module.scss";
 import Image from "next/image";
@@ -25,7 +25,7 @@ const Hero = ({ handlerFormOpen }) => {
           quality={85}
           fill
           sizes="(max-width: 640px) 100vw, 50vw"
-          className="object-fit"
+          // className="object-cover"
         />
       </div>
 
@@ -39,7 +39,7 @@ const Hero = ({ handlerFormOpen }) => {
           quality={85}
           fill
           sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
-          className="object-fit"
+          // className="object-cover"
           placeholder="blur"
         />
       </div>
@@ -54,7 +54,7 @@ const Hero = ({ handlerFormOpen }) => {
           quality={85}
           fill
           sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
-          className="object-fit"
+          // className="object-cover"
           placeholder="blur"
         />
       </div>
@@ -68,7 +68,7 @@ const Hero = ({ handlerFormOpen }) => {
           placeholder="blur"
           sizes="(max-width: 640px) 100vw, 880px"
           quality={65}
-          className="object-cover"
+          // className="object-cover"
         />
       </div>
 

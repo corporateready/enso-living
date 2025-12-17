@@ -4,7 +4,6 @@ import "./globals.css";
 import GoogleTagManager from "./components/GoogleTagManager";
 
 const inter = Inter({
-  variable: "--font-inter-sans",
   subsets: ["latin"],
   display: "swap",
   preload: true

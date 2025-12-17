@@ -1,5 +1,5 @@
 "use client";
-import React from "react";
+import React, {useState} from "react";
 import Hero from "./components/hero";
 import Premium from "./components/premium";
 import Multy from "./components/multy";
@@ -21,7 +21,8 @@ import Footer from "./components/footer";
 import {HeroForm} from "./components/hero-form"
 
 export default function Home() {
-const[isOpen, setIsOpen] = React.useState(false)
+  
+const[isOpen, setIsOpen] = useState(false)
 
 const handlerFormOpen = () => {
   setIsOpen(!isOpen)
