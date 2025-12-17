@@ -2,17 +2,17 @@
 import React from "react";
 import styles from "./hero.module.scss";
 import Image from "next/image";
-import Header from "../../components/shared-ui/header";
 import heroBG from "../../../public/hero-bg-desktop.avif";
 import heroMobileBG from "../../../public/hero-bg-mobile.avif";
 import buildingMobile from "../../../public/building-mask-mobile.avif";
 import buildingDesktop from "../../../public/hero-desktop-building.avif";
+import { useMediaQuery } from "react-responsive";
 
 const Hero = ({ handlerFormOpen }) => {
+  const isMobile = useMediaQuery({query: "(max-width: 640px)"})
  
   return (
     <div className={styles.hero}>
-      <Header />
 
       <div className="inline-block absolute top-0 left-0 translate-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover sm:hidden">
         <Image
@@ -24,8 +24,7 @@ const Hero = ({ handlerFormOpen }) => {
           fetchPriority="high"
           quality={85}
           fill
-          sizes="(max-width: 640px) 100vw, 50vw"
-          // className="object-cover"
+          sizes="(max-width: 640px) 100vw"
         />
       </div>
 
@@ -34,12 +33,9 @@ const Hero = ({ handlerFormOpen }) => {
           src={heroBG}
           alt="hero background"
           loading="eager"
-          priority
-          fetchPriority="high"
-          quality={85}
+          quality={65}
           fill
-          sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
-          // className="object-cover"
+          sizes="(min-width: 640px) 100vw"
           placeholder="blur"
         />
       </div>
@@ -49,12 +45,9 @@ const Hero = ({ handlerFormOpen }) => {
           src={buildingMobile}
           alt="hero mobile background"
           loading="eager"
-          priority
-          fetchPriority="high"
           quality={85}
           fill
-          sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
-          // className="object-cover"
+          sizes="(max-width: 640px) 100vw"
           placeholder="blur"
         />
       </div>
@@ -68,7 +61,6 @@ const Hero = ({ handlerFormOpen }) => {
           placeholder="blur"
           sizes="(max-width: 640px) 100vw, 880px"
           quality={65}
-          // className="object-cover"
         />
       </div>
 

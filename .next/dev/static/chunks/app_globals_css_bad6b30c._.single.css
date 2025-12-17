@@ -452,6 +452,10 @@
     left: 300rem;
   }
 
+  .z-0 {
+    z-index: 0;
+  }
+
   .z-1 {
     z-index: 1;
   }

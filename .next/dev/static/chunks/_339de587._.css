@@ -1,3 +1,48 @@
+/* [project]/app/components/shared-ui/header/styles.module.scss.module.css [app-client] (css) */
+.styles-module-scss-module__MGhlXW__header {
+  top: calc(var(--spacing, .25rem) * 0);
+  left: calc(var(--spacing, .25rem) * 0);
+  z-index: 1;
+  width: 100%;
+  height: auto;
+  position: absolute;
+}
+
+.styles-module-scss-module__MGhlXW__inner {
+  padding-inline: 25rem;
+  justify-content: space-between;
+  width: 100%;
+  padding-top: 27rem;
+  display: flex;
+}
+
+@media screen and (min-width: 640px) {
+  .styles-module-scss-module__MGhlXW__inner {
+    width: 1444rem;
+    padding: calc(var(--spacing, .25rem) * 0);
+    margin-inline: auto;
+    padding-top: 50rem;
+  }
+}
+
+.styles-module-scss-module__MGhlXW__logo {
+  background-color: #d9d9d933;
+  background-color: lab(86.6954% .0000298023 -.0000119209 / .2);
+  border-radius: 3.40282e38px;
+  justify-content: center;
+  align-items: center;
+  width: 117rem;
+  height: 44rem;
+  display: flex;
+}
+
+@media screen and (min-width: 640px) {
+  .styles-module-scss-module__MGhlXW__logo {
+    width: 120rem;
+    height: 45rem;
+  }
+}
+
 /* [project]/app/components/hero/hero.module.scss.module.css [app-client] (css) */
 .hero-module-scss-module__wa_LHq__hero {
   z-index: 0;
@@ -3893,7 +3938,7 @@
 .styles-module-scss-module__J3jfTa__section {
   top: calc(var(--spacing, .25rem) * 0);
   left: calc(var(--spacing, .25rem) * 0);
-  z-index: 0;
+  z-index: 3;
   background-color: #fff3;
   background-color: lab(100% -.0000298023 .0000119209 / .2);
   width: 100%;
@@ -3905,7 +3950,7 @@
   .styles-module-scss-module__J3jfTa__section {
     top: calc(var(--spacing, .25rem) * 0);
     left: calc(var(--spacing, .25rem) * 0);
-    z-index: 0;
+    z-index: 1;
     width: 100%;
     height: 100%;
     position: fixed;
@@ -3941,7 +3986,7 @@
 }
 
 .styles-module-scss-module__J3jfTa__inner {
-  z-index: 5;
+  z-index: 4;
   --tw-translate-x: calc(calc(1 / 2 * 100%) * -1);
   --tw-translate-y: calc(calc(1 / 2 * 100%) * -1);
   width: 380rem;
@@ -4122,6 +4167,11 @@
 .styles-module-scss-module__J3jfTa__form__submit input::placeholder {
   color: #7d7f80;
   font-size: 16rem;
+}
+
+.styles-module-scss-module__J3jfTa__form__submit input:focus {
+  --tw-outline-style: none;
+  outline-style: none;
 }
 
 @media screen and (min-width: 640px) {
@@ -4492,4 +4542,4 @@
   color: var(--react-international-phone-disabled-text-color, #666);
 }
 
-/*# sourceMappingURL=_f9f68684._.css.map*/
+/*# sourceMappingURL=_339de587._.css.map*/

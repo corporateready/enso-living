@@ -1,5 +1,6 @@
 "use client";
 import React, {useState} from "react";
+import Header from "./components/shared-ui/header"
 import Hero from "./components/hero";
 import Premium from "./components/premium";
 import Multy from "./components/multy";
@@ -28,8 +29,10 @@ const handlerFormOpen = () => {
   setIsOpen(!isOpen)
 }
   return (
-    <div className="flex h-full w-full items-center justify-center overflow-x-hidden">
-      <main className="w-full h-full relative">
+    <div className="flex h-full w-full flex-col items-center justify-center overflow-x-hidden relative z-0">
+      <Header />
+      <main className="w-full h-full">
+      
         <Hero handlerFormOpen={handlerFormOpen}/>
         <DesktopBrownSection handlerFormOpen={handlerFormOpen}/>
         <Lux />
@@ -49,12 +52,12 @@ const handlerFormOpen = () => {
           <Landscape />
           <Location handlerFormOpen={handlerFormOpen}/>
         </div>
-
         <Footer />
         {
           isOpen && <HeroForm handlerFormOpen={handlerFormOpen} />
         }
       </main>
+      
     </div>
   );
 }

@@ -1,8 +1,8 @@
 @reference "tailwindcss";
 .section {
-    @apply fixed top-0 left-0 z-0 w-full h-dvh bg-[#fff]/20;
+    @apply fixed top-0 left-0 z-3 w-full h-dvh bg-[#fff]/20;
     @media screen and (width >= 640px) {
-        @apply fixed top-0 left-0 z-0 w-full h-full ;
+        @apply fixed top-0 left-0 z-1 w-full h-full ;
     }
 }
 .close__btn {
@@ -12,7 +12,7 @@
     }
 }
 .inner {
-    @apply relative top-1/2 left-1/2 -translate-1/2 z-5 bg-white w-[380rem] h-auto p-0 flex flex-col gap-[20rem] pb-[34rem];
+    @apply relative top-1/2 left-1/2 -translate-1/2 z-4 bg-white w-[380rem] h-auto p-0 flex flex-col gap-[20rem] pb-[34rem];
     @media screen and (width >= 640px) {
         @apply relative top-1/2 left-1/2 -translate-1/2 z-5 bg-white w-[1440rem] h-auto p-[50rem] pr-[50rem] flex-row gap-[55rem];
     }
@@ -58,7 +58,7 @@
         @apply flex flex-col w-full mt-[20rem] items-end px-0;
     }
     input {
-        @apply w-full placeholder:text-[16rem] placeholder:text-[#7D7F80] text-[#7D7F80] text-[16rem] bg-[#FAF9F8] py-[20rem] pl-[40rem] border-b-[1px] border-black;
+        @apply w-full placeholder:text-[16rem] placeholder:text-[#7D7F80] text-[#7D7F80] text-[16rem] bg-[#FAF9F8] py-[20rem] pl-[40rem] border-b-[1px] border-black focus:outline-none;
         @media screen and (width >= 640px) {
             @apply w-full placeholder:text-[18rem] text-[#7D7F80] text-[18rem] bg-[#FAF9F8] py-[20rem] pl-[50rem];
         }
