@@ -5,7 +5,7 @@ export default function GoogleTagManager({ gtmId }) {
     <>
       <Script
         id="gtm-script"
-        strategy="warker"
+        strategy="afterInteractive"
         dangerouslySetInnerHTML={{
           __html: `
             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
