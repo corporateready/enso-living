@@ -9,90 +9,69 @@ import buildingMobile from "../../../public/building-mask-mobile.avif";
 import buildingDesktop from "../../../public/hero-desktop-building.avif";
 
 const Hero = ({ handlerFormOpen }) => {
-  const [isVisible, setIsVisible] = React.useState(false);
-
-  React.useEffect(() => {
-    if (typeof window !== "undefined") {
-      setIsVisible(true);
-    }
-  }, []);
+ 
   return (
     <div className={styles.hero}>
       <Header />
 
-      {isVisible ? (
-        <div className="inline-block absolute top-0 left-0 translate-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover sm:hidden">
-          <Image
-            src={heroMobileBG}
-            alt="hero mobile background"
-            placeholder="blur"
-            loading="eager"
-            priority
-            fetchPriority="high"
-            quality={85}
-            fill
-            sizes="(max-width: 640px) 100vw, 50vw"
-            className="object-fit"
-          />
-        </div>
-      ) : (
-        ""
-      )}
+      <div className="inline-block absolute top-0 left-0 translate-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover sm:hidden">
+        <Image
+          src={heroMobileBG}
+          alt="hero mobile background"
+          placeholder="blur"
+          loading="eager"
+          priority
+          fetchPriority="high"
+          quality={85}
+          fill
+          sizes="(max-width: 640px) 100vw, 50vw"
+          className="object-fit"
+        />
+      </div>
 
-      {isVisible ? (
-        <div className="hidden absolute top-0 left-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover sm:inline-block">
-          <Image
-            src={heroBG}
-            alt="hero background"
-            loading="eager"
-            priority
-            fetchPriority="high"
-            quality={85}
-            fill
-            sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
-            className="object-fit"
-            placeholder="blur"
-          />
-        </div>
-      ) : (
-        ""
-      )}
+      <div className="hidden absolute top-0 left-0 z-1 w-full h-full bg-cover bg-norepet bg-center object-cover sm:inline-block">
+        <Image
+          src={heroBG}
+          alt="hero background"
+          loading="eager"
+          priority
+          fetchPriority="high"
+          quality={85}
+          fill
+          sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
+          className="object-fit"
+          placeholder="blur"
+        />
+      </div>
 
-      {isVisible ? (
-        <div className="inline-block absolute bottom-[27rem] right-0 translate-0 z-3 w-[374rem] h-[510rem] object-fit bg-cover bg-norepet sm:h-0 sm:w-0">
-          <Image
-            src={buildingMobile}
-            alt="hero mobile background"
-            loading="eager"
-            priority
-            fetchPriority="high"
-            quality={85}
-            fill
-            sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
-            className="object-fit"
-            placeholder="blur"
-          />
-        </div>
-      ) : (
-        ""
-      )}
+      <div className="inline-block absolute bottom-[27rem] right-0 translate-0 z-3 w-[374rem] h-[510rem] object-fit bg-cover bg-norepet sm:h-0 sm:w-0">
+        <Image
+          src={buildingMobile}
+          alt="hero mobile background"
+          loading="eager"
+          priority
+          fetchPriority="high"
+          quality={85}
+          fill
+          sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
+          className="object-fit"
+          placeholder="blur"
+        />
+      </div>
 
-      {isVisible ? (
-        <div className="hidden absolute bottom-0 right-0 translate-x-0 z-2 w-[1250rem] h-full bg-cover bg-norepet sm:inline-block">
-          <Image
-            src={buildingDesktop}
-            alt="hero building background"
-            fill
-            priority
-            placeholder="blur"
-            sizes="(max-width: 640px) 100vw, 880px"
-            quality={65}
-            className="object-cover"
-          />
-        </div>
-      ) : (
-        ""
-      )}
+      <div className="hidden absolute bottom-0 right-0 translate-x-0 z-2 w-[1250rem] h-full bg-cover bg-norepet sm:inline-block">
+        <Image
+          src={buildingDesktop}
+          alt="hero building background"
+          fill
+          priority
+          placeholder="blur"
+          sizes="(max-width: 640px) 100vw, 880px"
+          quality={65}
+          className="object-cover"
+        />
+      </div>
+
       <h1 className={styles.title}>
         <span className="sm:inline-flex ">proiect</span>
         <span className="inline-flex ml-[90rem] tracking-tighter">

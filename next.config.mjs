@@ -8,7 +8,7 @@ const nextConfig = {
     formats: ['image/webp'],
     deviceSizes: [640, 1920],
     minimumCacheTTL: 60,
-    qualities: [25, 50, 85],
+    qualities: [25, 50, 65, 85],
   },
   experimental: {
     optimizePackageImports: ["posthog-js", "react-icons"],
