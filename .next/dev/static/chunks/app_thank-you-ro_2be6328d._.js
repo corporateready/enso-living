@@ -212,16 +212,9 @@ const page = ()=>{
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                            href: "tel:+4000000000",
+                                            href: "tel:",
                                             className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$thank$2d$you$2d$ro$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].thanks__header_phone,
                                             children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$thank$2d$you$2d$ro$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].span__blur
-                                                }, void 0, false, {
-                                                    fileName: "[project]/app/thank-you-ro/page.jsx",
-                                                    lineNumber: 101,
-                                                    columnNumber: 17
-                                                }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
                                                     className: "w-[24rem] h-[24rem] inline-block sm:w-0",
                                                     viewBox: "0 0 24 24",
@@ -234,21 +227,15 @@ const page = ()=>{
                                                         strokeLinejoin: "round"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/thank-you-ro/page.jsx",
-                                                        lineNumber: 108,
+                                                        lineNumber: 107,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/thank-you-ro/page.jsx",
-                                                    lineNumber: 102,
+                                                    lineNumber: 101,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "text-[0rem] sm:text-[18rem] text-white"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/app/thank-you-ro/page.jsx",
-                                                    lineNumber: 115,
-                                                    columnNumber: 17
-                                                }, ("TURBOPACK compile-time value", void 0))
+                                                "+40 00 000 000"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/thank-you-ro/page.jsx",
@@ -282,7 +269,7 @@ const page = ()=>{
                                     children: "Mulțumim!"
                                 }, void 0, false, {
                                     fileName: "[project]/app/thank-you-ro/page.jsx",
-                                    lineNumber: 125,
+                                    lineNumber: 122,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -294,7 +281,7 @@ const page = ()=>{
                                             className: "block sm:hidden"
                                         }, void 0, false, {
                                             fileName: "[project]/app/thank-you-ro/page.jsx",
-                                            lineNumber: 130,
+                                            lineNumber: 127,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         " înregistrată cu succes. ",
@@ -303,7 +290,7 @@ const page = ()=>{
                                             className: "block"
                                         }, void 0, false, {
                                             fileName: "[project]/app/thank-you-ro/page.jsx",
-                                            lineNumber: 131,
+                                            lineNumber: 128,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         " În cel mai scurt timp vei primi prezentarea PDF pe e-mail. ",
@@ -311,18 +298,18 @@ const page = ()=>{
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/thank-you-ro/page.jsx",
-                                    lineNumber: 128,
+                                    lineNumber: 125,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/thank-you-ro/page.jsx",
-                            lineNumber: 124,
+                            lineNumber: 121,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     }, void 0, false, {
                         fileName: "[project]/app/thank-you-ro/page.jsx",
-                        lineNumber: 123,
+                        lineNumber: 120,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("footer", {
@@ -340,7 +327,7 @@ const page = ()=>{
                                                 children: "© 2025 Toate drepturile sunt rezervate."
                                             }, void 0, false, {
                                                 fileName: "[project]/app/thank-you-ro/page.jsx",
-                                                lineNumber: 141,
+                                                lineNumber: 138,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -351,7 +338,7 @@ const page = ()=>{
                                                         children: "Terms & conditions"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/thank-you-ro/page.jsx",
-                                                        lineNumber: 145,
+                                                        lineNumber: 142,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -359,26 +346,26 @@ const page = ()=>{
                                                         children: "Privacy Policy "
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/thank-you-ro/page.jsx",
-                                                        lineNumber: 146,
+                                                        lineNumber: 143,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/app/thank-you-ro/page.jsx",
-                                                lineNumber: 144,
+                                                lineNumber: 141,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/thank-you-ro/page.jsx",
-                                        lineNumber: 140,
+                                        lineNumber: 137,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$thank$2d$you$2d$ro$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].socials__link,
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                                href: "tel:+40000000000",
+                                                href: "tel:+",
                                                 className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$thank$2d$you$2d$ro$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].thanks__footer_phone,
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
                                                     className: "w-[23rem] h-[22rem] sm:w-[46rem] sm:h-[44rem] opacity-60",
@@ -390,17 +377,17 @@ const page = ()=>{
                                                         fill: "white"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/thank-you-ro/page.jsx",
-                                                        lineNumber: 157,
+                                                        lineNumber: 154,
                                                         columnNumber: 21
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/thank-you-ro/page.jsx",
-                                                    lineNumber: 151,
+                                                    lineNumber: 148,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/app/thank-you-ro/page.jsx",
-                                                lineNumber: 150,
+                                                lineNumber: 147,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -415,17 +402,17 @@ const page = ()=>{
                                                         fill: "white"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/thank-you-ro/page.jsx",
-                                                        lineNumber: 174,
+                                                        lineNumber: 171,
                                                         columnNumber: 21
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/thank-you-ro/page.jsx",
-                                                    lineNumber: 168,
+                                                    lineNumber: 165,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/app/thank-you-ro/page.jsx",
-                                                lineNumber: 163,
+                                                lineNumber: 160,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -440,17 +427,17 @@ const page = ()=>{
                                                         fill: "white"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/thank-you-ro/page.jsx",
-                                                        lineNumber: 187,
+                                                        lineNumber: 184,
                                                         columnNumber: 21
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/thank-you-ro/page.jsx",
-                                                    lineNumber: 181,
+                                                    lineNumber: 178,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/app/thank-you-ro/page.jsx",
-                                                lineNumber: 180,
+                                                lineNumber: 177,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -465,39 +452,39 @@ const page = ()=>{
                                                         fill: "white"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/thank-you-ro/page.jsx",
-                                                        lineNumber: 200,
+                                                        lineNumber: 197,
                                                         columnNumber: 21
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/thank-you-ro/page.jsx",
-                                                    lineNumber: 194,
+                                                    lineNumber: 191,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/app/thank-you-ro/page.jsx",
-                                                lineNumber: 193,
+                                                lineNumber: 190,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/thank-you-ro/page.jsx",
-                                        lineNumber: 149,
+                                        lineNumber: 146,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/thank-you-ro/page.jsx",
-                                lineNumber: 139,
+                                lineNumber: 136,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/app/thank-you-ro/page.jsx",
-                            lineNumber: 138,
+                            lineNumber: 135,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     }, void 0, false, {
                         fileName: "[project]/app/thank-you-ro/page.jsx",
-                        lineNumber: 137,
+                        lineNumber: 134,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]

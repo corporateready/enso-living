@@ -25,11 +25,9 @@ const Page = () => {
 
             </div>
 
-            <Link href={"tel:+37376039073"} className={styles.header__phone}>
-            <span className={styles.span__blur}></span>
-              <span className="relative z-2">+40 000 000 000</span>
+            <Link href={"tel:"} className={styles.header__phone}>
               <svg
-                className="inline-block relative z-2 w-[26rem] h-[26rem] sm:hidden"
+                className="inline-block relative z-2 w-[26rem] h-[26rem] sm:w-0"
                 viewBox="0 0 26 26"
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"

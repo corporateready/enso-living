@@ -94,7 +94,7 @@ const Index = () => {
             ro
           </button>
           <Link
-            href="tel:+4000000000"
+            href="tel:"
             className={styles.header__phone}
           >
             <span className={styles.span__blur}></span>
@@ -111,9 +111,6 @@ const Index = () => {
                 strokeLinejoin="round"
               />
             </svg>
-            <span className="text-[0rem] sm:text-[18rem] text-white">
-              {/* +40 00 000 000 */}
-            </span>
           </Link>
         </div>
       </div>

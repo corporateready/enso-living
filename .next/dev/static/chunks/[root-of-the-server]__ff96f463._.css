@@ -779,10 +779,6 @@
     margin-left: -60rem;
   }
 
-  .ml-\[8rem\] {
-    margin-left: 8rem;
-  }
-
   .ml-\[40rem\] {
     margin-left: 40rem;
   }
@@ -1330,10 +1326,6 @@
 
   .whitespace-nowrap {
     white-space: nowrap;
-  }
-
-  .text-\[0\] {
-    color: 0;
   }
 
   .text-card-foreground {

@@ -95,10 +95,9 @@ const page = () => {
                 ro
               </button>
               <Link
-                href="tel:+4000000000"
+                href="tel:"
                 className={styles.thanks__header_phone}
               >
-                <span className={styles.span__blur}></span>
                 <svg
                   className="w-[24rem] h-[24rem] inline-block sm:w-0"
                   viewBox="0 0 24 24"
@@ -112,9 +111,7 @@ const page = () => {
                     strokeLinejoin="round"
                   />
                 </svg>
-                <span className="text-[0rem] sm:text-[18rem] text-white">
-                  {/* +40 00 000 000 */}
-                </span>
+                  +40 00 000 000
               </Link>
             </div>
           </div>
@@ -147,7 +144,7 @@ const page = () => {
                 </div>
               </div>
               <div className={styles.socials__link}>
-                <Link href={"tel:+40000000000"} className={styles.thanks__footer_phone}>
+                <Link href={"tel:+"} className={styles.thanks__footer_phone}>
                   <svg
                     className="w-[23rem] h-[22rem] sm:w-[46rem] sm:h-[44rem] opacity-60"
                     viewBox="0 0 23 22"
