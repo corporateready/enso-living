@@ -96,11 +96,11 @@ const page = () => {
               </button>
               <Link
                 href="tel:+4000000000"
-                className="w-[45rem] h-[45rem] sm:w-[200rem] bg-[#d9d9d9]/20 rounded-full inline-flex justify-center items-center"
+                className={styles.thanks__header_phone}
               >
                 <span className={styles.span__blur}></span>
                 <svg
-                  className="w-[24rem] h-[24rem] inline-block ml-[8rem] sm:w-0"
+                  className="w-[24rem] h-[24rem] inline-block sm:w-0"
                   viewBox="0 0 24 24"
                   fill="none"
                   xmlns="http://www.w3.org/2000/svg"
@@ -112,8 +112,8 @@ const page = () => {
                     strokeLinejoin="round"
                   />
                 </svg>
-                <span className="text-0 sm:text-[18rem] text-white">
-                  +40 00 000 000
+                <span className="text-[0rem] sm:text-[18rem] text-white">
+                  {/* +40 00 000 000 */}
                 </span>
               </Link>
             </div>
@@ -147,7 +147,7 @@ const page = () => {
                 </div>
               </div>
               <div className={styles.socials__link}>
-                <Link href={"tel:+40000000000"}>
+                <Link href={"tel:+40000000000"} className={styles.thanks__footer_phone}>
                   <svg
                     className="w-[23rem] h-[22rem] sm:w-[46rem] sm:h-[44rem] opacity-60"
                     viewBox="0 0 23 22"

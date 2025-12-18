@@ -95,7 +95,7 @@ const Index = () => {
           </button>
           <Link
             href="tel:+4000000000"
-            className="w-[45rem] h-[45rem] sm:w-[200rem] bg-[#d9d9d9]/20 rounded-full inline-flex justify-center items-center"
+            className={styles.header__phone}
           >
             <span className={styles.span__blur}></span>
             <svg
@@ -112,7 +112,7 @@ const Index = () => {
               />
             </svg>
             <span className="text-[0rem] sm:text-[18rem] text-white">
-              +40 00 000 000
+              {/* +40 00 000 000 */}
             </span>
           </Link>
         </div>

@@ -20,6 +20,9 @@
 .google__map_link {
     @apply text-[10rem] text-white/60 leading-[100%];
 }
+.footer__phone {
+    @apply inline-block;
+}
 .socials__link {
     @apply flex items-center gap-[14rem];
     @media screen and (width >= 640px) {

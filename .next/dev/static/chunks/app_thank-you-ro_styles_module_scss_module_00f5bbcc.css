@@ -229,6 +229,27 @@
   }
 }
 
+.styles-module-scss-module__LqvjKG__thanks__header_phone {
+  background-color: #d9d9d933;
+  background-color: lab(86.6954% .0000298023 -.0000119209 / .2);
+  border-radius: 3.40282e38px;
+  justify-content: center;
+  align-items: center;
+  width: 45rem;
+  height: 45rem;
+  display: inline-flex;
+}
+
+@media (min-width: 40rem) {
+  .styles-module-scss-module__LqvjKG__thanks__header_phone {
+    width: 200rem;
+  }
+}
+
+.styles-module-scss-module__LqvjKG__thanks__footer_phone {
+  display: inline-block;
+}
+
 @property --tw-content {
   syntax: "*";
   inherits: false;

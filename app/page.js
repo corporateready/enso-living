@@ -29,7 +29,7 @@ const handlerFormOpen = () => {
   setIsOpen(!isOpen)
 }
   return (
-    <div className="flex h-full w-full flex-col items-center justify-center overflow-x-hidden relative z-0">
+    <div className="flex min-h-screen w-full flex-col items-center justify-center overflow-x-hidden relative z-0">
       <Header />
       <main className="w-full h-full">
       

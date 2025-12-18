@@ -4,7 +4,7 @@ import "./globals.css";
 import GoogleTagManager from "./components/GoogleTagManager";
 
 const inter = Inter({
-  subsets: ["latin"],
+  subsets: ["latin","cyrillic"],
   display: "swap",
   preload: true,
   weight: ["400", "500", "600", "700"],
@@ -26,7 +26,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   const GTM_ID = "GTM-5ZS2J3NB";
   return (
-    <html lang="en" data-scroll-behavior="smooth">
+    <html lang="en" className={inter.className} data-scroll-behavior="smooth">
       <head>
         <link rel="preload" as="image" href="/hero-desktop-building.avif" />
         <link rel="preload" as="image" href="/building-mask-mobile.avif" />
@@ -80,7 +80,7 @@ export default function RootLayout({ children }) {
           }}
         />
       </head>
-      <body className={`${inter.variable} antialiased`}>
+      <body className={`antialiased`}>
         {children}
         <Script
           id="to-top"

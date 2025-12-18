@@ -3,6 +3,7 @@
 
 __turbopack_context__.v({
   "header": "styles-module-scss-module__MGhlXW__header",
+  "header__phone": "styles-module-scss-module__MGhlXW__header__phone",
   "inner": "styles-module-scss-module__MGhlXW__inner",
   "logo": "styles-module-scss-module__MGhlXW__logo",
 });
@@ -193,7 +194,7 @@ const Index = ()=>{
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                             href: "tel:+4000000000",
-                            className: "w-[45rem] h-[45rem] sm:w-[200rem] bg-[#d9d9d9]/20 rounded-full inline-flex justify-center items-center",
+                            className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$shared$2d$ui$2f$header$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].header__phone,
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$shared$2d$ui$2f$header$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].span__blur
@@ -223,8 +224,7 @@ const Index = ()=>{
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "text-[0rem] sm:text-[18rem] text-white",
-                                    children: "+40 00 000 000"
+                                    className: "text-[0rem] sm:text-[18rem] text-white"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/shared-ui/header/index.jsx",
                                     lineNumber: 114,
@@ -6479,6 +6479,7 @@ __turbopack_context__.v({
   "content__links": "styles-module-scss-module__wNWX9G__content__links",
   "content__text": "styles-module-scss-module__wNWX9G__content__text",
   "footer": "styles-module-scss-module__wNWX9G__footer",
+  "footer__phone": "styles-module-scss-module__wNWX9G__footer__phone",
   "google__map_link": "styles-module-scss-module__wNWX9G__google__map_link",
   "google__map_link__desktop": "styles-module-scss-module__wNWX9G__google__map_link__desktop",
   "google__map_link__mobile": "styles-module-scss-module__wNWX9G__google__map_link__mobile",
@@ -6712,6 +6713,7 @@ const Index = ()=>{
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                     href: "tel:+40000000000",
                                     "aria-label": "phone",
+                                    className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$footer$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].footer__phone,
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
                                         className: "w-[23rem] h-[22rem] sm:w-[46rem] sm:h-[44rem] opacity-60",
                                         viewBox: "0 0 23 22",

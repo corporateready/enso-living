@@ -102,7 +102,7 @@ const Index = () => {
             </span>
           </Link>
           <div className={styles.socials__link}>
-            <Link href={"tel:+40000000000"} aria-label="phone">
+            <Link href={"tel:+40000000000"} aria-label="phone" className={styles.footer__phone}>
               <svg
                 className="w-[23rem] h-[22rem] sm:w-[46rem] sm:h-[44rem] opacity-60"
                 viewBox="0 0 23 22"

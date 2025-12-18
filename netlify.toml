@@ -21,10 +21,7 @@
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
 
-# Preconnect для сторонних ресурсов
 [[headers]]
-  for = "/*"
+for = "/*"
   [headers.values]
-    Link = '''
-    </fonts/inter.woff2>; rel=preload; as=font; type=font/woff2; crossorigin=anonymous,
-    '''
+  Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"

@@ -12,6 +12,8 @@ __turbopack_context__.v({
   "header__logo": "styles-module-scss-module__LqvjKG__header__logo",
   "socials__link": "styles-module-scss-module__LqvjKG__socials__link",
   "thanks": "styles-module-scss-module__LqvjKG__thanks",
+  "thanks__footer_phone": "styles-module-scss-module__LqvjKG__thanks__footer_phone",
+  "thanks__header_phone": "styles-module-scss-module__LqvjKG__thanks__header_phone",
   "thanks_overflow": "styles-module-scss-module__LqvjKG__thanks_overflow",
 });
 }),
@@ -211,7 +213,7 @@ const page = ()=>{
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                             href: "tel:+4000000000",
-                                            className: "w-[45rem] h-[45rem] sm:w-[200rem] bg-[#d9d9d9]/20 rounded-full inline-flex justify-center items-center",
+                                            className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$thank$2d$you$2d$ro$2f$styles$2e$module$2e$scss__$5b$app$2d$ssr$5d$__$28$css__module$29$__["default"].thanks__header_phone,
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                     className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$thank$2d$you$2d$ro$2f$styles$2e$module$2e$scss__$5b$app$2d$ssr$5d$__$28$css__module$29$__["default"].span__blur
@@ -221,7 +223,7 @@ const page = ()=>{
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-                                                    className: "w-[24rem] h-[24rem] inline-block ml-[8rem] sm:w-0",
+                                                    className: "w-[24rem] h-[24rem] inline-block sm:w-0",
                                                     viewBox: "0 0 24 24",
                                                     fill: "none",
                                                     xmlns: "http://www.w3.org/2000/svg",
@@ -241,8 +243,7 @@ const page = ()=>{
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "text-0 sm:text-[18rem] text-white",
-                                                    children: "+40 00 000 000"
+                                                    className: "text-[0rem] sm:text-[18rem] text-white"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/thank-you-ro/page.jsx",
                                                     lineNumber: 115,
@@ -378,6 +379,7 @@ const page = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                 href: "tel:+40000000000",
+                                                className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$thank$2d$you$2d$ro$2f$styles$2e$module$2e$scss__$5b$app$2d$ssr$5d$__$28$css__module$29$__["default"].thanks__footer_phone,
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
                                                     className: "w-[23rem] h-[22rem] sm:w-[46rem] sm:h-[44rem] opacity-60",
                                                     viewBox: "0 0 23 22",

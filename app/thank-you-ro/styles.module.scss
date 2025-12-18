@@ -59,3 +59,9 @@
         letter-spacing: 0rem;
     }
 }
+.thanks__header_phone {
+    @apply w-[45rem] h-[45rem] sm:w-[200rem] bg-[#d9d9d9]/20 rounded-full inline-flex justify-center items-center;
+}
+.thanks__footer_phone {
+    @apply inline-block;
+}
