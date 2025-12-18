@@ -40,7 +40,7 @@ const Hero = ({ handlerFormOpen }) => {
         />
       </div>
 
-      <div className="inline-block absolute bottom-[27rem] right-0 translate-0 z-3 w-[374rem] h-[510rem] object-fit bg-cover bg-norepet sm:h-0 sm:w-0">
+      <div className="inline-block absolute bottom-[27rem] right-0 translate-0 z-3 w-[374rem] h-[510rem] sm:h-0 sm:w-0">
         <Image
           src={buildingMobile}
           alt="hero mobile background"
@@ -52,7 +52,7 @@ const Hero = ({ handlerFormOpen }) => {
         />
       </div>
 
-      <div className="hidden absolute bottom-0 right-0 translate-x-0 z-2 w-[1250rem] h-full bg-cover bg-norepet sm:inline-block">
+      <div className="hidden absolute bottom-0 right-0 translate-x-0 z-2 w-[1250rem] h-full sm:inline-block">
         <Image
           src={buildingDesktop}
           alt="hero building background"

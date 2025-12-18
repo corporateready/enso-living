@@ -27,6 +27,10 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" data-scroll-behavior="smooth">
       <head>
+      <link rel="preload" as="image" href="/hero-desktop-building.avif"/>
+      <link rel="preload" as="image" href="/building-mask-mobile.avif"/>
+      <link rel="preload" as="image" href="/hero-desktop-building.avif"/>
+
         <meta name="robots" content="index, follow"/>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"/>
         <link
