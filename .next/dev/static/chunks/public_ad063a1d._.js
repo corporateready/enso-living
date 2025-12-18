@@ -73,7 +73,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 }),
 "[project]/public/hero-desktop-building.avif (static in ecmascript, tag client)", ((__turbopack_context__) => {
 
-__turbopack_context__.v("/_next/static/media/hero-desktop-building.adf81aa6.avif");}),
+__turbopack_context__.v("/_next/static/media/hero-desktop-building.4678eab0.avif");}),
 "[project]/public/hero-desktop-building.avif.mjs { IMAGE => \"[project]/public/hero-desktop-building.avif (static in ecmascript, tag client)\" } [app-client] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
 "use strict";
 

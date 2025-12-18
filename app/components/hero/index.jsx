@@ -1,4 +1,3 @@
-// "use client";
 import React from "react";
 import styles from "./hero.module.scss";
 import Image from "next/image";
@@ -6,10 +5,8 @@ import heroBG from "../../../public/hero-bg-desktop.avif";
 import heroMobileBG from "../../../public/hero-bg-mobile.avif";
 import buildingMobile from "../../../public/building-mask-mobile.avif";
 import buildingDesktop from "../../../public/hero-desktop-building.avif";
-import { useMediaQuery } from "react-responsive";
 
 const Hero = ({ handlerFormOpen }) => {
-  const isMobile = useMediaQuery({query: "(max-width: 640px)"})
  
   return (
     <div className={styles.hero}>

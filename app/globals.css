@@ -4,9 +4,7 @@
 :root {
   --app-height: 100vh;
 }
-
 @custom-variant dark (&:is(.dark *));
-
 html {
   @apply w-full h-full relative;
   scroll-behavior: smooth;
@@ -17,7 +15,6 @@ html {
     font-size: calc(100vw / (1920 * 1));
   }
 }
-
 body {
   @apply w-full h-full relative mx-auto;
   font-family: "Inter", sans-serif;
@@ -28,7 +25,6 @@ body {
     }
   }
 }
-
 @theme inline {
   --radius-sm: calc(var(--radius) - 4px);
   --radius-md: calc(var(--radius) - 2px);
@@ -66,7 +62,6 @@ body {
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-ring: var(--sidebar-ring);
 }
-
 :root {
   --radius: 0.625rem;
   --background: oklch(1 0 0);
@@ -101,7 +96,6 @@ body {
   --sidebar-border: oklch(0.922 0 0);
   --sidebar-ring: oklch(0.708 0 0);
 }
-
 .dark {
   --background: oklch(0.145 0 0);
   --foreground: oklch(0.985 0 0);
@@ -135,7 +129,6 @@ body {
   --sidebar-border: oklch(1 0 0 / 10%);
   --sidebar-ring: oklch(0.556 0 0);
 }
-
 @layer base {
   * {
     @apply border-border outline-ring/50;
@@ -159,7 +152,6 @@ body {
     padding-left: 10rem !important;
   }
 }
-
 .react-international-phone-country-selector-button{
     height: 60rem !important;
     width: 30rem !important;
@@ -176,7 +168,6 @@ body {
     height: 20rem !important;
   }
 }
-
 .react-international-phone-input-container .react-international-phone-input {
     @media screen and (width >= 640px) {
     font-size: 18rem !important;

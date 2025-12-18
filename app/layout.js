@@ -6,7 +6,8 @@ import GoogleTagManager from "./components/GoogleTagManager";
 const inter = Inter({
   subsets: ["latin"],
   display: "swap",
-  preload: true
+  preload: true,
+  weight: ["400", "500", "600", "700"],
 });
 
 export const metadata = {
@@ -27,16 +28,31 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" data-scroll-behavior="smooth">
       <head>
-      <link rel="preload" as="image" href="/hero-desktop-building.avif"/>
-      <link rel="preload" as="image" href="/building-mask-mobile.avif"/>
-      <link rel="preload" as="image" href="/hero-desktop-building.avif"/>
+        <link rel="preload" as="image" href="/hero-desktop-building.avif" />
+        <link rel="preload" as="image" href="/building-mask-mobile.avif" />
+        <link rel="preload" as="image" href="/hero-desktop-building.avif" />
 
-        <meta name="robots" content="index, follow"/>
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"/>
+        <meta name="robots" content="index, follow" />
+        <meta
+          name="viewport"
+          content="width=device-width, initial-scale=1, maximum-scale=5"
+        />
         <link
           rel="apple-touch-icon"
           sizes="180x180"
           href="/favicon_io/apple-touch-icon.png"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="192x192"
+          href="/favicon_io/android-chrome-512x512.png"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="192x192"
+          href="/favicon_io/android-chrome-192x192.png"
         />
         <link
           rel="icon"
@@ -54,20 +70,17 @@ export default function RootLayout({ children }) {
         <GoogleTagManager gtmId={GTM_ID} />
         <noscript
           dangerouslySetInnerHTML={{
-            __html:`
+            __html: `
             <iframe src="https://www.googletagmanager.com/ns.html?id=${GTM_ID}"
                     height="0" 
                     width="0" 
                     style="display:none;visibility:hidden">
             </iframe>
-            `
+            `,
           }}
         />
-
       </head>
-      <body
-        className={`${inter.variable} antialiased`}
-      >
+      <body className={`${inter.variable} antialiased`}>
         {children}
         <Script
           id="to-top"
