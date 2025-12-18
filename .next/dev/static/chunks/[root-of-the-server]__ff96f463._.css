@@ -1273,10 +1273,6 @@
     line-height: var(--tw-leading, var(--text-sm--line-height));
   }
 
-  .text-\[0rem\] {
-    font-size: 0;
-  }
-
   .text-\[18rem\] {
     font-size: 18rem;
   }
@@ -1727,12 +1723,6 @@
   @media (min-width: 40rem) {
     .sm\:text-left {
       text-align: left;
-    }
-  }
-
-  @media (min-width: 40rem) {
-    .sm\:text-\[18rem\] {
-      font-size: 18rem;
     }
   }
 

@@ -93,7 +93,7 @@ const Index = () => {
           >
             ro
           </button>
-          <Link
+          <a
             href="tel:"
             className={styles.header__phone}
           >
@@ -111,7 +111,7 @@ const Index = () => {
                 strokeLinejoin="round"
               />
             </svg>
-          </Link>
+          </a>
         </div>
       </div>
     </header>
