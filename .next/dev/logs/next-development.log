@@ -1,5 +1,5 @@
-[00:00:00.489] Server  LOG      ✓ Ready in 321ms
-[00:00:06.157] Server  WARN     ⚠ ./public/building-mask-mobile.avif
+[00:00:00.482] Server  LOG      ✓ Ready in 322ms
+[00:00:07.941] Server  WARN     ⚠ ./public/building-mask-mobile.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -11,7 +11,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.157] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
+[00:00:07.942] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -25,7 +25,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.157] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
+[00:00:07.942] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -39,7 +39,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.158] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
+[00:00:07.942] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -53,7 +53,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.158] Server  WARN     ⚠ ./public/desktop-duplex-inner-1.avif
+[00:00:07.942] Server  WARN     ⚠ ./public/desktop-duplex-inner-1.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -66,7 +66,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.158] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
+[00:00:07.942] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -79,7 +79,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.158] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
+[00:00:07.942] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -92,7 +92,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.158] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
+[00:00:07.942] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -105,7 +105,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.158] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
+[00:00:07.942] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -118,7 +118,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.158] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
+[00:00:07.942] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -132,7 +132,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.159] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
+[00:00:07.943] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -146,7 +146,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.159] Server  WARN     ⚠ ./public/desktop-slider-1.avif
+[00:00:07.943] Server  WARN     ⚠ ./public/desktop-slider-1.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -160,7 +160,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.159] Server  WARN     ⚠ ./public/desktop-slider-2.avif
+[00:00:07.943] Server  WARN     ⚠ ./public/desktop-slider-2.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -174,7 +174,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.159] Server  WARN     ⚠ ./public/desktop-slider-3.avif
+[00:00:07.943] Server  WARN     ⚠ ./public/desktop-slider-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -188,7 +188,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.159] Server  WARN     ⚠ ./public/desktop-slider-4.avif
+[00:00:07.943] Server  WARN     ⚠ ./public/desktop-slider-4.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -202,7 +202,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.159] Server  WARN     ⚠ ./public/duplex-inner.avif
+[00:00:07.944] Server  WARN     ⚠ ./public/duplex-inner.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -215,7 +215,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.159] Server  WARN     ⚠ ./public/hero-bg-desktop.avif
+[00:00:07.944] Server  WARN     ⚠ ./public/hero-bg-desktop.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -227,7 +227,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.159] Server  WARN     ⚠ ./public/hero-bg-mobile.avif
+[00:00:07.944] Server  WARN     ⚠ ./public/hero-bg-mobile.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -239,7 +239,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.160] Server  WARN     ⚠ ./public/hero-desktop-building.avif
+[00:00:07.944] Server  WARN     ⚠ ./public/hero-desktop-building.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -251,7 +251,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.160] Server  WARN     ⚠ ./public/landscape-slide-2.avif
+[00:00:07.945] Server  WARN     ⚠ ./public/landscape-slide-2.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -264,7 +264,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.160] Server  WARN     ⚠ ./public/landscape-slide-3.avif
+[00:00:07.945] Server  WARN     ⚠ ./public/landscape-slide-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -277,7 +277,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.160] Server  WARN     ⚠ ./public/landscape-slide-4.avif
+[00:00:07.945] Server  WARN     ⚠ ./public/landscape-slide-4.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -290,7 +290,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.160] Server  WARN     ⚠ ./public/landscape-slide.avif
+[00:00:07.945] Server  WARN     ⚠ ./public/landscape-slide.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -303,7 +303,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.160] Server  WARN     ⚠ ./public/mobile-apartment-inner-1.avif
+[00:00:07.945] Server  WARN     ⚠ ./public/mobile-apartment-inner-1.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -316,7 +316,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.160] Server  WARN     ⚠ ./public/mobile-apartment-inner-2.avif
+[00:00:07.945] Server  WARN     ⚠ ./public/mobile-apartment-inner-2.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -329,7 +329,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.160] Server  WARN     ⚠ ./public/mobile-apartment-inner-3.avif
+[00:00:07.945] Server  WARN     ⚠ ./public/mobile-apartment-inner-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -342,7 +342,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.160] Server  WARN     ⚠ ./public/mobile-apartment-inner-4.avif
+[00:00:07.945] Server  WARN     ⚠ ./public/mobile-apartment-inner-4.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -355,7 +355,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.160] Server  WARN     ⚠ ./public/mobile-apartment-inner-5.avif
+[00:00:07.945] Server  WARN     ⚠ ./public/mobile-apartment-inner-5.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -368,7 +368,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.160] Server  WARN     ⚠ ./public/mobile-apartment-inner-6.avif
+[00:00:07.945] Server  WARN     ⚠ ./public/mobile-apartment-inner-6.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -381,7 +381,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.160] Server  WARN     ⚠ ./public/mobile-apartment-inner-7.avif
+[00:00:07.945] Server  WARN     ⚠ ./public/mobile-apartment-inner-7.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -394,7 +394,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.691] Server  WARN     ⚠ ./public/building-mask-mobile.avif
+[00:00:08.437] Server  WARN     ⚠ ./public/building-mask-mobile.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -406,7 +406,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.691] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
+[00:00:08.437] Server  WARN     ⚠ ./public/desktop-apartment-inner-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -420,7 +420,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.699] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
+[00:00:08.438] Server  WARN     ⚠ ./public/desktop-apartment-inner-4.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -434,7 +434,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.699] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
+[00:00:08.438] Server  WARN     ⚠ ./public/desktop-apartment-inner.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -448,7 +448,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.699] Server  WARN     ⚠ ./public/desktop-duplex-inner-1.avif
+[00:00:08.438] Server  WARN     ⚠ ./public/desktop-duplex-inner-1.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -461,7 +461,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.699] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
+[00:00:08.438] Server  WARN     ⚠ ./public/desktop-duplex-inner-2.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -474,7 +474,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.699] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
+[00:00:08.438] Server  WARN     ⚠ ./public/desktop-duplex-inner-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -487,7 +487,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.699] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
+[00:00:08.438] Server  WARN     ⚠ ./public/desktop-duplex-inner-5.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -500,7 +500,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.700] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
+[00:00:08.438] Server  WARN     ⚠ ./public/desktop-duplex-inner-6.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -513,7 +513,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.700] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
+[00:00:08.438] Server  WARN     ⚠ ./public/desktop-duplex-inner-7.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -527,7 +527,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.700] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
+[00:00:08.438] Server  WARN     ⚠ ./public/desktop-duplex-inner.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -541,7 +541,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.700] Server  WARN     ⚠ ./public/desktop-slider-1.avif
+[00:00:08.439] Server  WARN     ⚠ ./public/desktop-slider-1.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -555,7 +555,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.700] Server  WARN     ⚠ ./public/desktop-slider-2.avif
+[00:00:08.439] Server  WARN     ⚠ ./public/desktop-slider-2.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -569,7 +569,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.701] Server  WARN     ⚠ ./public/desktop-slider-3.avif
+[00:00:08.439] Server  WARN     ⚠ ./public/desktop-slider-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -583,7 +583,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.701] Server  WARN     ⚠ ./public/desktop-slider-4.avif
+[00:00:08.439] Server  WARN     ⚠ ./public/desktop-slider-4.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -597,7 +597,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.701] Server  WARN     ⚠ ./public/duplex-inner.avif
+[00:00:08.439] Server  WARN     ⚠ ./public/duplex-inner.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -610,7 +610,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.701] Server  WARN     ⚠ ./public/hero-bg-desktop.avif
+[00:00:08.439] Server  WARN     ⚠ ./public/hero-bg-desktop.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -622,7 +622,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.702] Server  WARN     ⚠ ./public/hero-bg-mobile.avif
+[00:00:08.439] Server  WARN     ⚠ ./public/hero-bg-mobile.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -634,7 +634,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.702] Server  WARN     ⚠ ./public/hero-desktop-building.avif
+[00:00:08.439] Server  WARN     ⚠ ./public/hero-desktop-building.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -646,7 +646,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.702] Server  WARN     ⚠ ./public/landscape-slide-2.avif
+[00:00:08.439] Server  WARN     ⚠ ./public/landscape-slide-2.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -659,7 +659,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.702] Server  WARN     ⚠ ./public/landscape-slide-3.avif
+[00:00:08.439] Server  WARN     ⚠ ./public/landscape-slide-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -672,7 +672,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.703] Server  WARN     ⚠ ./public/landscape-slide-4.avif
+[00:00:08.439] Server  WARN     ⚠ ./public/landscape-slide-4.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -685,7 +685,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.703] Server  WARN     ⚠ ./public/landscape-slide.avif
+[00:00:08.439] Server  WARN     ⚠ ./public/landscape-slide.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -698,7 +698,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.703] Server  WARN     ⚠ ./public/mobile-apartment-inner-1.avif
+[00:00:08.439] Server  WARN     ⚠ ./public/mobile-apartment-inner-1.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -711,7 +711,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.703] Server  WARN     ⚠ ./public/mobile-apartment-inner-2.avif
+[00:00:08.440] Server  WARN     ⚠ ./public/mobile-apartment-inner-2.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -724,7 +724,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.704] Server  WARN     ⚠ ./public/mobile-apartment-inner-3.avif
+[00:00:08.440] Server  WARN     ⚠ ./public/mobile-apartment-inner-3.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -737,7 +737,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.704] Server  WARN     ⚠ ./public/mobile-apartment-inner-4.avif
+[00:00:08.440] Server  WARN     ⚠ ./public/mobile-apartment-inner-4.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -750,7 +750,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.704] Server  WARN     ⚠ ./public/mobile-apartment-inner-5.avif
+[00:00:08.440] Server  WARN     ⚠ ./public/mobile-apartment-inner-5.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -763,7 +763,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.704] Server  WARN     ⚠ ./public/mobile-apartment-inner-6.avif
+[00:00:08.440] Server  WARN     ⚠ ./public/mobile-apartment-inner-6.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -776,7 +776,7 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:06.704] Server  WARN     ⚠ ./public/mobile-apartment-inner-7.avif
+[00:00:08.440] Server  WARN     ⚠ ./public/mobile-apartment-inner-7.avif
 AVIF image not supported
 This version of Turbopack does not support AVIF images, will emit without optimization or encoding
 
@@ -789,28 +789,66 @@ Import trace:
     ./app/page.js [Server Component]
 
 
-[00:00:07.108] Browser DEBUG   [initMessageListener]  --- receive contentScriptInitDone ---
-[00:00:07.108] Browser DEBUG   [postMessageToContentScript] {"args":[],"callFrom":"inPage","funcName":"getExtensionInfo","messageId":"7GUcmyR5-vneKjItJHMhQ","moduleName":"multichainWallet","type":"contentscriptFunctionCall"}
-[00:00:07.108] Browser DEBUG   [initMessageListener]  --- receive contentscript message --- {"__wallet_sent_from_content_script_msg__":true,"messageId":"7GUcmyR5-vneKjItJHMhQ","returnValue":{"autoSignEnabled":false,"extensionId":"bea1cbd0-ab58-4ac1-86ba-0f4e05356831","version":"1.5.1","walletLocked":true},"target":"inPage","type":"functionCallResult"}
-[00:00:07.326] Browser WARN    Image with src "/_next/static/media/building-mask-mobile.c2b86e10.avif" has "fill" and a height value of 0. This is likely because the parent element of the image has not been styled to have a set height.
-[00:00:07.326] Browser LOG     Roistat is ready!
-[00:00:07.568] Browser LOG     [PostHog.js] set_config {"config":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"newConfig":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"oldConfig":{}}
-[00:00:07.568] Browser LOG     [PostHog.js] Persistence loaded localStorage {"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$capture_rate_limit":{"last":1766066175691,"tokens":99},"$client_session_props":{"props":{"r":"$direct","u":"http://localhost:3000/"},"sessionId":"019b31a3-4ff4-75f2-8814-5ce4e4e8468c"},"$configured_session_timeout_ms":1800000,"$dead_clicks_enabled_server_side":false,"$device_id":"019b317c-b69c-741c-9064-7da8f4994168","$enabled_feature_flags":{},"$error_tracking_suppression_rules":[],"$exception_capture_enabled_server_side":false,"$feature_flag_details":{},"$feature_flag_evaluated_at":1766066089147,"$feature_flag_payloads":{},"$feature_flag_request_id":"01bc3105-dbd3-437e-9c2f-490f0b0fc559","$heatmaps_enabled_server_side":true,"$initial_person_info":{"r":"http://localhost:3000/thank-you-ro","u":"http://localhost:3000/thank-you-ro"},"$initialization_time":"2025-12-18T13:54:48.970Z","$sesid":[1766066175691,"019b31a3-4ff4-75f2-8814-5ce4e4e8468c",1766064345074],"$user_state":"anonymous","$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"distinct_id":"019b317c-b69c-741c-9064-7da8f4994168","external_id":"8f80144b-bb65-4896-907b-a5290957b2c0","fbp":"fb.0.1766065805054.232981165753156364","pageview_event_id":"6aa9142d-5dfd-40c3-817e-2dd940ee5207"}
-[00:00:07.568] Browser LOG     [PostHog.js] Persistence loaded sessionStorage {"$referrer":"$direct","$referring_domain":"$direct","$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":1}
-[00:00:07.568] Browser LOG     [PostHog.js] Initializing extensions synchronously
-[00:00:07.568] Browser LOG     [PostHog.js] [Product Tours] Product tours disabled via config
-[00:00:07.568] Browser LOG     [PostHog.js] [Heatmaps] starting...
-[00:00:07.568] Browser LOG     [PostHog.js] [Web Vitals] enabled, starting...
-[00:00:07.568] Browser LOG     [PostHog.js] Starting in debug mode {"config":{"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"capture_pageleave":false,"capture_pageview":false,"debug":true,"disable_session_recording":false,"persistence":"localStorage","person_profiles":"identified_only"},"p":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$capture_rate_limit":{"last":1766066175691,"tokens":99},"$client_session_props":{"props":{"r":"$direct","u":"http://localhost:3000/"},"sessionId":"019b31a3-4ff4-75f2-8814-5ce4e4e8468c"},"$configured_session_timeout_ms":1800000,"$dead_clicks_enabled_server_side":false,"$device_id":"019b317c-b69c-741c-9064-7da8f4994168","$enabled_feature_flags":{},"$error_tracking_suppression_rules":[],"$exception_capture_enabled_server_side":false,"$feature_flag_details":{},"$feature_flag_evaluated_at":1766066089147,"$feature_flag_payloads":{},"$feature_flag_request_id":"01bc3105-dbd3-437e-9c2f-490f0b0fc559","$heatmaps_enabled_server_side":true,"$initial_person_info":{"r":"http://localhost:3000/thank-you-ro","u":"http://localhost:3000/thank-you-ro"},"$initialization_time":"2025-12-18T13:54:48.970Z","$sesid":[1766066175691,"019b31a3-4ff4-75f2-8814-5ce4e4e8468c",1766064345074],"$user_state":"anonymous","$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"distinct_id":"019b317c-b69c-741c-9064-7da8f4994168","external_id":"8f80144b-bb65-4896-907b-a5290957b2c0","fbp":"fb.0.1766065805054.232981165753156364","pageview_event_id":"6aa9142d-5dfd-40c3-817e-2dd940ee5207"},"s":{"$referrer":"$direct","$referring_domain":"$direct","$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":1},"this":{"Ar":null,"Fr":false,"Hr":{"$e":false,"Pe":true,"_instance":"[Circular]","ke":3000,"me":[]},"Ir":false,"Lr":[],"Mr":null,"Or":"identified_only","Rr":{"Ii":{"eventCaptured":[null]}},"Ur":{"_e":true,"me":[],"ye":3000},"__loaded":true,"__request_queue":[],"analyticsDefaultEndpoint":"/e/","autocapture":{"C":false,"I":null,"P":false,"T":null,"instance":"[Circular]","rageclicks":{"clickCount":3,"clicks":[],"disabled":false,"thresholdPx":30,"timeoutMs":1000}},"compression":"gzip-js","config":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"consent":{"Z":{},"_instance":"[Circular]"},"conversations":{"Ti":false,"_conversationsManager":null,"_instance":"[Circular]","ce":null},"deadClicksAutocapture":{"instance":"[Circular]"},"exceptionObserver":{"R":{"capture_console_errors":false,"capture_unhandled_errors":false,"capture_unhandled_rejections":false},"_instance":"[Circular]","dt":{"S":10000,"m":1,"o":10,"t":{}},"ut":false},"exceptions":{"Jt":[],"Kt":{"coercers":[{},{},{},{},{},{},{},{}],"modifiers":[]},"_instance":"[Circular]"},"experiments":{"_instance":"[Circular]"},"externalIntegrations":{"_instance":"[Circular]"},"featureFlags":{"_instance":"[Circular]","ai":false,"ei":false,"featureFlagEventHandlers":[null],"ii":false,"ni":false,"oi":false,"ri":false,"si":false},"heatmaps":{"It":66,"P":true,"St":true,"instance":"[Circular]","rageclicks":{"clickCount":3,"clicks":[],"disabled":false,"thresholdPx":30,"timeoutMs":1000},"zt":{"instance":"[Circular]"}},"historyAutocapture":{"_instance":"[Circular]","vt":"/"},"jr":{"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"capture_pageleave":false,"capture_pageview":false,"debug":true,"disable_session_recording":false,"persistence":"localStorage","person_profiles":"identified_only"},"pageViewManager":{"_instance":"[Circular]"},"people":{},"persistence":{"Ei":false,"R":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"Si":365,"Y":{},"bi":false,"gi":false,"mi":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_posthog","props":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$capture_rate_limit":{"last":1766066175691,"tokens":99},"$client_session_props":{"props":"[Object]","sessionId":"019b31a3-4ff4-75f2-8814-5ce4e4e8468c"},"$configured_session_timeout_ms":1800000,"$dead_clicks_enabled_server_side":false,"$device_id":"019b317c-b69c-741c-9064-7da8f4994168","$enabled_feature_flags":{},"$error_tracking_suppression_rules":[],"$exception_capture_enabled_server_side":false,"$feature_flag_details":{},"$feature_flag_evaluated_at":1766066089147,"$feature_flag_payloads":{},"$feature_flag_request_id":"01bc3105-dbd3-437e-9c2f-490f0b0fc559","$heatmaps_enabled_server_side":true,"$initial_person_info":{"r":"http://localhost:3000/thank-you-ro","u":"http://localhost:3000/thank-you-ro"},"$initialization_time":"2025-12-18T14:00:48.955Z","$sesid":[1766066175691,"019b31a3-4ff4-75f2-8814-5ce4e4e8468c",1766064345074],"$user_state":"anonymous","$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"distinct_id":"019b317c-b69c-741c-9064-7da8f4994168","external_id":"8f80144b-bb65-4896-907b-a5290957b2c0","fbp":"fb.0.1766065805054.232981165753156364","pageview_event_id":"6aa9142d-5dfd-40c3-817e-2dd940ee5207"},"wi":365,"xi":true},"productTours":{"$i":null,"Ti":false,"_instance":"[Circular]","ki":null},"rateLimiter":{"captureEventsBurstLimit":100,"captureEventsPerSecond":10,"instance":"[Circular]","lastEventRateLimited":false,"serverLimits":{}},"requestRouter":{"hr":{"https://eu.i.posthog.com":"eu"},"instance":"[Circular]"},"scrollManager":{"_instance":"[Circular]"},"sessionManager":{"Ke":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_window_id","Le":{"Ei":false,"R":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":"[Object]","respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"Si":365,"Y":{},"bi":false,"gi":false,"mi":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_posthog","props":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$capture_rate_limit":"[Object]","$client_session_props":"[Object]","$configured_session_timeout_ms":1800000,"$dead_clicks_enabled_server_side":false,"$device_id":"019b317c-b69c-741c-9064-7da8f4994168","$enabled_feature_flags":{},"$error_tracking_suppression_rules":[],"$exception_capture_enabled_server_side":false,"$feature_flag_details":{},"$feature_flag_evaluated_at":1766066089147,"$feature_flag_payloads":{},"$feature_flag_request_id":"01bc3105-dbd3-437e-9c2f-490f0b0fc559","$heatmaps_enabled_server_side":true,"$initial_person_info":"[Object]","$initialization_time":"2025-12-18T14:00:48.955Z","$sesid":"[Array]","$user_state":"anonymous","$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"distinct_id":"019b317c-b69c-741c-9064-7da8f4994168","external_id":"8f80144b-bb65-4896-907b-a5290957b2c0","fbp":"fb.0.1766065805054.232981165753156364","pageview_event_id":"6aa9142d-5dfd-40c3-817e-2dd940ee5207"},"wi":365,"xi":true},"R":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"Ue":{"Ii":{}},"Ye":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_primary_window_exists","_sessionActivityTimestamp":null,"_sessionStartTimestamp":null,"_sessionTimeoutMs":1800000,"qe":"019b31bd-ec20-754a-b834-c44d9d098986","rr":62,"ze":[null]},"sessionPersistence":{"Ei":false,"R":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"sessionStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"Si":365,"Y":{},"bi":false,"gi":false,"mi":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_posthog","props":{"$referrer":"$direct","$referring_domain":"$direct","$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":2},"wi":365,"xi":true},"sessionPropsManager":{"Le":{"Ei":false,"R":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":"[Object]","respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"Si":365,"Y":{},"bi":false,"gi":false,"mi":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_posthog","props":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$capture_rate_limit":"[Object]","$client_session_props":"[Object]","$configured_session_timeout_ms":1800000,"$dead_clicks_enabled_server_side":false,"$device_id":"019b317c-b69c-741c-9064-7da8f4994168","$enabled_feature_flags":{},"$error_tracking_suppression_rules":[],"$exception_capture_enabled_server_side":false,"$feature_flag_details":{},"$feature_flag_evaluated_at":1766066089147,"$feature_flag_payloads":{},"$feature_flag_request_id":"01bc3105-dbd3-437e-9c2f-490f0b0fc559","$heatmaps_enabled_server_side":true,"$initial_person_info":"[Object]","$initialization_time":"2025-12-18T14:00:48.955Z","$sesid":"[Array]","$user_state":"anonymous","$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"distinct_id":"019b317c-b69c-741c-9064-7da8f4994168","external_id":"8f80144b-bb65-4896-907b-a5290957b2c0","fbp":"fb.0.1766065805054.232981165753156364","pageview_event_id":"6aa9142d-5dfd-40c3-817e-2dd940ee5207"},"wi":365,"xi":true},"Ne":{"Ke":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_window_id","Le":{"Ei":false,"R":"[Object]","Si":365,"Y":"[Object]","bi":false,"gi":false,"mi":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_posthog","props":"[Object]","wi":365,"xi":true},"R":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":"[Object]","respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"Ue":{"Ii":{}},"Ye":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_primary_window_exists","_sessionActivityTimestamp":null,"_sessionStartTimestamp":null,"_sessionTimeoutMs":1800000,"qe":"019b31bd-ec20-754a-b834-c44d9d098986","rr":62,"ze":[null]},"_instance":"[Circular]"},"sessionRecording":{"_forceAllowLocalhostNetworkCapture":false,"_instance":"[Circular]","br":false},"siteApps":{"_instance":"[Circular]","apps":{},"sr":[]},"surveys":{"_instance":"[Circular]","_surveyEventReceiver":null,"_surveyManager":null,"ne":false,"oe":[],"se":false},"toolbar":{"instance":"[Circular]"},"version":"1.307.0","webPerformance":{"__forceAllowLocalhost":false},"webVitalsAutocapture":{"N":{"metrics":[]},"P":false,"St":true,"_instance":"[Circular]"}},"thisC":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false}}
-[00:00:07.568] Browser WARN    [PostHog.js] You have already initialized PostHog! Re-initializing is a no-op
-[00:00:07.568] Browser LOG     [PostHog.js] send "$pageview" {"event":"$pageview","properties":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$browser":"Chrome","$browser_language":"ru-RU","$browser_language_prefix":"ru","$browser_version":143,"$config_defaults":"unset","$configured_session_timeout_ms":1800000,"$current_url":"http://localhost:3000/","$dead_clicks_enabled_server_side":false,"$device_id":"019b317c-b69c-741c-9064-7da8f4994168","$device_type":"Desktop","$exception_capture_enabled_server_side":false,"$feature_flag_evaluated_at":1766066089147,"$feature_flag_payloads":{},"$feature_flag_request_id":"01bc3105-dbd3-437e-9c2f-490f0b0fc559","$host":"localhost:3000","$initialization_time":"2025-12-18T14:00:48.955Z","$insert_id":"xsb01vlan938g6uz","$is_identified":false,"$lib":"web","$lib_rate_limit_remaining_tokens":99,"$lib_version":"1.307.0","$os":"Mac OS X","$os_version":"10.15.7","$pageview_id":"019b31c3-6a42-785a-8d24-9a78a0b29819","$pathname":"/","$process_person_profile":false,"$raw_user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","$recording_status":"lazy_loading","$referrer":"$direct","$referring_domain":"$direct","$screen_height":1440,"$screen_width":2560,"$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":2,"$sdk_debug_retry_queue_size":0,"$session_entry_host":"localhost:3000","$session_entry_pathname":"/","$session_entry_referrer":"$direct","$session_entry_referring_domain":"$direct","$session_entry_url":"http://localhost:3000/","$session_id":"019b31a3-4ff4-75f2-8814-5ce4e4e8468c","$time":1766066448.964,"$timezone":"Europe/Chisinau","$timezone_offset":-120,"$viewport_height":853,"$viewport_width":1318,"$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"$window_id":"019b31bd-ec20-754a-b834-c44d9d098986","distinct_id":"019b317c-b69c-741c-9064-7da8f4994168","external_id":"8f80144b-bb65-4896-907b-a5290957b2c0","fbp":"fb.0.1766065805054.232981165753156364","pageview_event_id":"4007a4e5-2e55-4d11-a30e-89175430f06e","title":"ENSO LIVING","token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb"},"timestamp":"2025-12-18T14:00:48.962Z","uuid":"019b31c3-6a42-785a-8d24-9a78a0b29819"}
-[00:00:07.568] Browser LOG     [PostHog.js] [Dead Clicks] starting...
-[00:00:07.568] Browser LOG     [PostHog.js] [RemoteConfig] __preview_remote_config is disabled. Logging config instead {"analytics":{"endpoint":"/i/v0/e/"},"autocaptureExceptions":false,"autocapture_opt_out":false,"captureDeadClicks":false,"capturePerformance":{"network_timing":true,"web_vitals":true,"web_vitals_allowed_metrics":null},"defaultIdentifiedOnly":true,"elementsChainAsString":true,"errorTracking":{"autocaptureExceptions":false,"suppressionRules":[]},"hasFeatureFlags":false,"heatmaps":true,"productTours":false,"sessionRecording":false,"supportedCompression":["gzip","gzip-js"],"surveys":false,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb"}
-[00:00:07.763] Browser LOG     [PostHog.js] Persistence loaded sessionStorage {"$referrer":"$direct","$referring_domain":"$direct","$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":2}
-[00:00:07.763] Browser LOG     [PostHog.js] set_config {"config":{"person_profiles":"identified_only"},"newConfig":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"oldConfig":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false}}
-[00:00:07.763] Browser LOG     [PostHog.js] [Surveys] flags response received, isSurveysEnabled: false
-[00:00:07.763] Browser LOG     [PostHog.js] [Product Tours] Product tours disabled via config
-[00:00:07.763] Browser LOG     [PostHog.js] [Surveys] Surveys loaded successfully
-[00:00:12.467] Browser LOG     [PostHog.js] send "$$heatmap" {"event":"$$heatmap","properties":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$browser":"Chrome","$browser_language":"ru-RU","$browser_language_prefix":"ru","$browser_version":143,"$config_defaults":"unset","$configured_session_timeout_ms":1800000,"$current_url":"http://localhost:3000/","$dead_clicks_enabled_server_side":false,"$device_id":"019b317c-b69c-741c-9064-7da8f4994168","$device_type":"Desktop","$exception_capture_enabled_server_side":false,"$feature_flag_evaluated_at":1766066449285,"$feature_flag_payloads":{},"$feature_flag_request_id":"a439f378-30a5-4bac-ab39-f196e1eb4332","$heatmap_data":{"http://localhost:3000/":[{"target_fixed":false,"type":"mousemove","x":1080,"y":49}]},"$host":"localhost:3000","$initialization_time":"2025-12-18T14:00:48.955Z","$insert_id":"ebbjqaahgzuxn6zf","$is_identified":false,"$lib":"web","$lib_rate_limit_remaining_tokens":99,"$lib_version":"1.307.0","$os":"Mac OS X","$os_version":"10.15.7","$pageview_id":"019b31c3-6a42-785a-8d24-9a78a0b29819","$pathname":"/","$process_person_profile":false,"$raw_user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","$recording_status":"disabled","$referrer":"$direct","$referring_domain":"$direct","$screen_height":1440,"$screen_width":2560,"$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":2,"$sdk_debug_retry_queue_size":0,"$session_entry_host":"localhost:3000","$session_entry_pathname":"/","$session_entry_referrer":"$direct","$session_entry_referring_domain":"$direct","$session_entry_url":"http://localhost:3000/","$session_id":"019b31a3-4ff4-75f2-8814-5ce4e4e8468c","$time":1766066453.961,"$timezone":"Europe/Chisinau","$timezone_offset":-120,"$viewport_height":853,"$viewport_width":1318,"$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"$window_id":"019b31bd-ec20-754a-b834-c44d9d098986","distinct_id":"019b317c-b69c-741c-9064-7da8f4994168","external_id":"8f80144b-bb65-4896-907b-a5290957b2c0","fbp":"fb.0.1766065805054.232981165753156364","pageview_event_id":"4007a4e5-2e55-4d11-a30e-89175430f06e","token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb"},"timestamp":"2025-12-18T14:00:53.960Z","uuid":"019b31c3-7dc8-7ea5-a702-cdcdeea7286b"}
-[00:00:12.572] Browser LOG     [PostHog.js] send "$web_vitals" {"event":"$web_vitals","properties":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$browser":"Chrome","$browser_language":"ru-RU","$browser_language_prefix":"ru","$browser_version":143,"$config_defaults":"unset","$configured_session_timeout_ms":1800000,"$current_url":"http://localhost:3000/","$dead_clicks_enabled_server_side":false,"$device_id":"019b317c-b69c-741c-9064-7da8f4994168","$device_type":"Desktop","$exception_capture_enabled_server_side":false,"$feature_flag_evaluated_at":1766066449285,"$feature_flag_payloads":{},"$feature_flag_request_id":"a439f378-30a5-4bac-ab39-f196e1eb4332","$host":"localhost:3000","$initialization_time":"2025-12-18T14:00:48.955Z","$insert_id":"0g1c2cvd9jpn9abp","$is_identified":false,"$lib":"web","$lib_rate_limit_remaining_tokens":99,"$lib_version":"1.307.0","$os":"Mac OS X","$os_version":"10.15.7","$pageview_id":"019b31c3-6a42-785a-8d24-9a78a0b29819","$pathname":"/","$process_person_profile":false,"$raw_user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","$recording_status":"disabled","$referrer":"$direct","$referring_domain":"$direct","$screen_height":1440,"$screen_width":2560,"$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":2,"$sdk_debug_retry_queue_size":0,"$session_entry_host":"localhost:3000","$session_entry_pathname":"/","$session_entry_referrer":"$direct","$session_entry_referring_domain":"$direct","$session_entry_url":"http://localhost:3000/","$session_id":"019b31a3-4ff4-75f2-8814-5ce4e4e8468c","$time":1766066454.064,"$timezone":"Europe/Chisinau","$timezone_offset":-120,"$viewport_height":853,"$viewport_width":1318,"$web_vitals_FCP_event":{"$current_url":"http://localhost:3000/","$session_id":"019b31a3-4ff4-75f2-8814-5ce4e4e8468c","$window_id":"019b31bd-ec20-754a-b834-c44d9d098986","attribution":{"firstByteToFCP":278.30000019073486,"loadState":"dom-content-loaded","navigationEntry":{},"timeToFirstByte":2357.699999809265},"delta":2636,"entries":[{}],"id":"v4-1766066449052-1096113740277","name":"FCP","navigationType":"reload","rating":"needs-improvement","timestamp":1766066449063,"value":2636},"$web_vitals_FCP_value":2636,"$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"$window_id":"019b31bd-ec20-754a-b834-c44d9d098986","distinct_id":"019b317c-b69c-741c-9064-7da8f4994168","external_id":"8f80144b-bb65-4896-907b-a5290957b2c0","fbp":"fb.0.1766065805054.232981165753156364","pageview_event_id":"4007a4e5-2e55-4d11-a30e-89175430f06e","token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb"},"timestamp":"2025-12-18T14:00:54.063Z","uuid":"019b31c3-7e2f-7f0b-bf77-055072083e42"}
-[00:00:17.465] Browser LOG     [PostHog.js] send "$$heatmap" {"event":"$$heatmap","properties":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$browser":"Chrome","$browser_language":"ru-RU","$browser_language_prefix":"ru","$browser_version":143,"$config_defaults":"unset","$configured_session_timeout_ms":1800000,"$current_url":"http://localhost:3000/","$dead_clicks_enabled_server_side":false,"$device_id":"019b317c-b69c-741c-9064-7da8f4994168","$device_type":"Desktop","$exception_capture_enabled_server_side":false,"$feature_flag_evaluated_at":1766066449285,"$feature_flag_payloads":{},"$feature_flag_request_id":"a439f378-30a5-4bac-ab39-f196e1eb4332","$heatmap_data":{"http://localhost:3000/":[{"target_fixed":false,"type":"mousemove","x":229,"y":1},{"target_fixed":false,"type":"mousemove","x":6,"y":153}]},"$host":"localhost:3000","$initialization_time":"2025-12-18T14:00:48.955Z","$insert_id":"z92qe1bqnp1pxrr1","$is_identified":false,"$lib":"web","$lib_rate_limit_remaining_tokens":99,"$lib_version":"1.307.0","$os":"Mac OS X","$os_version":"10.15.7","$pageview_id":"019b31c3-6a42-785a-8d24-9a78a0b29819","$pathname":"/","$process_person_profile":false,"$raw_user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","$recording_status":"disabled","$referrer":"$direct","$referring_domain":"$direct","$screen_height":1440,"$screen_width":2560,"$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":2,"$sdk_debug_retry_queue_size":0,"$session_entry_host":"localhost:3000","$session_entry_pathname":"/","$session_entry_referrer":"$direct","$session_entry_referring_domain":"$direct","$session_entry_url":"http://localhost:3000/","$session_id":"019b31a3-4ff4-75f2-8814-5ce4e4e8468c","$time":1766066458.959,"$timezone":"Europe/Chisinau","$timezone_offset":-120,"$viewport_height":853,"$viewport_width":1318,"$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"$window_id":"019b31bd-ec20-754a-b834-c44d9d098986","distinct_id":"019b317c-b69c-741c-9064-7da8f4994168","external_id":"8f80144b-bb65-4896-907b-a5290957b2c0","fbp":"fb.0.1766065805054.232981165753156364","pageview_event_id":"4007a4e5-2e55-4d11-a30e-89175430f06e","token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb"},"timestamp":"2025-12-18T14:00:58.959Z","uuid":"019b31c3-914f-7539-a92c-c68fe7c5a93c"}
+[00:00:08.753] Browser DEBUG   [initMessageListener]  --- receive contentScriptInitDone ---
+[00:00:08.753] Browser DEBUG   [postMessageToContentScript] {"args":[],"callFrom":"inPage","funcName":"getExtensionInfo","messageId":"2LcTlC5fJ4Q_zqS1CHFmm","moduleName":"multichainWallet","type":"contentscriptFunctionCall"}
+[00:00:08.753] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.js">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html
+                          lang="en"
++                         className="inter_a635317e-module__P2XV_G__className"
+-                         className="inter_a635317e-module__P2XV_G__className chromane-sonic-dark"
+                          data-scroll-behavior="smooth"
+                        >
+                  ...
+
+[00:00:08.753] Browser DEBUG   [initMessageListener]  --- receive contentscript message --- {"__wallet_sent_from_content_script_msg__":true,"messageId":"2LcTlC5fJ4Q_zqS1CHFmm","returnValue":{"autoSignEnabled":false,"extensionId":"bea1cbd0-ab58-4ac1-86ba-0f4e05356831","version":"1.5.1","walletLocked":true},"target":"inPage","type":"functionCallResult"}
+[00:00:08.753] Browser WARN    Image with src "/_next/static/media/building-mask-mobile.c2b86e10.avif" has "fill" and a height value of 0. This is likely because the parent element of the image has not been styled to have a set height.
+[00:00:08.888] Browser LOG     Call: roistat already started, skip
+[00:00:09.499] Browser LOG     [PostHog.js] set_config {"config":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"newConfig":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"oldConfig":{}}
+[00:00:09.499] Browser LOG     [PostHog.js] Persistence loaded localStorage {"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$capture_rate_limit":{"last":1766066473959,"tokens":99},"$client_session_props":{"props":{"r":"$direct","u":"http://localhost:3000/"},"sessionId":"019b31a3-4ff4-75f2-8814-5ce4e4e8468c"},"$configured_session_timeout_ms":1800000,"$dead_clicks_enabled_server_side":false,"$device_id":"019b317c-b69c-741c-9064-7da8f4994168","$enabled_feature_flags":{},"$error_tracking_suppression_rules":[],"$exception_capture_enabled_server_side":false,"$feature_flag_details":{},"$feature_flag_evaluated_at":1766066449285,"$feature_flag_payloads":{},"$feature_flag_request_id":"a439f378-30a5-4bac-ab39-f196e1eb4332","$heatmaps_enabled_server_side":true,"$initial_person_info":{"r":"http://localhost:3000/thank-you-ro","u":"http://localhost:3000/thank-you-ro"},"$initialization_time":"2025-12-18T14:00:48.955Z","$sesid":[1766066473959,"019b31a3-4ff4-75f2-8814-5ce4e4e8468c",1766064345074],"$user_state":"anonymous","$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"distinct_id":"019b317c-b69c-741c-9064-7da8f4994168","external_id":"8f80144b-bb65-4896-907b-a5290957b2c0","fbp":"fb.0.1766065805054.232981165753156364","pageview_event_id":"4007a4e5-2e55-4d11-a30e-89175430f06e"}
+[00:00:09.499] Browser LOG     [PostHog.js] Persistence loaded sessionStorage {}
+[00:00:09.499] Browser LOG     [PostHog.js] Initializing extensions synchronously
+[00:00:09.499] Browser LOG     [PostHog.js] [Product Tours] Product tours disabled via config
+[00:00:09.499] Browser LOG     [PostHog.js] [Heatmaps] starting...
+[00:00:09.499] Browser LOG     [PostHog.js] [Web Vitals] enabled, starting...
+[00:00:09.499] Browser LOG     [PostHog.js] Starting in debug mode {"config":{"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"capture_pageleave":false,"capture_pageview":false,"debug":true,"disable_session_recording":false,"persistence":"localStorage","person_profiles":"identified_only"},"p":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$capture_rate_limit":{"last":1766066473959,"tokens":99},"$client_session_props":{"props":{"r":"$direct","u":"http://localhost:3000/"},"sessionId":"019b31a3-4ff4-75f2-8814-5ce4e4e8468c"},"$configured_session_timeout_ms":1800000,"$dead_clicks_enabled_server_side":false,"$device_id":"019b317c-b69c-741c-9064-7da8f4994168","$enabled_feature_flags":{},"$error_tracking_suppression_rules":[],"$exception_capture_enabled_server_side":false,"$feature_flag_details":{},"$feature_flag_evaluated_at":1766066449285,"$feature_flag_payloads":{},"$feature_flag_request_id":"a439f378-30a5-4bac-ab39-f196e1eb4332","$heatmaps_enabled_server_side":true,"$initial_person_info":{"r":"http://localhost:3000/thank-you-ro","u":"http://localhost:3000/thank-you-ro"},"$initialization_time":"2025-12-18T14:00:48.955Z","$sesid":[1766066473959,"019b31a3-4ff4-75f2-8814-5ce4e4e8468c",1766064345074],"$user_state":"anonymous","$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"distinct_id":"019b317c-b69c-741c-9064-7da8f4994168","external_id":"8f80144b-bb65-4896-907b-a5290957b2c0","fbp":"fb.0.1766065805054.232981165753156364","pageview_event_id":"4007a4e5-2e55-4d11-a30e-89175430f06e"},"s":{},"this":{"Ar":null,"Fr":false,"Hr":{"$e":false,"Pe":true,"_instance":"[Circular]","ke":3000,"me":[]},"Ir":false,"Lr":[],"Mr":null,"Or":"identified_only","Rr":{"Ii":{"eventCaptured":[null]}},"Ur":{"_e":true,"me":[],"ye":3000},"__loaded":true,"__request_queue":[],"analyticsDefaultEndpoint":"/e/","autocapture":{"C":false,"I":null,"P":false,"T":null,"instance":"[Circular]","rageclicks":{"clickCount":3,"clicks":[],"disabled":false,"thresholdPx":30,"timeoutMs":1000}},"compression":"gzip-js","config":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"consent":{"Z":{},"_instance":"[Circular]"},"conversations":{"Ti":false,"_conversationsManager":null,"_instance":"[Circular]","ce":null},"deadClicksAutocapture":{"instance":"[Circular]"},"exceptionObserver":{"R":{"capture_console_errors":false,"capture_unhandled_errors":false,"capture_unhandled_rejections":false},"_instance":"[Circular]","dt":{"S":10000,"m":1,"o":10,"t":{}},"ut":false},"exceptions":{"Jt":[],"Kt":{"coercers":[{},{},{},{},{},{},{},{}],"modifiers":[]},"_instance":"[Circular]"},"experiments":{"_instance":"[Circular]"},"externalIntegrations":{"_instance":"[Circular]"},"featureFlags":{"_instance":"[Circular]","ai":false,"ei":false,"featureFlagEventHandlers":[null],"ii":false,"ni":false,"oi":false,"ri":false,"si":false},"heatmaps":{"It":119,"P":true,"St":true,"instance":"[Circular]","rageclicks":{"clickCount":3,"clicks":[],"disabled":false,"thresholdPx":30,"timeoutMs":1000},"zt":{"instance":"[Circular]"}},"historyAutocapture":{"_instance":"[Circular]","vt":"/"},"jr":{"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"capture_pageleave":false,"capture_pageview":false,"debug":true,"disable_session_recording":false,"persistence":"localStorage","person_profiles":"identified_only"},"pageViewManager":{"_instance":"[Circular]"},"people":{},"persistence":{"Ei":false,"R":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"Si":365,"Y":{},"bi":false,"gi":false,"mi":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_posthog","props":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$capture_rate_limit":{"last":1766066473959,"tokens":99},"$client_session_props":{"props":"[Object]","sessionId":"019b31a3-4ff4-75f2-8814-5ce4e4e8468c"},"$configured_session_timeout_ms":1800000,"$dead_clicks_enabled_server_side":false,"$device_id":"019b317c-b69c-741c-9064-7da8f4994168","$enabled_feature_flags":{},"$error_tracking_suppression_rules":[],"$exception_capture_enabled_server_side":false,"$feature_flag_details":{},"$feature_flag_evaluated_at":1766066449285,"$feature_flag_payloads":{},"$feature_flag_request_id":"a439f378-30a5-4bac-ab39-f196e1eb4332","$heatmaps_enabled_server_side":true,"$initial_person_info":{"r":"http://localhost:3000/thank-you-ro","u":"http://localhost:3000/thank-you-ro"},"$initialization_time":"2025-12-18T14:41:40.953Z","$sesid":[1766066473959,"019b31a3-4ff4-75f2-8814-5ce4e4e8468c",1766064345074],"$user_state":"anonymous","$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"distinct_id":"019b317c-b69c-741c-9064-7da8f4994168","external_id":"8f80144b-bb65-4896-907b-a5290957b2c0","fbp":"fb.0.1766065805054.232981165753156364","pageview_event_id":"4007a4e5-2e55-4d11-a30e-89175430f06e"},"wi":365,"xi":true},"productTours":{"$i":null,"Ti":false,"_instance":"[Circular]","ki":null},"rateLimiter":{"captureEventsBurstLimit":100,"captureEventsPerSecond":10,"instance":"[Circular]","lastEventRateLimited":false,"serverLimits":{}},"requestRouter":{"hr":{"https://eu.i.posthog.com":"eu"},"instance":"[Circular]"},"scrollManager":{"_instance":"[Circular]"},"sessionManager":{"Ke":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_window_id","Le":{"Ei":false,"R":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":"[Object]","respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"Si":365,"Y":{},"bi":false,"gi":false,"mi":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_posthog","props":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$capture_rate_limit":"[Object]","$client_session_props":"[Object]","$configured_session_timeout_ms":1800000,"$dead_clicks_enabled_server_side":false,"$device_id":"019b317c-b69c-741c-9064-7da8f4994168","$enabled_feature_flags":{},"$error_tracking_suppression_rules":[],"$exception_capture_enabled_server_side":false,"$feature_flag_details":{},"$feature_flag_evaluated_at":1766066449285,"$feature_flag_payloads":{},"$feature_flag_request_id":"a439f378-30a5-4bac-ab39-f196e1eb4332","$heatmaps_enabled_server_side":true,"$initial_person_info":"[Object]","$initialization_time":"2025-12-18T14:41:40.953Z","$sesid":"[Array]","$user_state":"anonymous","$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"distinct_id":"019b317c-b69c-741c-9064-7da8f4994168","external_id":"8f80144b-bb65-4896-907b-a5290957b2c0","fbp":"fb.0.1766065805054.232981165753156364","pageview_event_id":"4007a4e5-2e55-4d11-a30e-89175430f06e"},"wi":365,"xi":true},"R":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"Ue":{"Ii":{}},"Ye":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_primary_window_exists","_sessionActivityTimestamp":null,"_sessionStartTimestamp":null,"_sessionTimeoutMs":1800000,"rr":115,"ze":[null]},"sessionPersistence":{"Ei":false,"R":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"sessionStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"Si":365,"Y":{},"bi":false,"gi":false,"mi":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_posthog","props":{"$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":1},"wi":365,"xi":true},"sessionPropsManager":{"Le":{"Ei":false,"R":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":"[Object]","respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"Si":365,"Y":{},"bi":false,"gi":false,"mi":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_posthog","props":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$capture_rate_limit":"[Object]","$client_session_props":"[Object]","$configured_session_timeout_ms":1800000,"$dead_clicks_enabled_server_side":false,"$device_id":"019b317c-b69c-741c-9064-7da8f4994168","$enabled_feature_flags":{},"$error_tracking_suppression_rules":[],"$exception_capture_enabled_server_side":false,"$feature_flag_details":{},"$feature_flag_evaluated_at":1766066449285,"$feature_flag_payloads":{},"$feature_flag_request_id":"a439f378-30a5-4bac-ab39-f196e1eb4332","$heatmaps_enabled_server_side":true,"$initial_person_info":"[Object]","$initialization_time":"2025-12-18T14:41:40.953Z","$sesid":"[Array]","$user_state":"anonymous","$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"distinct_id":"019b317c-b69c-741c-9064-7da8f4994168","external_id":"8f80144b-bb65-4896-907b-a5290957b2c0","fbp":"fb.0.1766065805054.232981165753156364","pageview_event_id":"4007a4e5-2e55-4d11-a30e-89175430f06e"},"wi":365,"xi":true},"Ne":{"Ke":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_window_id","Le":{"Ei":false,"R":"[Object]","Si":365,"Y":"[Object]","bi":false,"gi":false,"mi":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_posthog","props":"[Object]","wi":365,"xi":true},"R":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":"[Object]","respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"Ue":{"Ii":{}},"Ye":"ph_phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb_primary_window_exists","_sessionActivityTimestamp":null,"_sessionStartTimestamp":null,"_sessionTimeoutMs":1800000,"rr":115,"ze":[null]},"_instance":"[Circular]"},"sessionRecording":{"_forceAllowLocalhostNetworkCapture":false,"_instance":"[Circular]","br":false},"siteApps":{"_instance":"[Circular]","apps":{},"sr":[]},"surveys":{"_instance":"[Circular]","_surveyEventReceiver":null,"_surveyManager":null,"ne":false,"oe":[],"se":false},"toolbar":{"instance":"[Circular]"},"version":"1.307.0","webPerformance":{"__forceAllowLocalhost":false},"webVitalsAutocapture":{"N":{"metrics":[]},"P":false,"St":true,"_instance":"[Circular]"}},"thisC":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false}}
+[00:00:09.499] Browser WARN    [PostHog.js] You have already initialized PostHog! Re-initializing is a no-op
+[00:00:09.499] Browser LOG     [PostHog.js] [SessionId] new session ID generated {"changeReason":{"activityTimeout":true,"noSessionId":false,"sessionPastMaximumLength":false},"sessionId":"019b31e8-d463-7400-a08b-940c73ef1c3e","windowId":"019b31e8-d463-7400-a08b-940dfd302788"}
+[00:00:09.499] Browser LOG     [PostHog.js] send "$pageview" {"event":"$pageview","properties":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$browser":"Chrome","$browser_language":"ru-RU","$browser_language_prefix":"ru","$browser_version":143,"$config_defaults":"unset","$configured_session_timeout_ms":1800000,"$current_url":"http://localhost:3000/","$dead_clicks_enabled_server_side":false,"$device_id":"019b317c-b69c-741c-9064-7da8f4994168","$device_type":"Desktop","$exception_capture_enabled_server_side":false,"$feature_flag_evaluated_at":1766066449285,"$feature_flag_payloads":{},"$feature_flag_request_id":"a439f378-30a5-4bac-ab39-f196e1eb4332","$host":"localhost:3000","$initialization_time":"2025-12-18T14:41:40.953Z","$insert_id":"gm0u5h34fjze9t1m","$is_identified":false,"$lib":"web","$lib_rate_limit_remaining_tokens":99,"$lib_version":"1.307.0","$os":"Mac OS X","$os_version":"10.15.7","$pageview_id":"019b31e8-d462-77d5-85f8-609102c6a1e2","$pathname":"/","$process_person_profile":false,"$raw_user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","$recording_status":"lazy_loading","$referrer":"$direct","$referring_domain":"$direct","$screen_height":1440,"$screen_width":2560,"$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":1,"$sdk_debug_retry_queue_size":0,"$session_entry_host":"localhost:3000","$session_entry_pathname":"/","$session_entry_referrer":"$direct","$session_entry_referring_domain":"$direct","$session_entry_url":"http://localhost:3000/","$session_id":"019b31e8-d463-7400-a08b-940c73ef1c3e","$time":1766068900.963,"$timezone":"Europe/Chisinau","$timezone_offset":-120,"$viewport_height":853,"$viewport_width":1765,"$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"$window_id":"019b31e8-d463-7400-a08b-940dfd302788","distinct_id":"019b317c-b69c-741c-9064-7da8f4994168","external_id":"8f80144b-bb65-4896-907b-a5290957b2c0","fbp":"fb.0.1766065805054.232981165753156364","pageview_event_id":"08d6b997-5f9f-47b2-83c8-c496e6570d2b","title":"ENSO LIVING","token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb"},"timestamp":"2025-12-18T14:41:40.962Z","uuid":"019b31e8-d462-77d5-85f8-609102c6a1e2"}
+[00:00:09.499] Browser LOG     [PostHog.js] [Dead Clicks] starting...
+[00:00:09.499] Browser LOG     [PostHog.js] [RemoteConfig] __preview_remote_config is disabled. Logging config instead {"analytics":{"endpoint":"/i/v0/e/"},"autocaptureExceptions":false,"autocapture_opt_out":false,"captureDeadClicks":false,"capturePerformance":{"network_timing":true,"web_vitals":true,"web_vitals_allowed_metrics":null},"defaultIdentifiedOnly":true,"elementsChainAsString":true,"errorTracking":{"autocaptureExceptions":false,"suppressionRules":[]},"hasFeatureFlags":false,"heatmaps":true,"productTours":false,"sessionRecording":false,"supportedCompression":["gzip","gzip-js"],"surveys":false,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb"}
+[00:00:09.499] Browser LOG     [PostHog.js] Persistence loaded sessionStorage {"$referrer":"$direct","$referring_domain":"$direct","$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":1}
+[00:00:09.499] Browser LOG     [PostHog.js] set_config {"config":{"person_profiles":"identified_only"},"newConfig":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false},"oldConfig":{"__preview_deferred_init_extensions":false,"__preview_eager_load_replay":false,"advanced_disable_decide":false,"advanced_disable_feature_flags":false,"advanced_disable_feature_flags_on_first_load":false,"advanced_disable_flags":false,"advanced_disable_toolbar_metrics":false,"advanced_enable_surveys":false,"advanced_only_evaluate_survey_feature_flags":false,"api_host":"https://eu.i.posthog.com","autocapture":false,"batch_flush_interval_ms":3000,"batch_size":10,"bootstrap":{},"capture_pageleave":false,"capture_pageview":false,"consent_persistence_name":null,"cookie_expiration":365,"cross_subdomain_cookie":true,"custom_blocked_useragents":[],"custom_campaign_params":[],"custom_personal_data_properties":[],"debug":true,"defaults":"unset","disable_compression":false,"disable_conversations":false,"disable_external_dependency_loading":false,"disable_persistence":false,"disable_product_tours":true,"disable_session_recording":false,"disable_surveys":false,"disable_surveys_automatic_display":false,"disable_web_experiments":true,"error_tracking":{},"feature_flag_request_timeout_ms":3000,"flags_api_host":null,"ip":false,"mask_all_element_attributes":false,"mask_all_text":false,"mask_personal_data_properties":false,"name":"posthog","opt_in_site_apps":false,"opt_out_capturing_by_default":false,"opt_out_capturing_cookie_prefix":null,"opt_out_capturing_persistence_type":"localStorage","opt_out_persistence_by_default":false,"opt_out_useragent_filter":false,"persistence":"localStorage","persistence_name":"","person_profiles":"identified_only","properties_string_max_length":65535,"property_denylist":[],"rageclick":true,"request_batching":true,"request_headers":{},"request_queue_config":{"flush_interval_ms":3000},"respect_dnt":false,"sanitize_properties":null,"save_campaign_params":true,"save_referrer":true,"secure_cookie":false,"session_idle_timeout_seconds":1800,"session_recording":{},"surveys_request_timeout_ms":10000,"token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb","ui_host":null,"upgrade":false}}
+[00:00:09.499] Browser LOG     [PostHog.js] [Surveys] flags response received, isSurveysEnabled: false
+[00:00:09.499] Browser LOG     [PostHog.js] [Product Tours] Product tours disabled via config
+[00:00:09.499] Browser LOG     [PostHog.js] [Surveys] Surveys loaded successfully
+[00:00:14.334] Browser LOG     [PostHog.js] send "$$heatmap" {"event":"$$heatmap","properties":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$browser":"Chrome","$browser_language":"ru-RU","$browser_language_prefix":"ru","$browser_version":143,"$config_defaults":"unset","$configured_session_timeout_ms":1800000,"$current_url":"http://localhost:3000/","$dead_clicks_enabled_server_side":false,"$device_id":"019b317c-b69c-741c-9064-7da8f4994168","$device_type":"Desktop","$exception_capture_enabled_server_side":false,"$feature_flag_evaluated_at":1766068901150,"$feature_flag_payloads":{},"$feature_flag_request_id":"d1100e55-ea2d-42f1-9950-f0d275505d14","$heatmap_data":{"http://localhost:3000/":[{"target_fixed":false,"type":"mousemove","x":987,"y":230},{"target_fixed":false,"type":"mousemove","x":1219,"y":367}]},"$host":"localhost:3000","$initialization_time":"2025-12-18T14:41:40.953Z","$insert_id":"9evuukyny6z64nbg","$is_identified":false,"$lib":"web","$lib_rate_limit_remaining_tokens":99,"$lib_version":"1.307.0","$os":"Mac OS X","$os_version":"10.15.7","$pageview_id":"019b31e8-d462-77d5-85f8-609102c6a1e2","$pathname":"/","$process_person_profile":false,"$raw_user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","$recording_status":"disabled","$referrer":"$direct","$referring_domain":"$direct","$screen_height":1440,"$screen_width":2560,"$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":1,"$sdk_debug_retry_queue_size":0,"$session_entry_host":"localhost:3000","$session_entry_pathname":"/","$session_entry_referrer":"$direct","$session_entry_referring_domain":"$direct","$session_entry_url":"http://localhost:3000/","$session_id":"019b31e8-d463-7400-a08b-940c73ef1c3e","$time":1766068905.956,"$timezone":"Europe/Chisinau","$timezone_offset":-120,"$viewport_height":853,"$viewport_width":1318,"$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"$window_id":"019b31e8-d463-7400-a08b-940dfd302788","distinct_id":"019b317c-b69c-741c-9064-7da8f4994168","external_id":"8f80144b-bb65-4896-907b-a5290957b2c0","fbp":"fb.0.1766065805054.232981165753156364","pageview_event_id":"08d6b997-5f9f-47b2-83c8-c496e6570d2b","token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb"},"timestamp":"2025-12-18T14:41:45.955Z","uuid":"019b31e8-e7e3-7b6d-920c-2b8e5b284b13"}
+[00:00:14.334] Browser LOG     [PostHog.js] send "$web_vitals" {"event":"$web_vitals","properties":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$browser":"Chrome","$browser_language":"ru-RU","$browser_language_prefix":"ru","$browser_version":143,"$config_defaults":"unset","$configured_session_timeout_ms":1800000,"$current_url":"http://localhost:3000/","$dead_clicks_enabled_server_side":false,"$device_id":"019b317c-b69c-741c-9064-7da8f4994168","$device_type":"Desktop","$exception_capture_enabled_server_side":false,"$feature_flag_evaluated_at":1766068901150,"$feature_flag_payloads":{},"$feature_flag_request_id":"d1100e55-ea2d-42f1-9950-f0d275505d14","$host":"localhost:3000","$initialization_time":"2025-12-18T14:41:40.953Z","$insert_id":"4f0b5wg9x2dbeiof","$is_identified":false,"$lib":"web","$lib_rate_limit_remaining_tokens":98.56,"$lib_version":"1.307.0","$os":"Mac OS X","$os_version":"10.15.7","$pageview_id":"019b31e8-d462-77d5-85f8-609102c6a1e2","$pathname":"/","$process_person_profile":false,"$raw_user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","$recording_status":"disabled","$referrer":"$direct","$referring_domain":"$direct","$screen_height":1440,"$screen_width":2560,"$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":1,"$sdk_debug_retry_queue_size":0,"$session_entry_host":"localhost:3000","$session_entry_pathname":"/","$session_entry_referrer":"$direct","$session_entry_referring_domain":"$direct","$session_entry_url":"http://localhost:3000/","$session_id":"019b31e8-d463-7400-a08b-940c73ef1c3e","$time":1766068906.011,"$timezone":"Europe/Chisinau","$timezone_offset":-120,"$viewport_height":853,"$viewport_width":1318,"$web_vitals_FCP_event":{"$current_url":"http://localhost:3000/","$session_id":"019b31e8-d463-7400-a08b-940c73ef1c3e","$window_id":"019b31e8-d463-7400-a08b-940dfd302788","attribution":{"firstByteToFCP":317,"loadState":"dom-content-loaded","navigationEntry":{},"timeToFirstByte":1491.2999999523163},"delta":1808.2999999523163,"entries":[{}],"id":"v4-1766068901010-5254137158989","name":"FCP","navigationType":"prerender","rating":"needs-improvement","timestamp":1766068901010,"value":1808.2999999523163},"$web_vitals_FCP_value":1808.2999999523163,"$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"$window_id":"019b31e8-d463-7400-a08b-940dfd302788","distinct_id":"019b317c-b69c-741c-9064-7da8f4994168","external_id":"8f80144b-bb65-4896-907b-a5290957b2c0","fbp":"fb.0.1766065805054.232981165753156364","pageview_event_id":"08d6b997-5f9f-47b2-83c8-c496e6570d2b","token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb"},"timestamp":"2025-12-18T14:41:46.011Z","uuid":"019b31e8-e81b-7d42-bfe8-78782b5b0f4c"}
+[00:00:19.280] Browser LOG     [PostHog.js] send "$$heatmap" {"event":"$$heatmap","properties":{"$active_feature_flags":[],"$autocapture_disabled_server_side":false,"$browser":"Chrome","$browser_language":"ru-RU","$browser_language_prefix":"ru","$browser_version":143,"$config_defaults":"unset","$configured_session_timeout_ms":1800000,"$current_url":"http://localhost:3000/","$dead_clicks_enabled_server_side":false,"$device_id":"019b317c-b69c-741c-9064-7da8f4994168","$device_type":"Desktop","$exception_capture_enabled_server_side":false,"$feature_flag_evaluated_at":1766068901150,"$feature_flag_payloads":{},"$feature_flag_request_id":"d1100e55-ea2d-42f1-9950-f0d275505d14","$heatmap_data":{"http://localhost:3000/":[{"target_fixed":false,"type":"mousemove","x":1229,"y":785}]},"$host":"localhost:3000","$initialization_time":"2025-12-18T14:41:40.953Z","$insert_id":"y2kqbpt86y6c4ccs","$is_identified":false,"$lib":"web","$lib_rate_limit_remaining_tokens":99,"$lib_version":"1.307.0","$os":"Mac OS X","$os_version":"10.15.7","$pageview_id":"019b31e8-d462-77d5-85f8-609102c6a1e2","$pathname":"/","$process_person_profile":false,"$raw_user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","$recording_status":"disabled","$referrer":"$direct","$referring_domain":"$direct","$screen_height":1440,"$screen_width":2560,"$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":1,"$sdk_debug_retry_queue_size":0,"$session_entry_host":"localhost:3000","$session_entry_pathname":"/","$session_entry_referrer":"$direct","$session_entry_referring_domain":"$direct","$session_entry_url":"http://localhost:3000/","$session_id":"019b31e8-d463-7400-a08b-940c73ef1c3e","$time":1766068910.956,"$timezone":"Europe/Chisinau","$timezone_offset":-120,"$viewport_height":853,"$viewport_width":1318,"$web_vitals_allowed_metrics":null,"$web_vitals_enabled_server_side":true,"$window_id":"019b31e8-d463-7400-a08b-940dfd302788","distinct_id":"019b317c-b69c-741c-9064-7da8f4994168","external_id":"8f80144b-bb65-4896-907b-a5290957b2c0","fbp":"fb.0.1766065805054.232981165753156364","pageview_event_id":"08d6b997-5f9f-47b2-83c8-c496e6570d2b","token":"phc_C0CDVdHspH4tadNG46T7ACoeXGS3S73pJY75vS3mhKb"},"timestamp":"2025-12-18T14:41:50.956Z","uuid":"019b31e8-fb6c-7805-820c-ed1bf194599c"}

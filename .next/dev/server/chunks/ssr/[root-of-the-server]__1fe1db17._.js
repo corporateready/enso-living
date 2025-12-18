@@ -239,6 +239,23 @@ function RootLayout({ children }) {
                         fileName: "[project]/app/layout.js",
                         lineNumber: 85,
                         columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$script$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                        id: "roistat-script",
+                        dangerouslySetInnerHTML: {
+                            __html: `
+          (function(w, d, s, h, id) {
+    w.roistatProjectId = id; w.roistatHost = h;
+    var p = d.location.protocol == "https:" ? "https://" : "http://";
+    var u = /^.*roistat_visit=[^;]+(.*)?$/.test(d.cookie) ? "/dist/module.js" : "/api/site/1.0/"+id+"/init?referrer="+encodeURIComponent(d.location.href);
+    var js = d.createElement(s); js.charset="UTF-8"; js.async = 1; js.src = p+h+u; var js2 = d.getElementsByTagName(s)[0]; js2.parentNode.insertBefore(js, js2);
+})(window, document, 'script', 'cloud.roistat.com', 'e39442a8581e616d741b8f0786da960e');
+          `
+                        }
+                    }, void 0, false, {
+                        fileName: "[project]/app/layout.js",
+                        lineNumber: 91,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {

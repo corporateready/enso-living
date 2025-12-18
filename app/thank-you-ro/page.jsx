@@ -111,7 +111,6 @@ const page = () => {
                     strokeLinejoin="round"
                   />
                 </svg>
-                  +40 00 000 000
               </Link>
             </div>
           </div>
@@ -210,3 +209,70 @@ const page = () => {
 };
 
 export default page;
+
+{/* <script id="roistat-script" >
+  (function(w, d, s, h, id) {
+    function getPostHogDistinctId() {
+var keys = Object.keys(localStorage);
+for (var i = 0; i < keys.length; i++) {
+  var key = keys[i];
+if (key.indexOf('ph_phc_') === 0 && key.endsWith('_posthog')) {
+try {
+var item = localStorage.getItem(key);
+if (item) {
+var data = JSON.parse(item);
+if (data && data.distinct_id) {
+return data.distinct_id;
+}
+}
+} catch(e) {}
+}
+}
+return '';
+}
+
+    
+    var idTimer = setInterval(function() {
+    if (!!getPostHogDistinctId() && !!window.roistat && !!window.roistat.visit) {
+        clearInterval(idTimer);
+        window.roistat.setRoistatParams({
+            roistat_param_1: getPostHogDistinctId(),
+            'roistat_param1': getPostHogDistinctId()
+        });
+    }
+}, 1800);
+    
+    
+    var customParamTimer = setInterval(function() {
+    window.roistat.setRoistatParams({
+      roistat_param_2: '{{FBP Cookie}}',
+      'roistat_param2': '{{FBP Cookie}}',
+          
+      roistat_param_3: '{{Pageview Event ID from storage}}',
+      'roistat_param3': '{{Pageview Event ID from storage}}',
+          
+      roistat_param_4: '{{External ID from storage}}',
+      'roistat_param4': '{{External ID from storage}}'
+      });
+}, 2200);
+      
+      
+    w.roistatProjectId = id;
+    w.roistatHost = h;
+    var protocol = d.location.protocol === "https:" ? "https://" : "http://";
+    var url = /^.*roistat_visit=[^;]+(.*)?$/.test(d.cookie)
+      ? "/dist/module.js"
+      : "/api/site/1.0/" + id + "/init?referrer=" + encodeURIComponent(d.location.href);
+
+    var js = d.createElement(s);
+    js.charset = "UTF-8";
+    js.async = true;
+    js.src = protocol + h + url;
+
+    var firstScript = d.getElementsByTagName(s)[0];
+    firstScript.parentNode.insertBefore(js, firstScript);
+
+    console.log('Roistat is ready!')
+
+  })(window, document, "script", "cloud.roistat.com", "e39442a8581e616d741b8f0786da960e");
+</script> */}
