@@ -81,14 +81,7 @@ export default function RootLayout({ children }) {
         />
       </head>
       <body className={`antialiased`}>
-        {children}
-        <Script
-          id="to-top"
-          dangerouslySetInnerHTML={{
-            __html: `history.scrollRestoration = "manual"`,
-          }}
-        />
-        <Script 
+      <Script 
         id="roistat-script"
         dangerouslySetInnerHTML={{
           __html: `
@@ -101,6 +94,14 @@ export default function RootLayout({ children }) {
           `,
         }}
         />
+        {children}
+        <Script
+          id="to-top"
+          dangerouslySetInnerHTML={{
+            __html: `history.scrollRestoration = "manual"`,
+          }}
+        />
+        
       </body>
     </html>
   );
