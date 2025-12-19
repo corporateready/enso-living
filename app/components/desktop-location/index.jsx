@@ -5,13 +5,14 @@ import Image from "next/image";
 const Index = ({handlerFormOpen}) => {
   return (
     <div className={styles.section}>
-      <div className="w-full h-[1274rem] relative">
+      <div className="w-full h-[1274rem] relative z-0">
         <Image
           src="/desktop-location.avif"
           alt="enso living slide"
-          priority={true}
+          priority
+          quality={100}
           fill
-          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          sizes="(min-width: 640px) 100vw"
         />
       </div>
       <div className={styles.head__content}>

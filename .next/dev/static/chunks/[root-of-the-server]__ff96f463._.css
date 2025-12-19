@@ -273,15 +273,6 @@
       --tw-translate-y: 0;
       --tw-translate-z: 0;
       --tw-border-style: solid;
-      --tw-gradient-position: initial;
-      --tw-gradient-from: #0000;
-      --tw-gradient-via: #0000;
-      --tw-gradient-to: #0000;
-      --tw-gradient-stops: initial;
-      --tw-gradient-via-stops: initial;
-      --tw-gradient-from-position: 0%;
-      --tw-gradient-via-position: 50%;
-      --tw-gradient-to-position: 100%;
       --tw-leading: initial;
       --tw-font-weight: initial;
       --tw-tracking: initial;
@@ -347,7 +338,6 @@
   :root, :host {
     --font-sans: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-    --color-indigo-50: #eef2ff;
     --color-black: #000;
     --color-white: #fff;
     --spacing: .25rem;
@@ -361,12 +351,6 @@
     --default-transition-timing-function: cubic-bezier(.4, 0, .2, 1);
     --default-font-family: var(--font-sans);
     --default-mono-font-family: var(--font-mono);
-  }
-
-  @supports (color: lab(0% 0 0)) {
-    :root, :host {
-      --color-indigo-50: lab(95.4818% .411302 -6.78529);
-    }
   }
 }
 
@@ -679,14 +663,6 @@
     top: 3rem;
   }
 
-  .top-\[4rem\] {
-    top: 4rem;
-  }
-
-  .top-\[8rem\] {
-    top: 8rem;
-  }
-
   .top-\[9rem\] {
     top: 9rem;
   }
@@ -711,16 +687,8 @@
     right: 8rem;
   }
 
-  .right-\[10rem\] {
-    right: 10rem;
-  }
-
   .right-\[11rem\] {
     right: 11rem;
-  }
-
-  .right-\[12rem\] {
-    right: 12rem;
   }
 
   .right-\[25rem\] {
@@ -833,10 +801,6 @@
 
   .mt-\[3dvh\] {
     margin-top: 3dvh;
-  }
-
-  .mt-\[3rem\] {
-    margin-top: 3rem;
   }
 
   .mt-\[32dvh\] {
@@ -1300,11 +1264,6 @@
     .bg-white\/30 {
       background-color: color-mix(in oklab, var(--color-white) 30%, transparent);
     }
-  }
-
-  .to-indigo-50 {
-    --tw-gradient-to: var(--color-indigo-50);
-    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
 
   .bg-cover {
@@ -2289,57 +2248,6 @@ body {
   syntax: "*";
   inherits: false;
   initial-value: solid;
-}
-
-@property --tw-gradient-position {
-  syntax: "*";
-  inherits: false
-}
-
-@property --tw-gradient-from {
-  syntax: "<color>";
-  inherits: false;
-  initial-value: #0000;
-}
-
-@property --tw-gradient-via {
-  syntax: "<color>";
-  inherits: false;
-  initial-value: #0000;
-}
-
-@property --tw-gradient-to {
-  syntax: "<color>";
-  inherits: false;
-  initial-value: #0000;
-}
-
-@property --tw-gradient-stops {
-  syntax: "*";
-  inherits: false
-}
-
-@property --tw-gradient-via-stops {
-  syntax: "*";
-  inherits: false
-}
-
-@property --tw-gradient-from-position {
-  syntax: "<length-percentage>";
-  inherits: false;
-  initial-value: 0%;
-}
-
-@property --tw-gradient-via-position {
-  syntax: "<length-percentage>";
-  inherits: false;
-  initial-value: 50%;
-}
-
-@property --tw-gradient-to-position {
-  syntax: "<length-percentage>";
-  inherits: false;
-  initial-value: 100%;
 }
 
 @property --tw-leading {
