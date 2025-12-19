@@ -659,6 +659,10 @@
     top: 50%;
   }
 
+  .top-\[4rem\] {
+    top: 4rem;
+  }
+
   .top-\[37rem\] {
     top: 37rem;
   }
@@ -755,10 +759,6 @@
     z-index: -1;
   }
 
-  .z-\[-10\] {
-    z-index: -10;
-  }
-
   .col-start-2 {
     grid-column-start: 2;
   }
@@ -789,10 +789,6 @@
 
   .mr-\[4rem\] {
     margin-right: 4rem;
-  }
-
-  .mr-\[10rem\] {
-    margin-right: 10rem;
   }
 
   .-ml-4 {

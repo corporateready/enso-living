@@ -165,9 +165,11 @@
 }
 
 .styles-module-scss-module__LqvjKG__socials__link {
+  z-index: 0;
   align-items: center;
   gap: 14rem;
   display: flex;
+  position: relative;
 }
 
 @media screen and (min-width: 640px) {
@@ -255,7 +257,19 @@
 }
 
 .styles-module-scss-module__LqvjKG__thanks__footer_phone {
+  width: 22rem;
+  height: 24rem;
   display: inline-block;
+}
+
+@media (min-width: 40rem) {
+  .styles-module-scss-module__LqvjKG__thanks__footer_phone {
+    height: 45rem;
+  }
+
+  .styles-module-scss-module__LqvjKG__thanks__footer_phone {
+    width: 42rem;
+  }
 }
 
 @property --tw-content {
