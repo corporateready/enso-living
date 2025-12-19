@@ -659,14 +659,6 @@
     top: 50%;
   }
 
-  .top-\[25rem\] {
-    top: 25rem;
-  }
-
-  .top-\[30rem\] {
-    top: 30rem;
-  }
-
   .top-\[37rem\] {
     top: 37rem;
   }
@@ -685,10 +677,6 @@
 
   .right-\[35rem\] {
     right: 35rem;
-  }
-
-  .right-\[40rem\] {
-    right: 40rem;
   }
 
   .-bottom-12 {
@@ -761,6 +749,10 @@
 
   .z-5 {
     z-index: 5;
+  }
+
+  .z-\[-1\] {
+    z-index: -1;
   }
 
   .col-start-2 {
@@ -1451,6 +1443,12 @@
   .outline-none {
     --tw-outline-style: none;
     outline-style: none;
+  }
+
+  @media (hover: hover) {
+    .group-hover\:rotate-45:is(:where(.group):hover *) {
+      rotate: 45deg;
+    }
   }
 
   @media (hover: hover) {

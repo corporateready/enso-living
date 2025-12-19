@@ -94,6 +94,7 @@ const page = () => {
               >
                 ro
               </button>
+              
               <Link
                 href="tel:"
                 className={styles.thanks__header_phone}
@@ -101,7 +102,7 @@ const page = () => {
                 
               </Link>
               <svg
-                  className="w-[24rem] h-[24rem] inline-block absolute top-[37rem] right-[35rem] -translate-0 sm:w-0"
+                  className="w-[24rem] h-[24rem] inline-block absolute top-[37rem] right-[35rem] -translate-0 z-[-1] group-hover:rotate-45 sm:w-0"
                   viewBox="0 0 24 24"
                   fill="none"
                   xmlns="http://www.w3.org/2000/svg"
