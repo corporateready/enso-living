@@ -25,9 +25,10 @@ const Page = () => {
 
             </div>
 
-            <Link href={"tel:"} className={styles.header__phone}>
-              <svg
-                className="inline-block relative z-2 w-[26rem] h-[26rem] sm:w-0"
+            <div className="relative z-0">
+            <Link href={"tel:"} className={styles.header__phone}></Link>
+            <svg
+                className="inline-block z-2 w-[26rem] h-[26rem] absolute top-[9rem] right-[8rem] z-[-1] sm:w-0"
                 viewBox="0 0 26 26"
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"
@@ -43,7 +44,7 @@ const Page = () => {
                   fill="black"
                 />
               </svg>
-            </Link>
+            </div>
           </div>
         </div>
       </header>

@@ -85,7 +85,7 @@ const Index = () => {
           </svg>
           </span>
         </button>
-        <div className="flex gap-[17rem]">
+        <div className="flex gap-[17rem] relative z-0">
           <button
             type="button"
             aria-label="select language"
@@ -97,8 +97,9 @@ const Index = () => {
             href={'tel:'}
             className={styles.header__phone}
           >
-            <svg
-              className="w-[24rem] h-[24rem] inline-block absolute top-1/2 left-1/2 -translate-1/2 z-1 sm:w-0"
+          </Link>
+          <svg
+              className="w-[24rem] h-[24rem] inline-block absolute top-[10rem] right-[11rem] translate-0 z-[-1] sm:w-0"
               viewBox="0 0 24 24"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
@@ -110,8 +111,6 @@ const Index = () => {
                 strokeLinejoin="round"
               />
             </svg>
-            
-          </Link>
         </div>
       </div>
     </header>

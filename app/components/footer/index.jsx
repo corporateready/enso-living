@@ -102,10 +102,8 @@ const Index = () => {
             </span>
           </Link>
           <div className={styles.socials__link}>
-            
-            <Link href={"tel:"} aria-label="phone" className={styles.footer__phone}>
-            <svg
-                className="w-[23rem] h-[22rem] absolute top-1/2 left-1/2 -translate-1/2 z-[-1] mr-[4rem] sm:w-[46rem] sm:h-[44rem] opacity-60"
+          <svg
+                className="w-[23rem] h-[22rem] absolute top-0 left-0 translate-0 z-[-1] mr-[4rem] sm:w-[46rem] sm:h-[44rem] mt-[2rem] sm:mt-[4rem] opacity-60"
                 viewBox="0 0 23 22"
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"
@@ -115,7 +113,7 @@ const Index = () => {
                   fill="white"
                 />
             </svg>
-            </Link>
+            <Link href={"tel:"} aria-label="phone" className={styles.footer__phone}></Link>
             <Link
               href={"https://www.facebook.com/profile.php?id=61580179168995"}
               aria-label="facebook"

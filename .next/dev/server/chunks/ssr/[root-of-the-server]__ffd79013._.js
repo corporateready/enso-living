@@ -22,7 +22,6 @@ __turbopack_context__.v({
   "header__content": "styles-module-scss-module__MsBGEW__header__content",
   "header__logo": "styles-module-scss-module__MsBGEW__header__logo",
   "header__phone": "styles-module-scss-module__MsBGEW__header__phone",
-  "span__blur": "styles-module-scss-module__MsBGEW__span__blur",
 });
 }),
 "[externals]/next/dist/server/app-render/action-async-storage.external.js [external] (next/dist/server/app-render/action-async-storage.external.js, cjs)", ((__turbopack_context__, module, exports) => {
@@ -93,27 +92,19 @@ const Page = ()=>{
                         lineNumber: 18,
                         columnNumber: 13
                     }, ("TURBOPACK compile-time value", void 0)),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                        href: "tel:+37376039073",
-                        className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$terms$2d$privacy$2d$header$2f$styles$2e$module$2e$scss__$5b$app$2d$ssr$5d$__$28$css__module$29$__["default"].header__phone,
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "relative z-0",
                         children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$terms$2d$privacy$2d$header$2f$styles$2e$module$2e$scss__$5b$app$2d$ssr$5d$__$28$css__module$29$__["default"].span__blur
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+                                href: "tel:",
+                                className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$terms$2d$privacy$2d$header$2f$styles$2e$module$2e$scss__$5b$app$2d$ssr$5d$__$28$css__module$29$__["default"].header__phone
                             }, void 0, false, {
                                 fileName: "[project]/app/components/terms-privacy-header/index.jsx",
                                 lineNumber: 29,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0)),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                className: "relative z-2",
-                                children: "+40 000 000 000"
-                            }, void 0, false, {
-                                fileName: "[project]/app/components/terms-privacy-header/index.jsx",
-                                lineNumber: 30,
-                                columnNumber: 15
-                            }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-                                className: "inline-block relative z-2 w-[26rem] h-[26rem] sm:hidden",
+                                className: "inline-block z-2 w-[26rem] h-[26rem] absolute top-[9rem] right-[8rem] z-[-1] sm:w-0",
                                 viewBox: "0 0 26 26",
                                 fill: "none",
                                 xmlns: "http://www.w3.org/2000/svg",
@@ -125,7 +116,7 @@ const Page = ()=>{
                                         fill: "black"
                                     }, void 0, false, {
                                         fileName: "[project]/app/components/terms-privacy-header/index.jsx",
-                                        lineNumber: 37,
+                                        lineNumber: 36,
                                         columnNumber: 17
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -133,14 +124,14 @@ const Page = ()=>{
                                         fill: "black"
                                     }, void 0, false, {
                                         fileName: "[project]/app/components/terms-privacy-header/index.jsx",
-                                        lineNumber: 43,
+                                        lineNumber: 42,
                                         columnNumber: 17
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/components/terms-privacy-header/index.jsx",
-                                lineNumber: 31,
-                                columnNumber: 15
+                                lineNumber: 30,
+                                columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {

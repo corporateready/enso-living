@@ -21,10 +21,10 @@
     @apply text-[10rem] text-white/60 leading-[100%];
 }
 .footer__phone {
-    @apply inline-block text-[0rem] relative z-0;
+    @apply inline-block w-[20rem] h-[24rem] sm:w-[42rem] sm:h-[45rem] text-[0rem] relative z-0 ;
 }
 .socials__link {
-    @apply flex items-center gap-[14rem];
+    @apply flex items-center gap-[14rem] relative z-0;
     @media screen and (width >= 640px) {
         @apply gap-[30rem];
     }

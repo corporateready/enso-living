@@ -92,15 +92,29 @@
 
 .styles-module-scss-module__wNWX9G__footer__phone {
   z-index: 0;
+  width: 20rem;
+  height: 24rem;
   font-size: 0;
   display: inline-block;
   position: relative;
 }
 
+@media (min-width: 40rem) {
+  .styles-module-scss-module__wNWX9G__footer__phone {
+    height: 45rem;
+  }
+
+  .styles-module-scss-module__wNWX9G__footer__phone {
+    width: 42rem;
+  }
+}
+
 .styles-module-scss-module__wNWX9G__socials__link {
+  z-index: 0;
   align-items: center;
   gap: 14rem;
   display: flex;
+  position: relative;
 }
 
 @media screen and (min-width: 640px) {

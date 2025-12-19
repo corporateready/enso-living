@@ -146,7 +146,7 @@ const page = () => {
               </div>
               <div className={styles.socials__link}>
               <svg
-                    className="w-[23rem] h-[22rem] sm:w-[46rem] sm:h-[44rem] absolute top-[4rem] left-0 translate-0 z-[-1] opacity-60"
+                    className="w-[23rem] h-[22rem] sm:w-[46rem] sm:h-[44rem] absolute top-[3rem] left-0 translate-0 z-[-1] opacity-60"
                     viewBox="0 0 23 22"
                     fill="none"
                     xmlns="http://www.w3.org/2000/svg"

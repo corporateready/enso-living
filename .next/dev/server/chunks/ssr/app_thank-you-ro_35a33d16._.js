@@ -362,7 +362,7 @@ const page = ()=>{
                                         className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$thank$2d$you$2d$ro$2f$styles$2e$module$2e$scss__$5b$app$2d$ssr$5d$__$28$css__module$29$__["default"].socials__link,
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-                                                className: "w-[23rem] h-[22rem] sm:w-[46rem] sm:h-[44rem] absolute top-[4rem] left-0 translate-0 z-[-1] opacity-60",
+                                                className: "w-[23rem] h-[22rem] sm:w-[46rem] sm:h-[44rem] absolute top-[3rem] left-0 translate-0 z-[-1] opacity-60",
                                                 viewBox: "0 0 23 22",
                                                 fill: "none",
                                                 xmlns: "http://www.w3.org/2000/svg",
