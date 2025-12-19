@@ -44,6 +44,7 @@
 }
 
 .styles-module-scss-module__MGhlXW__header__phone {
+  z-index: 0;
   width: 45rem;
   height: 45rem;
   color: var(--color-white, #fff);
@@ -54,6 +55,7 @@
   align-items: center;
   font-size: 0;
   display: inline-flex;
+  position: relative;
 }
 
 @media (min-width: 40rem) {

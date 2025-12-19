@@ -21,7 +21,7 @@
     @apply text-[10rem] text-white/60 leading-[100%];
 }
 .footer__phone {
-    @apply inline-block text-[0rem];
+    @apply inline-block text-[0rem] relative z-0;
 }
 .socials__link {
     @apply flex items-center gap-[14rem];

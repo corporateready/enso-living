@@ -16,5 +16,5 @@
     }
 }
 .header__phone {
-    @apply w-[45rem] h-[45rem] sm:w-[200rem] bg-[#d9d9d9]/20 rounded-full inline-flex justify-center items-center text-[0rem] sm:text-[18rem] text-white;
+    @apply w-[45rem] h-[45rem] sm:w-[200rem] bg-[#d9d9d9]/20 rounded-full inline-flex justify-center items-center text-[0rem] sm:text-[18rem] text-white relative z-0;
 }

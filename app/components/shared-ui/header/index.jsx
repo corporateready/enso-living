@@ -93,13 +93,12 @@ const Index = () => {
           >
             ro
           </button>
-          <a
+          <Link
             href={'tel:'}
             className={styles.header__phone}
           >
-            {/* <span className={styles.span__blur}></span> */}
-            {/* <svg
-              className="w-[24rem] h-[24rem] inline-block sm:w-0"
+            <svg
+              className="w-[24rem] h-[24rem] inline-block absolute top-1/2 left-1/2 -translate-1/2 z-1 sm:w-0"
               viewBox="0 0 24 24"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
@@ -110,9 +109,9 @@ const Index = () => {
                 strokeLinecap="round"
                 strokeLinejoin="round"
               />
-            </svg> */}
+            </svg>
             
-          </a>
+          </Link>
         </div>
       </div>
     </header>

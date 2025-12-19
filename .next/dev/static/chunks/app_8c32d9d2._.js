@@ -193,45 +193,29 @@ const Index = ()=>{
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                            href: "tel:+4000000000",
+                            href: 'tel:',
                             className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$shared$2d$ui$2f$header$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].header__phone,
-                            children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$shared$2d$ui$2f$header$2f$styles$2e$module$2e$scss__$5b$app$2d$client$5d$__$28$css__module$29$__["default"].span__blur
+                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
+                                className: "w-[24rem] h-[24rem] inline-block absolute top-1/2 left-1/2 -translate-1/2 z-1 sm:w-0",
+                                viewBox: "0 0 24 24",
+                                fill: "none",
+                                xmlns: "http://www.w3.org/2000/svg",
+                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                    d: "M15.1 22.5992C16.1873 23.3017 17.4829 23.6079 18.769 23.4662C20.0552 23.3245 21.2534 22.7436 22.1622 21.8212L22.9567 21.0431C23.305 20.6863 23.5 20.2071 23.5 19.7081C23.5 19.2091 23.305 18.7299 22.9567 18.3731L19.5845 15.0311C19.2312 14.6833 18.7557 14.4885 18.2603 14.4885C17.765 14.4885 17.2895 14.6833 16.9362 15.0311V15.0311C16.5799 15.3799 16.1014 15.5752 15.6032 15.5752C15.1049 15.5752 14.6265 15.3799 14.2702 15.0311L8.97358 9.72631C8.79689 9.55191 8.65658 9.34408 8.56081 9.11489C8.46504 8.8857 8.41572 8.63973 8.41572 8.39127C8.41572 8.14282 8.46504 7.89685 8.56081 7.66766C8.65658 7.43847 8.79689 7.23063 8.97358 7.05624V7.05624C9.32078 6.70241 9.51534 6.22615 9.51534 5.73005C9.51534 5.23395 9.32078 4.75769 8.97358 4.40386L5.61906 1.04417C5.26278 0.695325 4.78432 0.5 4.28607 0.5C3.78782 0.5 3.30936 0.695325 2.95309 1.04417L2.17625 1.83989C1.25525 2.75008 0.675252 3.95013 0.533777 5.23824C0.392302 6.52635 0.697981 7.82397 1.39942 8.91291C5.05416 14.3074 9.70441 18.9528 15.1 22.5992V22.5992Z",
+                                    stroke: "white",
+                                    strokeLinecap: "round",
+                                    strokeLinejoin: "round"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/shared-ui/header/index.jsx",
-                                    lineNumber: 100,
-                                    columnNumber: 13
-                                }, ("TURBOPACK compile-time value", void 0)),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-                                    className: "w-[24rem] h-[24rem] inline-block sm:w-0",
-                                    viewBox: "0 0 24 24",
-                                    fill: "none",
-                                    xmlns: "http://www.w3.org/2000/svg",
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                        d: "M15.1 22.5992C16.1873 23.3017 17.4829 23.6079 18.769 23.4662C20.0552 23.3245 21.2534 22.7436 22.1622 21.8212L22.9567 21.0431C23.305 20.6863 23.5 20.2071 23.5 19.7081C23.5 19.2091 23.305 18.7299 22.9567 18.3731L19.5845 15.0311C19.2312 14.6833 18.7557 14.4885 18.2603 14.4885C17.765 14.4885 17.2895 14.6833 16.9362 15.0311V15.0311C16.5799 15.3799 16.1014 15.5752 15.6032 15.5752C15.1049 15.5752 14.6265 15.3799 14.2702 15.0311L8.97358 9.72631C8.79689 9.55191 8.65658 9.34408 8.56081 9.11489C8.46504 8.8857 8.41572 8.63973 8.41572 8.39127C8.41572 8.14282 8.46504 7.89685 8.56081 7.66766C8.65658 7.43847 8.79689 7.23063 8.97358 7.05624V7.05624C9.32078 6.70241 9.51534 6.22615 9.51534 5.73005C9.51534 5.23395 9.32078 4.75769 8.97358 4.40386L5.61906 1.04417C5.26278 0.695325 4.78432 0.5 4.28607 0.5C3.78782 0.5 3.30936 0.695325 2.95309 1.04417L2.17625 1.83989C1.25525 2.75008 0.675252 3.95013 0.533777 5.23824C0.392302 6.52635 0.697981 7.82397 1.39942 8.91291C5.05416 14.3074 9.70441 18.9528 15.1 22.5992V22.5992Z",
-                                        stroke: "white",
-                                        strokeLinecap: "round",
-                                        strokeLinejoin: "round"
-                                    }, void 0, false, {
-                                        fileName: "[project]/app/components/shared-ui/header/index.jsx",
-                                        lineNumber: 107,
-                                        columnNumber: 15
-                                    }, ("TURBOPACK compile-time value", void 0))
-                                }, void 0, false, {
-                                    fileName: "[project]/app/components/shared-ui/header/index.jsx",
-                                    lineNumber: 101,
-                                    columnNumber: 13
-                                }, ("TURBOPACK compile-time value", void 0)),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "text-[0rem] sm:text-[18rem] text-white"
-                                }, void 0, false, {
-                                    fileName: "[project]/app/components/shared-ui/header/index.jsx",
-                                    lineNumber: 114,
-                                    columnNumber: 13
+                                    lineNumber: 106,
+                                    columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
-                            ]
-                        }, void 0, true, {
+                            }, void 0, false, {
+                                fileName: "[project]/app/components/shared-ui/header/index.jsx",
+                                lineNumber: 100,
+                                columnNumber: 13
+                            }, ("TURBOPACK compile-time value", void 0))
+                        }, void 0, false, {
                             fileName: "[project]/app/components/shared-ui/header/index.jsx",
                             lineNumber: 96,
                             columnNumber: 11
@@ -11317,6 +11301,7 @@ __turbopack_context__.v({
   "content__links": "styles-module-scss-module__wNWX9G__content__links",
   "content__text": "styles-module-scss-module__wNWX9G__content__text",
   "footer": "styles-module-scss-module__wNWX9G__footer",
+  "footer__phone": "styles-module-scss-module__wNWX9G__footer__phone",
   "google__map_link": "styles-module-scss-module__wNWX9G__google__map_link",
   "google__map_link__desktop": "styles-module-scss-module__wNWX9G__google__map_link__desktop",
   "google__map_link__mobile": "styles-module-scss-module__wNWX9G__google__map_link__mobile",
@@ -11327,7 +11312,7 @@ __turbopack_context__.v({
 }),
 "[project]/app/components/footer/index.jsx [app-client] (ecmascript)", ((__turbopack_context__, module, exports) => {
 
-const e = new Error("Could not parse module '[project]/app/components/footer/index.jsx'\n\nExpected '</', got '}'");
+const e = new Error("Could not parse module '[project]/app/components/footer/index.jsx'\n\nExpected '</', got '.'");
 e.code = 'MODULE_UNPARSABLE';
 throw e;
 }),
