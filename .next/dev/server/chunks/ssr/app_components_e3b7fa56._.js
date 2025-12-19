@@ -5270,11 +5270,11 @@ const Index = ()=>{
         className: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$lux$2f$styles$2e$module$2e$scss__$5b$app$2d$ssr$5d$__$28$css__module$29$__["default"].section,
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                src: "/enso-living lux.avif",
+                src: "/enso-living-lux.avif",
                 alt: "enso living lux",
                 priority: "true",
                 fill: true,
-                sizes: "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                sizes: "(min-width: 640px) 100vw"
             }, void 0, false, {
                 fileName: "[project]/app/components/lux/index.jsx",
                 lineNumber: 8,
@@ -5291,7 +5291,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 15,
+                        lineNumber: 21,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5299,7 +5299,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 19,
+                        lineNumber: 25,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5307,7 +5307,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 23,
+                        lineNumber: 29,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5315,7 +5315,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 27,
+                        lineNumber: 33,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5323,7 +5323,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 31,
+                        lineNumber: 37,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5331,7 +5331,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 35,
+                        lineNumber: 41,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5339,7 +5339,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 39,
+                        lineNumber: 45,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5347,7 +5347,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 43,
+                        lineNumber: 49,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5355,7 +5355,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 47,
+                        lineNumber: 53,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5363,7 +5363,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 51,
+                        lineNumber: 57,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5371,7 +5371,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 55,
+                        lineNumber: 61,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5379,7 +5379,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 59,
+                        lineNumber: 65,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5387,7 +5387,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 63,
+                        lineNumber: 69,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5395,7 +5395,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 67,
+                        lineNumber: 73,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5403,7 +5403,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 71,
+                        lineNumber: 77,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5411,7 +5411,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 75,
+                        lineNumber: 81,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5419,7 +5419,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 76,
+                        lineNumber: 82,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5427,7 +5427,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 80,
+                        lineNumber: 86,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5435,7 +5435,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 84,
+                        lineNumber: 90,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5443,7 +5443,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 88,
+                        lineNumber: 94,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5451,7 +5451,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 92,
+                        lineNumber: 98,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5459,7 +5459,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 96,
+                        lineNumber: 102,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5467,7 +5467,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 100,
+                        lineNumber: 106,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5475,7 +5475,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 104,
+                        lineNumber: 110,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5483,7 +5483,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 108,
+                        lineNumber: 114,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5491,7 +5491,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 112,
+                        lineNumber: 118,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5499,13 +5499,13 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 116,
+                        lineNumber: 122,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/lux/index.jsx",
-                lineNumber: 9,
+                lineNumber: 15,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
@@ -5519,7 +5519,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 127,
+                        lineNumber: 133,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5527,7 +5527,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 131,
+                        lineNumber: 137,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5535,7 +5535,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 135,
+                        lineNumber: 141,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5543,7 +5543,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 139,
+                        lineNumber: 145,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5551,7 +5551,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 143,
+                        lineNumber: 149,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5559,7 +5559,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 147,
+                        lineNumber: 153,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5567,7 +5567,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 151,
+                        lineNumber: 157,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5575,7 +5575,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 155,
+                        lineNumber: 161,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5583,7 +5583,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 159,
+                        lineNumber: 165,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5591,7 +5591,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 163,
+                        lineNumber: 169,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5599,7 +5599,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 167,
+                        lineNumber: 173,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5607,7 +5607,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 171,
+                        lineNumber: 177,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5615,7 +5615,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 175,
+                        lineNumber: 181,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5623,7 +5623,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 179,
+                        lineNumber: 185,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5631,7 +5631,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 183,
+                        lineNumber: 189,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5639,7 +5639,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 187,
+                        lineNumber: 193,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5647,7 +5647,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 191,
+                        lineNumber: 197,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5655,7 +5655,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 195,
+                        lineNumber: 201,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5663,7 +5663,7 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 199,
+                        lineNumber: 205,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -5671,13 +5671,13 @@ const Index = ()=>{
                         fill: "white"
                     }, void 0, false, {
                         fileName: "[project]/app/components/lux/index.jsx",
-                        lineNumber: 203,
+                        lineNumber: 209,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/components/lux/index.jsx",
-                lineNumber: 121,
+                lineNumber: 127,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
