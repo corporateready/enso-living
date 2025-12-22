@@ -1,20 +1,51 @@
 import React from "react";
 import styles from "./sytles.module.scss";
 import Image from "next/image";
+import Enso from "./pin-icons/enso";
+import Carrefour from "./pin-icons/carrefour";
+import Kaufland from "./pin-icons/kaufland";
+import Lidl from "./pin-icons/lidl";
+import Poiana from "./pin-icons/poiana";
+import Amfiteatr from "./pin-icons/amfiteatr";
+import BranCastle from "./pin-icons/bran-castle";
+import Rasnov from "./pin-icons/rasnov";
+import DinoPark from "./pin-icons/dino-park";
+import NewCenter from "./pin-icons/new-center";
+import Afibrasjov from "./pin-icons/afibrashov"
+import Coresi from "./pin-icons/coresi"
+import OldCenter from "./pin-icons/old-center"
+import Airport from "./pin-icons/airport"
+import DirectionLine from "./pin-icons/line-direction"
 
-const Index = ({handlerFormOpen}) => {
+const Index = ({ handlerFormOpen }) => {
   return (
     <div className={styles.section}>
-      <div className="w-full h-[1274rem] relative z-0">
-        <Image
-          src="/desktop-location.avif"
-          alt="enso living slide"
-          priority
-          quality={100}
-          fill
-          sizes="(min-width: 640px) 100vw"
-        />
-      </div>
+      <Poiana />
+      <Amfiteatr />
+      <BranCastle />
+      <Rasnov />
+      <DinoPark />
+      <Enso />
+      <Carrefour />
+      <Kaufland />
+      <Lidl />
+      <DirectionLine />
+      <p className="text-white text-[11rem] absolute top-[952rem] left-[870rem] z-1 w-full"> Str. Calea București</p>
+      <div className={styles.head__overlay} />
+      <Image
+        src="/clear-map.png"
+        alt="enso living slide"
+        priority
+        quality={85}
+        fill
+        sizes="(min-width: 640px) 100vw"
+      />
+      <NewCenter />
+      <Afibrasjov />
+      <Coresi />
+      <OldCenter />
+      <Airport />
+      <div className="w-full h-[1274rem]"></div>
       <div className={styles.head__content}>
         <p className={styles.head__title}>
           Acces rapid către punctele cheie{""}
@@ -31,7 +62,12 @@ const Index = ({handlerFormOpen}) => {
           <br />
           un public select
         </p>
-        <button type="button" className={styles.offer__btn} onClick={handlerFormOpen} aria-label="open location form">
+        <button
+          type="button"
+          className={styles.offer__btn}
+          onClick={handlerFormOpen}
+          aria-label="open location form"
+        >
           <span className={styles.span__text}>Solicită oferta de lansare</span>
           <svg
             className="w-[61rem] h-[61rem]"

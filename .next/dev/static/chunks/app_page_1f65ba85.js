@@ -3,7 +3,8 @@
     chunks: [
   "static/chunks/app_components_desktop-brown-section_ed81df39._.js",
   "static/chunks/app_components_desktop-white-section_4760145d._.js",
-  "static/chunks/app_components_4d0eb83c._.js",
+  "static/chunks/app_components_desktop-location_030d7c47._.js",
+  "static/chunks/app_components_786706da._.js",
   "static/chunks/app_page_df5fb46e.js",
   "static/chunks/public_ad063a1d._.js",
   "static/chunks/node_modules_1de4ece9._.js",

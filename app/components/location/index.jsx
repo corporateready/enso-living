@@ -19,7 +19,7 @@ const Index = ({handlerFormOpen}) => {
                 cy="25"
                 r="24.5878"
                 stroke="white"
-                strokeWidth="0.82449"
+                stokewidth="0.82449"
               />
               <path
                 d="M20.8457 24.3654V20.6731C20.8457 20.4283 20.943 20.1935 21.1161 20.0204C21.2892 19.8473 21.524 19.75 21.7688 19.75H26.3842L30.9996 24.3654V30.827C30.9996 31.0718 30.9023 31.3066 30.7292 31.4797C30.5561 31.6528 30.3213 31.75 30.0765 31.75H25.4611"
@@ -45,10 +45,10 @@ const Index = ({handlerFormOpen}) => {
                 strokeLinecap="round"
                 strokeLinejoin="round"
               />
-            </svg>
+          </svg>
         </button>
         <Image
-          src={"/location-inner.avif"}
+          src={"/location-inner-1.avif"}
           alt="enso living location"
           loading="eager"
           priority={true}
