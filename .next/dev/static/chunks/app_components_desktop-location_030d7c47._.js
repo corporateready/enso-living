@@ -25,7 +25,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 ;
 const Index = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-        className: "w-272 h-[101rem] absolute top-[887rem] left-[428rem] translate-0 z-2 animate-bounce",
+        className: "w-272 h-[101rem] absolute top-[887rem] left-[422rem] translate-0 z-2",
         viewBox: "0 0 68 101",
         fill: "none",
         xmlns: "http://www.w3.org/2000/svg",
