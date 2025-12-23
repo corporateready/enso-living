@@ -1,21 +1,21 @@
 import React from "react";
 import styles from "./sytles.module.scss";
 import Image from "next/image";
-import Enso from "./pin-icons/enso";
-import Carrefour from "./pin-icons/carrefour";
-import Kaufland from "./pin-icons/kaufland";
-import Lidl from "./pin-icons/lidl";
-import Poiana from "./pin-icons/poiana";
-import Amfiteatr from "./pin-icons/amfiteatr";
-import BranCastle from "./pin-icons/bran-castle";
-import Rasnov from "./pin-icons/rasnov";
-import DinoPark from "./pin-icons/dino-park";
-import NewCenter from "./pin-icons/new-center";
-import Afibrasjov from "./pin-icons/afibrashov"
-import Coresi from "./pin-icons/coresi"
-import OldCenter from "./pin-icons/old-center"
-import Airport from "./pin-icons/airport"
-import DirectionLine from "./pin-icons/line-direction"
+import Enso from "../pin-icons/enso";
+import Carrefour from "../pin-icons/carrefour";
+import Kaufland from "../pin-icons/kaufland";
+import Lidl from "../pin-icons/lidl";
+import Poiana from "../pin-icons/poiana";
+import Amfiteatr from "../pin-icons/amfiteatr";
+import BranCastle from "../pin-icons/bran-castle";
+import Rasnov from "../pin-icons/rasnov";
+import DinoPark from "../pin-icons/dino-park";
+import NewCenter from "../pin-icons/new-center";
+import Afibrasjov from "../pin-icons/afibrashov"
+import Coresi from "../pin-icons/coresi"
+import OldCenter from "../pin-icons/old-center"
+import Airport from "../pin-icons/airport"
+import DirectionLine from "../pin-icons/line-direction"
 
 const Index = ({ handlerFormOpen }) => {
   return (

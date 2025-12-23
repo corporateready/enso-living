@@ -3,7 +3,7 @@ import React from "react";
 const Index = () => {
   return (
     <svg
-      className="w-[173rem] h-[105rem] absolute top-[550rem] left-[364rem] translate-0 z-1"
+      className="inline-block sm:w-[54rem] h-[30rem] sm:w-[173rem] sm:h-[105rem] absolute top-[250rem] left-[64rem] sm:top-[550rem] sm:left-[364rem] translate-0 z-2"
       viewBox="0 0 173 105"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
