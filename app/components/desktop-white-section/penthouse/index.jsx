@@ -13,7 +13,8 @@ const Index = ({ handlerFormOpen }) => {
                 src={"/desktop-penthouse-inner.avif"}
                 alt="enso living penthouse"
                 loading="eager"
-                priority={true}
+                priority
+                quality={85}
                 fill
                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
               />

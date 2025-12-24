@@ -35,7 +35,7 @@ export default function RootLayout({ children }) {
         <meta name="robots" content="index, follow" />
         <meta
           name="viewport"
-          content="width=device-width, initial-scale=1, maximum-scale=5"
+          content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
         />
         <link
           rel="apple-touch-icon"
@@ -67,7 +67,7 @@ export default function RootLayout({ children }) {
           href="/favicon_io/favicon-16x16.png"
         />
         <link rel="manifest" href="/favicon_io/site.webmanifest" />
-        <GoogleTagManager gtmId={GTM_ID} />
+        {/* <GoogleTagManager gtmId={GTM_ID} />
         <noscript
           dangerouslySetInnerHTML={{
             __html: `
@@ -78,7 +78,7 @@ export default function RootLayout({ children }) {
             </iframe>
             `,
           }}
-        />
+        /> */}
       </head>
       <body className={`antialiased`}>
         {children}

@@ -26,8 +26,9 @@ const Index = () => {
                 alt="hero mobi"
                 loading="eager"
                 priority={true}
+                quality={85}
                 fill
-                sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                sizes="(min-width: 640px) 100vw"
               />
               
             </div>

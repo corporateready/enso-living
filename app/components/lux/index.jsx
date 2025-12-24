@@ -8,7 +8,8 @@ const Index = () => {
       <Image
         src="/enso-living-lux.avif"
         alt="enso living lux"
-        priority="true"
+        priority={true}
+        quality={85}
         fill
         sizes="(min-width: 640px) 100vw"
       />

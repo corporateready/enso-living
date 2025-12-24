@@ -45,7 +45,8 @@ export const DesktopSlider = (props) => {
                   alt=""
                   fill
                   priority={true}
-                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                  quality={85}
+                  sizes="(min-width: 640px) 100vw"
                 />
               </div>
             </div>

@@ -16,8 +16,9 @@ const Index = () => {
               alt="enso living design"
               loading="eager"
               priority={true}
+              quality={85}
               fill
-              sizes="(max-width: 640px) 100vw, (max-width: 1920px) 50vw, 33vw"
+              sizes="(min-width: 640px) 100vw"
             />
             
           </div>
