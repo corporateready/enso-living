@@ -23,12 +23,10 @@ const Index = ({handlerFormOpen}) => {
             <div className={styles.inner__image}>
               <Image
                 src={"/desktop-bistro-inner.avif"}
-                alt="hero mobi"
+                alt="enso living bistro restaurant"
                 loading="eager"
-                priority={true}
-                quality={85}
                 fill
-                sizes="(min-width: 640px) 100vw"
+                sizes="(min-width: 640px) 100vw, 50vw, 33vw"
               />
             </div>
             <button type="button" className={styles.offer__btn} aria-label="open bistro form" onClick={handlerFormOpen}>
