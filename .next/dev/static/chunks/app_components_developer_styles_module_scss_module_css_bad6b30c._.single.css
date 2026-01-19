@@ -13,6 +13,10 @@
   }
 }
 
+.styles-module-scss-module__GN_IHq__premium {
+  background: linear-gradient(#b17762 0%, #4e4e64 100%);
+}
+
 .styles-module-scss-module__GN_IHq__premium__inner_image {
   z-index: 1;
   width: 100%;
@@ -76,7 +80,7 @@
 }
 
 .styles-module-scss-module__GN_IHq__bottom__text_subtitle {
-  z-index: 1;
+  z-index: auto;
   text-align: left;
   --tw-leading: 120%;
   color: var(--color-black, #000);
@@ -87,6 +91,20 @@
   line-height: 120%;
   display: flex;
   position: relative;
+}
+
+.styles-module-scss-module__GN_IHq__light__circle_bottom {
+  z-index: 0;
+  --tw-translate-x: calc(calc(1 / 2 * 100%) * -1);
+  width: 700rem;
+  height: 650rem;
+  translate: var(--tw-translate-x) var(--tw-translate-y);
+  filter: blur(140rem);
+  background: linear-gradient(90deg, #fff 55% 100%);
+  border-radius: 3.40282e38px;
+  position: absolute;
+  bottom: -53%;
+  left: 50%;
 }
 
 @property --tw-leading {

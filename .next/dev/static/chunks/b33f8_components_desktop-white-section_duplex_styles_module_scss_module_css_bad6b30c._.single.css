@@ -38,8 +38,8 @@
   margin-inline: auto;
   --tw-translate-x: calc(var(--spacing, .25rem) * 0);
   --tw-translate-y: calc(var(--spacing, .25rem) * 0);
-  width: 242rem;
-  height: 294rem;
+  width: 228rem;
+  height: 244rem;
   translate: var(--tw-translate-x) var(--tw-translate-y);
   margin-top: 185rem;
   position: relative;

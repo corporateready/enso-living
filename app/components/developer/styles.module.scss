@@ -2,6 +2,7 @@
 
 .premium {
     @apply block w-full h-auto relative z-0 sm:hidden;
+    background: linear-gradient(180deg,rgba(177, 119, 98, 1) 0%, rgba(78, 78, 100, 1) 100%);
 }
 .premium__inner_image {
     @apply w-full h-[894rem] relative z-1 overflow-hidden;
@@ -24,5 +25,10 @@
     letter-spacing: -1.4rem;
 }
 .bottom__text_subtitle {
-    @apply relative z-1  text-[12rem] text-black leading-[120%] mt-[10rem] pr-[25rem] text-left flex justify-end;
+    @apply relative z-auto  text-[12rem] text-black leading-[120%] mt-[10rem] pr-[25rem] text-left flex justify-end;
+}
+.light__circle_bottom {
+    @apply absolute rounded-full bottom-[-53%] left-1/2 -translate-x-1/2 w-[700rem] h-[650rem] z-0;
+    background: linear-gradient(90deg,rgba(255, 255, 255, 1) 55%, rgba(255, 255, 255, 1) 100%);
+    filter: blur(140rem);
 }
