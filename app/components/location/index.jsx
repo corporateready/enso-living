@@ -17,7 +17,7 @@ import Coresi from "../pin-icons/coresi-mobile"
 import OldCenter from "../pin-icons/old-center-mobile"
 import Airport from "../pin-icons/airport-mobile"
 import Building from "../svg-components/building-mobile";
-import ButtonPaper from "../svg-components/button-paper";
+import ButtonPaper from "../svg-components/ButtonPaper";
 import { motion } from "motion/react";
 
 const Index = ({handlerFormOpen}) => {

@@ -17,7 +17,7 @@ import Coresi from "../pin-icons/coresi";
 import OldCenter from "../pin-icons/old-center";
 import Airport from "../pin-icons/airport";
 import DirectionLine from "../pin-icons/line-direction";
-import ButtonDownload from "../svg-components/button-paper"
+import ButtonDownload from "../svg-components/ButtonPaper"
 import { motion } from "motion/react";
 
 const Index = ({ handlerFormOpen }) => {

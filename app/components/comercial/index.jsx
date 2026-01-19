@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import styles from "./styles.module.scss";
 import Building from "../svg-components/building-mobile";
-import ButtonPaper from "../svg-components/button-paper";
+import ButtonPaper from "../svg-components/ButtonPaper";
 import { motion } from "motion/react";
 
 const Index = ({ handlerFormOpen }) => {

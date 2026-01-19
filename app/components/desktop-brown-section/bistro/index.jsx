@@ -3,7 +3,7 @@ import React from "react";
 import Image from "next/image";
 import styles from "./styles.module.scss";
 import Building from "../../svg-components/building"
-import ButtonPaperSVG from "../../svg-components/button-paper"
+import ButtonPaperSVG from "../../svg-components/ButtonPaper"
 import { motion } from "motion/react";
 
 const Index = ({ handlerFormOpen }) => {
