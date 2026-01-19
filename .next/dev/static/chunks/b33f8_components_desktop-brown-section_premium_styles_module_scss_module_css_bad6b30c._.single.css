@@ -85,12 +85,12 @@
   left: calc(var(--spacing, .25rem) * 0);
   z-index: 2;
   margin-inline: auto;
+  margin-top: calc(var(--spacing, .25rem) * 800);
   --tw-translate-x: calc(var(--spacing, .25rem) * 0);
   --tw-translate-y: calc(var(--spacing, .25rem) * 0);
-  width: 322rem;
-  height: 288rem;
+  width: 226rem;
+  height: 240rem;
   translate: var(--tw-translate-x) var(--tw-translate-y);
-  margin-top: 180rem;
   position: relative;
 }
 

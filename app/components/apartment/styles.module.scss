@@ -4,10 +4,10 @@
     @apply block w-full h-auto relative z-0 bg-white sm:hidden;
 }
 .premium__header_inner {
-    @apply flex justify-start px-[8rem] gap-[17rem] pt-[114rem];
+    @apply flex justify-start items-end px-[24rem] gap-[24rem] pt-[114rem];
 }
 .premium__title_image {
-    @apply self-end w-[110rem] h-[105rem] relative z-1 mb-[-8rem];
+    @apply w-[80rem] h-[94rem] relative z-0;
 }
 .premium__title_content{
     @apply flex flex-col gap-[11rem] ml-[-8rem]; 

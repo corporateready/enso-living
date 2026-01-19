@@ -15,17 +15,18 @@
 }
 
 .styles-module-scss-module__akdqcq__premium__header_inner {
-  padding-inline: 8rem;
+  padding-inline: 24rem;
   justify-content: flex-start;
-  gap: 0;
+  gap: 30rem;
   padding-top: 39rem;
   display: flex;
 }
 
 .styles-module-scss-module__akdqcq__premium__title_image {
-  object-fit: cover;
-  width: 124rem;
-  height: 106rem;
+  z-index: 0;
+  width: 80rem;
+  height: 90rem;
+  margin-top: 10rem;
   position: relative;
 }
 

@@ -1,10 +1,12 @@
 import React from "react";
 import styles from "./styles.module.scss";
 import Image from "next/image";
+import { motion } from "motion/react";
 
 const Index = () => {
+  const ref = React.useRef(null);
   return (
-    <div className={styles.section}>
+    <div className={styles.section} ref={ref}>
       <Image
         src="/enso-living-lux.avif"
         alt="enso living lux"
@@ -13,7 +15,11 @@ const Index = () => {
         fill
         sizes="(min-width: 640px) 100vw"
       />
-      <svg
+      <motion.svg
+        initial={{ opacity: 0, y: -60 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        viewport={{ once: true, margin: "-100px" }}
+        transition={{ duration: 0.5, delay: 0.1, ease: "easeOut" }}
         className="w-[1227rem] h-[343rem] absolute top-0 left-[300rem] translate-x-0 z-1"
         viewBox="0 0 1227 343"
         fill="none"
@@ -124,8 +130,12 @@ const Index = () => {
           d="M1226.31 239V340.818H1214.38L1158.9 260.875H1157.9V340.818H1145.57V239H1157.5L1213.18 319.142H1214.18V239H1226.31Z"
           fill="white"
         />
-      </svg>
-      <svg
+      </motion.svg>
+      <motion.svg
+        initial={{ opacity: 0, y: 60 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        viewport={{ once: true, margin: "-100px" }}
+        transition={{ duration: 0.5, delay: 0.1, ease: "easeOut" }}
         className="w-[946rem] h-[300rem] absolute bottom-[-34rem] left-[88rem] translate-0 z-1"
         viewBox="0 0 945 299"
         fill="none"
@@ -211,7 +221,7 @@ const Index = () => {
           d="M871.82 265.443V163.625H906.224C914.178 163.625 920.708 164.984 925.812 167.702C930.916 170.386 934.694 174.082 937.147 178.788C939.6 183.495 940.826 188.848 940.826 194.847C940.826 200.846 939.6 206.165 937.147 210.805C934.694 215.446 930.933 219.091 925.862 221.743C920.79 224.361 914.311 225.67 906.423 225.67H878.582V214.534H906.025C911.46 214.534 915.835 213.739 919.15 212.148C922.497 210.557 924.917 208.303 926.408 205.386C927.933 202.437 928.695 198.923 928.695 194.847C928.695 190.77 927.933 187.207 926.408 184.158C924.884 181.108 922.448 178.755 919.1 177.098C915.753 175.408 911.328 174.562 905.826 174.562H884.15V265.443H871.82ZM919.746 219.705L944.803 265.443H930.485L905.826 219.705H919.746Z"
           fill="white"
         />
-      </svg>
+      </motion.svg>
     </div>
   );
 };

@@ -4,13 +4,13 @@
     @apply block w-full h-auto relative z-0 bg-[#463C37] sm:hidden;
 }
 .premium__header_inner {
-    @apply flex justify-start items-end px-[8rem] gap-[0rem] pt-[122rem];
+    @apply flex justify-start items-end px-[24rem] gap-[14rem] pt-[122rem];
 }
 .premium__title_image {
-    @apply w-[122rem] h-[123rem] relative top-[3rem] left-0 translate-0;
+    @apply w-[80rem] h-[120rem] relative z-0;
 }
 .premium__title_content{
-    @apply flex flex-col gap-[8rem] ml-[-8rem]; 
+    @apply flex flex-col gap-[8rem]; 
 }
 .premium__title_text {
     @apply text-white text-[30rem] leading-[100%];
@@ -22,14 +22,17 @@
     @apply px-[25rem] flex flex-col;
 }
 .premium__inner_image {
-    @apply w-[380rem] h-[412rem] mt-[26rem] relative z-1;
+    @apply w-full h-[412rem] mt-[26rem] relative z-1;
 }
 // <===== items =====>
 .inner__list {
     @apply mt-[22rem];
 }
+.inner__list_item__up {
+    @apply flex gap-[115rem] items-end w-full border-b-[1rem] border-[#5A4C45] pt-[19rem] pb-[10rem] overflow-y-hidden;
+}
 .inner__list_item {
-    @apply flex gap-[115rem] items-end w-full border-b-[1rem] border-[#5A4C45] pt-[19rem] pb-[8rem] overflow-y-hidden;
+    @apply flex gap-[125rem] items-end w-full border-b-[1rem] border-[#5A4C45] pt-[19rem] pb-[8rem] overflow-y-hidden;
 }
 .inner__list_item__b {
     @apply flex gap-[46rem] items-end w-full border-b-[1rem] border-[#5A4C45] pt-[19rem] pb-[8rem] pl-[78rem] overflow-y-hidden;

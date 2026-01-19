@@ -32,23 +32,13 @@
   position: relative;
 }
 
-.styles-module-scss-module__Lgot7G__rightside__decor {
-  top: calc(var(--spacing, .25rem) * 0);
-  left: calc(var(--spacing, .25rem) * 0);
-  z-index: 1;
-  width: 100%;
-  height: 100%;
-  display: inline-flex;
-  position: absolute;
-}
-
 .styles-module-scss-module__Lgot7G__rightside__image {
   top: calc(var(--spacing, .25rem) * 0);
   z-index: 1;
   margin-inline: auto;
   --tw-translate-x: calc(var(--spacing, .25rem) * 0);
   --tw-translate-y: calc(var(--spacing, .25rem) * 0);
-  width: 284rem;
+  width: 242rem;
   height: 294rem;
   translate: var(--tw-translate-x) var(--tw-translate-y);
   margin-top: 185rem;

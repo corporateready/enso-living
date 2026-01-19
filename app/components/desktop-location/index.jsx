@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import styles from "./sytles.module.scss";
 import Image from "next/image";
@@ -11,15 +12,19 @@ import BranCastle from "../pin-icons/bran-castle";
 import Rasnov from "../pin-icons/rasnov";
 import DinoPark from "../pin-icons/dino-park";
 import NewCenter from "../pin-icons/new-center";
-import Afibrasjov from "../pin-icons/afibrashov"
-import Coresi from "../pin-icons/coresi"
-import OldCenter from "../pin-icons/old-center"
-import Airport from "../pin-icons/airport"
-import DirectionLine from "../pin-icons/line-direction"
+import Afibrasjov from "../pin-icons/afibrashov";
+import Coresi from "../pin-icons/coresi";
+import OldCenter from "../pin-icons/old-center";
+import Airport from "../pin-icons/airport";
+import DirectionLine from "../pin-icons/line-direction";
+import ButtonDownload from "../svg-components/button-paper"
+import { motion } from "motion/react";
 
 const Index = ({ handlerFormOpen }) => {
+  const ref = React.useRef();
+  const [isHoveredButton, setIsHoveredButton] = React.useState(false);
   return (
-    <div className={styles.section}>
+    <div className={styles.section} ref={ref}>
       <Poiana />
       <Amfiteatr />
       <BranCastle />
@@ -30,7 +35,10 @@ const Index = ({ handlerFormOpen }) => {
       <Kaufland />
       <Lidl />
       <DirectionLine />
-      <p className="text-white text-[11rem] absolute top-[952rem] left-[870rem] z-1 w-full"> Str. Calea București</p>
+      <p className="text-white text-[11rem] absolute top-[952rem] left-[870rem] z-1 w-full">
+        {" "}
+        Str. Calea București
+      </p>
       <div className={styles.head__overlay} />
       <Image
         src="/clear-map.png"
@@ -47,13 +55,33 @@ const Index = ({ handlerFormOpen }) => {
       <Airport />
       <div className="w-full h-[1274rem]"></div>
       <div className={styles.head__content}>
-        <p className={styles.head__title}>
+        <motion.p
+          className={styles.head__title}
+          initial={{ opacity: 0, y: 50 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true, margin: "-100px" }}
+          transition={{ duration: 0.5, ease: "easeOut" }}
+        >
           Acces rapid către punctele cheie{""}
           <br />
           ale Brașovului și priveliști panoramice
-        </p>
-        <p className={styles.head__subtitle}>asupra munților</p>
-        <p className={styles.head__subcontent_text}>
+        </motion.p>
+        <motion.p
+          className={styles.head__subtitle}
+          initial={{ opacity: 0, y: 50 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true, margin: "-100px" }}
+          transition={{ duration: 0.5, ease: "easeOut" }}
+        >
+          asupra munților
+        </motion.p>
+        <motion.p
+          className={styles.head__subcontent_text}
+          initial={{ opacity: 0 }}
+          whileInView={{ opacity: 1 }}
+          viewport={{ once: true, margin: "-100px" }}
+          transition={{ duration: 0.5, ease: "easeOut" }}
+        >
           Localizare premium, între zona {""}
           <br />
           rezidențială și cea de business, {""}
@@ -61,35 +89,19 @@ const Index = ({ handlerFormOpen }) => {
           cu expunere către {""}
           <br />
           un public select
-        </p>
-        <button
+        </motion.p>
+       
+        <motion.button
           type="button"
           className={styles.offer__btn}
           onClick={handlerFormOpen}
           aria-label="open location form"
+          onHoverStart={() => setIsHoveredButton(true)}
+          onHoverEnd={() => setIsHoveredButton(false)}
         >
           <span className={styles.span__text}>Solicită oferta de lansare</span>
-          <svg
-            className="w-[61rem] h-[61rem]"
-            viewBox="0 0 61 61"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <circle cx="30.5" cy="30.5" r="30" stroke="white" />
-            <path
-              d="M31 24.5391V37.5391"
-              stroke="white"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-            />
-            <path
-              d="M24.5 31H37.5"
-              stroke="white"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-            />
-          </svg>
-        </button>
+         <ButtonDownload isHoveredButton={isHoveredButton} />
+        </motion.button>
       </div>
     </div>
   );

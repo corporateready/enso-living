@@ -39,7 +39,7 @@ export const PrevButton = (props) => {
 
   return (
     <button
-      className="w-[60rem] h-[60rem] rounded-full flex justify-center items-center absolute top-1/2 left-[25rem] translate-0 z-2 hover:cursor-pointer disabled:hover:cursor-default disabled:opacity-50"
+      className="w-[60rem] h-[60rem] rounded-full flex justify-center items-center absolute top-1/2 left-[25rem] translate-0 z-2 hover:cursor-pointer disabled:hover:cursor-default disabled:opacity-50 border"
       type="button"
       aria-label="prev slide"
       {...restProps}
@@ -66,7 +66,7 @@ export const NextButton = (props) => {
 
   return (
     <button
-      className="w-[60rem] h-[60rem] rounded-full flex justify-center items-center  absolute top-1/2 right-[25rem] translate-0 z-2 hover:cursor-pointer disabled:hover:cursor-default disabled:opacity-50"
+      className="w-[60rem] h-[60rem] rounded-full flex justify-center items-center  absolute top-1/2 right-[25rem] translate-0 z-2 hover:cursor-pointer disabled:hover:cursor-default disabled:opacity-50 border"
       type="button"
       aria-label="next slide"
       {...restProps}

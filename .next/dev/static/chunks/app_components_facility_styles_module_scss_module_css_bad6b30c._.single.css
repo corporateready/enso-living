@@ -15,29 +15,24 @@
 }
 
 .styles-module-scss-module__7FGwOG__premium__header_inner {
-  padding-inline: 8rem;
+  padding-inline: 24rem;
   justify-content: flex-start;
   align-items: flex-end;
-  gap: 0;
+  gap: 14rem;
   padding-top: 122rem;
   display: flex;
 }
 
 .styles-module-scss-module__7FGwOG__premium__title_image {
-  top: 3rem;
-  left: calc(var(--spacing, .25rem) * 0);
-  --tw-translate-x: calc(var(--spacing, .25rem) * 0);
-  --tw-translate-y: calc(var(--spacing, .25rem) * 0);
-  width: 122rem;
-  height: 123rem;
-  translate: var(--tw-translate-x) var(--tw-translate-y);
+  z-index: 0;
+  width: 80rem;
+  height: 120rem;
   position: relative;
 }
 
 .styles-module-scss-module__7FGwOG__premium__title_content {
   flex-direction: column;
   gap: 8rem;
-  margin-left: -8rem;
   display: flex;
 }
 
@@ -65,7 +60,7 @@
 
 .styles-module-scss-module__7FGwOG__premium__inner_image {
   z-index: 1;
-  width: 380rem;
+  width: 100%;
   height: 412rem;
   margin-top: 26rem;
   position: relative;
@@ -75,12 +70,25 @@
   margin-top: 22rem;
 }
 
-.styles-module-scss-module__7FGwOG__inner__list_item {
+.styles-module-scss-module__7FGwOG__inner__list_item__up {
   border-bottom-style: var(--tw-border-style);
   border-color: #5a4c45;
   border-bottom-width: 1rem;
   align-items: flex-end;
   gap: 115rem;
+  width: 100%;
+  padding-top: 19rem;
+  padding-bottom: 10rem;
+  display: flex;
+  overflow-y: hidden;
+}
+
+.styles-module-scss-module__7FGwOG__inner__list_item {
+  border-bottom-style: var(--tw-border-style);
+  border-color: #5a4c45;
+  border-bottom-width: 1rem;
+  align-items: flex-end;
+  gap: 125rem;
   width: 100%;
   padding-top: 19rem;
   padding-bottom: 8rem;
@@ -114,24 +122,6 @@
   color: var(--color-white, #fff);
   font-size: 12rem;
   line-height: 100%;
-}
-
-@property --tw-translate-x {
-  syntax: "*";
-  inherits: false;
-  initial-value: 0;
-}
-
-@property --tw-translate-y {
-  syntax: "*";
-  inherits: false;
-  initial-value: 0;
-}
-
-@property --tw-translate-z {
-  syntax: "*";
-  inherits: false;
-  initial-value: 0;
 }
 
 @property --tw-leading {

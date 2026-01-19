@@ -4,10 +4,10 @@
     @apply block w-full h-auto relative z-0 bg-white sm:hidden;
 }
 .premium__header_inner {
-    @apply flex justify-start px-[8rem] gap-[26rem] pt-[72rem];
+    @apply flex justify-start px-[24rem] gap-[14rem] pt-[72rem];
 }
 .premium__title_image {
-    @apply inline-block w-[98rem] h-[100rem] relative z-1;
+    @apply w-[80rem] h-[86rem] relative z-0;
 }
 .premium__title_content{
     @apply flex flex-col gap-[11rem] ml-[-8rem]; 

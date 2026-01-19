@@ -1,7 +1,7 @@
 @reference "tailwindcss";
 
 .premium {
-    @apply block w-full h-auto relative z-0 bg-[#463C37] pt-[124rem] sm:hidden;
+    @apply block w-full h-auto relative z-0 bg-[#463C37] pt-[50rem] sm:hidden;
 }
 .premium__inner_image {
     @apply w-full h-[752rem] relative z-1 overflow-hidden;

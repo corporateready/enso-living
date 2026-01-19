@@ -1,21 +1,42 @@
 import React from "react";
 import Image from "next/image";
 import styles from "./styles.module.scss";
+import { motion } from "motion/react";
 
 const Index = () => {
   return (
     <div className={styles.premium}>
       <div className={styles.premium__inner_image}>
         <div className={styles.premium__inner_content}>
-          <p className={styles.title}>Despre dezvoltator imobiliar </p>
-          <p className={styles.description}>
+          <motion.p
+            initial={{ opacity: 0, y: 50 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true, margin: "-50px" }}
+            transition={{ duration: 0.5, ease: "easeOut" }}
+            className={styles.title}
+          >
+            Despre dezvoltator imobiliar{" "}
+          </motion.p>
+          <motion.p
+            initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            viewport={{ once: true, margin: "-50px" }}
+            transition={{ duration: 0.5, ease: "easeOut" }}
+            className={styles.description}
+          >
             ENSŌ Development — dezvoltator imobiliar integrat
             <br />
             vertical, cu prezență în Moldova și România,
             <br />
             lider în vânzări imobiliare în 2024 în Republica Moldova.
-          </p>
-          <p className={styles.description}>
+          </motion.p>
+          <motion.p
+            initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            viewport={{ once: true, margin: "-50px" }}
+            transition={{ duration: 0.5, delay: 0.1, ease: "easeOut" }}
+            className={styles.description}
+          >
             Fondat în 1999, deține un portofoliu de peste
             <br />
             500 000 m² livrați și 13 proiecte finalizate,
@@ -25,8 +46,13 @@ const Index = () => {
             pentru a asigura standarde premium
             <br />
             și valoare durabilă.
-          </p>
-          <div className={styles.inner__logo}>
+          </motion.p>
+          <motion.div
+          initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            viewport={{ once: true, margin: "-50px" }}
+            transition={{ duration: 0.5, ease: "easeOut" }}
+          className={styles.inner__logo}>
             <svg
               className="w-full h-full"
               viewBox="0 0 171 221"
@@ -110,17 +136,29 @@ const Index = () => {
                 fill="white"
               />
             </svg>
-          </div>
-          <p className={styles.bottom__text_title}>
+          </motion.div>
+          <motion.p
+            initial={{ opacity: 0, y: 50 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true, margin: "-50px" }}
+            transition={{ duration: 0.5, ease: "easeOut" }}
+            className={styles.bottom__text_title}
+          >
             Landscape design{""}
             <br />
             by ACLA Architecture Studio
-          </p>
-          <p className={styles.bottom__text_subtitle}>
+          </motion.p>
+          <motion.p
+            initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            viewport={{ once: true, margin: "-50px" }}
+            transition={{ duration: 0.5, ease: "easeOut" }}
+            className={styles.bottom__text_subtitle}
+          >
             Un cadru natural deosebit
             <br />
             pentru un stil de viață select
-          </p>
+          </motion.p>
         </div>
         <Image
           src={"/developer-mobile-bg.avif"}

@@ -29,23 +29,31 @@ background: linear-gradient(180deg,rgba(128, 99, 99, 1) 0%, rgba(78, 78, 100, 1)
     @apply flex flex-col mt-[17rem];
 }
 .rightside__image {
-    @apply w-[334rem] h-[334rem] relative top-0 left-[16rem] -translate-0 z-1 mt-[172rem] mx-auto;
+    @apply w-[226rem] h-[240rem] relative top-0 left-0 translate-0 z-2 mt-800 mx-auto;
 }
 // <===== items =====>
 .inner__list_item__up {
-    @apply flex items-center gap-[534rem] w-full h-[130rem] border-b-[2px] border-[#5A4C45] pt-[45rem] pb-[8rem] overflow-y-hidden;
+    @apply flex items-center justify-start gap-[534rem] w-full h-[132rem] border-b-[2px] border-[#5A4C45] pb-[10rem] pr-[62rem] overflow-y-hidden;
+
+    .item__text {
+    @apply text-[26rem] text-white leading-[118%] mt-[50rem];
+}
+}
+.inner__list_item__medium {
+    @apply flex items-center justify-start gap-[370rem] w-full h-[128rem] border-b-[2px] border-[#5A4C45] pl-[190rem] overflow-y-hidden;
 
     .item__text {
     @apply text-[26rem] text-white leading-[118%] mt-[15rem];
 }
 }
 .inner__list_item__down {
-    @apply flex items-center gap-[366rem] w-full h-[130rem] border-b-[2px] border-[#5A4C45] pt-[45rem] pb-[8rem] pl-[190rem] overflow-y-hidden;
+    @apply flex items-center justify-end gap-[206rem] w-full h-[128rem] border-b-[2px] border-[#5A4C45] pr-[72rem] overflow-y-hidden;
 
     .item__text {
-    @apply text-[26rem] text-white leading-[116%] mt-[-20rem];
+    @apply text-[26rem] text-white leading-[118%] mt-[15rem];
 }
+
 }
 .item__number {
-    @apply text-[160rem] text-white leading-[100%];
+    @apply text-[160rem] text-white leading-[100%] mt-[34rem];
 }

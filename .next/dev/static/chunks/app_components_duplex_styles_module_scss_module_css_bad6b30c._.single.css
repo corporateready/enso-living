@@ -15,23 +15,18 @@
 }
 
 .styles-module-scss-module__XZsK5q__premium__header_inner {
-  padding-inline: 8rem;
+  padding-inline: 24rem;
   justify-content: flex-start;
-  gap: 19rem;
+  gap: 14rem;
   padding-top: 124rem;
   display: flex;
 }
 
 .styles-module-scss-module__XZsK5q__premium__title_image {
-  top: 4rem;
-  left: calc(var(--spacing, .25rem) * 0);
-  z-index: 1;
-  --tw-translate-x: calc(var(--spacing, .25rem) * 0);
-  --tw-translate-y: calc(var(--spacing, .25rem) * 0);
-  width: 106rem;
-  height: 108rem;
-  translate: var(--tw-translate-x) var(--tw-translate-y);
-  display: inline-block;
+  z-index: 0;
+  width: 80rem;
+  height: 90rem;
+  margin-top: 10rem;
   position: relative;
 }
 
@@ -90,24 +85,6 @@
 
 .styles-module-scss-module__XZsK5q__hero__btn .styles-module-scss-module__XZsK5q__span__text {
   text-align: end;
-}
-
-@property --tw-translate-x {
-  syntax: "*";
-  inherits: false;
-  initial-value: 0;
-}
-
-@property --tw-translate-y {
-  syntax: "*";
-  inherits: false;
-  initial-value: 0;
-}
-
-@property --tw-translate-z {
-  syntax: "*";
-  inherits: false;
-  initial-value: 0;
 }
 
 @property --tw-leading {
